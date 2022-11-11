@@ -1,0 +1,222 @@
+---
+permalink: performance-checker/performance-view-all.html 
+sidebar: sidebar 
+keywords: performance view 
+summary: Performance-Ansicht aller Storage-Objekte 
+---
+= Anzeigen der Seiten zum Performance-Inventar für alle Storage-Objekte
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Mithilfe der Seiten zum Performance-Inventar werden Performance-Informationen über jede der verfügbaren Storage-Objekte wie Cluster, Aggregate, Volumes usw. angezeigt. Sie können mit den Detailseiten für Performance-Objekte verbunden werden, um detaillierte Informationen für ein bestimmtes Objekt anzuzeigen.
+
+Standardmäßig werden Objekte auf den Ansichtsseiten nach Wichtigkeit des Ereignisses sortiert. Objekte mit kritischen Ereignissen werden zuerst aufgeführt und Objekte mit Warnmeldungen werden als zweites aufgeführt. Dies bietet eine unmittelbare visuelle Darstellung von Problemen, die behoben werden müssen.
+
+Sie können Daten von diesen Seiten in kommagetrennte Werte exportieren (`.csv`) Datei, Microsoft Excel-Datei (`.xlsx`), oder (`.pdf`Mit der Schaltfläche *Berichte* dokumentieren Sie das Dokument, und verwenden Sie dann die exportierten Daten, um Berichte zu erstellen. Darüber hinaus können Sie die Seite anpassen und einen Bericht über die Schaltfläche *geplante Berichte* regelmäßig erstellen und per E-Mail senden.
+
+Alle Felder auf diesen Seiten können in benutzerdefinierten Ansichten und in Berichten verwendet werden. Einige Felder sind mit verwandten Seiten verknüpft, wodurch eine detailliertere Ansicht möglich ist.
+
+
+
+== Performance: Ansicht aller Cluster
+
+Die Ansicht „Performance: Alle Cluster“ zeigt für jeden Cluster einen Überblick über die Performance-Ereignisse, Daten und Konfigurationsinformationen, die durch eine Instanz von Unified Manager überwacht werden. Auf dieser Seite können Sie die Performance des Clusters überwachen sowie Performance-Probleme und Schwellenwertereignisse beheben.
+
+Über die Schaltflächen *Performance Threshold Policy* und *Clear Performance Threshold Policy* können Sie Schwellenwertrichtlinien auf den Objektbestandsseiten zuweisen oder löschen.
+
+In der Ansicht „Performance: All Clusters“ sind einige wichtige Felder aufgeführt.
+
+* Cluster-FQDN: Der vollständig qualifizierte Domain-Name (FQDN) des Clusters.
+* IOPS: Die ein-/Ausgabevorgänge pro Sekunde auf dem Cluster.
+* MB/s: Der Durchsatz auf dem Cluster, gemessen in MiB pro Sekunde.
+* Kapazitätsfelder: Freie und Gesamtkapazität in gib.
+* Host-Name oder IP-Adresse: Der Host-Name oder die IP-Adresse (IPv4 oder IPv6) der Cluster-Management-LIF.
+* Betriebssystemversion: Die Version der ONTAP Software, die auf dem Cluster installiert ist.
++
+
+NOTE: Wenn unterschiedliche Versionen der ONTAP Software auf den Nodes im Cluster installiert werden, wird die niedrigste Versionsnummer aufgeführt. Sie können die auf jedem Node installierte ONTAP-Version in der Ansicht Leistung: Alle Nodes anzeigen.
+
+* Schwellenwertrichtlinie: Benutzerdefinierte Performance-Schwellenwertrichtlinie oder aktive Richtlinien für dieses Storage-Objekt. Sie können den Cursor über Richtliniennamen mit Ellipsen (...) positionieren, um den vollständigen Richtliniennamen oder die Liste der zugewiesenen Richtliniennamen anzuzeigen. Die Schaltflächen „Richtlinie für Leistungsschwellenwert zuweisen“ und „Richtlinie für Leistungsschwellenwert löschen“ bleiben deaktiviert, bis Sie ein oder mehrere Objekte auswählen, indem Sie auf die Kontrollkästchen ganz links klicken.
+
+
+
+
+== Performance: Ansicht aller Volumes
+
+Die Ansicht „Performance: Alle Volumes“ zeigt eine Übersicht über die Performance-Ereignisse, Zählerdaten und Konfigurationsinformationen für jedes FlexVol Volume und jedes FlexGroup Volume, die durch eine Instanz von Unified Manager überwacht werden. So können Sie die Performance Ihrer Volumes schnell überwachen und Performance-Probleme sowie Schwellenwertereignisse beheben.
+
+Wenn Sie die Latenz und den Durchsatz eines bestimmten Objekts analysieren möchten, klicken Sie auf die Schaltfläche weitere Optionen image:icon_kabob.gif[""] Dann * Workload analysieren* und Sie können Performance- und Kapazitätsdiagramme auf der Seite Workload Analysis anzeigen. Sie können die Details im System Manager anzeigen, vorausgesetzt, Sie haben gültige Anmeldedaten für System Manager.
+
+
+NOTE: Für Datensicherungs-Volumes (DP) werden nur Zählerwerte für den benutzergenerierten Datenverkehr angezeigt. Root-Volumes werden auf dieser Seite nicht angezeigt.
+
+Im Folgenden sind einige wichtige Felder in der Ansicht „Performance: Alle Volumes“ aufgeführt.
+
+* Stil: Entweder FlexVol oder FlexGroup.
+* Latenz: Bei FlexVol Volumes ist dies die durchschnittliche Antwortzeit des Volume für alle I/O-Anfragen, die in Millisekunden pro Vorgang ausgedrückt wird. Bei FlexGroup Volumes ist dies die durchschnittliche Latenz aller zusammengehörigen Volumes.
+* IOPS/TB: Die Anzahl der pro Sekunde verarbeiteten Input/Output-Vorgänge, basierend auf dem gesamten Speicherplatz, der vom Workload in Terabyte verbraucht wird. Dieser Zähler ermittelt, wie viel Performance über eine bestimmte Storage-Kapazität bereitgestellt werden kann.
+* IOPS: Für FlexVol Volumes ist dies die Anzahl der ein-/Ausgabe-Vorgänge pro Sekunde für das Volume. Bei FlexGroup Volumes ist dies die Summe der IOPS für alle zusammengehörigen Volumes.
+* MB/s: Für FlexVol-Volumes ist dies der Durchsatz auf dem Volume, der in Megabyte pro Sekunde gemessen wird. Bei FlexGroup Volumes entspricht dies der Summe von MB/s für alle zusammengehörigen Volumes.
+* Kapazitätsfelder: Freie und Gesamtkapazität in gib.
+
+
+Weitere Informationen finden Sie unter den folgenden Links:
+
+* link:../performance-checker/task_assign_performance_threshold_policies_to_storage_objects.html["Zuweisen von Richtlinien zu Performance-Schwellenwerten zu Storage-Objekten"]
+* link:../performance-checker/task_remove_performance_threshold_policies_from_storage_objects.html["Entfernen von Richtlinien für Performance-Schwellenwerte aus Storage-Objekten"]
+* link:../performance-checker/concept_types_of_workloads_monitored_by_unified_manager.html["Arten von Workloads, die von Unified Manager überwacht werden"]
+* link:../performance-checker/task_view_qos_policy_group_settings_for_volumes_or_luns.html["Anzeigen der QoS-Richtliniengruppeneinstellungen, die auf bestimmte Volumes oder LUNs angewendet wurden"]
+* link:../performance-checker/concept_understand_um_recommendations_to_tier_data_to_cloud.html["Analyse der Empfehlungen von Unified Manager für das Tiering von Daten in die Cloud"]
+* link:../performance-checker/task_view_performance_charts_to_compare_volumes_or_luns_in_qos_policy.html["Anzeigen von Performance-Diagrammen zum Vergleich von Volumes oder LUNs in derselben QoS-Richtliniengruppe"]
+
+
+
+
+== Performance: Ansicht aller Aggregate
+
+Die Ansicht „Performance: Alle Aggregate“ zeigt für jedes Aggregat eine Übersicht über die Performance-Ereignisse, Daten und Konfigurationsinformationen, die durch eine Instanz von Unified Manager überwacht werden. Auf dieser Seite können Sie die Performance Ihrer Aggregate überwachen und Fehler bei Performance-Problemen und Schwellenwerten beheben.
+
+Die folgenden wichtigen Bereiche der Performance: Ansicht aller Aggregate.
+
+* Typ: Der Typ des Aggregats:
++
+** HDD
+** Hybrid: Kombiniert HDDs und SSDs, aber Flash Pool wurde nicht aktiviert.
+** Hybrid (Flash Pool): Kombiniert HDDs und SSDs und ermöglicht die Aktivierung von Flash Pool.
+** SSD
+** SSD (FabricPool): Kombiniert SSDs mit einer Cloud-Tier
+** Festplatte (FabricPool): Kombiniert HDDs und ein Cloud-Tier
+** VMDisk (SDS): Virtuelle Laufwerke innerhalb einer virtuellen Maschine
+** VMDisk (FabricPool): Kombiniert virtuelle Festplatten mit einer Cloud-Tier
+** LUN (FlexArray)
+
+
+* Inaktive Datenberichterstellung: Gibt an, ob die Funktion zur Berichterstellung inaktiver Daten auf diesem Aggregat aktiviert oder deaktiviert ist. Wenn die Funktion aktiviert ist, zeigen Volumes auf diesem Aggregat im Bild „Performance: Alle Volumes“ den Umfang der „kalten“ Daten an. Der Wert in diesem Feld lautet „N/A“, wenn die Version von ONTAP keine inaktive Datenberichterstattung unterstützt.
+* Schwellenwertrichtlinie: Benutzerdefinierte Performance-Schwellenwertrichtlinie oder aktive Richtlinien für dieses Storage-Objekt. Sie können den Cursor über Richtliniennamen mit Ellipsen (...) positionieren, um den vollständigen Richtliniennamen oder die Liste der zugewiesenen Richtliniennamen anzuzeigen. Die Schaltflächen „Richtlinie für Leistungsschwellenwert zuweisen“ und „Richtlinie für Leistungsschwellenwert löschen“ bleiben deaktiviert, bis Sie ein oder mehrere Objekte auswählen, indem Sie auf die Kontrollkästchen ganz links klicken. Weitere Informationen finden Sie unter den folgenden Links:
+* link:../performance-checker/task_assign_performance_threshold_policies_to_storage_objects.html["Zuweisen von Richtlinien zu Performance-Schwellenwerten zu Storage-Objekten"]
+* link:../performance-checker/task_remove_performance_threshold_policies_from_storage_objects.html["Entfernen von Richtlinien für Performance-Schwellenwerte aus Storage-Objekten"]
+
+
+
+
+== Performance: Alle Nodes anzeigen
+
+Die Ansicht Performance: Alle Nodes zeigt für jeden Node, der von einer Instanz von Unified Manager überwacht wird, eine Übersicht über die Performance-Ereignisse, Daten und Konfigurationsinformationen an. So können Sie die Performance Ihrer Nodes schnell überwachen und Performance-Probleme und Schwellwerte beheben.
+
+
+NOTE: Flash Cache Lesevorgänge liefert den Prozentsatz von Leseoperationen auf dem Node, die mit dem Cache zufrieden sind, anstatt von der Festplatte zurückgegeben zu werden. Flash Cache-Daten werden nur für Nodes und nur angezeigt, wenn ein Flash Cache Modul im Node installiert ist.
+
+Im Menü *Berichte* wird die Option *Hardware Inventory Report* zur Verfügung gestellt, wenn Unified Manager und die Cluster, die es verwaltet, an einem Standort ohne externe Netzwerkverbindung installiert sind. Über diese Schaltfläche wird eine .csv-Datei generiert, die eine vollständige Liste von Cluster- und Node-Informationen enthält, z. B. Angaben zu Hardwaremodellen, Seriennummern, Festplattentypen und Anzahl sowie installierte Lizenzen. Diese Berichtsfunktion ist hilfreich zur Vertragsverlängerung innerhalb sicherer Standorte, die nicht mit der NetApp Active IQ Plattform verbunden sind. Über die Schaltflächen *Performance Threshold Policy* und *Clear Performance Threshold Policy* können Sie Schwellenwertrichtlinien auf den Objektbestandsseiten zuweisen oder löschen.
+
+Weitere Informationen finden Sie unter den folgenden Links:
+
+* link:../performance-checker/task_assign_performance_threshold_policies_to_storage_objects.html["Zuweisen von Richtlinien zu Performance-Schwellenwerten zu Storage-Objekten"]
+* link:../performance-checker/task_remove_performance_threshold_policies_from_storage_objects.html["Entfernen von Richtlinien für Performance-Schwellenwerte aus Storage-Objekten"]
+* link:../health-checker/task_generate_hardware_inventory_report_for_contract_renewal.html["Erstellen eines Hardware-Bestandsberichts zur Vertragsverlängerung"]
+
+
+
+
+== Performance: Ansicht aller Storage VMs
+
+Die Ansicht „Performance: Alle Storage VMs“ gibt einen Überblick über die Performance-Ereignisse, Daten und Konfigurationsinformationen für jede Storage Virtual Machine (SVM), die durch eine Instanz von Unified Manager überwacht wird. So können Sie die Performance Ihrer SVMs schnell überwachen und Performance-Probleme sowie Schwellwerte beheben. Das Latenzfeld auf dieser Seite meldet die durchschnittliche Antwortzeit für alle I/O-Anfragen, die in Millisekunden pro Vorgang ausgedrückt wird.
+
+
+NOTE: Die SVMs, die auf dieser Seite aufgeführt werden, umfassen nur Data and Cluster SVMs. Unified Manager verwendet bzw. zeigt keine Admin- oder Node-SVMs an.
+
+Weitere Informationen finden Sie unter den folgenden Links:
+
+* link:../performance-checker/task_assign_performance_threshold_policies_to_storage_objects.html["Zuweisen von Richtlinien zu Performance-Schwellenwerten zu Storage-Objekten"]
+* link:../performance-checker/task_remove_performance_threshold_policies_from_storage_objects.html["Entfernen von Richtlinien für Performance-Schwellenwerte aus Storage-Objekten"]
+
+
+
+
+== Performance: Ansicht aller LUNs
+
+Die Ansicht „Performance: Alle LUNs“ zeigt eine Übersicht über die Performance-Ereignisse, Daten und Konfigurationsinformationen für jede LUN an, die durch eine Instanz von Unified Manager überwacht wird. So können Sie die Performance Ihrer LUNs schnell überwachen und Performance-Probleme sowie Schwellenwertereignisse beheben.
+
+Wenn Sie die Latenz und den Durchsatz eines bestimmten Objekts analysieren möchten, klicken Sie auf das Symbol weiter image:icon_kabob.gif[""], Dann *Workload analysieren* und Sie können Performance- und Kapazitätsdiagramme auf der Seite *Workload Analysis* anzeigen.
+
+Weitere Informationen finden Sie unter den folgenden Links:
+
+* link:../data-protection/view-lun-relationships.html["Überwachung von LUNs in einer Konsistenzgruppe"]
+* link:../storage-mgmt/task_provision_luns.html["Bereitstellung von LUNs"]
+* link:../performance-checker/task_assign_performance_threshold_policies_to_storage_objects.html["Zuweisen von Richtlinien zu Performance-Schwellenwerten zu Storage-Objekten"]
+* link:../performance-checker/task_remove_performance_threshold_policies_from_storage_objects.html["Entfernen von Richtlinien für Performance-Schwellenwerte aus Storage-Objekten"]
+* link:../performance-checker/task_view_volumes_or_luns_in_same_qos_policy_group.html["Anzeigen von Volumes oder LUNs in derselben QoS-Richtliniengruppe"].
+* link:../performance-checker/task_view_qos_policy_group_settings_for_volumes_or_luns.html["Anzeigen der QoS-Richtliniengruppeneinstellungen, die auf bestimmte Volumes oder LUNs angewendet wurden"]
+* link:../api-automation/concept_provision_luns.html["Bereitstellung von LUNs mithilfe von APIs"]
+
+
+
+
+== Performance: Alle NVMe Namesaces Ansicht
+
+Die Ansicht „Performance: Alle NVMe Namesaces“ gibt einen Überblick über die Performance-Ereignisse, Daten und Konfigurationsinformationen für jeden NVMe Namespace, der von einer Instanz von Unified Manager überwacht wird. So können Sie die Performance und den Zustand Ihrer Namespaces schnell überwachen und Probleme sowie Schwellenwertereignisse beheben.
+
+Folgende Informationen werden unter anderem berichtet: Der aktuelle Status des Namespaces. * Offline - Lese- oder Schreibzugriff auf den Namespace ist nicht zulässig. * Online - Lese- und Schreibzugriff auf den Namespace ist erlaubt. * NV-Fehler - der Namespace wurde automatisch aufgrund eines NVRAM-Fehlers in den Offline-Modus versetzt. * Speicherfehler - der Namespace hat nicht mehr genügend Speicherplatz.
+
+Weitere Informationen finden Sie unter den folgenden Links:
+
+* link:../performance-checker/task_assign_performance_threshold_policies_to_storage_objects.html["Zuweisen von Richtlinien zu Performance-Schwellenwerten zu Storage-Objekten"]
+* link:../performance-checker/task_remove_performance_threshold_policies_from_storage_objects.html["Entfernen von Richtlinien für Performance-Schwellenwerte aus Storage-Objekten"]
+
+
+
+
+== Performance: Ansicht aller Netzwerkschnittstellen
+
+Die Ansicht Performance: Alle Netzwerkschnittstellen zeigt eine Übersicht über die Performance-Ereignisse, Daten und Konfigurationsinformationen für jede Netzwerkschnittstelle (LIF) an, die von dieser Instanz von Unified Manager überwacht wird. Auf dieser Seite können Sie die Leistung Ihrer Schnittstellen schnell überwachen und Leistungsprobleme und Schwellenwertereignisse beheben. Im Folgenden sind einige wichtige Felder in der Ansicht Leistung: Alle Netzwerkschnittstellen aufgeführt.
+
+* IOPS: Die ein-/Ausgabevorgänge pro Sekunde. IOPS gelten nicht für NFS LIFs und CIFS LIFs und wird für diese Typen als „k. A.“ angezeigt.
+* Latenz: Die durchschnittliche Reaktionszeit aller I/O-Anfragen in Millisekunden pro Vorgang. Die Latenz gilt nicht für NFS LIFs und CIFS LIFs und wird für diese Typen als K. A. angezeigt.
+* Home Standort: Der Home-Standort für die Schnittstelle, angezeigt als Knotenname und Portname, durch einen Doppelpunkt getrennt (:). Wenn die Position mit Ellipsen (...) angezeigt wird, können Sie den Cursor über den Ortsnamen positionieren, um die vollständige Position anzuzeigen.
+* Aktueller Speicherort: Der aktuelle Speicherort der Schnittstelle, angezeigt als Knotenname und Portname, durch einen Doppelpunkt getrennt (:). Wenn die Position mit Ellipsen (...) angezeigt wird, können Sie den Cursor über den Ortsnamen positionieren, um die vollständige Position anzuzeigen.
+* Rolle: Die Schnittstellenrolle: Daten, Cluster, Knoten-Management oder Intercluster.
+
+
+
+NOTE: Die auf dieser Seite aufgeführten Schnittstellen umfassen Daten-LIFs, Cluster-LIFs, Node-Management-LIFs und Intercluster-LIFs. Unified Manager verwendet keine System-LIFs oder zeigt diese an.
+
+
+
+== Performance: Alle Ports anzeigen
+
+Die Ansicht „Performance: Alle Ports“ zeigt für jeden Port, der von einer Instanz von Unified Manager überwacht wird, eine Übersicht über die Performance-Ereignisse, Daten und Konfigurationsinformationen an. So können Sie die Performance Ihrer Ports schnell überwachen und Performance-Probleme sowie Schwellenwertereignisse beheben. Für eine Port-Rolle wird die Netzwerk-Port-Funktion angezeigt, entweder Daten oder Cluster. FCP-Ports können keine Rolle enthalten, und die Rolle wird als „N/A“ angezeigt
+
+
+NOTE: Die Werte des Performance-Zähler werden nur für physische Ports angezeigt. Zählerwerte werden nicht für VLANs oder Interface Groups angezeigt.
+
+Weitere Informationen finden Sie unter den folgenden Links:
+
+* link:../performance-checker/task_assign_performance_threshold_policies_to_storage_objects.html["Zuweisen von Richtlinien zu Performance-Schwellenwerten zu Storage-Objekten"]
+* link:../performance-checker/task_remove_performance_threshold_policies_from_storage_objects.html["Entfernen von Richtlinien für Performance-Schwellenwerte aus Storage-Objekten"]
+
+
+
+
+== Performance: Ansicht QoS-Richtliniengruppen
+
+In der Ansicht QoS Policy Groups werden die QoS-Richtliniengruppen angezeigt, die auf den Clustern verfügbar sind, die von Unified Manager überwacht werden. Dazu gehören herkömmliche QoS-Richtlinien, anpassungsfähige QoS-Richtlinien und QoS-Richtlinien, die durch Performance-Service-Level zugewiesen werden.
+
+In der Ansicht „Performance: QoS Policy Groups“ sind einige wichtige Felder aufgeführt.
+
+* QoS Policy Group: Der Name der QoS Policy Group. Bei NSLM (NetApp Service Level Manager) 1.3-Richtlinien, die in Unified Manager 9.7 oder höher importiert wurden, enthält der hier angezeigte Name den SVM-Namen sowie andere Informationen, die nicht dem Namen enthalten, als der Performance-Service-Levelin NSLM definiert wurde. Der Name „NSLM_vs6_Performance_2_0“ bedeutet beispielsweise, dass dies die vom NSLM-System definierte „Performance“ PSL-Richtlinie ist, die auf SVM „vs6“ erstellt wurde und eine erwartete Latenz von „2 ms/op“ hat.
+* SVM: Die Storage-VM (SVM), der die QoS-Richtliniengruppe angehört. Sie können auf den Namen der Storage-VM klicken, um zur Detailseite der Storage-VM zu gelangen. Beachten Sie, dass dieses Feld leer ist, wenn die QoS-Richtlinie auf der Admin Storage-VM erstellt wurde, da dieser Storage-VM-Typ für das Cluster steht.
+* Min. Durchsatz: Der Mindestdurchsatz in IOPS, den die Richtliniengruppe garantiert. Für anpassungsfähige Richtlinien stellt dies die erwartete Mindestzahl an IOPS pro TB dar, die dem Volume oder der LUN zugewiesen ist. Grundlage dafür ist die zugewiesene Storage-Objektgröße.
+* Max. Durchsatz: Der Durchsatz in IOPS und/oder MB/s, den die Richtliniengruppe nicht überschreiten darf. Wenn dieses Feld leer ist, bedeutet dies, dass die in ONTAP definierte maximale Anzahl unbegrenzt ist. Bei anpassungsfähigen Richtlinien stellt dies die maximal (maximal) IOPS pro TB dar, die dem Volume oder der LUN zugewiesen werden können. Die Grundlage dafür ist die zugewiesene Storage-Objektgröße oder die verwendete Storage-Objektgröße.
+* Absolutes IOPS-Minimum: Bei anpassungsfähigen Richtlinien ist dies der absolute IOPS-Mindestwert, der als Überschreiben verwendet wird, wenn die erwarteten IOPS kleiner als dieser Wert ist.
+* Blockgröße: Die Blockgröße, die für die adaptive QoS-Richtlinie angegeben ist.
+* Min Zuweisung: Wird der maximale Durchsatz (Spitzenwert) der IOPS verwendet, unabhängig davon, ob der „zugewiesene Speicherplatz“ oder der „genutzte Speicherplatz“ verwendet werden.
+* Erwartete Latenz: Die erwartete durchschnittliche Latenz für Storage-Input/Output-Vorgänge
+* Shared: Bei herkömmlichen QoS-Richtlinien wird festgelegt, ob die in der Richtliniengruppe definierten Durchsatzwerte von mehreren Objekten gemeinsam genutzt werden.
+* Zugeordnete Objekte: Die Anzahl der Workloads, die der QoS-Richtliniengruppe zugewiesen sind. Sie können auf die Schaltfläche erweitern ( ) neben dem QoS Policy Group Name klicken, um weitere Details zur Policy Group anzuzeigen.
+* Zugewiesene Kapazität: Die Menge an Speicherplatz, die die Objekte in der QoS-Richtliniengruppe derzeit verwenden.
+* Zugehörige Objekte: Anzahl der Workloads, die der QoS-Richtliniengruppe zugewiesen werden, getrennt in Volumes und LUNs. Sie können auf die Nummer klicken, um zu einer Seite zu navigieren, die weitere Details zu den ausgewählten Volumes oder LUNs enthält.
+
+
+Weitere Informationen finden Sie in den Themen unter link:..//performance-checker/concept_manage_performance_using_qos_policy_group_information.html["Management der Performance mithilfe von QoS-Richtliniengruppeninformationen"].

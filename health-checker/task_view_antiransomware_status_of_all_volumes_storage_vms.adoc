@@ -1,0 +1,45 @@
+---
+permalink: health-checker/task_view_antiransomware_status_of_all_volumes_storage_vms.html 
+sidebar: sidebar 
+keywords: view, anti-ransomware status, volumes, storage VMs, SVMs 
+summary: Eine Liste aller Volumes und Storage VMs sowie der aktuelle Status gegen Ransomware ist möglich. So können Sie bestimmen, ob die Daten auf Ihren Volumes ausreichend vor Ransomware-Angriffen geschützt sind. 
+---
+= Anzeigen des Anti-Ransomware-Status aller Volumes und Storage-VMs
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Eine Liste aller Volumes und Storage VMs (SVMs) und ihres aktuellen Status gegen Ransomware können Sie feststellen, ob die Daten auf Ihren Volumes und SVMs ausreichend vor Ransomware-Angriffen geschützt sind.
+
+*Was Sie brauchen*
+
+Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
+
+Weitere Informationen zu den verschiedenen Status gegen Ransomware finden Sie unter link:https://docs.netapp.com/us-en/ontap/anti-ransomware/enable-task.html#system-manager-procedure["ONTAP: Anti-Ransomware"].
+
+
+
+== Anzeigen der Sicherheitsinformationen aller Volumes mit Ransomware-Erkennung
+
+.Schritte
+. Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.
+. Wählen Sie im Menü Ansicht die Option *Gesundheit* > *Sicherheit* > *Anti-Ransomware*
+. In der *Sicherheit: Anti-Ransomware* Ansicht können Sie nach den verschiedenen Feldern sortieren oder den Filter verwenden.
+
+
+
+NOTE: Anti-Ransomware wird nicht für Offline Volumes, eingeschränkte Volumes, SnapLock Volumes, FlexGroup Volumes, FlexCache Volumes und SAN-only Volumes, Volumes von angestoppten Storage-VMs, Root-Volumes von Storage-VMs oder Datensicherungs-Volumes
+
+
+
+== Anzeigen der Sicherheitsinformationen aller Storage-VMs mit Ransomware-Erkennung
+
+.Schritte
+. Klicken Sie im linken Navigationsbereich auf *Storage > Storage VMs*.
+. Wählen Sie *Ansicht > Sicherheit > Anti-Ransomware*. Eine Liste der SVMs mit dem Ransomware-Status wird angezeigt.
+
+
+
+NOTE: Das Ransomware-Monitoring wird auf Storage-VMs, die kein NAS-Protokoll besitzen, nicht unterstützt.

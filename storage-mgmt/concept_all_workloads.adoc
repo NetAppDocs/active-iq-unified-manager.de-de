@@ -1,0 +1,76 @@
+---
+permalink: storage-mgmt/concept_all_workloads.html 
+sidebar: sidebar 
+keywords: view, workloads, add, provision, storage, filter, analyze, performance, capacity, criteria 
+summary: In der Ansicht Alle Workloads wird eine Liste aller Workloads angezeigt, die auf den Clustern in einem Datacenter verfügbar sind. 
+---
+= Anzeigen von Workloads
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Wenn Sie Unified Manager Cluster hinzufügen, werden die Storage-Workloads jedes Clusters automatisch erkannt und auf der Seite Workloads angezeigt.
+
+Unified Manager beginnt mit der Analyse der Workloads auf Empfehlung (Empfohlene PSLs) erst, nachdem I/O-Vorgänge für die Storage-Workloads gestartet wurden.
+
+FlexGroup Volumes und zugehörige Komponenten sind nicht enthalten.
+
+
+
+== Workload-Überblick
+
+Auf der Seite „Workload Overview“ wird eine Übersicht über die Workloads im Datacenter sowie eine Übersicht über Speicherplatz und Performance im Datacenter angezeigt.
+
+* *Workloads Übersicht* Panel: Zeigt die Gesamtzahl der Workloads und die Anzahl der Workloads mit oder ohne PSLs an, die ihnen zugewiesen sind. Der Aufbruch der Workload-Anzahl für jede PSL wird ebenfalls angezeigt. Wenn Sie auf die Zählwerte klicken, gelangen Sie zur Ansicht *Alle Workloads* mit den gefilterten Workloads. Sie können auch die Anzahl der Workloads anzeigen, die der Systemempfehlung nicht entsprechen, und ihnen die vom System empfohlenen PSLs zuweisen, indem Sie auf die Schaltfläche *System-Recommended PSLs* klicken.
+* *Data Center Overview* Panel: Zeigt den verfügbaren und genutzten Speicherplatz (tib) und die Leistung (IOPS) des Rechenzentrums an. Es wird außerdem ein Aufbruch des verfügbaren und genutzten Speicherplatzes (tib) und der Performance (IOPS) aller Workloads unter den einzelnen PSL angezeigt.
+
+
+
+
+== Ansicht aller Workloads
+
+Auf der Seite *Storage > Workloads > Alle Workloads* werden die Speicher-Workloads aufgelistet, die mit den ONTAP-Clustern verbunden sind, die von Unified Manager verwaltet werden.
+
+Für die neu erkannten Storage-Workloads, für die es keine I/O-Vorgänge gab, lautet der Status „`Warten auf I/O`“. Nachdem der I/O-Betrieb auf den Storage Workloads gestartet wurde, startet Unified Manager die Analyse und ändert sich der Workload-Status in „`Learning...`“. Nach Abschluss der Analyse (innerhalb von 24 Stunden nach Beginn der I/O-Vorgänge) werden die empfohlenen PSLs für die Storage-Workloads angezeigt.
+
+Auf dieser Seite können Sie Storage Efficiency Policies (SEPs) und Performance Service Levels (PSLs) Storage Workloads zuweisen. Sie können mehrere Aufgaben ausführen:
+
+* Hinzufügen oder Bereitstellen von Storage Workloads
+* Liste der Workloads anzeigen und filtern
+* Weisen Sie Storage-Workloads PSLs zu
+* Systemempfehlungen bewerten und Workloads zuweisen
+* Weisen Sie SEPs Storage Workloads zu
+
+
+
+
+=== Hinzufügen oder Bereitstellen von Storage Workloads
+
+Sie können die Storage-Workloads zu unterstützten LUNs (unterstützt sowohl iSCSI- als auch FCP-Protokolle), NFS-Dateifreigaben und SMB-Freigaben hinzufügen oder bereitstellen.
+
+.Schritte
+. Klicken Sie Auf *Storage > Workloads > Alle Workloads > Erstellen*.
+. Workloads erstellen. Weitere Informationen finden Sie unter link:../storage-mgmt/concept_provision_and_manage_workloads.html["Bereitstellung und Management von Workloads"].
+
+
+
+
+=== Anzeigen und Filtern von Workloads
+
+Im Bildschirm Alle Workloads können Sie alle Workloads in Ihrem Datacenter anzeigen oder anhand der zugehörigen PSLs oder Namen nach bestimmten Storage Workloads suchen. Über das Filtersymbol können Sie spezifische Bedingungen für Ihre Suche eingeben. Sie können unterschiedliche Filterbedingungen suchen, z. B. nach dem Host-Cluster oder der Storage-VM. Die Option *Capacity Total* ermöglicht das Filtern nach der Gesamtkapazität der Workloads (nach MB). In diesem Fall kann jedoch die Anzahl der zurückgegebenen Workloads variieren, da die Gesamtkapazität auf Byte-Ebene verglichen wird.
+
+Für jeden Workload werden Informationen wie das Host-Cluster und die Speicher-VM zusammen mit den zugewiesenen PSL und SEP angezeigt.
+
+Auf der Seite können Sie auch die Performance-Details eines Workloads anzeigen. Sie können detaillierte Informationen über die IOPS, Kapazität und Latenz des Workloads anzeigen, indem Sie auf die Schaltfläche *Spalten auswählen / Reihenfolge* klicken und bestimmte Spalten auswählen, die angezeigt werden sollen. In der Spalte „Performance View“ werden die durchschnittlichen und Spitzen-IOPS für einen Workload angezeigt. Durch Klicken auf das Symbol für die Workload-Analyse wird die detaillierte IOPS-Analyse angezeigt.
+
+
+
+=== Analyse der Performance- und Kapazitätskriterien für einen Workload
+
+Die Schaltfläche *Analyse Workload* im Pop-up * IOPS-Analyse* führt Sie zur Seite Workload-Analyse, auf der Sie einen Zeitbereich auswählen und die Latenz-, Durchsatz- und Kapazitätstrends für den ausgewählten Workload anzeigen können. Weitere Informationen zur Workload-Analyse finden Sie unter link:..//performance-checker/concept_troubleshooting_workloads_using_workload_analyzer.html["Fehlersuche bei Workloads mithilfe der Workload Analyzer"].
+
+Sie können Leistungsinformationen über einen Workload anzeigen, um bei der Fehlerbehebung zu helfen, indem Sie auf das Balkendiagramm-Symbol in der Spalte *Performance View* klicken. Um Performance- und Kapazitätsdiagramme auf der Seite Workload Analysis anzuzeigen, um das Objekt zu analysieren, klicken Sie auf die Schaltfläche *Workload analysieren*.
+
+Weitere Informationen finden Sie unter link:../performance-checker/reference_what_data_does_workload_analyzer_display.html["Welche Daten werden vom Workload Analyzer angezeigt"].

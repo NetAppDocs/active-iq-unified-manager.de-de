@@ -1,0 +1,40 @@
+---
+permalink: install-vapp/task_download_unified_manager_ova_file.html 
+sidebar: sidebar 
+keywords: download, unified manager, installation, file 
+summary: Laden Sie die Installationsdatei für Unified Manager von der NetApp Support Site herunter, um Unified Manager als virtuelle Appliance zu implementieren. 
+---
+= Herunterladen der Installationsdatei für Unified Manager
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Laden Sie die Installationsdatei für Unified Manager von der NetApp Support Site herunter, um Unified Manager als virtuelle Appliance zu implementieren.
+
+*Was Sie brauchen*
+
+Sie sollten die Anmeldedaten für die NetApp Support-Website besitzen.
+
+Die Installationsdatei ist eine `.tar` Datei, die ein Stammzertifikat enthält, a `README` Datei und an `OVA` Datei mit der für eine virtuelle Appliance konfigurierten Unified Manager Software.
+
+.Schritte
+. Loggen Sie sich auf der NetApp Support Site ein und navigieren Sie zur Download-Seite für Unified Manager:
++
+https://mysupport.netapp.com/site/products/all/details/activeiq-unified-manager/downloads-tab["NetApp Support Website"]
+
+. Wählen Sie die erforderliche Version von Unified Manager aus, und akzeptieren Sie die Endbenutzer-Lizenzvereinbarung (Endbenutzer License Agreement, EULA).
+. Laden Sie herunter, und speichern Sie die `.tar` Installieren Sie die Datei für VMware vSphere in einem lokalen Verzeichnis oder Netzwerkverzeichnis, auf das Ihr vSphere-Client zugreifen kann.
+. Überprüfen Sie die Prüfsumme, um sicherzustellen, dass die Software ordnungsgemäß heruntergeladen wurde.
+. Navigieren Sie zum Verzeichnis, in dem Sie das heruntergeladen haben `.tar` Geben Sie den folgenden Befehl in Ihr Terminal-Fenster ein, um das Unified Manager-Paket zu erweitern:
++
+[listing]
+----
+tar -xvzf ActiveIQUnifiedManager-<version>.tar.gz
+----
++
+Erforderlich `OVA` Datei, ein Stammzertifikat und ein `README` Die Datei für Unified Manager wird in das Zielverzeichnis entpackt.
+
+. Überprüfen Sie die Integrität des `OVA` Führen Sie die Schritte aus, die im aufgeführt sind `README` Datei:
+

@@ -1,0 +1,102 @@
+---
+permalink: data-protection/reference_protection_storage_virtual_machine_associations_page.html 
+sidebar: sidebar 
+keywords: svm, association, page 
+summary: Auf der Seite Storage VM Association können Sie vorhandene Speicher-VM-Zuordnungen zwischen Quell- und Ziel-Speicher-VMs anzeigen. 
+---
+= Allgemeines zu Storage VM-Zuordnungen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Zuordnungen von Storage Virtual Machines (Storage VM) sind Zuordnungen von einer Quell-Storage-VM zu einer Ziel-Storage-VM, die von den Partnerapplikationen zur Ressourcenauswahl und Bereitstellung von sekundären Volumes verwendet werden.
+
+Zwischen einer Quell-Storage-VM und einer Ziel-Storage-VM werden Zuordnungen erstellt, unabhängig davon, ob die Ziel-Storage-VM ein sekundäres Ziel oder ein tertiäres Ziel ist. Sie können keine sekundäre Ziel-Storage-VM als Quelle verwenden, um eine Zuordnung zu einer tertiären Ziel-Speicher-VM zu erstellen.
+
+Als Anwendungsadministrator oder Speicheradministrator können Sie die Speicher-VM-Zuordnungen in Ihrer Umgebung auf der Seite *Sicherung* > *Storage-VM-Verknüpfungen* anzeigen.
+
+SVMs können auf drei Arten zugeordnet werden:
+
+* *Zuweisen einer Storage-VM*: Sie können eine Verknüpfung zwischen einer beliebigen primären Quell-Storage-VM und einer oder mehreren Ziel-SVMs erstellen. Das bedeutet, dass alle bestehenden SVMs, die derzeit Schutz benötigen, sowie alle zukünftig erstellten SVMs mit den angegebenen Ziel-SVMs verknüpft sind. Beispielsweise könnte es sinnvoll sein, dass Applikationen aus verschiedenen Quellen an verschiedenen Standorten auf einer oder mehreren Ziel-SVMs an einem Standort gesichert werden.
+* *Zuweisen einer bestimmten Storage-VM*: Sie können eine Verknüpfung zwischen einer bestimmten Quell-Storage-VM und einer oder mehreren spezifischen Ziel-SVMs erstellen. Wenn Sie beispielsweise vielen Clients Storage-Services bereitstellen, deren Daten voneinander getrennt sein müssen, können Sie diese Option auswählen, um eine bestimmte Quell-Storage-VM einer bestimmten Ziel-Storage-VM zu zuordnen, die nur diesem Client zugewiesen ist.
+* *Verknüpfung mit einer externen Speicher-VM*: Sie können eine Verknüpfung zwischen einer Quell-Speicher-VM und einem externen flexiblen Volume einer Ziel-Speicher-VM erstellen.
+
+
+
+
+== Erstellen von Storage-VM-Zuordnungen
+
+Mit dem Assistenten zur Erstellung von Storage Virtual Machines können Partnersicherungsapplikationen eine Quell-Storage-VM zur Verwendung mit SnapMirror und SnapVault Beziehungen mit einer Ziel-Storage-VM verknüpfen. Partnerapplikationen verwenden diese Verknüpfungen zum Zeitpunkt der Erstbereitstellung der Ziel-Volumes, um zu ermitteln, welche Ressourcen ausgewählt werden sollen.dd
+
+*Was Sie brauchen*
+
+* Die Storage-VM, die Sie verknüpfen, muss bereits vorhanden sein.
+* Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
+
+
+Für jede Quell-Storage-VM und jeden Beziehungstyp können Sie nur eine Ziel-Storage-VM auf jedem Ziel-Cluster auswählen.
+
+Das Ändern von Zuordnungen mithilfe der Funktionen Löschen und Erstellen wirkt sich nur auf zukünftige Bereitstellungsvorgänge aus. Es verschiebt keine vorhandenen Ziel-Volumes.
+
+.Schritte
+. Klicken Sie im linken Navigationsbereich auf *Schutz* > *Storage VM Associations*.
+. Klicken Sie auf der Seite *Storage VM Associations* auf *Erstellen*.
++
+Der Assistent *Create Storage Virtual Machine Associations* wird gestartet.
+
+. Wählen Sie eine der folgenden Quellen aus:
++
+** * Any*
++
+Wählen Sie diese Option, wenn Sie eine Zuordnung zwischen einer beliebigen primären Speicher-VM-Quelle zu einer oder mehreren Ziel-Speicher-VM erstellen möchten. Das heißt, alle bestehenden Storage-VMs, die derzeit gesichert werden müssen, sowie jede zukünftig erstellte Storage-VM sind mit der angegebenen Ziel-Storage-VM verknüpft. Beispielsweise kann es sinnvoll sein, dass Applikationen aus verschiedenen Quellen an verschiedenen Standorten auf einer oder mehreren Ziel-Storage-VM an einem Standort gesichert werden.
+
+** *Single*
++
+Wählen Sie diese Option, wenn Sie eine bestimmte Quell-Storage-VM auswählen möchten, die einer oder mehreren Ziel-Storage-VM zugeordnet ist. Wenn Sie beispielsweise vielen Clients Storage-Services bereitstellen, deren Daten voneinander getrennt sein müssen, wählen Sie diese Option, um eine bestimmte Storage-VM-Quelle einem bestimmten Storage-VM-Ziel zu zuordnen, das nur diesem Client zugewiesen ist.
+
+** *Keine (Extern)*
++
+Wählen Sie diese Option, wenn Sie eine Zuordnung zwischen einer Quell-Speicher-VM und einem externen flexiblen Volume einer Ziel-Speicher-VM erstellen möchten.
+
+
+
+. Wählen Sie einen oder beide Arten von Schutzbeziehungen aus, die Sie erstellen möchten:
++
+** *SnapMirror*
+** *SnapVault*
+
+
+. Klicken Sie Auf *Weiter*.
+. Wählen Sie ein oder mehrere Storage-VM-Schutzziele aus.
+. Klicken Sie Auf *Fertig Stellen*.
+
+
+
+
+== Löschen der Storage-VM-Zuordnungen
+
+Sie können Storage-VM-Zuordnungen für Partnerapplikationen löschen, um die sekundäre Bereitstellungsbeziehung zwischen Quell- und Ziel-Storage-VM zu entfernen. So kann dies beispielsweise geschehen, wenn die Ziel-Storage-VM voll ist und Sie neue Storage-VM-Sicherungsverknüpfungen erstellen möchten.
+
+*Was Sie brauchen*
+
+Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
+
+Die Schaltfläche *Löschen* ist deaktiviert, bis mindestens eine Speicher-VM-Zuordnung ausgewählt ist. Das Ändern von Zuordnungen mithilfe der Funktionen „Löschen und Erstellen“ wirkt sich nur auf zukünftige Bereitstellungsvorgänge aus. Vorhandene Ziel-Volumes werden nicht verschoben.
+
+.Schritte
+. Klicken Sie im linken Navigationsbereich auf *Schutz* > *Storage VM Associations*.
+. Wählen Sie mindestens eine Speicher-VM-Zuordnung aus.
++
+Die Schaltfläche *Löschen* ist aktiviert.
+
+. Klicken Sie Auf *Löschen.*
++
+Ein Warndialogfeld wird angezeigt.
+
+. Klicken Sie auf *Ja*, um fortzufahren.
++
+Die ausgewählte Speicher-VM-Zuordnung wird aus der Liste entfernt.
+
+

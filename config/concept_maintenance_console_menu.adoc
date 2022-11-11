@@ -1,0 +1,36 @@
+---
+permalink: config/concept_maintenance_console_menu.html 
+sidebar: sidebar 
+keywords: maintenance, console, menus 
+summary: Die Wartungskonsole besteht aus verschiedenen Menüs, mit denen Sie spezielle Funktionen und Konfigurationseinstellungen des Unified Manager Servers pflegen und managen können. 
+---
+= Menüs für Wartungskonsolen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Die Wartungskonsole besteht aus verschiedenen Menüs, mit denen Sie spezielle Funktionen und Konfigurationseinstellungen des Unified Manager Servers pflegen und managen können.
+
+Je nach Betriebssystem, auf dem Sie Unified Manager installiert haben, besteht die Wartungskonsole aus den folgenden Menüs:
+
+* Upgrade von Unified Manager (nur VMware)
+* Netzwerkkonfiguration (nur VMware)
+* Systemkonfiguration (nur VMware)
++
+.. Support/Diagnose
+.. Serverzertifikat Zurücksetzen
+.. Externer Daten-Provider
+.. Backup Restore
+.. Konfiguration Des Leistungsintervalls
+.. Deaktivieren Sie die SAML-Authentifizierung
+.. Anwendungsports Anzeigen/Ändern
+.. Debug-Protokollkonfiguration
+.. Kontrolle des Zugriffs auf den MySQL-Port 3306
+.. Beenden
+
+
+
+
+Sie wählen die Nummer aus der Liste aus, um auf die spezifische Menüoption zuzugreifen. Zum Beispiel wählen Sie für die Sicherung und Wiederherstellung _4_.

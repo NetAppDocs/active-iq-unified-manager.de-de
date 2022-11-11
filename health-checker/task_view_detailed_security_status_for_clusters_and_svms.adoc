@@ -1,0 +1,74 @@
+---
+permalink: health-checker/task_view_detailed_security_status_for_clusters_and_svms.html 
+sidebar: sidebar 
+keywords: view, cluster security status, svm security status, volume encryption status, compliance, security hardening, encryption, anti-ransomware, certificate expiry, clusters page, storage VMs page, System Manager 
+summary: Die Sicherheitsseite zeigt den allgemeinen Sicherheitsstatus aller Cluster und Storage VMs an. Der detaillierte Cluster-Status umfasst Cluster-Compliance, SVM-Compliance und Volume-Verschlüsselung. 
+---
+= Anzeigen des Sicherheitsstatus für Cluster und Storage VMs
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Active IQ Unified Manager ermöglicht Ihnen, den Sicherheitsstatus der Storage-Objekte in Ihrer Umgebung von verschiedenen Punkten der Schnittstelle aus anzuzeigen. Sie können Informationen und Berichte auf der Basis definierter Parameter erfassen und analysieren und verdächtige Verhaltensweisen oder nicht autorisierte Systemänderungen auf den überwachten Clustern und Storage-VMs erkennen.
+
+Informationen zu den Sicherheitsempfehlungen finden Sie im http://www.netapp.com/us/media/tr-4569.pdf["NetApp Leitfaden zur verstärkte Sicherheit in ONTAP 9"]
+
+
+
+== Anzeigen des Sicherheitsstatus auf Objektebene auf der Sicherheitsseite
+
+Als Systemadministrator können Sie die Seite *Sicherheit* verwenden, um einen Überblick über die Sicherheitskraft Ihrer ONTAP Cluster und Storage VMs auf Datacenter- und Standortebene zu erhalten. Die unterstützten Objekte sind Cluster, Storage VMs und Volumes. Führen Sie hierzu folgende Schritte aus:
+
+.Schritte
+. Klicken Sie im linken Navigationsbereich auf *Dashboard*.
+. Je nachdem, ob Sie den Sicherheitsstatus für alle überwachten Cluster oder für einen einzelnen Cluster anzeigen möchten, wählen Sie *Alle Cluster* oder wählen Sie einen einzelnen Cluster aus dem Dropdown-Menü aus.
+. Klicken Sie im Fenster *Sicherheit* auf den Rechtspfeil. Die Seite Sicherheit wird angezeigt.
+
+
+Klicken Sie auf die Balkendiagramme, -Zählungen und `View Reports` Über Links gelangen Sie zur Seite Volumes, Cluster oder Storage VMs, auf der Sie die entsprechenden Details anzeigen oder Berichte erstellen können.
+
+Auf der Seite Sicherheit werden die folgenden Felder angezeigt:
+
+* *Cluster Compliance*: Der Sicherheitsstatus (Anzahl der Cluster, die konform sind oder nicht kompatibel sind) aller Cluster in einem Rechenzentrum
+* *Storage VM Compliance*: Der Sicherheitsstatus (Anzahl der konformen oder nicht konformen Storage VMs) für alle Storage VMs in Ihrem Datacenter
+* *Volume Encryption*: Der Volume-Verschlüsselungsstatus (Anzahl der verschlüsselten oder nicht verschlüsselten Volumes) aller Volumes in Ihrer Umgebung
+* *Volume Anti-Ransomware Status*: Der Sicherheitsstatus (Anzahl der Volumes mit aktivierter oder deaktivierter Anti-Ransomware-Funktion) aller Volumes in Ihrer Umgebung
+* *Clusterauthentifizierung und Zertifikate*: Die Anzahl der Cluster, die jede Art von Authentifizierungsmethode verwenden, wie SAML, Active Directory oder über Zertifikate und lokale Authentifizierung. Im Panel wird auch die Anzahl der Cluster angezeigt, deren Zertifikate entweder abgelaufen sind oder in 60 Tagen ablaufen.
+
+
+
+
+== Zeigen Sie auf der Seite Cluster die Sicherheitsdetails aller Cluster an
+
+Auf der Seite *Cluster / Security* Details können Sie den Sicherheits-Compliance-Status auf Clusterebene anzeigen.
+
+.Schritte
+. Klicken Sie im linken Navigationsbereich auf *Storage > Cluster*.
+. Wählen Sie *Ansicht > Sicherheit > Alle Cluster*.
+
+
+Standardsicherheitsparameter wie Global FIPS, Telnet, unsichere SSH-Einstellungen, Anmeldebanner, Netzwerkzeitprotokoll, AutoSupport HTTPS-Transport und der Status des Cluster-Zertifikats werden angezeigt.
+
+Sie können auf klicken image:icon_kabob.gif["Kabob-Symbol"] Weitere Optionen und wählen Sie, um die Sicherheitsinformationen auf der Seite *Sicherheit* von Unified Manager oder auf System Manager anzuzeigen. Sie sollten gültige Anmeldeinformationen zum Anzeigen der Details in System Manager haben.
+
+
+NOTE: Wenn ein Cluster ein abgelaufenes Zertifikat besitzt, können Sie auf klicken `expired` Unter *Cluster Certificate Validität*, und erneuern Sie es von System Manager (9.10.1 und höher). Sie können nicht auf klicken `expired` Wenn die System Manager Instanz eine Version vor 9.10.1 enthält.
+
+
+
+== Details zur Sicherheit aller Cluster finden Sie auf der Seite Storage-VMs
+
+Auf der Seite *Storage VMs / Security* Details können Sie den Sicherheits-Compliance-Status auf Storage VM-Ebene anzeigen.
+
+.Schritte
+. Klicken Sie im linken Navigationsbereich auf *Storage > Storage VMs*.
+. Wählen Sie *Ansicht > Sicherheit > Alle Storage VMs*. Es wird eine Liste der Cluster mit den Sicherheitsparametern angezeigt.
+
+
+Sie können die Sicherheitskonformität der Speicher-VMs standardmäßig anzeigen, indem Sie die Sicherheitsparameter wie Storage-VMs, Cluster, Anmeldebanner, Revisionsprotokoll und unsichere SSH-Einstellungen überprüfen.
+
+Sie können auf klicken image:icon_kabob.gif["Kabob-Symbol"] Weitere Optionen und wählen Sie, um die Sicherheitsinformationen auf der Seite *Sicherheit* von Unified Manager oder auf System Manager anzuzeigen. Sie sollten gültige Anmeldeinformationen zum Anzeigen der Details in System Manager haben.
+
+Einzelheiten zur Sicherheit gegen Ransomware-Angriffe für Volumes und Storage-VMs finden Sie unter link:../health-checker/task_view_antiransomware_status_of_all_volumes_storage_vms.html["Anzeigen des Anti-Ransomware-Status aller Volumes und Storage-VMs"].

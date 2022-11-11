@@ -1,0 +1,38 @@
+---
+permalink: storage-mgmt/task_edit_clusters.html 
+sidebar: sidebar 
+keywords: edit, clusters 
+summary: Sie können die Einstellungen eines vorhandenen Clusters, z. B. Host-Name oder IP-Adresse, Benutzername, Passwort und Port, über das Dialogfeld Cluster bearbeiten ändern. 
+---
+= Cluster werden bearbeitet
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Sie können die Einstellungen eines vorhandenen Clusters, z. B. Host-Name oder IP-Adresse, Benutzername, Passwort und Port, über das Dialogfeld Cluster bearbeiten ändern.
+
+*Was Sie brauchen*
+
+Sie müssen über die Anwendungsadministratorrolle oder die Speicheradministratorrolle verfügen.
+
+[NOTE]
+====
+Ab Unified Manager 9.7 können Cluster nur mit HTTPS hinzugefügt werden.
+
+====
+.Schritte
+. Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Cluster-Setup*.
+. Wählen Sie auf der Seite *Cluster Setup* den Cluster aus, den Sie bearbeiten möchten, und klicken Sie dann auf *Bearbeiten*.
+. Ändern Sie im Dialogfeld *Cluster bearbeiten* die Werte nach Bedarf. + Wenn Sie die Details für einen zu Unified Manager 9.12 hinzugefügten Cluster geändert haben, können Sie die Zertifikatsdetails für die gegenseitige TLS-Kommunikation auf Grundlage der ONTAP-Version anzeigen. Weitere Informationen zur ONTAP-Version finden Sie unter link:../storage-mgmt/task_add_clusters.html["Zertifikate für die gegenseitige TLS-Kommunikation"]. + Sie können die Zertifikatsdetails anzeigen, indem Sie auf *Zertifikatdetails* klicken. Wenn das Zertifikat abgelaufen ist, klicken Sie auf die Schaltfläche *regenerieren*, um das neue Zertifikat einzubauen.
+. Klicken Sie Auf *Absenden*.
+. Klicken Sie im Dialogfeld Host autorisieren auf *Zertifikat anzeigen*, um die Zertifikatsinformationen zum Cluster anzuzeigen.
+. Klicken Sie Auf *Ja*.
+
+
+*Verwandte Informationen*
+
+link:../config/task_add_users.html["Benutzer hinzufügen"]
+
+link:../health-checker/task_view_cluster_list_and_details.html["Anzeigen der Cluster-Liste und der Details"]
