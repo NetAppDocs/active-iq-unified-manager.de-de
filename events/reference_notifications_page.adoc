@@ -118,3 +118,5 @@ Gibt das Datenschutzprotokoll an, das zur Verschlüsselung von SNMP-Nachrichten 
 Gibt das Passwort an, wenn das Datenschutzprotokoll verwendet wird. Das Passwort für den Datenschutz ist mit SNMP Version 3 mit Authentifizierung und Verschlüsselung verfügbar.
 
 
+
+Für weitere Informationen über SNMP-Objekte und Traps können Sie die herunterladen link:https://mysupport.netapp.com/site/tools/tool-eula/aiqum-mib["Active IQ Unified Manager MIB"^] Von der NetApp Support Site aus.

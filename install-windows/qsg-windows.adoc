@@ -29,7 +29,7 @@ Unified Manager wird auf 64-Bit-Windows-Betriebssystem für die folgenden Sprach
 * Freier Speicherplatz: 100 GB Festplattenspeicher für das Installationsverzeichnis, 50 GB Festplattenspeicher für das MySQL-Datenverzeichnis
 
 
-Detaillierte Systemanforderungen finden Sie im link:../install-windows/concept_requirements_for_installing_unified_manager.html["Anforderungen für die Installation von Unified Manager"] Und link:http://mysupport.netapp.com/matrix["Interoperabilitätsmatrix"].
+Detaillierte Systemanforderungen finden Sie im link:../install-windows/concept_requirements_for_installing_unified_manager.html["Anforderungen für die Installation von Unified Manager"] Und link:http://mysupport.netapp.com/matrix["Interoperabilitätsmatrix"^].
 
 
 

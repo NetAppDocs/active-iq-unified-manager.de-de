@@ -18,6 +18,7 @@ Sie können Unified Manager über Red hat Enterprise Linux oder CentOS Host mit 
 * Sie müssen über Root-Benutzerzugriff auf den Server verfügen, von dem Sie Unified Manager entfernen möchten.
 * Security-Enhanced Linux (SELinux) muss auf dem Linux-System deaktiviert sein. Ändern Sie den SELinux-Laufzeitmodus in „`permissiv`“, indem Sie das verwenden `setenforce 0` Befehl.
 * Alle Cluster (Datenquellen) müssen vor dem Entfernen der Software vom Unified Manager-Server entfernt werden.
+* Sie sollten die Firewall-Regeln, die erstellt werden, manuell löschen, um MySQL-Port 3306 zu ermöglichen oder zu blockieren. Die Firewall-Regeln werden nicht automatisch gelöscht.
 
 
 .Schritte
