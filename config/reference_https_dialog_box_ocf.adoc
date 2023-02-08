@@ -11,9 +11,9 @@ summary: Auf der Seite HTTPS-Zertifikat können Sie das aktuelle Sicherheitszert
 
 
 [role="lead"]
-Auf der Seite HTTPS-Zertifikat können Sie das aktuelle Sicherheitszertifikat anzeigen, eine Anforderung zum Signieren von Zertifikaten herunterladen, ein neues HTTPS-Zertifikat erstellen oder ein neues HTTPS-Zertifikat installieren.
+Auf der Seite HTTPS-Zertifikat können Sie das aktuelle Sicherheitszertifikat anzeigen, eine Anfrage zum Signieren von Zertifikaten herunterladen, ein neues selbstsigniertes HTTPS-Zertifikat erstellen oder ein neues HTTPS-Zertifikat installieren.
 
-Wenn Sie kein neues HTTPS-Zertifikat generiert haben, wird auf dieser Seite das Zertifikat angezeigt, das während der Installation generiert wurde.
+Wenn Sie kein neues selbstsigniertes HTTPS-Zertifikat generiert haben, wird auf dieser Seite das Zertifikat angezeigt, das während der Installation generiert wurde.
 
 
 
@@ -31,6 +31,6 @@ Ermöglicht es Ihnen, ein Sicherheitszertifikat hochzuladen und zu installieren,
 
 * *HTTPS-Zertifikat neu erstellen*
 +
-Ermöglicht Ihnen das Generieren eines HTTPS-Zertifikats, das das aktuelle Sicherheitszertifikat ersetzt. Das neue Zertifikat wird wirksam, nachdem Sie Unified Manager neu gestartet haben.
+Ermöglicht Ihnen das Generieren eines neuen selbstsignierten HTTPS-Zertifikats, das das aktuelle Sicherheitszertifikat ersetzt. Das neue Zertifikat wird wirksam, nachdem Sie Unified Manager neu gestartet haben.
 
 

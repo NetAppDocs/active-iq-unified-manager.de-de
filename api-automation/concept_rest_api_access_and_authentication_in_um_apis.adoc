@@ -19,7 +19,7 @@ Beispielanfrage und -Antwort:
 +
 [listing]
 ----
-Get
+GET
 https://<IP address/hostname>:<port_number>/api/v2/datacenter/cluster/clusters
 ----
 * *Antwort*
