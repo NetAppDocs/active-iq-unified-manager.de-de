@@ -6,7 +6,12 @@ summary: Kurzanleitung für Unified Manager auf der Linux-Plattform.
 ---
 = Kurzanleitung für Linux-Installationen
 :allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
 
+
+[role="lead"]
+Sie können das Installationspaket herunterladen und Unified Manager auf einer physischen oder virtuellen Red hat Enterprise Linux oder CentOS Plattform installieren.
 
 
 

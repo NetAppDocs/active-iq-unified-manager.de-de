@@ -6,7 +6,12 @@ summary: Kurzanleitung für Unified Manager auf VMware vSphere Plattform.
 ---
 = Schnellstartanleitung für VMware Installationen
 :allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
 
+
+[role="lead"]
+Sie können die herunterladen `.tar` Datei, die ein Stammzertifikat enthält, a `README` Datei und an `OVA` Datei und stellen Sie Unified Manager als virtuelle Appliance bereit.
 
 
 
