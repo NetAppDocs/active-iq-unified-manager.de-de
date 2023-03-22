@@ -28,4 +28,4 @@ Weitere Informationen finden Sie unter Compliance-Kategorien und im http://www.n
 Auch Upgrade-Ereignisse, die von der Active IQ-Plattform gemeldet werden, gelten als Sicherheitsereignisse. Diese Ereignisse erkennen Probleme, wenn für die Lösung ein Upgrade der ONTAP Software, Node-Firmware oder Betriebssystemsoftware erforderlich ist (für Sicherheitsempfehlungen). Diese Ereignisse werden nicht im Fenster „Sicherheit“ angezeigt, sind aber auf der Seite „Ereignisverwaltung“ verfügbar.
 
 ====
-Weitere Informationen finden Sie unter link:..health-checker/concept_manage_cluster_security_objectives.html["Verwalten von Zielen für die Cluster-Sicherheit"].
+Weitere Informationen finden Sie unter link:../health-checker/concept_manage_cluster_security_objectives.html["Verwalten von Zielen für die Cluster-Sicherheit"].
