@@ -25,7 +25,7 @@ Ab Unified Manager 9.7 können Cluster nur mit HTTPS hinzugefügt werden.
 .Schritte
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Cluster-Setup*.
 . Wählen Sie auf der Seite *Cluster Setup* den Cluster aus, den Sie bearbeiten möchten, und klicken Sie dann auf *Bearbeiten*.
-. Ändern Sie im Dialogfeld *Cluster bearbeiten* die Werte nach Bedarf. + Wenn Sie die Details für einen zu Unified Manager 9.12 hinzugefügten Cluster geändert haben, können Sie die Zertifikatsdetails für die gegenseitige TLS-Kommunikation auf Grundlage der ONTAP-Version anzeigen. Weitere Informationen zur ONTAP-Version finden Sie unter link:../storage-mgmt/task_add_clusters.html["Zertifikate für die gegenseitige TLS-Kommunikation"]. + Sie können die Zertifikatsdetails anzeigen, indem Sie auf *Zertifikatdetails* klicken. Wenn das Zertifikat abgelaufen ist, klicken Sie auf die Schaltfläche *regenerieren*, um das neue Zertifikat einzubauen.
+. Ändern Sie im Dialogfeld *Cluster bearbeiten* die Werte nach Bedarf. + Wenn Sie die Details für einen zu Unified Manager hinzugefügten Cluster geändert haben, können Sie die Zertifikatdetails für die gegenseitige TLS-Kommunikation basierend auf der ONTAP-Version anzeigen. Weitere Informationen zur ONTAP-Version finden Sie unter link:../storage-mgmt/task_add_clusters.html["Zertifikate für die gegenseitige TLS-Kommunikation"]. + Sie können die Zertifikatsdetails anzeigen, indem Sie auf *Zertifikatdetails* klicken. Wenn das Zertifikat abgelaufen ist, klicken Sie auf die Schaltfläche *regenerieren*, um das neue Zertifikat einzubauen.
 . Klicken Sie Auf *Absenden*.
 . Klicken Sie im Dialogfeld Host autorisieren auf *Zertifikat anzeigen*, um die Zertifikatsinformationen zum Cluster anzuzeigen.
 . Klicken Sie Auf *Ja*.

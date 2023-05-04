@@ -41,4 +41,10 @@ Beispiel: Syslog-ng erfordert, dass mit dem Befehl ein <Hash> des Zertifikats er
 +
 Sie werden zur Seite Audit Logs weitergeleitet.
 
++
+[NOTE]
+====
+Der Wert *Connection Timeout* kann sich auf die Konfiguration auswirken. Wenn die Konfiguration länger als der definierte Wert reagiert, kann dies zu einem Konfigurationsfehler aufgrund eines Verbindungsfehlers führen. Um eine erfolgreiche Verbindung herzustellen, erhöhen Sie den Wert *Connection Timeout* und versuchen Sie die Konfiguration erneut.
+
+====
 

@@ -16,37 +16,45 @@ Sie können Active IQ Unified Manager ein Cluster hinzufügen, sodass Sie das Cl
 *Was Sie brauchen*
 
 * Sie müssen über die Anwendungsadministratorrolle oder die Speicheradministratorrolle verfügen.
-* Sie müssen den Host-Namen oder die Cluster-Management-IP-Adresse (IPv4 oder IPv6) für das Cluster haben.
+* Sie müssen die folgenden Informationen haben:
++
+** Unified Manager unterstützt lokale ONTAP Cluster, ONTAP Select und Cloud Volumes ONTAP.
+** Sie müssen den Host-Namen oder die Cluster-Management-IP-Adresse (IPv4 oder IPv6) für das Cluster haben.
 +
 Bei Verwendung des Host-Namens muss dieser für die Cluster-Management-IP-Adresse für die Cluster-Management-LIF aufgelöst werden. Wenn Sie eine Node-Management-LIF verwenden, schlägt der Vorgang fehl.
 
-* Sie müssen Benutzername und Passwort besitzen, um auf das Cluster zugreifen zu können.
+** Sie müssen Benutzername und Passwort besitzen, um auf das Cluster zugreifen zu können.
 +
 Für dieses Konto muss die Rolle _admin_ mit dem Anwendungszugriff auf _ontapi_, _Console_ und _http_ eingestellt sein.
 
-* Sie müssen die Port-Nummer kennen, um eine Verbindung zum Cluster mithilfe des HTTPS-Protokolls (normalerweise Port 443) herzustellen.
-* Der Cluster muss die ONTAP Version 9.1 oder höher ausführen.
-* Auf dem Unified Manager-Server muss ausreichend Speicherplatz vorhanden sein. Sie können dem Server kein Cluster hinzufügen, wenn bereits mehr als 90 % des Speicherplatzes belegt sind.
-* Sie verfügen über die erforderlichen Zertifikate. Unified Manager installiert Sicherheitszertifikate beim Hinzufügen eines Clusters:
+** Sie müssen die Port-Nummer kennen, um eine Verbindung zum Cluster mithilfe des HTTPS-Protokolls (normalerweise Port 443) herzustellen.
+** Der Cluster muss die ONTAP Version 9.1 oder höher ausführen.
+** Auf dem Unified Manager-Server muss ausreichend Speicherplatz vorhanden sein. Sie können dem Server kein Cluster hinzufügen, wenn bereits mehr als 90 % des Speicherplatzes belegt sind.
+** Sie verfügen über die erforderlichen Zertifikate:
 +
-*Server-Zertifikate*: Dieses Zertifikat ist Eigentum von Unified Manager. Bei einer neuen Installation von Unified Manager wird ein selbstsigniertes SSL-Zertifikat (HTTPS) generiert. NetApp empfiehlt ein Upgrade auf ein Zertifikat, das von einer Zertifizierungsstelle unterzeichnet wurde, um die Sicherheit zu erhöhen. Wenn das Serverzertifikat abgelaufen ist, sollten Sie es neu generieren und Unified Manager neu starten, damit die Dienste das neue Zertifikat aufnehmen können. Weitere Informationen zum erneuten Generieren eines SSL-Zertifikats finden Sie unter link:../config/task_generate_an_https_security_certificate_ocf.html["Erstellen eines HTTPS-Sicherheitszertifikats"].
+*SSL (HTTPS) Zertifikat*: Dieses Zertifikat ist im Besitz von Unified Manager. Bei einer neuen Installation von Unified Manager wird ein selbstsigniertes SSL-Zertifikat (HTTPS) generiert. NetApp empfiehlt ein Upgrade auf ein Zertifikat, das von einer Zertifizierungsstelle unterzeichnet wurde, um die Sicherheit zu erhöhen. Wenn das Serverzertifikat abgelaufen ist, sollten Sie es neu generieren und Unified Manager neu starten, damit die Dienste das neue Zertifikat aufnehmen können. Weitere Informationen zum erneuten Generieren eines SSL-Zertifikats finden Sie unter link:../config/task_generate_an_https_security_certificate_ocf.html["Erstellen eines HTTPS-Sicherheitszertifikats"].
+
++
+*EMS-Zertifikat*: Dieses Zertifikat ist im Besitz von Unified Manager. Es wird bei der Authentifizierung für EMS-Benachrichtigungen verwendet, die von ONTAP empfangen werden.
 
 +
 *Zertifikate für gegenseitige TLS-Kommunikation*: Wird bei der gegenseitigen TLS-Kommunikation zwischen Unified Manager und ONTAP verwendet. Die zertifikatbasierte Authentifizierung ist auf Grundlage der Version von ONTAP für ein Cluster aktiviert. Wenn das Cluster mit der Version ONTAP niedriger als die Version 9.5 ist, ist die zertifikatbasierte Authentifizierung nicht aktiviert.
 
 +
-Die zertifikatbasierte Authentifizierung wird für ein Cluster nicht automatisch aktiviert, wenn Sie eine ältere Version von Unified Manager auf Unified Manager 9.12 aktualisieren. Allerdings können Sie die Aktivierung durch Ändern und Speichern der Cluster-Details aktivieren. Wenn das Zertifikat abgelaufen ist, sollten Sie es erneut generieren, um das neue Zertifikat zu integrieren. Weitere Informationen zum Anzeigen und erneuten Generieren des Zertifikats finden Sie unter link:../storage-mgmt/task_edit_clusters.html["Cluster werden bearbeitet"].
+Die zertifikatbasierte Authentifizierung wird für ein Cluster nicht automatisch aktiviert, wenn Sie eine ältere Version von Unified Manager aktualisieren. Allerdings können Sie die Aktivierung durch Ändern und Speichern der Cluster-Details aktivieren. Wenn das Zertifikat abgelaufen ist, sollten Sie es erneut generieren, um das neue Zertifikat zu integrieren. Weitere Informationen zum Anzeigen und erneuten Generieren des Zertifikats finden Sie unter link:../storage-mgmt/task_edit_clusters.html["Cluster werden bearbeitet"].
 
 +
 [NOTE]
 ====
-** Die zertifikatbasierte Authentifizierung wird automatisch aktiviert, wenn Sie ein Cluster aus der Web-Benutzeroberfläche hinzufügen. Wenn Sie ein Cluster aus der Wartungskonsole hinzufügen, ist die zertifikatbasierte Authentifizierung nicht aktiviert.
-** Wenn die zertifikatbasierte Authentifizierung für ein Cluster aktiviert ist und Sie das Backup von Unified Manager von einem Server aus erstellen und auf einen anderen Unified Manager Server wiederherstellen. Hier wird der Hostname oder die IP-Adresse geändert, dann kann das Monitoring des Clusters fehlschlagen. Um den Ausfall zu vermeiden, bearbeiten und speichern Sie die Cluster-Details. Weitere Informationen über das Bearbeiten von Cluster-Details finden Sie unter link:../storage-mgmt/task_edit_clusters.html["Cluster werden bearbeitet"].
+*** Die zertifikatbasierte Authentifizierung wird automatisch aktiviert, wenn Sie ein Cluster aus der Web-Benutzeroberfläche hinzufügen. Wenn Sie ein Cluster aus der Wartungskonsole hinzufügen, ist die zertifikatbasierte Authentifizierung nicht aktiviert.
+*** Wenn die zertifikatbasierte Authentifizierung für ein Cluster aktiviert ist und Sie das Backup von Unified Manager von einem Server aus erstellen und auf einen anderen Unified Manager Server wiederherstellen. Hier wird der Hostname oder die IP-Adresse geändert, dann kann das Monitoring des Clusters fehlschlagen. Um den Ausfall zu vermeiden, bearbeiten und speichern Sie die Cluster-Details. Weitere Informationen über das Bearbeiten von Cluster-Details finden Sie unter link:../storage-mgmt/task_edit_clusters.html["Cluster werden bearbeitet"].
 
 
 ====
 +
-*Clientzertifikate*: Wird bei der Authentifizierung für EMS-Nachrichten verwendet, die von ONTAP empfangen wurden. Das Zertifikat ist im Besitz von ONTAP und erforderlich, wenn Sie einem ONTAP Cluster zu Unified Manager hinzufügen. Sie können ein Cluster nicht zu Unified Manager mit einem abgelaufenen Zertifikat hinzufügen. Wenn das Client-Zertifikat bereits abgelaufen ist, sollten Sie es vor dem Hinzufügen des Clusters neu generieren. Wenn dieses Zertifikat jedoch für einen Cluster abläuft, der bereits hinzugefügt wurde und von Unified Manager verwendet wird, funktioniert EMS Messaging weiterhin mit dem abgelaufenen Zertifikat. Informationen zur Erstellung von Zertifikaten finden Sie im Artikel Knowledge Base (KB) https://kb.netapp.com/Advice_and_Troubleshooting/Data_Storage_Software/ONTAP_OS/How_to_renew_an_SSL_certificate_in_ONTAP_9["So erneuern Sie ein selbstsigniertes ONTAP-Zertifikat in der System Manager-Benutzeroberfläche"^].
+*Cluster-Zertifikate*: Dieses Zertifikat ist Eigentum von ONTAP. Sie können Unified Manager kein Cluster mit einem abgelaufenen Zertifikat hinzufügen. Wenn das Zertifikat bereits abgelaufen ist, sollten Sie es neu erstellen, bevor Sie das Cluster hinzufügen. Informationen zur Erstellung von Zertifikaten finden Sie im Artikel Knowledge Base (KB) https://kb.netapp.com/Advice_and_Troubleshooting/Data_Storage_Software/ONTAP_OS/How_to_renew_an_SSL_certificate_in_ONTAP_9["So erneuern Sie ein selbstsigniertes ONTAP-Zertifikat in der System Manager-Benutzeroberfläche"^].
+
+
 
 * Eine einzelne Instanz von Unified Manager kann eine bestimmte Anzahl Nodes unterstützen. Wenn Sie eine Umgebung überwachen müssen, die die Anzahl der unterstützten Nodes überschreitet, müssen Sie eine zusätzliche Instanz von Unified Manager installieren, um einige der Cluster zu überwachen. Informationen zur Liste der unterstützten Node-Anzahl finden Sie im https://www.netapp.com/media/13504-tr4621.pdf["Unified Manager Best Practices-Leitfaden"^].
 
@@ -58,7 +66,7 @@ Die zertifikatbasierte Authentifizierung wird für ein Cluster nicht automatisch
 . Klicken Sie im Dialogfeld Host autorisieren auf *Zertifikat anzeigen*, um die Zertifikatsinformationen zum Cluster anzuzeigen.
 . Klicken Sie Auf *Ja*.
 +
-In Unified Manager 9.12 finden Sie nach dem Speichern der Cluster-Details das Zertifikat für eine gegenseitige TLS-Kommunikation für einen Cluster.
+Nachdem Sie die Cluster-Details gespeichert haben, können Sie das Zertifikat für die gegenseitige TLS-Kommunikation für ein Cluster anzeigen.
 
 +
 Wenn die zertifikatbasierte Authentifizierung nicht aktiviert ist, überprüft Unified Manager das Zertifikat nur, wenn das Cluster zunächst hinzugefügt wird. Unified Manager überprüft nicht das Zertifikat für jeden API-Aufruf an ONTAP.

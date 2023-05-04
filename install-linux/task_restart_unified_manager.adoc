@@ -19,7 +19,7 @@ Sie müssen Root-Benutzerzugriff auf Red hat Enterprise Linux oder CentOS Server
 
 .Schritte
 . Melden Sie sich als Root-Benutzer an dem Server an, auf dem Sie den Unified Manager-Service neu starten möchten.
-. Beenden Sie den Unified Manager-Service und die zugehörige MySQL-Software in der folgenden Reihenfolge:
+. Stoppen Sie den Unified Manager-Dienst und den zugehörigen MySQL-Dienst in dieser Reihenfolge:
 +
 `systemctl stop ocieau`
 
@@ -29,7 +29,7 @@ Sie müssen Root-Benutzerzugriff auf Red hat Enterprise Linux oder CentOS Server
 +
 `systemctl stop mysqld`
 
-. Starten Sie Unified Manager in der angezeigten Reihenfolge:
+. Starten Sie die MySQL und Unified Manager Services in dieser Reihenfolge:
 +
 `systemctl start mysqld`
 
@@ -40,3 +40,9 @@ Sie müssen Root-Benutzerzugriff auf Red hat Enterprise Linux oder CentOS Server
 `systemctl start ocieau`
 
 
+
+[NOTE]
+====
+`mysqld` Ist ein Daemon-Programm erforderlich, um den MySQL-Server zu starten und zu stoppen.
+
+====

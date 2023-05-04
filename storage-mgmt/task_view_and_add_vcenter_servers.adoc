@@ -20,6 +20,10 @@ Stellen Sie vor dem Hinzufügen oder Anzeigen von vCenter-Servern Folgendes sich
 * Sie kennen die vCenter Server-Namen.
 * Sie kennen die IP-Adresse von vCenter Server und verfügen über die erforderlichen Anmeldedaten. Die Anmeldedaten müssen ein vCenter Server-Administrator oder ein Root-Benutzer mit schreibgeschütztem Zugriff auf vCenter Server sein.
 * Der vCenter Server, den Sie hinzufügen möchten, führt vSphere 6.5 oder höher aus.
++
+
+NOTE: Unified Manager für VMware ESXi und vCenter Server wird auf Englisch und Japanisch unterstützt.
+
 * Die Einstellung für die Datenerfassung in vCenter Server ist auf die Statistikebene von festgelegt `_Level 3_`, Sicherstellung der erforderlichen Ebene der Kennzahlensammlung für alle überwachten Objekte. Der Intervallzeitraum sollte sein `_5 minutes_`, Und die Speicherdauer sollte sein `_1 day_`.
 +
 Weitere Informationen finden Sie im Abschnitt „`Data Collection Levels`“ der Dokumentation zu vSphere Monitoring and Performance Guide_.

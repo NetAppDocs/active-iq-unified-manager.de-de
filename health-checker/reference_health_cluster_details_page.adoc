@@ -83,7 +83,11 @@ Zeigt das Datenkapazitätsdiagramm zu der genutzten Kapazität und der verfügba
 
 * Genutzter Logischer Speicherplatz
 +
-Die tatsächliche Größe der Daten, die auf allen Aggregaten auf diesem Cluster gespeichert werden, ohne dabei die Einsparungen durch die ONTAP Storage-Effizienztechnologien zu verwenden.
+Die tatsächliche Größe der Daten, die auf allen Aggregaten auf diesem Cluster gespeichert werden, ohne dabei die Einsparungen durch die ONTAP Storage-Effizienztechnologien zu verwenden. Dies umfasst keine Snapshot-Kopien.
+
+* Datenreduzierung
++
+Zeigt das Verhältnis ohne Snapshot-Kopien und mit zwei signifikanten Ziffern, z. B. 1.8 zu 1, an. Dieses Verhältnis basiert auf den konfigurierten ONTAP Storage-Effizienzeinstellungen.
 
 * Verwendet
 +

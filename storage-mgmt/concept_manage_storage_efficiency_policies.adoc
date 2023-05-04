@@ -82,4 +82,4 @@ Anzahl an Storage Workloads, denen SEP zugewiesen wurde
 
 Wenn die vorhandenen SEPs die Richtlinienanforderungen für Ihre Storage-Workloads nicht erfüllen, können Sie ein benutzerdefiniertes SEP erstellen. Es wird jedoch empfohlen, die systemdefinierten SEPs für Ihre Speicher-Workloads zu verwenden und bei Bedarf nur benutzerdefinierte SEPs zu erstellen.
 
-Sie können den SEP, der Workloads zugewiesen ist, auf der Seite Alle Workloads und auf der Seite Volume / Health Details anzeigen. Sie können das Datenreduzierungsverhältnis auf Cluster-Ebene basierend auf diesen Storage-Effizienzfunktionen im Bereich Kapazität im Dashboard und in der Ansicht „Kapazität: Alle Cluster“ anzeigen.
+Sie können den SEP, der Workloads zugewiesen ist, auf der Seite Alle Workloads und auf der Seite Volume / Health Details anzeigen. Sie können das Datenreduzierungsverhältnis auf Cluster-Ebene (ohne Snapshot-Kopien) basierend auf diesen Storage-Effizienzfunktionen im Fenster „Kapazität“ im Dashboard und in der Ansicht „Kapazität: Alle Cluster“ anzeigen.

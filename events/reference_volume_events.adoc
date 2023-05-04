@@ -163,6 +163,17 @@ Warnung
 
 
  a| 
+Volume Efficiency Operation Error(ocumEvtVolumeEfficiency OperationError)
+ a| 
+Dar
+ a| 
+Datenmenge
+ a| 
+Fehler
+
+
+
+ a| 
 Voll Volume-Speicherplatz(occumEvtVolumeFull)
  a| 
 Dar

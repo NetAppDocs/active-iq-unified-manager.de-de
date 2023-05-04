@@ -48,9 +48,9 @@ Die folgenden Drittanbieterpakete werden mit Unified Manager gebündelt. Wenn di
 
 * Microsoft Visual C&#43;&#43; 2015 Redistributable Package Version 14.26.28720.3
 * Microsoft Visual C&#43;&#43; weiterverteilbare Pakete für Visual Studio 2013 Version 12.0.40660.0
-* MySQL Community Edition Version 8.0.30
-* Python 3.11.1
-* OpenJDK Version 11.0.16
+* MySQL Community Edition Version 8.0.32
+* Python 3.11.2
+* OpenJDK Version 11.0.18
 * P7zip Version 18.05 oder höher
 
 
