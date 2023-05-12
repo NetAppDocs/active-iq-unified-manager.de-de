@@ -52,11 +52,11 @@ Die zertifikatbasierte Authentifizierung wird für ein Cluster nicht automatisch
 
 ====
 +
-*Cluster-Zertifikate*: Dieses Zertifikat ist Eigentum von ONTAP. Sie können Unified Manager kein Cluster mit einem abgelaufenen Zertifikat hinzufügen. Wenn das Zertifikat bereits abgelaufen ist, sollten Sie es neu erstellen, bevor Sie das Cluster hinzufügen. Informationen zur Erstellung von Zertifikaten finden Sie im Artikel Knowledge Base (KB) https://kb.netapp.com/Advice_and_Troubleshooting/Data_Storage_Software/ONTAP_OS/How_to_renew_an_SSL_certificate_in_ONTAP_9["So erneuern Sie ein selbstsigniertes ONTAP-Zertifikat in der System Manager-Benutzeroberfläche"^].
+*Cluster-Zertifikate*: Dieses Zertifikat ist Eigentum von ONTAP. Sie können Unified Manager kein Cluster mit einem abgelaufenen Zertifikat hinzufügen. Wenn das Zertifikat bereits abgelaufen ist, sollten Sie es neu erstellen, bevor Sie das Cluster hinzufügen. Informationen zur Erstellung von Zertifikaten finden Sie im Artikel Knowledge Base (KB) https://["So erneuern Sie ein selbstsigniertes ONTAP-Zertifikat in der System Manager-Benutzeroberfläche"^].
 
 
 
-* Eine einzelne Instanz von Unified Manager kann eine bestimmte Anzahl Nodes unterstützen. Wenn Sie eine Umgebung überwachen müssen, die die Anzahl der unterstützten Nodes überschreitet, müssen Sie eine zusätzliche Instanz von Unified Manager installieren, um einige der Cluster zu überwachen. Informationen zur Liste der unterstützten Node-Anzahl finden Sie im https://www.netapp.com/media/13504-tr4621.pdf["Unified Manager Best Practices-Leitfaden"^].
+* Eine einzelne Instanz von Unified Manager kann eine bestimmte Anzahl Nodes unterstützen. Wenn Sie eine Umgebung überwachen müssen, die die Anzahl der unterstützten Nodes überschreitet, müssen Sie eine zusätzliche Instanz von Unified Manager installieren, um einige der Cluster zu überwachen. Informationen zur Liste der unterstützten Node-Anzahl finden Sie im https://["Unified Manager Best Practices-Leitfaden"^].
 
 
 .Schritte

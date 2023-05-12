@@ -20,7 +20,7 @@ Dieser Workflow greift auf einen Beispielfall zurück, in dem ein Ereignis angeh
 Bevor Sie die Workflow-Schritte ausführen, stellen Sie Folgendes sicher:
 
 * Sie kennen die Gateway-APIs und deren Nutzung. Weitere Informationen finden Sie unter link:concept_gateway_apis.html["Zugriff auf ONTAP-APIs über Proxy-Zugriff"].
-* Sie sind sich der Nutzung von ONTAP REST-APIs bewusst. Informationen zur Verwendung von ONTAP REST-APIs finden Sie unterhttps://docs.netapp.com/us-en/ontap-automation/index.html["Dokumentation zur ONTAP-Automatisierung"].
+* Sie sind sich der Nutzung von ONTAP REST-APIs bewusst. Informationen zur Verwendung von ONTAP REST-APIs finden Sie unterhttps://["Dokumentation zur ONTAP-Automatisierung"].
 * Sie sind ein Anwendungsadministrator.
 * Das Cluster, auf dem Sie die REST-API-Vorgänge ausführen möchten, wird von ONTAP 9.5 oder höher unterstützt, und das Cluster wird Unified Manager über HTTPS hinzugefügt.
 

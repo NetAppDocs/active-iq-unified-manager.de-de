@@ -33,7 +33,7 @@ Wenn die Ordnernamen ein Leerzeichen enthalten, müssen Sie den absoluten Pfad o
 .Schritte
 . Wenn Sie eine Wiederherstellung auf einem neuen Server durchführen, starten Sie nach der Installation von Unified Manager die UI nicht oder konfigurieren Sie nach Abschluss der Installation keine Cluster, Benutzer oder Authentifizierungseinstellungen. Die Sicherungsdatei füllt diese Informationen während des Wiederherstellungsprozesses aus.
 . Melden Sie sich mit den Administratoranmeldeinformationen beim Unified Manager-System an.
-. Starten Sie PowerShell als Windows-Administrator.
+. Starten Sie PowerShell oder die Eingabeaufforderung als Windows-Administrator.
 . Geben Sie den Befehl ein `maintenance_console` Und drücken Sie die Eingabetaste.
 . Geben Sie in der Wartungskonsole *Hauptmenü* die Nummer für die Option *Backup Restore* ein.
 . Geben Sie die Nummer für die * MySQL-Sicherung wiederherstellen* ein.

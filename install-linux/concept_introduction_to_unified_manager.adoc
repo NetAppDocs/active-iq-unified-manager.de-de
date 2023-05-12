@@ -17,4 +17,4 @@ Nachdem Sie die Installation abgeschlossen und die Cluster hinzugefügt haben, d
 
 *Verwandte Informationen*
 
-https://mysupport.netapp.com/matrix["NetApp Interoperabilitäts-Matrix-Tool"]
+https://["NetApp Interoperabilitäts-Matrix-Tool"]

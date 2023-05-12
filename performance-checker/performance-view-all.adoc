@@ -214,7 +214,7 @@ In der Ansicht „Performance: QoS Policy Groups“ sind einige wichtige Felder 
 * Min Zuweisung: Wird der maximale Durchsatz (Spitzenwert) der IOPS verwendet, unabhängig davon, ob der „zugewiesene Speicherplatz“ oder der „genutzte Speicherplatz“ verwendet werden.
 * Erwartete Latenz: Die erwartete durchschnittliche Latenz für Storage-Input/Output-Vorgänge
 * Shared: Bei herkömmlichen QoS-Richtlinien wird festgelegt, ob die in der Richtliniengruppe definierten Durchsatzwerte von mehreren Objekten gemeinsam genutzt werden.
-* Zugeordnete Objekte: Die Anzahl der Workloads, die der QoS-Richtliniengruppe zugewiesen sind. Sie können auf die Schaltfläche erweitern ( ) neben dem QoS Policy Group Name klicken, um weitere Details zur Policy Group anzuzeigen.
+* Zugeordnete Objekte: Die Anzahl der Workloads, die der QoS-Richtliniengruppe zugewiesen sind. Klicken Sie auf die Schaltfläche erweitern (image:../media/chevron_down.gif[""]) Neben dem QoS Policy Group-Namen, um weitere Details über die Policy-Gruppe anzuzeigen.
 * Zugewiesene Kapazität: Die Menge an Speicherplatz, die die Objekte in der QoS-Richtliniengruppe derzeit verwenden.
 * Zugehörige Objekte: Anzahl der Workloads, die der QoS-Richtliniengruppe zugewiesen werden, getrennt in Volumes und LUNs. Sie können auf die Nummer klicken, um zu einer Seite zu navigieren, die weitere Details zu den ausgewählten Volumes oder LUNs enthält.
 

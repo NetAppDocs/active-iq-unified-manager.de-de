@@ -66,4 +66,4 @@ Wenn das Volume 2 TB des verfügbaren Speicherplatzes verwendet und der IOPS 4,0
 
 Wenn aus diesem Grund ein Ereignis aufgrund einer MB/s-Sicherheitsverletzung für eine adaptive QoS-Richtlinie ausgelöst wird, die die Blockgröße enthält, wird auf der Seite Ereignisdetails ein MB/s-Diagramm im Abschnitt Systemdiagnose angezeigt. Wenn das Ereignis aufgrund einer Verletzung des IOPS für die Richtlinie zur adaptiven QoS ausgelöst wird, wird im Abschnitt Systemdiagnose ein IOPS-Diagramm angezeigt. Wenn eine Sicherheitsverletzung sowohl für IOPS als auch für MB/s auftritt, erhalten Sie zwei Ereignisse.
 
-Weitere Informationen zum Anpassen von QoS-Einstellungen finden Sie unter https://docs.netapp.com/us-en/ontap/performance-admin/index.html["Performance Management – Überblick"].
+Weitere Informationen zum Anpassen von QoS-Einstellungen finden Sie unter https://["Performance Management – Überblick"].

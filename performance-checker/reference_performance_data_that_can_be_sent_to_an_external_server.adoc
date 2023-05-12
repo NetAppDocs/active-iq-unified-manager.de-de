@@ -77,4 +77,4 @@ Wenn der Name eines Clusters oder eines Clusterobjekts auf dem Speichersystem ge
 ====
 In Knowledge Base-Artikel 30096 finden Sie eine Liste aller Leistungsindikatoren, die an einen externen Datenanbieter gesendet werden können.
 
-https://kb.netapp.com/?title=Advice_and_Troubleshooting%2FData_Infrastructure_Management%2FActive_IQ_Unified_Manager%2FWhat_are_the_ActiveIQ_Unified_Manager_performance_counters_that_can_be_exported_to_an_External_Data_Provider%253F["Unified Manager-Leistungsindikatoren, die an einen externen Datenanbieter exportiert werden können"]
+https://["Unified Manager-Leistungsindikatoren, die an einen externen Datenanbieter exportiert werden können"]

@@ -22,7 +22,7 @@ Die Installationsdatei ist eine `.tar` Datei, die ein Stammzertifikat enthält, 
 .Schritte
 . Loggen Sie sich auf der NetApp Support Site ein und navigieren Sie zur Download-Seite für Unified Manager:
 +
-https://mysupport.netapp.com/site/products/all/details/activeiq-unified-manager/downloads-tab["NetApp Support Website"]
+https://["NetApp Support Website"]
 
 . Wählen Sie die erforderliche Version von Unified Manager aus, und akzeptieren Sie die Endbenutzer-Lizenzvereinbarung (Endbenutzer License Agreement, EULA).
 . Laden Sie herunter, und speichern Sie die `.tar` Installieren Sie die Datei für VMware vSphere in einem lokalen Verzeichnis oder Netzwerkverzeichnis, auf das Ihr vSphere-Client zugreifen kann.

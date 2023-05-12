@@ -132,7 +132,7 @@ Workloads
 Anzahl der Speicher-Workloads, denen das PSL zugewiesen wurde.
 
 |===
-Informationen darüber, wie die IOPS-Spitzenwerte und die erwarteten IOPS beim Erreichen einer konsistenten, differenzierten Performance auf ONTAP Clustern helfen, finden Sie im folgenden KB-Artikel:https://kb.netapp.com/Advice_and_Troubleshooting/Data_Infrastructure_Management/Active_IQ_Unified_Manager/What_is_Performance_Budgeting%3F["Was ist Performance-Budgetierung?"]
+Informationen darüber, wie die IOPS-Spitzenwerte und die erwarteten IOPS beim Erreichen einer konsistenten, differenzierten Performance auf ONTAP Clustern helfen, finden Sie im folgenden KB-Artikel:https://["Was ist Performance-Budgetierung?"]
 
 
 

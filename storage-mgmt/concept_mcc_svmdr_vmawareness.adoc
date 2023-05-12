@@ -27,7 +27,7 @@ Beachten Sie die folgenden Voraussetzungen vor dem Anzeigen von Datastores in ei
 * Die primären und sekundären Cluster des HA-Paars und vCenter Server müssen durch Unified Manager gemanagt werden.
 * Die erforderliche Einrichtung muss auf ONTAP und vCenter Server abgeschlossen sein. Weitere Informationen finden Sie in der Dokumentation zu ONTAP und vCenter.
 +
-https://docs.netapp.com/ontap-9/index.jsp["ONTAP 9 Dokumentationszentrum"]
+https://["ONTAP 9 Dokumentationszentrum"]
 
 
 
@@ -60,7 +60,7 @@ Im Falle einer Wiederherstellung sollten die Daten zwischen den Volumes synchron
 Informationen zum Setup finden Sie in der Dokumentation zu ONTAP und vCenter Server.
 
 +
-https://docs.netapp.com/ontap-9/index.jsp["ONTAP 9 Dokumentationszentrum"]
+https://["ONTAP 9 Dokumentationszentrum"]
 
 
 

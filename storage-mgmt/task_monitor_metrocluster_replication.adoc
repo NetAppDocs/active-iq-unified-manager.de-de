@@ -48,7 +48,7 @@ Die Topologie der zu replizierenden MetroCluster Konfiguration wird am lokalen S
 
 
 
-Mithilfe der in angezeigten Informationen können Sie alle Replikationsprobleme beheben. Wenn Sie Spiegelungsprobleme in Ihrer MetroCluster Konfiguration feststellen, müssen Sie sich bei System Manager einloggen oder auf die ONTAP CLI zugreifen, um die Probleme zu beheben.
+Sie können die auf der Seite Cluster/Health Details angezeigten Informationen verwenden, um alle Replikationsprobleme zu beheben. Wenn Sie Spiegelungsprobleme in Ihrer MetroCluster Konfiguration feststellen, müssen Sie sich bei System Manager einloggen oder auf die ONTAP CLI zugreifen, um die Probleme zu beheben.
 
 *Verwandte Informationen*
 

@@ -68,4 +68,4 @@ Die gestrichelte horizontale Linie gibt den in ONTAP festgelegten maximalen oder
 
 Wenn bestimmte Volumes oder LUNs eine sehr hohe IOPS oder MB/s haben und Systemressourcen betonen, können Sie mit System Manager oder der ONTAP CLI die QoS-Einstellungen so anpassen, dass diese Workloads die Performance anderer Workloads nicht beeinträchtigen.
 
-Weitere Informationen zum Anpassen von QoS-Einstellungen finden Sie unter http://docs.netapp.com/ontap-9/topic/com.netapp.doc.pow-perf-mon/home.html["Performance Management – Überblick"]
+Weitere Informationen zum Anpassen von QoS-Einstellungen finden Sie unter http://["Performance Management – Überblick"]

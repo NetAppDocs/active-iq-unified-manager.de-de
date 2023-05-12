@@ -49,4 +49,4 @@ Der Cluster, die Storage-VM und das Volume müssen folgende Anforderungen erfül
 
 
 
-Detaillierte Schritte zur Erstellung des NFS-Volume finden Sie unter https://kb.netapp.com/Advice_and_Troubleshooting/Data_Storage_Software/ONTAP_OS/How_to_configure_NFSv4_in_Cluster-Mode["So konfigurieren Sie NFSv4 in ONTAP 9"] Und das http://docs.netapp.com/ontap-9/topic/com.netapp.doc.exp-nfsv3-cg/home.html["ONTAP 9 NFS Configuration Express Guide"].
+Detaillierte Schritte zur Erstellung des NFS-Volume finden Sie unter https://["So konfigurieren Sie NFSv4 in ONTAP 9"] Und das http://["ONTAP 9 NFS Configuration Express Guide"].

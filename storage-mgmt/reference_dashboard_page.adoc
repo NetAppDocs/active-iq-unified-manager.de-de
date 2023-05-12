@@ -71,7 +71,7 @@ Das Sicherheitsfenster zeigt je nach aktueller Ansicht den allgemeinen Sicherhei
 
 Sie können auf die Balkendiagramme der Compliance-konformen und nicht konformen Cluster, Storage-VMS, verschlüsselten und nicht verschlüsselten Volumes und den Status für nicht-Ransomware-Volumes klicken, um zu den jeweiligen Seiten zu gelangen und die Sicherheitsinformationen für gefilterte Cluster, Storage-VMs und Volumes anzuzeigen.
 
-Compliance basiert auf dem http://www.netapp.com/us/media/tr-4569.pdf["NetApp Leitfaden zur verstärkte Sicherheit in ONTAP 9"]. Klicken Sie auf den Rechtspfeil oben im Bedienfeld, um die Sicherheitsinformationen für alle Cluster auf der Seite Sicherheit anzuzeigen. Weitere Informationen finden Sie unterlink:../health-checker/task_view_detailed_security_status_for_clusters_and_svms.html["Anzeigen des detaillierten Sicherheitsstatus für Cluster und Storage-VMs"].
+Compliance basiert auf dem http://["NetApp Leitfaden zur verstärkte Sicherheit in ONTAP 9"]. Klicken Sie auf den Rechtspfeil oben im Bedienfeld, um die Sicherheitsinformationen für alle Cluster auf der Seite Sicherheit anzuzeigen. Weitere Informationen finden Sie unterlink:../health-checker/task_view_detailed_security_status_for_clusters_and_svms.html["Anzeigen des detaillierten Sicherheitsstatus für Cluster und Storage-VMs"].
 
 
 

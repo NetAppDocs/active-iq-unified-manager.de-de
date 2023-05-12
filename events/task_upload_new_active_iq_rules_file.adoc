@@ -23,7 +23,7 @@ Wenn Sie Unified Manager auf eine bestimmte Version an einem Standort ohne Netzw
 * Die Ereignisberichte für das Active IQ Portal müssen aktiviert sein. Diese Funktion ist standardmäßig aktiviert. Weitere Informationen finden Sie unter link:../config/concept_active_iq_platform_events.html["Aktivieren von Active IQ Portal-Ereignissen"].
 * Sie müssen die Regeldatei von der NetApp Support-Website herunterladen.
 +
-Die Regeldatei befindet sich unter: https://mysupport.netapp.com/api/content-service/staticcontents/content/public/tools/unifiedmanager/ca/secure_rules.zip[]
+Die Regeldatei befindet sich unter: https://[]
 
 
 
@@ -47,4 +47,4 @@ Dieser Vorgang kann einige Minuten dauern.
 
 Die Regeldatei wird auf dem Unified Manager-Server entpackt. Nachdem die gemanagten Cluster nach Mitternacht eine AutoSupport-Datei generiert haben, überprüft Unified Manager die Cluster anhand der Regeldatei und erzeugt bei Bedarf neue Risiken und Vorfälle.
 
-Weitere Informationen finden Sie in diesem Artikel der Knowledge Base (KB): https://kb.netapp.com/Advice_and_Troubleshooting/Data_Infrastructure_Management/Active_IQ_Unified_Manager/How_to_update_AIQCASecure_rules_manually_in_Active_IQ_Unified_Manager["Wie man AIQCASecure Regeln manuell in Active IQ Unified Manager aktualisiert"].
+Weitere Informationen finden Sie in diesem Artikel der Knowledge Base (KB): https://["Wie man AIQCASecure Regeln manuell in Active IQ Unified Manager aktualisiert"].
