@@ -26,4 +26,4 @@ Wenn Sie beispielsweise OnCommand Unified Manager 9.6 installiert haben und auf 
 . Upgrade 9.12 -> 9.13
 
 
-Weitere Informationen zur Upgrade-Pfad-Matrix finden Sie hier https://["Knowledge Base-Artikel (KB"].
+Weitere Informationen zur Upgrade-Pfad-Matrix finden Sie hier https://kb.netapp.com/Advice_and_Troubleshooting/Data_Infrastructure_Management/Active_IQ_Unified_Manager/What_is_the_upgrade_path_for_Active_IQ_Unified_Manager_versions["Knowledge Base-Artikel (KB"].

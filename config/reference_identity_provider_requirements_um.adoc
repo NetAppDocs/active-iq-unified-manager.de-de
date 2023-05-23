@@ -74,7 +74,7 @@ Urne:oid:1.3.6.1.4.1.5923.1.5.1.1
 +
 ** Befolgen Sie die Anweisungen im Link, um die Widerrufs-Prüfung auf dem ADFS-Server für verkettete CA-Zertifikat zugeordnete abhängige Partei zu deaktivieren:
 +
-http://["Deaktivieren Sie die Überprüfung der Widerruferstellung pro Vertrauen der Vertrauensgruppe"]
+http://www.torivar.com/2016/03/22/adfs-3-0-disable-revocation-check-windows-2012-r2/["Deaktivieren Sie die Überprüfung der Widerruferstellung pro Vertrauen der Vertrauensgruppe"]
 
 ** Der CA-Server befindet sich im ADFS-Server, um die Zertifiktanforderung des Unified Manager-Servers zu signieren.
 

@@ -71,4 +71,4 @@ Auf der Anzeige wird der Name der FabricPool-Tiering-Richtlinie angezeigt, die d
 . Auf der Seite *Workload Analysis* können Sie im Bereich *Capacity Trend* „`Cloud Tier View`“ auswählen, um die im lokalen Performance Tier und in der Cloud Tier im Vormonat verwendete Kapazität anzuzeigen.
 
 
-Weitere Informationen zu FabricPool-Aggregaten finden Sie unter https://["Überblick über Festplatten und Aggregate"].
+Weitere Informationen zu FabricPool-Aggregaten finden Sie unter https://docs.netapp.com/us-en/ontap/disks-aggregates/index.html["Überblick über Festplatten und Aggregate"].

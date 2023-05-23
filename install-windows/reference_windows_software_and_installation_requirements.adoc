@@ -33,7 +33,7 @@ Unified Manager wird auf 64-Bit-Windows-Betriebssystem für die folgenden Sprach
 
 In der Interoperabilitäts-Matrix finden Sie die vollständige und aktuelle Liste der unterstützten Windows-Versionen.
 
-http://["mysupport.netapp.com/matrix"^]
+http://mysupport.netapp.com/matrix["mysupport.netapp.com/matrix"^]
 
 
 NOTE: NetApp unterstützt die Installation von Unified Manager mithilfe von Tools von Drittanbietern, wie z. B. Microsoft System Center Configuration Manager (SCCM), nicht.

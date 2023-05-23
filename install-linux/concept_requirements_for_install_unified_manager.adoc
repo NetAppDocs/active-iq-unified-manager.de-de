@@ -17,8 +17,8 @@ NetApp unterstützt keine Änderungen am Applikationscode für Unified Manager. 
 
 Weitere Informationen zum Anwenden von Sicherheitsmaßnahmen auf den Unified Manager-Server finden Sie im Knowledge Base-Artikel.
 
-https://["Unterstützbarkeit von Sicherheitsmaßnahmen für Active IQ Unified Manager für Clustered Data ONTAP"]
+https://kb.netapp.com/Advice_and_Troubleshooting/Data_Infrastructure_Management/Active_IQ_Unified_Manager/Supportability_for_Security_Measures_applied_to_Active_IQ_Unified_Manager_for_Clustered_Data_ONTAP["Unterstützbarkeit von Sicherheitsmaßnahmen für Active IQ Unified Manager für Clustered Data ONTAP"]
 
 *Verwandte Informationen*
 
-https://["NetApp Interoperabilitäts-Matrix-Tool"]
+https://mysupport.netapp.com/matrix["NetApp Interoperabilitäts-Matrix-Tool"]

@@ -13,4 +13,4 @@ summary: 'Mit Unified Manager können Sie die QoS-Richtliniengruppen (Quality of
 [role="lead"]
 Mit Unified Manager können Sie die QoS-Richtliniengruppen (Quality of Service) anzeigen, die auf allen von Ihnen überwachten Clustern verfügbar sind. Die Richtlinien können mithilfe der ONTAP Software (System Manager oder die ONTAP CLI) oder durch Richtlinien auf Unified Manager Performance Service Level definiert wurden. Unified Manager zeigt außerdem an, welchen Volumes und LUNs eine QoS-Richtliniengruppe zugewiesen ist.
 
-Weitere Informationen zum Anpassen von QoS-Einstellungen finden Sie unter https://["Performance Management – Überblick"]
+Weitere Informationen zum Anpassen von QoS-Einstellungen finden Sie unter https://docs.netapp.com/us-en/ontap/performance-admin/index.html["Performance Management – Überblick"]

@@ -22,7 +22,7 @@ Sowohl für Red hat Enterprise Linux als auch für CentOS Systeme laden Sie das 
 .Schritte
 . Loggen Sie sich auf der NetApp Support Site ein und navigieren Sie zur Download-Seite für Unified Manager:
 +
-https://["NetApp Support Website"]
+https://mysupport.netapp.com/site/products/all/details/activeiq-unified-manager/downloads-tab["NetApp Support Website"]
 
 . Wählen Sie die erforderliche Version von Unified Manager aus, und akzeptieren Sie die Endbenutzer-Lizenzvereinbarung (Endbenutzer License Agreement, EULA).
 . Laden Sie die Installationsdatei für Unified Manager für Linux herunter, und speichern Sie die `.zip` Datei in ein Verzeichnis auf dem Zielsystem.

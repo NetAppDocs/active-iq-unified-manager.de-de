@@ -28,4 +28,4 @@ Sie können die virtuelle Maschine auch von vSphere mit der Option VMware *Neust
 
 *Verwandte Informationen*
 
-https://["VMware vSphere PowerCLI cmdlets Referenz: Neustart-VMGuest"]
+https://www.vmware.com/support/developer/PowerCLI/PowerCLI41/html/Restart-VMGuest.html["VMware vSphere PowerCLI cmdlets Referenz: Neustart-VMGuest"]

@@ -21,7 +21,7 @@ Einige der Sicherheitsprüfungen umfassen:
 * Ob Ihre Volumes eine Software- oder Hardwareverschlüsselung aktiviert haben
 
 
-Weitere Informationen finden Sie unter Compliance-Kategorien und im http://["NetApp Leitfaden zur verstärkte Sicherheit in ONTAP 9"] Ausführliche Informationen finden Sie unter.
+Weitere Informationen finden Sie unter Compliance-Kategorien und im http://www.netapp.com/us/media/tr-4569.pdf["NetApp Leitfaden zur verstärkte Sicherheit in ONTAP 9"] Ausführliche Informationen finden Sie unter.
 
 [NOTE]
 ====

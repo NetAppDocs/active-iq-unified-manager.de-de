@@ -17,7 +17,7 @@ Sie können sich über einen unterstützten Webbrowser bei der Benutzeroberfläc
 
 * Der Webbrowser muss die Mindestanforderungen erfüllen.
 +
-Weitere Informationen finden Sie in der Interoperabilitäts-Matrix unter http://["mysupport.netapp.com/matrix"] Für die vollständige Liste der unterstützten Browser-Versionen.
+Weitere Informationen finden Sie in der Interoperabilitäts-Matrix unter http://mysupport.netapp.com/matrix["mysupport.netapp.com/matrix"] Für die vollständige Liste der unterstützten Browser-Versionen.
 
 * Sie müssen die IP-Adresse oder URL des Unified Manager-Servers haben.
 

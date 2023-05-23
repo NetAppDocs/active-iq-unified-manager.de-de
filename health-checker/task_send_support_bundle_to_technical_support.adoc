@@ -23,6 +23,6 @@ Sie müssen über die technische Support-Website eine Case-Nummer generiert habe
 . Loggen Sie sich auf der NetApp Support Site ein.
 . Laden Sie die Datei hoch.
 +
-https://["Wie zum Hochladen einer Datei auf NetApp"]
+https://kb.netapp.com/Advice_and_Troubleshooting/Miscellaneous/How_to_upload_a_file_to_NetApp["Wie zum Hochladen einer Datei auf NetApp"]
 
 

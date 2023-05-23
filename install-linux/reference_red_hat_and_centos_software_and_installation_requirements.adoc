@@ -25,7 +25,7 @@ Das Linux-System muss die folgenden Versionen des Betriebssystems und die unters
 
 In der Interoperabilitäts-Matrix finden Sie eine vollständige und aktuelle Liste der unterstützten Red hat Enterprise Linux- und CentOS-Versionen.
 
-http://["mysupport.netapp.com/matrix"]
+http://mysupport.netapp.com/matrix["mysupport.netapp.com/matrix"]
 
 
 
