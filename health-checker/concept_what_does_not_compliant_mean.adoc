@@ -15,9 +15,9 @@ Cluster und Storage Virtual Machines (SVMs) gelten als nicht kompatibel, wenn ei
 
 Die Statussymbole in den Sicherheitskarten haben in Bezug auf ihre Konformität die folgende Bedeutung:
 
-* image:../media/sev_normal_um60.png[""] - Der Parameter ist wie empfohlen konfiguriert.
-* image:../media/sev_warning_um60.png[""] - Der Parameter ist nicht wie empfohlen konfiguriert.
-* image:../media/sev_information_um60.gif[""] - Entweder die Funktion ist auf dem Cluster nicht aktiviert oder der Parameter wurde nicht als empfohlen konfiguriert, aber dieser Parameter trägt nicht zur Compliance des Objekts bei.
+* image:../media/sev_normal_um60.png["Normales grünes Häkchen"] - Der Parameter ist wie empfohlen konfiguriert.
+* image:../media/sev_warning_um60.png["Warnsymbol"] - Der Parameter ist nicht wie empfohlen konfiguriert.
+* image:../media/sev_information_um60.gif["Informationssymbol"] - Entweder die Funktion ist auf dem Cluster nicht aktiviert oder der Parameter wurde nicht als empfohlen konfiguriert, aber dieser Parameter trägt nicht zur Compliance des Objekts bei.
 
 
 Beachten Sie, dass der Volume-Verschlüsselungsstatus nicht dazu beiträgt, ob das Cluster oder die SVM als konform betrachtet werden.

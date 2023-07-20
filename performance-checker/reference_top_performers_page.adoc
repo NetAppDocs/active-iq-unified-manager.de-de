@@ -50,7 +50,7 @@ Klicken Sie auf das Menü *Sortieren*, um eine aufsteigende oder absteigende Sor
 Der Zählerbalken im Diagramm zeigt die Performance-Statistiken für jedes Objekt an, die als Balken für dieses Objekt dargestellt sind. Die Balkendiagramme sind farbcodiert. Wenn der Zähler keinen Performance-Schwellenwert überschreitet, wird der Zählerbalken in blau angezeigt. Wenn eine Schwellenverletzung aktiv ist (ein neues oder quited Event), wird der Balken in der Farbe für das Ereignis angezeigt: Warnereignisse werden in Gelb ( angezeigtimage:../media/treemapstatus_warning_png.gif["Symbol für TreeMap – Warnstatus"]), und kritische Ereignisse werden in rot (image:../media/treemapred_png.gif["Symbol für TreeMap – Rot"]). Schwellenverletzungen werden zudem durch Symbole für die Schweregrade für Warn- und kritische Ereignisse angezeigt.
 
 +
-image::../media/top_10_example.gif[Top 10 Beispiel]
+image::../media/top_10_example.gif[Ein UI-Screenshot mit den Performance-Statistiken für jedes Objekt, das im Diagramm als Zählerleiste dargestellt wird.]
 
 +
 Die X-Achse zeigt für jedes Diagramm die besten Interpreten für den ausgewählten Objekttyp an. Die Y-Achse zeigt die Einheiten an, die für den ausgewählten Zähler gelten. Wenn Sie unter jedem vertikalen Balkendiagramm auf den Objektnamen klicken, werden Sie zur Seite Performance Landing für das ausgewählte Objekt navigieren.

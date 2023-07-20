@@ -29,7 +29,7 @@ Das Diagramm IOPS – Protokolle wird angezeigt.
 
 . Um eine größere Version des Diagramms anzuzeigen, wählen Sie *Zoom-Ansicht*.
 +
-Das erweiterte IOPS-Protokoll-Vergleichstabelle wird angezeigt. Sie können den Vergleich einschränken, indem Sie die Auswahl aufheben oder auswählen image:../media/eye_icon.gif[""] Dies ist mit einem Protokoll verbunden.
+Das erweiterte IOPS-Protokoll-Vergleichstabelle wird angezeigt. Sie können den Vergleich einschränken, indem Sie die Auswahl aufheben oder auswählen image:../media/eye_icon.gif["Augensymbol"] Dies ist mit einem Protokoll verbunden.
 
 . Um die spezifischen Werte anzuzeigen, bewegen Sie den Cursor in den Diagrammbereich eines der beiden Diagramme, um das Popup-Fenster anzuzeigen.
 

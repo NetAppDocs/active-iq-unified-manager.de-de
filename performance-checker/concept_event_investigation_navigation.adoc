@@ -27,4 +27,4 @@ Dies ist ein Beispiel für eine Ereignisuntersuchung-Navigation.
 . Sehen Sie sich die Beschreibung des Ereignisses an und prüfen Sie die vorgeschlagenen Aktionen (sofern verfügbar), um weitere Details zu dem Ereignis anzuzeigen, das Ihnen bei der Behebung des Problems helfen kann. Klicken Sie auf die Schaltfläche *Workload analysieren*, um detaillierte Performance-Diagramme anzuzeigen, um das Problem weiter zu analysieren.
 
 
-image::../media/event_flow.png[Ereignisfluss]
+image::../media/event_flow.png[Ein UI-Screenshot, der eine Navigation zur Ereignisuntersuchung zeigt.]

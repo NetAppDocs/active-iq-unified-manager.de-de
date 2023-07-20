@@ -21,7 +21,7 @@ Nach der Planung von Berichten können Sie diese auf der Seite „Berichtszeitpl
 .Schritte
 . Klicken Sie im linken Navigationsbereich auf *Speicherverwaltung* > *Berichtspläne*.
 +
-image::../media/scheduled_reports_2.gif[Geplante Berichte 2]
+image::../media/scheduled_reports_2.gif[Ein UI-Screenshot mit geplanten Berichten.]
 
 +
 [NOTE]

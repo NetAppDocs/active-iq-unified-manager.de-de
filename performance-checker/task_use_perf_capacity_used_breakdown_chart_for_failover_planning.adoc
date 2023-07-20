@@ -33,7 +33,7 @@ Die Zählerdiagramme mit den Statistiken für den primären Node, den Partner-No
 Das detaillierte Diagramm für Perf. Die verwendete Kapazität wird angezeigt.
 
 +
-image::../media/headroom_advanced_zoom_chart.gif[Diagramm mit erweitertem Zoom in Reserve]
+image::../media/headroom_advanced_zoom_chart.gif[Ein UI-Screenshot, der das detaillierte Diagramm für Perf zeigt. Genutzte Kapazität.]
 
 . Bewegen Sie den Cursor über das detaillierte Diagramm, um die Informationen zur verwendeten Performance-Kapazität im Popup-Fenster anzuzeigen.
 +

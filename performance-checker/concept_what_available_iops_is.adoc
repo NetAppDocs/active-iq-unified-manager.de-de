@@ -23,7 +23,7 @@ Wenn Sie beispielsweise zwei Storage-Systeme FAS2520 und FAS8060 nutzen, erhalte
 
 Die folgende Abbildung zeigt eine Beispiellatenz im Vergleich zur IOPS-Kurve für einen Node.
 
-image::../media/available_iops.gif[Verfügbare iops]
+image::../media/available_iops.gif[Ein UI-Screenshot zeigt ein Beispiel-Latenz bzw. eine IOPS-Kurve für einen Node.]
 
 Die maximale Anzahl an IOPS, die eine Ressource liefern kann, ist die Anzahl der IOPS, wenn der Zähler für die Performance-Kapazität bei 100 % liegt (der optimale Punkt). Der Betriebspunkt identifiziert, dass der Node derzeit bei 100.000 IOPS mit einer Latenz von 1.0 ms/op arbeitet Auf der Grundlage der vom Node erfassten Statistiken ermittelt Unified Manager, dass die maximalen IOPS für den Node 160.000 beträgt, was bedeutet, dass 60.000 freie oder verfügbare IOPS vorhanden sind. Daher können Sie diesem Node weitere Workloads hinzufügen, sodass die Systeme effizienter genutzt werden.
 

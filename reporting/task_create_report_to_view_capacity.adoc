@@ -24,7 +24,7 @@ Gehen Sie wie folgt vor, um eine Integritätsansicht zu öffnen: Alle Aggregate,
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Aggregate*.
 . Wählen Sie *Berichte* > *Excel Herunterladen*.
 +
-image::../media/download_excel_menu.png[Excel-Menü herunterladen]
+image::../media/download_excel_menu.png[Ein UI-Screenshot, der zeigt, wie Excel aus Berichten heruntergeladen wird.]
 
 +
 Je nach Browser müssen Sie möglicherweise auf *OK* klicken, um die Datei zu speichern.
@@ -53,7 +53,7 @@ Die Formel summensiert jede Spalte basierend auf den aktuellen Daten.
 
 
 
-image::../media/capacitysums.png[Kapazitätsbeträge]
+image::../media/capacitysums.png[Ein UI-Screenshot eines Datenblatts, das die Gesamtkapazität auf Basis aktueller Daten anzeigt.]
 
 . Wählen Sie auf dem Datenblatt die Spalten *Gesamtkapazität (GB)* und *Kapazität (GB)* aus.
 . Wählen Sie im Menü * Einfügen* * * * * die Option *geclusterte Spalte* aus.
@@ -61,7 +61,7 @@ image::../media/capacitysums.png[Kapazitätsbeträge]
 . Mit den Menüs *Design* und *Format*, die bei der Auswahl des Diagramms zur Verfügung stehen, können Sie die Darstellung des Diagramms anpassen.
 . Wenn Sie zufrieden sind, speichern Sie die Datei mit Ihren Änderungen. Ändern Sie nicht den Dateinamen oder den Speicherort.
 +
-image::../media/cluster_column_chart_2.png[Cluster-Spaltendiagramm 2]
+image::../media/cluster_column_chart_2.png[Ein UI-Screenshot eines Diagramms, in dem die Gesamtdaten und die belegte Kapazität angezeigt werden.]
 
 . Wählen Sie in Unified Manager die Option *Berichte* > *Excel hochladen* aus.
 +
@@ -77,7 +77,7 @@ Stellen Sie sicher, dass Sie sich in der gleichen Ansicht befinden, in der Sie d
 Neben dem Menüpunkt *Berichte* > *Excel hochladen* wird ein Häkchen angezeigt.
 
 +
-image::../media/upload_excel.png[Laden Sie Excel hoch]
+image::../media/upload_excel.png[Ein UI-Screenshot, der zeigt, wie Excel in Berichte hochgeladen wird.]
 
 . Klicken Sie Auf *Geplante Berichte*.
 . Klicken Sie auf *Zeitplan hinzufügen*, um der Seite Berichtspläne eine neue Zeile hinzuzufügen, damit Sie die Terminplaneigenschaften für den neuen Bericht definieren können.

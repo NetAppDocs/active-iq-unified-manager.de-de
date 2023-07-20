@@ -22,7 +22,7 @@ Optimal
  a| 
 Die Konnektivität zwischen den Clustern in der MetroCluster Konfiguration ist normal.
  a| 
-image:../media/metrocluster_connectivity_optimal.gif[""]
+image:../media/metrocluster_connectivity_optimal.gif["symbol für optimale MetroCluster-Konnektivität"]
 
 
 
@@ -31,7 +31,7 @@ Beeinträchtigt
  a| 
 Mindestens ein Fehler beeinträchtigt den Status der Failover-Verfügbarkeit. In der MetroCluster Konfiguration sind jedoch noch beide Cluster aktiv. Beispiel: Wenn die ISL-Verbindung ausgefallen ist, wenn die Intercluster-IP-Verbindung ausgefallen ist oder das Partner-Cluster nicht erreichbar ist.
  a| 
-image:../media/metrocluster_connectivity_impacted.gif[""]
+image:../media/metrocluster_connectivity_impacted.gif["Symbol für betroffene MetroCluster-Konnektivität"]
 
 
 
@@ -42,10 +42,10 @@ Die Konnektivität zwischen den Clustern in der MetroCluster Konfiguration ist a
  a| 
 Umschaltung mit Fehlern:
 
-image::../media/metrocluster_connectivity_down.gif[MetroCluster-Konnektivität nicht verbunden]
+image::../media/metrocluster_connectivity_down.gif[symbol für MetroCluster-Verbindung nicht verfügbar]
 
 Umschaltung erfolgreich:
 
-image::../media/metrocluster_connectivity_failover.gif[Failover für MetroCluster-Konnektivität]
+image::../media/metrocluster_connectivity_failover.gif[Symbol für MetroCluster-Konnektivität-Failover]
 
 |===

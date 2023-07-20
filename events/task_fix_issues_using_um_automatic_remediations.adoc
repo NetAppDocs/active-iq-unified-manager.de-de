@@ -18,7 +18,7 @@ Die meisten Ereignisse haben eine Vielzahl von möglichen Auflösungen, die auf 
 .Schritte
 . Um Ereignisse anzuzeigen, die über das *Dashboard* behoben werden können, klicken Sie auf *Dashboard*.
 +
-image::../media/management_actions.png[Managementaktionen]
+image::../media/management_actions.png[Ein UI-Screenshot, der zeigt, wie Ereignisse vom Dashboard aus angezeigt und behoben werden.]
 
 . Um Probleme zu beheben, die Unified Manager beheben kann, klicken Sie auf die Schaltfläche *Fix IT*. Um ein Problem zu beheben, das auf mehreren Objekten vorhanden ist, klicken Sie auf die Schaltfläche * Alle beheben*.
 

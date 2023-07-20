@@ -28,7 +28,7 @@ Da einige Hintergrundaktivitäten zu System- und Datenmanagement als Benutzer-Wo
 Die Farben des Standarddiagramms zeigen an, wenn sich das Objekt im optimalen Bereich (gelb) befindet, wenn das Objekt nicht ausgelastet ist (grün) und wenn das Objekt überausgelastet ist (rot). Das Diagramm zeigt detaillierte Performance-Kapazitätsdetails nur für das Root-Objekt.
 
 +
-image::../media/headroom_counter_charts.gif[Zählerdiagramme der Reserve]
+image::../media/headroom_counter_charts.gif[Ein UI-Screenshot, der das Aufschlüsselungsdiagramm mit detaillierter Performance-Kapazität nur für das Root-Objekt zeigt.]
 
 . Wenn Sie eine Karte in einem vollen Format anzeigen möchten, klicken Sie auf *Zoom View*.
 +

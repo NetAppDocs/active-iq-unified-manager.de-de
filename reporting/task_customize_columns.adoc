@@ -16,7 +16,7 @@ Wählen Sie mit *ein-/Ausblenden* die Spalten aus, die Sie in Ihrem Bericht verw
 .Schritte
 . Klicken Sie auf *ein-/Ausblenden*, um Spalten hinzuzufügen oder zu entfernen.
 +
-image::../media/show_hide_3.png[Ausblenden 3 anzeigen]
+image::../media/show_hide_3.png[Ein UI-Screenshot, der zeigt, wie Spalten hinzugefügt oder entfernt werden.]
 
 . Ziehen Sie auf der Bestandsseite Spalten, um sie in der gewünschten Reihenfolge in Ihrem Bericht neu anzuordnen.
 . Benennen Sie die nicht gespeicherte Ansicht, um Ihre Änderungen zu speichern.

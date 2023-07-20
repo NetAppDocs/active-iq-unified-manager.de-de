@@ -61,6 +61,6 @@ Sie können Filter über das Filterfenster hinzufügen.
 
 Die Abbildung zeigt das Filterfeld mit drei Filtern. Die Schaltfläche *+Filter hinzufügen* wird angezeigt, wenn Sie weniger als vier Filter haben.
 
-image::../media/opm_filtering_panel_draft_3.gif[opm-Filterpanel Entwurf 3]
+image::../media/opm_filtering_panel_draft_3.gif[Ein UI-Screenshot, der das Filterfenster mit drei Filtern zeigt.]
 
 Nach dem Klicken auf *Filter anwenden* wird das Filterfeld geschlossen, die Filter angewendet und die Anzahl der angewendeten Filter angezeigt (image:../media/opm_filters_applied.gif[""]).

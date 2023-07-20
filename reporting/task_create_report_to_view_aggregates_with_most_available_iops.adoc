@@ -28,7 +28,7 @@ Gehen Sie wie folgt vor, um eine Health-Ansicht zu öffnen: Alle Volumes, laden 
 . Benennen und speichern Sie die benutzerdefinierte Ansicht `Available IOPS Per Aggr.`
 . Wählen Sie *Berichte* > *Excel Herunterladen*.
 +
-image::../media/download_excel_menu.png[Excel-Menü herunterladen]
+image::../media/download_excel_menu.png[Ein UI-Screenshot, der zeigt, wie Excel aus Berichten heruntergeladen wird.]
 
 +
 Je nach Browser müssen Sie möglicherweise auf *OK* klicken, um die Datei zu speichern.
@@ -62,7 +62,7 @@ Stellen Sie sicher, dass Sie sich in der gleichen Ansicht befinden, in der Sie d
 Neben dem Menüpunkt *Berichte* > *Excel hochladen* wird ein Häkchen angezeigt.
 
 +
-image::../media/upload_excel.png[Laden Sie Excel hoch]
+image::../media/upload_excel.png[Ein UI-Screenshot, der zeigt, wie Excel in Berichte hochgeladen wird.]
 
 . Klicken Sie Auf *Geplante Berichte*.
 . Klicken Sie auf *Zeitplan hinzufügen*, um der Seite Berichtspläne eine neue Zeile hinzuzufügen, damit Sie die Terminplaneigenschaften für den neuen Bericht definieren können.

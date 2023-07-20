@@ -15,7 +15,7 @@ Auf den Objektbestands-Performance-Seiten werden Performance-Informationen, Perf
 
 Die Seiten für die Objektbestandsleistung bieten einen allgemeinen Überblick über den Objektstatus, sodass Sie die Gesamtleistung aller Objekte bewerten und Objektleistungsdaten vergleichen können. Sie können den Inhalt der Objektbestandsseiten durch Suchen, Sortieren und Filtern verfeinern. Dies ist insbesondere beim Monitoring und Management der Objekt-Performance von Vorteil, da Objekte mit Performance-Problemen schnell lokalisiert und der Fehlerbehebungsprozess gestartet werden kann.
 
-image::../media/perf_node_inventory.gif[perf-Knotenbestand]
+image::../media/perf_node_inventory.gif[Ein UI-Screenshot, in dem die Details des Objekts auf der Seite „Performance/All Nodes“-Bestandsaufnahme angezeigt werden.]
 
 Standardmäßig werden Objekte auf den Seiten des Performance-Inventars nach Wichtigkeit der Objektleistung sortiert. Objekte mit neuen kritischen Performance-Ereignissen werden zuerst aufgeführt, Objekte mit Warnmeldungen werden an zweiter Stelle aufgeführt. Dies bietet eine unmittelbare visuelle Darstellung von Problemen, die behoben werden müssen. Alle Performance-Daten basieren auf einem Durchschnitt von 72 Stunden.
 

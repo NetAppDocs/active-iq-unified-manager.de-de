@@ -24,11 +24,11 @@ Nach dem Upgrade auf Unified Manager 9.6 GA oder höher werden auf der Seite „
 .Schritte
 . Öffnen Sie die Seite Berichtszeitpläne. Wenn Sie Berichte importiert haben, wird eine Meldung angezeigt.
 +
-image::../media/message_non_scehduled_reports.png[Nachricht nicht verseucht Berichte]
+image::../media/message_non_scehduled_reports.png[Ein UI-Screenshot, der die Meldung anzeigt, wird angezeigt, wenn importierte Berichte vorhanden sind.]
 
 . Klicken Sie auf den Namen *Ansicht*, um die SQL-Abfrage anzuzeigen, die zur Generierung des Berichts verwendet wird.
 +
-image::../media/importedreport1.png[ImportiertBericht1]
+image::../media/importedreport1.png[Ein UI-Screenshot, der die SQL-Abfrage zeigt, die zum Generieren des Berichts verwendet wird.]
 
 . Klicken Sie auf das Symbol Weitere image:../media/more_icon.gif[""]Klicken Sie auf *Bearbeiten*, definieren Sie die Details zum Berichtsplan und speichern Sie den Bericht.
 +

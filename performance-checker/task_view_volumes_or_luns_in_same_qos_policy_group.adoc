@@ -23,7 +23,7 @@ Bei anpassungsfähigen QoS-Richtlinien und Unified Manager-Performance-Service-L
 Die Ansicht „Performance: Traditionelle QoS-Richtliniengruppen“ wird standardmäßig angezeigt.
 
 . Wenn Sie sich für eine traditionelle Gruppe interessieren, bleiben Sie auf dieser Seite. Wählen Sie andernfalls eine der zusätzlichen View-Optionen aus, um alle adaptiven QoS-Richtliniengruppen oder alle QoS-Richtliniengruppen anzuzeigen, die durch Unified Manager Performance-Service-Level erstellt wurden.
-. Klicken Sie in der QoS-Richtlinie, die Sie interessieren, auf die Schaltfläche erweitern (image:../media/chevron_down.gif[""]) Neben dem Namen der QoS Policy Group, um weitere Details anzuzeigen.image:../media/adaptive_qos_expanded.gif[""]
+. Klicken Sie in der QoS-Richtlinie, die Sie interessieren, auf die Schaltfläche erweitern (image:../media/chevron_down.gif["Symbol für die Schaltfläche erweitern"]) Neben dem Namen der QoS Policy Group, um weitere Details anzuzeigen.image:../media/adaptive_qos_expanded.gif["Ein UI-Screenshot zeigt alle QoS-Richtliniengruppen, die durch Performance-Service-Level in Unified Manager erstellt wurden."]
 . Klicken Sie auf den Link Volumes oder LUNs, um die Objekte anzuzeigen, die diese QoS-Richtlinie verwenden.
 +
 Die Seite „Performance Inventory“ für Volumes oder LUNs wird mit der Liste der Objekte angezeigt, die die QoS-Richtlinie verwenden.

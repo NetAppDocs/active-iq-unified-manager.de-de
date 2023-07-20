@@ -33,7 +33,7 @@ Hier können Sie den Dateipfad eingeben, in den Sie Daten wiederherstellen möch
 
 * *Name*
 +
-Zeigt die Namen der verfügbaren Ordner für das ausgewählte Volume an. Wenn Sie auf einen Ordner in der Liste Name klicken, werden die Unterordner angezeigt, sofern vorhanden. Die in den Ordnern enthaltenen Dateien werden nicht angezeigt. Klicken Sie Auf image:../media/icon_upfolder.gif[""] Nachdem Sie einen Ordner ausgewählt haben, werden Sie in der Verzeichnisstruktur eine Ebene nach oben verschoben.
+Zeigt die Namen der verfügbaren Ordner für das ausgewählte Volume an. Wenn Sie auf einen Ordner in der Liste Name klicken, werden die Unterordner angezeigt, sofern vorhanden. Die in den Ordnern enthaltenen Dateien werden nicht angezeigt. Klicken Sie Auf image:../media/icon_upfolder.gif["Symbol für „Upfolder“"] Nachdem Sie einen Ordner ausgewählt haben, werden Sie in der Verzeichnisstruktur eine Ebene nach oben verschoben.
 
 
 

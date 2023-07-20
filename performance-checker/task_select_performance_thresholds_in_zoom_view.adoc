@@ -18,7 +18,7 @@ Durch Auswahl von Schwellenwerten in der Zoom-Ansicht für Zählerdiagramme kön
 Es kann jeweils nur eine Richtlinie auf das Objekt in der Zoom-Ansicht der Zählerdiagramme angewendet werden.
 
 .Schritt
-. Wählen Sie das aus oder heben Sie die Auswahl auf image:../media/eye_icon.gif[""] Das ist einer Richtlinie zugeordnet.
+. Wählen Sie das aus oder heben Sie die Auswahl auf image:../media/eye_icon.gif["Augensymbol"] Das ist einer Richtlinie zugeordnet.
 +
 Der ausgewählte Schwellenwert wird auf die Zoom-Ansicht der Zählerdiagramme angewendet. Kritische Schwellenwerte werden als rote Linie angezeigt. Warnschwellenwerte werden als gelbe Linie angezeigt.
 

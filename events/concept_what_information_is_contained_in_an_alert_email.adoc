@@ -19,4 +19,4 @@ Wenn sich ein Performance-Zähler oder Kapazitätswert während einer Inkassofri
 
 Nachstehend finden Sie eine Beispiel-E-Mail für eine Warnmeldung:
 
-image::../media/um_email_alert.gif[Um E-Mail-Warnung]
+image::../media/um_email_alert.gif[Ein UI-Screenshot, der eine Beispiel-E-Mail für Warnmeldungen zeigt.]

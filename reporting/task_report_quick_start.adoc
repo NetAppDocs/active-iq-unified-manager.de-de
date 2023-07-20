@@ -32,7 +32,7 @@ Befolgen Sie die nachstehenden Schritte:
 . Wählen Sie im Menü Ansicht die Option *Leistung* > *Alle Volumes*.
 . Klicken Sie auf *ein-/Ausblenden*, um sicherzustellen, dass die Spalte "`DFestplatten-Typen`" in der Ansicht angezeigt wird.
 +
-image::../media/show_hide_3.png[Ausblenden 3 anzeigen]
+image::../media/show_hide_3.png[Ein UI-Screenshot, der die Dropdown-Liste des Menüs ein-/ausblenden zeigt.]
 
 +
 Fügen Sie weitere Spalten hinzu oder entfernen Sie diese, um eine Ansicht zu erstellen, die die für Ihren Bericht wichtigen Felder enthält.
@@ -42,7 +42,8 @@ Fügen Sie weitere Spalten hinzu oder entfernen Sie diese, um eine Ansicht zu er
 +
 ** Festplattentypen enthalten FabricPool
 ** Cloud-Empfehlung enthält Tier
-** Kalte Daten größer als 10 GBimage:../media/filter_cold_data_2.png[""]
+** Kalte Daten größer als 10 GB
+image:../media/filter_cold_data_2.png["Ein UI-Screenshot, der zeigt, wie der Filter über die Filteroption angewendet wird."]
 
 
 +
@@ -51,7 +52,7 @@ Beachten Sie, dass jeder Filter mit einem logischen verbunden ist, damit alle zu
 . Klicken Sie oben in der Spalte „kalte Daten“, um die Ergebnisse so zu sortieren, dass die Volumes mit den meisten kalten Daten oben in der Ansicht angezeigt werden.
 . Wenn die Ansicht angepasst ist, ist der Ansichtsname nicht gespeicherte Ansicht. Benennen Sie die Ansicht, mit der die Ansicht dargestellt wird, z. B. „`Vols change Tiering Policy`“. Wenn Sie fertig sind, klicken Sie auf das Häkchen oder drücken Sie *Enter*, um die Ansicht mit dem neuen Namen zu speichern.
 +
-image::../media/report_vol_code_data_2.png[Volumencode-Daten melden 2]
+image::../media/report_vol_code_data_2.png[Ein UI-Screenshot, der die Tiering-Richtlinienseite für die Änderungen des Vols mit den erforderlichen Spalten in der richtigen Reihenfolge zeigt.]
 
 . Laden Sie den Bericht als *CSV*-, *Excel*- oder *PDF*-Datei herunter, um die Ausgabe anzuzeigen, bevor Sie sie planen oder freigeben.
 +
@@ -68,7 +69,7 @@ Weitere Informationen zum Anpassen von Berichten mithilfe von Excel finden Sie u
 
 . Klicken Sie auf der Bestandsseite auf die Schaltfläche *geplante Berichte*. Alle geplanten Berichte, die sich auf das Objekt beziehen, werden in diesem Fall in der Liste angezeigt.
 +
-image::../media/scheduled_reports_3.gif[Geplante Berichte 3]
+image::../media/scheduled_reports_3.gif[Ein UI-Screenshot, in dem alle geplanten Berichte zu dem Objekt angezeigt werden.]
 
 . Klicken Sie auf *Zeitplan hinzufügen*, um eine neue Zeile zur Seite „Berichtszeitpläne“ hinzuzufügen, damit Sie die Terminplaneigenschaften für den neuen Bericht definieren können.
 . Geben Sie einen Namen für den Bericht ein, und füllen Sie die anderen Berichtsfelder aus, und klicken Sie dann auf das Häkchen (image:../media/blue_check.gif[""]Am Ende der Reihe.
@@ -79,13 +80,13 @@ Der Bericht wird sofort als Test gesendet. Danach wird der Bericht generiert und
 Der folgende Beispielbericht wird im CSV-Format erstellt:
 
 +
-image::../media/csv_sample_report.gif[csv-Beispielbericht]
+image::../media/csv_sample_report.gif[Ein UI-Screenshot, der einen Beispielbericht im CSV-Format zeigt.]
 
 +
 Der folgende Beispielbericht ist im PDF-Format verfügbar:
 
 +
-image::../media/pdf_sample_report.gif[pdf-Beispielbericht]
+image::../media/pdf_sample_report.gif[Ein UI-Screenshot, der einen Beispielbericht im PDF-Format anzeigt.]
 
 
 

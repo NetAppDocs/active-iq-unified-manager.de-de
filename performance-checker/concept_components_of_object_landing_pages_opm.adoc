@@ -22,7 +22,7 @@ Die Daten, die in den Zusammenfassungsfeldern des Zählers und in den Zählerdia
 ====
 Die folgende Abbildung zeigt ein Beispiel für eine Landing Page des Objekts, auf der die Explorer-Informationen angezeigt werden:
 
-image::../media/perf_manager_page_1.gif[perf Manager Seite 1]
+image::../media/perf_manager_page_1.gif[Ein UI-Screenshot, der ein Beispiel einer Zielseite für Objekte zeigt, auf der die Explorer-Informationen angezeigt werden.]
 
 Abhängig vom angezeigten Storage-Objekt kann auf der Objekt-Landing-Page die folgenden Registerkarten enthalten, die Performance-Daten zum Objekt liefern:
 

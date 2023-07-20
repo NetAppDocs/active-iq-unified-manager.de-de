@@ -40,7 +40,7 @@ Einige der erweiterten Excel-Funktionen können Sie beispielsweise in Ihrem Beri
 ** Benennen Sie keine neuen Bogendaten oder Informationen.
 
 
-* Wenn eine angepasste Excel-Datei vorhanden ist, wird neben dem Menüpunkt *Berichte* > *Excel hochladen* ein Häkchen angezeigt. Wenn Sie die Excel-Datei herunterladen, wird die Version mit den Anpassungen verwendet.image:../media/upload_excel.png[""]
+* Wenn eine angepasste Excel-Datei vorhanden ist, wird neben dem Menüpunkt *Berichte* > *Excel hochladen* ein Häkchen angezeigt. Wenn Sie die Excel-Datei herunterladen, wird die Version mit den Anpassungen verwendet.image:../media/upload_excel.png["Ein UI-Screenshot, der zeigt, wie Excel in Berichte hochgeladen wird."]
 
 
 ====

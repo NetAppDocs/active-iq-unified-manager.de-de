@@ -15,7 +15,7 @@ Sie können die verwendeten Werte für die Performance-Kapazität für alle Node
 
 Die verwendeten Werte für die Performance-Kapazität werden auf der Seite Dashboard, auf den Seiten Performance Inventory, auf der Seite Top Performers, Create Threshold Policy, auf den Seiten Performance Explorer und in Detaildiagrammen angezeigt. Beispielsweise bietet die Seite Performance: Alle Aggregate eine Spalte. Die Performance-Kapazität wird verwendet, um den verwendeten Wert für die Performance-Kapazität aller Aggregate anzuzeigen.
 
-image::../media/node_inventory_used_headroom.gif[Node-Inventar genutzte Reserve]
+image::../media/node_inventory_used_headroom.gif[Ein UI-Screenshot der Seite „Performance: Alle Aggregate“]
 
 Durch das Monitoring des verwendeten Zählers für die Performance-Kapazität können Sie Folgendes identifizieren:
 

@@ -15,7 +15,7 @@ Der von Performance genutzte Wert hilft Ihnen dabei, die Nodes und Aggregate zu 
 
 Die folgende Abbildung zeigt die Latenz im Vergleich zur Auslastungskurve einer Ressource und identifiziert mit farbigen Punkten drei Bereiche, in denen sich der aktuelle betriebliche Punkt befinden könnte.
 
-image::../media/headroom_chart_over_under.gif[Diagramm Reserve über unter]
+image::../media/headroom_chart_over_under.gif[Ein UI-Screenshot zeigt die Latenz und die Nutzungskurve einer Ressource.]
 
 * Ein Prozentsatz der genutzten Performance-Kapazität gleich 100 ist am optimalen Punkt.
 +

@@ -41,7 +41,7 @@ Im Bereich Elemente auswählen, die wiederhergestellt werden sollen, können Sie
 
 * *Pfad-Feld*
 +
-Zeigt den Pfad zu den Daten an, die wiederhergestellt werden sollen. Sie können entweder zu dem Ordner und den Dateien navigieren, die Sie wiederherstellen möchten, oder Sie können den Pfad eingeben. Dieses Feld ist leer, bis Sie einen Pfad auswählen oder eingeben. Klicken Sie Auf image:../media/icon_upfolder.gif[""] Nachdem Sie einen Pfad ausgewählt haben, werden Sie in der Verzeichnisstruktur eine Ebene nach oben verschoben.
+Zeigt den Pfad zu den Daten an, die wiederhergestellt werden sollen. Sie können entweder zu dem Ordner und den Dateien navigieren, die Sie wiederherstellen möchten, oder Sie können den Pfad eingeben. Dieses Feld ist leer, bis Sie einen Pfad auswählen oder eingeben. Klicken Sie Auf image:../media/icon_upfolder.gif["Symbol für „Upfolder“"] Nachdem Sie einen Pfad ausgewählt haben, werden Sie in der Verzeichnisstruktur eine Ebene nach oben verschoben.
 
 * *Ordner- und Dateiliste*
 +

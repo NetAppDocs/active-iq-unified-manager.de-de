@@ -51,7 +51,7 @@ Zeigt „`(QoS Adaptive)`“ an
 |===
 Die folgende Abbildung zeigt ein Beispiel dafür, wie die drei Optionen in den Zählerdiagrammen angezeigt werden.
 
-image::../media/3_qos_policy_charts.gif[3 qos-Richtlinienkarten]
+image::../media/3_qos_policy_charts.gif[Ein UI-Screenshot, der ein Beispiel dafür zeigt, wie die drei Optionen in den Zählerdiagrammen angezeigt werden.]
 
 Wenn eine normale QoS-Richtlinie, die in IOPS definiert wurde, im IOPS/TB-Diagramm für einen Workload angezeigt wird, konvertiert ONTAP den IOPS-Wert in einen IOPS/TB-Wert, und Unified Manager zeigt diese Richtlinie im IOPS/TB-Diagramm zusammen mit dem Text „`QoS“, definiert in IOPS`“ an.
 

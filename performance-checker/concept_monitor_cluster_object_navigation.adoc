@@ -25,4 +25,4 @@ Dies ist ein Beispiel für viele mögliche Cluster-Objekt-Navigationen:
 
 Sie sollten sich diese Volumes untersuchen, um zu sehen, ob Sie eine QoS-Richtlinie oder eine Performance-Service Level-Richtlinie anwenden oder die Richtlinieneinstellungen ändern sollten, damit diese Volumes nicht so einen großen Prozentsatz von IOPS auf dem Cluster verwenden.
 
-image::../media/monitor_cluster_object.png[Monitoring des Cluster-Objekts]
+image::../media/monitor_cluster_object.png[Ein UI-Screenshot zeigt ein Beispiel für viele mögliche Navigation von Cluster-Objekten.]

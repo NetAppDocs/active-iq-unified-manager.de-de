@@ -22,7 +22,7 @@ Normal
  a| 
 Die Datenspiegelung zwischen den Clustern in der MetroCluster Konfiguration ist normal.
  a| 
-image:../media/metrocluster_connectivity_optimal.gif[""]
+image:../media/metrocluster_connectivity_optimal.gif["symbol für optimale MetroCluster-Konnektivität"]
 
 
 
@@ -33,10 +33,10 @@ Das Daten-Mirroring zwischen den Clustern in der MetroCluster Konfiguration ist 
  a| 
 Umschaltung mit Fehlern:
 
-image::../media/metrocluster_connectivity_down.gif[MetroCluster-Konnektivität nicht verbunden]
+image::../media/metrocluster_connectivity_down.gif[symbol für MetroCluster-Verbindung nicht verfügbar]
 
 Umschaltung erfolgreich:
 
-image::../media/metrocluster_connectivity_failover.gif[Failover für MetroCluster-Konnektivität]
+image::../media/metrocluster_connectivity_failover.gif[Symbol für MetroCluster-Konnektivität-Failover]
 
 |===

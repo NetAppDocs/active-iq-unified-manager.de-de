@@ -24,6 +24,6 @@ In der Dropdown-Ansicht sind Elemente mit dem Löschsymbol bereits vorhandene be
 
 
 ====
-image::../media/view_drop_down_3.png[Dropdown-Liste anzeigen 3]
+image::../media/view_drop_down_3.png[Ein UI-Screenshot der Dropdown-Liste „Ansicht“.]
 
 Nur Benutzer mit der Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ können das Löschsymbol anzeigen, eine Ansicht ändern oder löschen oder einen geplanten Bericht ändern oder löschen.

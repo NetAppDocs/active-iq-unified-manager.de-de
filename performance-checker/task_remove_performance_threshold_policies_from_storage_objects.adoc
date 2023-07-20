@@ -45,7 +45,7 @@ Aktivieren Sie das Kontrollkästchen links neben jedem Objekt.
  a| 
 Alle Objekte auf der Seite
  a| 
-Klicken Sie Auf image:../media/select_dropdown_65_png.gif[""] In der Spaltenüberschrift.
+Klicken Sie Auf image:../media/select_dropdown_65_png.gif["Wählen Sie das Dropdown-Symbol aus"] In der Spaltenüberschrift.
 
 |===
 . Klicken Sie Auf *Richtlinie Für Leistungsschwellenwert Löschen*.

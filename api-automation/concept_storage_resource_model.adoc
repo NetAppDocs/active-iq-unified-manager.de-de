@@ -28,4 +28,4 @@ Zu den logischen Storage-Ressourcen zählen Volumes aller Typen und qtrees sowie
 
 Die folgende Abbildung zeigt die Storage-Ressourcen in einem 2-Node Cluster:
 
-image::../media/storage_resource_model.gif[Modell der Storage-Ressourcen]
+image::../media/storage_resource_model.gif[Ein UI-Screenshot zeigt Speicherressourcen in einem 2-Node-Cluster.]

@@ -27,7 +27,7 @@ Führen Sie die folgenden Schritte aus, um einen Bericht für eine Ansicht zu te
 . Die Ansicht wird mithilfe der integrierten Unified Manager Funktionen nach Bedarf angepasst.
 . Nachdem Sie die Ansicht angepasst haben, können Sie im Feld *Ansicht* einen eindeutigen Namen angeben und auf das Häkchen klicken, um sie zu speichern.
 +
-image::../media/view_save.gif[Anzeige speichern]
+image::../media/view_save.gif[Ein UI-Screenshot, der zeigt, wie eine Ansicht gespeichert wird.]
 
 . Sie können die erweiterten Funktionen von Microsoft® Excel verwenden, um Ihren Bericht anzupassen. Weitere Informationen finden Sie unter link:task_use_excel_to_customize_your_report.html["Verwenden von Excel zum Anpassen des Berichts"].
 . So sehen Sie die Ausgabe, bevor Sie sie planen oder teilen:
@@ -67,7 +67,7 @@ Wählen Sie für Berichte, in denen Sie Excel zum Anpassen des Inhalts verwendet
 ====
 . Klicken Sie auf das Häkchen (image:../media/blue_check.gif[""]) Um den Berichtsplan zu speichern.
 +
-image::../media/scheduled_reports.gif[Geplante Berichte]
+image::../media/scheduled_reports.gif[Ein UI-Screenshot, der zeigt, wie der Berichtsplan gespeichert wird.]
 
 +
 Der Bericht wird sofort als Test gesendet. Danach wird der Bericht unter Verwendung der geplanten Häufigkeit generiert und per E-Mail an die Empfänger gesendet.

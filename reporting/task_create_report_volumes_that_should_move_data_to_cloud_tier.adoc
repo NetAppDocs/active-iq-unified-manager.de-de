@@ -33,11 +33,12 @@ Fügen Sie weitere Spalten hinzu oder entfernen Sie diese, um eine für Ihren Be
 +
 ** Der Festplattentyp enthält FabricPool
 ** Cloud-Empfehlung enthält Tier
-** Kalte Daten größer als 10 GBimage:../media/filter_cold_data.gif[""]
+** Kalte Daten größer als 10 GB
+image:../media/filter_cold_data.gif["Ein UI-Screenshot, der zeigt, wie Sie Filter hinzufügen und anwenden können."]
 
 
 . Klicken Sie oben in der Spalte „kalte Daten“, damit die Volumes mit den meisten kalten Daten oben in der Ansicht angezeigt werden.
-. Speichern Sie die Ansicht mit einem Namen, um die Anzeige abzuspiegeln, z. B. „`Vols change Tiering Policy`“.image:../media/report_vol_cold_data.gif[""]
+. Speichern Sie die Ansicht mit einem Namen, um die Anzeige abzuspiegeln, z. B. „`Vols change Tiering Policy`“.image:../media/report_vol_cold_data.gif["Ein UI-Screenshot, der die Tiering-Richtlinienseite für die Änderungen des Vols mit den erforderlichen Spalten in der richtigen Reihenfolge zeigt."]
 . Klicken Sie auf der Bestandsseite auf die Schaltfläche *geplante Berichte*.
 . Klicken Sie auf *Zeitplan hinzufügen*, um der Seite Berichtspläne eine neue Zeile hinzuzufügen, damit Sie die Terminplaneigenschaften für den neuen Bericht definieren können.
 . Geben Sie einen Namen für den Berichtsplan ein, und füllen Sie die anderen Berichtsfelder aus, und klicken Sie dann auf das Häkchen (image:../media/blue_check.gif[""]Am Ende der Reihe.

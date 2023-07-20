@@ -15,7 +15,7 @@ Störungen und Risiken von Active IQ Plattformen ähneln anderen Ereignissen von
 
 In dem folgenden Diagramm sind die Maßnahmen aufgeführt, die Sie ergreifen müssen (in Grün) und die Aktion, die Unified Manager beim Beheben von Ereignissen übernimmt, die über die Active IQ Plattform generiert wurden.
 
-image::../media/aiq_and_um_event_resolution.png[aiq und um Event-Lösung]
+image::../media/aiq_and_um_event_resolution.png[Ein UI-Screenshot, in dem die zu ergreifenden Aktionen und die Aktionen aufgeführt sind, die Unified Manager bei der Ereignisauflösung ausgeführt hat.]
 
 Wenn Sie eine manuelle Behebung des Problems durchführen, müssen Sie sich bei System Manager oder der Befehlszeilenschnittstelle von ONTAP anmelden, um das Problem zu beheben. Sie können das Problem nur überprüfen, nachdem das Cluster eine neue AutoSupport Meldung um Mitternacht generiert hat.
 

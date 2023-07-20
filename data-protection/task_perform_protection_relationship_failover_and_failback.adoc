@@ -32,7 +32,7 @@ Wenn das ursprüngliche Quell-Volume wieder verfügbar ist, können Sie vielleic
 Die umgekehrte Beziehung sieht ähnlich aus wie eine kaskadierte Beziehung:
 
 +
-image::../media/um_toplogy_reverse_resync.gif[Um-toplogy Resynchronisierung rückgängig machen]
+image::../media/um_toplogy_reverse_resync.gif[Ein UI-Screenshot, der den Prozess der umgekehrten Beziehung zeigt.]
 
 . link:task_break_snapmirror_relationship_from_health_volume_details.html["Die umgekehrte SnapMirror Beziehung unterbrechen"].
 +

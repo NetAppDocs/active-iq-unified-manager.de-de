@@ -25,4 +25,4 @@ Statistiken für beide Objekte werden in den Zählerdiagrammen zum Vergleich ang
 . Klicken Sie im Vergleichsanfenster rechts auf der Explorer-Seite auf *Zoom View* in einer der Zählerdiagramme, um Details zum Leistungsverlauf für dieses Aggregat anzuzeigen.
 
 
-image::../media/monitor_cluster_performance.png[Monitoring der Cluster-Performance]
+image::../media/monitor_cluster_performance.png[Ein UI-Screenshot, der zeigt, wie man ein bestimmtes Aggregat untersuchen kann.]

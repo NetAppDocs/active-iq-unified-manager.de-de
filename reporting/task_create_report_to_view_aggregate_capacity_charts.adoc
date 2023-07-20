@@ -24,7 +24,7 @@ Gehen Sie wie folgt vor, um eine Integritätsansicht zu öffnen: Alle Aggregate,
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Aggregate*.
 . Wählen Sie *Berichte* > *Excel Herunterladen*.
 +
-image::../media/download_excel_menu.png[Excel-Menü herunterladen]
+image::../media/download_excel_menu.png[Ein UI-Screenshot, der zeigt, wie Excel aus Berichten heruntergeladen wird.]
 
 +
 Je nach Browser müssen Sie möglicherweise auf *OK* klicken, um die Datei zu speichern.
@@ -33,7 +33,7 @@ Je nach Browser müssen Sie möglicherweise auf *OK* klicken, um die Datei zu sp
 . Klicken Sie bei Bedarf auf *Bearbeiten aktivieren*.
 . Klicken Sie auf dem Datenblatt mit der rechten Maustaste auf die Spalte Typ und wählen Sie *Sortieren* > *Sortieren Sie A bis Z* aus.
 +
-image::../media/sort_01.png[Sortieren Sie 01]
+image::../media/sort_01.png[Ein UI-Screenshot, der zeigt, wie die Sortierung in der Spalte Typ ausgewählt wird.]
 
 +
 Damit werden Ihre Daten nach Storage-Typ angeordnet. Dies umfasst beispielsweise:
@@ -51,7 +51,7 @@ Damit werden Ihre Daten nach Storage-Typ angeordnet. Dies umfasst beispielsweise
 Das Diagramm wird auf dem Datenblatt angezeigt.
 
 +
-image::../media/3d_column_01.png[3d-Spalte 01]
+image::../media/3d_column_01.png[Ein UI-Screenshot, der das 3D-Säulendiagramm zeigt.]
 
 . Klicken Sie mit der rechten Maustaste auf das Diagramm und wählen Sie *Diagramm verschieben*.
 . Wählen Sie *Neues Blatt* und benennen Sie das Blatt *Gesamtspeicherdiagramme*.
@@ -65,7 +65,7 @@ Stellen Sie sicher, dass das neue Blatt nach den Angaben und Datenblättern ange
 . Mit den Menüs *Design* und *Format*, die verfügbar sind, wenn das Diagramm ausgewählt ist, können Sie das Aussehen des Diagramms anpassen.
 . Wenn Sie zufrieden sind, speichern Sie die Datei mit Ihren Änderungen. Ändern Sie nicht den Dateinamen oder den Speicherort.
 +
-image::../media/total_vs_available_capacity.png[Vs. Verfügbare Kapazität insgesamt]
+image::../media/total_vs_available_capacity.png[Ein UI-Screenshot zeigt ein Diagramm der gesamten im Vergleich zur verfügbaren Kapazität.]
 
 . Wählen Sie in Unified Manager die Option *Berichte* > *Excel hochladen* aus.
 +
@@ -81,7 +81,7 @@ Stellen Sie sicher, dass Sie sich in der gleichen Ansicht befinden, in der Sie d
 Neben dem Menüpunkt *Berichte* > *Excel hochladen* wird ein Häkchen angezeigt.
 
 +
-image::../media/upload_excel.png[Laden Sie Excel hoch]
+image::../media/upload_excel.png[Ein UI-Screenshot, der zeigt, wie Excel in Berichte hochgeladen wird.]
 
 . Klicken Sie Auf *Geplante Berichte*.
 . Klicken Sie auf *Zeitplan hinzufügen*, um der Seite *Berichtspläne* eine neue Zeile hinzuzufügen, damit Sie die Terminplaneigenschaften für den neuen Bericht definieren können.

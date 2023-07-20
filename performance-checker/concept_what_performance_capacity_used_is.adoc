@@ -15,7 +15,7 @@ Mit dem verwendeten Zähler für die Performance-Kapazität können Sie ermittel
 
 Die optimale genutzte Performance-Kapazität ist der Punkt, an dem ein Node oder Aggregat optimale Auslastung und Latenz (Reaktionszeit) bietet und effizient eingesetzt wird. In der folgenden Abbildung ist eine Beispiellatenz im Vergleich zur Auslastungskurve gezeigt für ein Aggregat.
 
-image::../media/headroom_chart.gif[Diagramm „Reserve“]
+image::../media/headroom_chart.gif[Ein UI-Screenshot zeigt ein Beispiel-Latenz und eine Auslastungskurve für ein Aggregat.]
 
 In diesem Beispiel weist der_Operationspunkt_ darauf hin, dass das Aggregat derzeit bei einer Auslastung von 50 % und einer Latenz von 1.0 ms/op. Arbeitet Basierend auf den vom Aggregat erfassten Statistiken stellt Unified Manager fest, dass für dieses Aggregat zusätzliche Performance-Kapazität verfügbar ist. In diesem Beispiel wird der _optimale Punkt_ als Punkt identifiziert, an dem das Aggregat bei einer Auslastung von 80 % und einer Latenz von 2.0 ms/op. Liegt Somit können Sie diesem Aggregat auch mehr Volumes und LUNs hinzufügen, sodass Ihre Systeme effizienter genutzt werden.
 

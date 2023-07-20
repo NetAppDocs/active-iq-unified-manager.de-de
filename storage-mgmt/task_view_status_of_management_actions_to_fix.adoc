@@ -21,7 +21,7 @@ Auf der Seite „Management Actions“ stehen drei Filter zur Verfügung:
 
 
 .Schritte
-. Klicken Sie im linken Navigationsbereich auf *Management Actions*. Klicken Sie alternativ auf image:../media/more_icon.gif[""] Oben im Fenster *Management Actions* auf dem *Dashboard* und wählen Sie die Ansicht aus, die Sie sehen möchten.
+. Klicken Sie im linken Navigationsbereich auf *Management Actions*. Klicken Sie alternativ auf image:../media/more_icon.gif["Weitere Symbole"] Oben im Fenster *Management Actions* auf dem *Dashboard* und wählen Sie die Ansicht aus, die Sie sehen möchten.
 +
 Die Seite Verwaltungsaktionen wird angezeigt.
 

@@ -52,14 +52,14 @@ Das Kontrollkästchen links von jedem Objekt.
  a| 
 Alle Objekte auf der Seite
  a| 
-Der image:../media/select_dropdown_65_png.gif[""] Dropdown-Feld, und wählen Sie *Wählen Sie alle Objekte auf dieser Seite* aus.
+Der image:../media/select_dropdown_65_png.gif["Wählen Sie das Dropdown-Symbol aus"] Dropdown-Feld, und wählen Sie *Wählen Sie alle Objekte auf dieser Seite* aus.
 
 
 
  a| 
 Alle Objekte desselben Typs
  a| 
-Der image:../media/select_dropdown_65_png.gif[""] Dropdown-Feld, und wählen Sie *Alle Objekte auswählen*.
+Der image:../media/select_dropdown_65_png.gif["Wählen Sie das Dropdown-Symbol aus"] Dropdown-Feld, und wählen Sie *Alle Objekte auswählen*.
 
 |===
 +

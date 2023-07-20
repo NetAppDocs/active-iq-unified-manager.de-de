@@ -15,7 +15,7 @@ Ereignisse, die ein Switchover oder einen Switchover auslösen, bewirken, dass a
 
 Da Volumes von einem Cluster zum anderen verschoben werden, wird empfohlen, beide Cluster zu überwachen. Eine einzige Instanz von Unified Manager kann beide Cluster in einer MetroCluster-Konfiguration überwachen. Manchmal erfordert die Entfernung zwischen den beiden Standorten jedoch zwei Unified Manager-Instanzen, um beide Cluster zu überwachen. Die folgende Abbildung zeigt eine einzelne Instanz von Unified Manager:
 
-image::../media/opm_mcc_switchover.gif[opm-mcc-Umschaltung]
+image::../media/opm_mcc_switchover.gif[Ein UI-Screenshot mit einer einzelnen Instanz von Unified Manager.]
 
 Die Volumes mit p in ihren Namen geben die primären Volumes an, und die Volumes mit b in ihren Namen sind durch SnapMirror erstellte gespiegelte Backup-Volumes.
 
@@ -45,7 +45,7 @@ Beachten Sie, dass Vol3p und Vol3b nicht die gleichen Volumes sind, weil sie auf
 
 Wenn Cluster B repariert wird und ein Switchback durchgeführt wird, ist Vol3p wieder für Cluster B aktiv. Dies enthält die historischen Statistiken und eine Lücke zwischen den Statistiken für den Zeitraum während der Umschaltung. Vol3b kann von Cluster A nicht angezeigt werden, bis eine weitere Umschaltung erfolgt:
 
-image::../media/opm_mcc_volumes.gif[opm mcc-Volumes]
+image::../media/opm_mcc_volumes.gif[Ein UI-Screenshot, der das Volume-Verhalten während der Umschaltung anzeigt.]
 
 [NOTE]
 ====

@@ -64,7 +64,7 @@ Wenn Sie den Mauszeiger über die Ereignisanzahl für aktive Ereignisse position
 
 Die Zahl oben rechts im Diagramm im grauen Balken ist der Durchschnittswert aus dem letzten 72-Stunden-Zeitraum. Die Zahlen unten und oben im Trendliniendiagramm sind die Mindest- und Höchstwerte der letzten 72 Stunden. Der graue Balken unterhalb des Diagramms enthält die Anzahl der aktiven (neuen und bestätigten) Ereignisse und der veralteten Ereignisse aus dem Zeitraum der letzten 72 Stunden.
 
-image::../media/iops_graph.gif[iops-Diagramm]
+image::../media/iops_graph.gif[Ein UI-Screenshot, der das IOPS-Diagramm zeigt.]
 
 * *Latenzzähler-Diagramm*
 +

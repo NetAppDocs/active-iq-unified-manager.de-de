@@ -30,7 +30,7 @@ Der aktuelle Release bietet Schwellenwerte, die Ereignisse senden, wenn ein Zäh
 ====
 Hier wird ein Beispiel für ein Zählerdiagramm angezeigt, das angibt, dass ein Warnschwellenwert (gelbes Symbol) um 1:00 verletzt wurde und dass ein kritischer Schwellenwert (rotes Symbol) um 12:10, 12:30 und 1:10 Uhr verletzt wurde:
 
-image::../media/opm2_threshold_breach.gif[Überschreitung des Opm2-Schwellenwerts]
+image::../media/opm2_threshold_breach.gif[Ein UI-Screenshot, der ein Beispiel für ein Zählerdiagramm zeigt.]
 
 Für die angegebene Dauer muss eine Schwellenverletzung kontinuierlich auftreten. Wenn der Schwellenwert aus irgendeinem Grund unter die Grenzwerte fällt, wird eine spätere Verletzung als Beginn einer neuen Dauer betrachtet.
 

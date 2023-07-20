@@ -19,7 +19,7 @@ Wenn Sie die Option *Letzte 13 Monate* wählen oder einen benutzerdefinierten Da
 
 Bei der Auswahl eines Zeitbereichs (benutzerdefiniert oder vordefiniert) basieren Zeitbereiche von 30 Tagen oder weniger auf 5-Minuten-Intervalldatenproben. Zeitbereiche, die größer als 30 Tage sind, basieren auf einer Stunde Intervalldatenproben.
 
-image::../media/time_range_selector.gif[Zeitbereich auswählen]
+image::../media/time_range_selector.gif[Ein UI-Screenshot, der das Zeitbereichfenster anzeigt.]
 
 . Klicken Sie auf das Dropdown-Feld *Zeitbereich*, und das Fenster Zeitbereich wird angezeigt.
 . Um einen vordefinierten Zeitbereich auszuwählen, klicken Sie rechts neben dem Fenster *Zeitbereich* auf eine der Schaltflächen *Letzte...*. Bei der Auswahl eines vordefinierten Zeitbereichs stehen Daten für bis zu 13 Monate zur Verfügung. Die von Ihnen ausgewählte Schaltfläche für den vordefinierten Zeitbereich wird hervorgehoben, und die entsprechenden Tage und Zeiten werden in den Kalendern und Zeitauswahlschaltern angezeigt.
