@@ -503,7 +503,6 @@
   <block id="0f6a90196aeb078d6e39cee51dd32bde" category="inline-link-macro">Erstellen eines HTTPS-Sicherheitszertifikats</block>
   <block id="311a59e5248a2e51a6267bb49a15ab0e" category="paragraph">*Zertifikate für gegenseitige TLS-Kommunikation*: Wird bei der gegenseitigen TLS-Kommunikation zwischen Unified Manager und ONTAP verwendet. Die zertifikatbasierte Authentifizierung ist auf Grundlage der Version von ONTAP für ein Cluster aktiviert. Wenn das Cluster mit der Version ONTAP niedriger als die Version 9.5 ist, ist die zertifikatbasierte Authentifizierung nicht aktiviert.</block>
   <block id="a759167cff79e6cc1e7f4b244f9afee5" category="inline-link-macro">Cluster werden bearbeitet</block>
-  <block id="9e1d78fcecc3350c4ecf08cec0b298a1" category="list-text">Die zertifikatbasierte Authentifizierung wird automatisch aktiviert, wenn Sie ein Cluster aus der Web-Benutzeroberfläche hinzufügen. Wenn Sie ein Cluster aus der Wartungskonsole hinzufügen, ist die zertifikatbasierte Authentifizierung nicht aktiviert.</block>
   <block id="75d2b5faa0992c7cda340e5d43fc46b2" category="list-text">Wenn die zertifikatbasierte Authentifizierung für ein Cluster aktiviert ist und Sie das Backup von Unified Manager von einem Server aus erstellen und auf einen anderen Unified Manager Server wiederherstellen. Hier wird der Hostname oder die IP-Adresse geändert, dann kann das Monitoring des Clusters fehlschlagen. Um den Ausfall zu vermeiden, bearbeiten und speichern Sie die Cluster-Details. Weitere Informationen über das Bearbeiten von Cluster-Details finden Sie unter <block ref="8ec52359a26ce2693e51a81c43bbb7b7" category="inline-link-macro-rx"></block>.</block>
   <block id="222b0f66c06702de8b7c2340008972c3" category="inline-link">So erneuern Sie ein selbstsigniertes ONTAP-Zertifikat in der System Manager-Benutzeroberfläche</block>
   <block id="c5fe7803895dbf7c8d576bfae98e932f" category="list-text">Auf dem Unified Manager-Server muss ausreichend Speicherplatz vorhanden sein. Sie können dem Server kein Cluster hinzufügen, wenn mehr als 90 % des Speicherplatzes im Datenbankverzeichnis bereits belegt sind.</block>
@@ -9856,7 +9855,6 @@
   <block id="a0c0b34e406d28d454ddf495e72c1cb9" category="list-text">Er verwendet den Standardport.</block>
   <block id="ae6546f7996b91aa7c6e5c482b07f791" category="list-text">Die Beispieldatenbanken sind nicht installiert.</block>
   <block id="a7b80eacf1b625bed035aa3b2a92bc46" category="list-text">Der Servicename lautet "`MYSQL8`".</block>
-  <block id="dcfc709b0268fc59e78dee65c4b3d005" category="paragraph">Unified Manager wird auf einem WildFly Web-Server bereitgestellt. WildFly 19.0.0 wird im Paket mit Unified Manager konfiguriert.</block>
   <block id="f44cea6cd02b888cc6cc539426598769" category="paragraph">Vor dem Upgrade von Software anderer Anbieter sollten Sie eine laufende Instanz von Unified Manager herunterfahren. Nach Abschluss der Softwareinstallation von Drittanbietern können Sie Unified Manager neu starten.</block>
   <block id="8477864d39c6c8b50036cae20894546f" category="list-text">Microsoft .NET 4.5 oder höher sollte installiert sein.</block>
   <block id="33a0a151920146dd7e37684e9810ec5f" category="list-text">Der<block ref="3d801aa532c1cec3ee82d87a99fdf63f" prefix=" " category="inline-code"></block> Das Verzeichnis sollte mit 2 GB Festplattenspeicher für das Extrahieren der Installationsdateien konfiguriert werden. Um zu überprüfen, ob das Verzeichnis erstellt wird, führen Sie den folgenden Befehl auf der Befehlszeilenschnittstelle aus:<block ref="269dfafa18b3a1f37602d6a276b07399" prefix=" " category="inline-code"></block></block>
@@ -9871,11 +9869,8 @@
   <block id="9520854478b675c31f0555786a67f9b4" category="summary">Sie können auf eine neuere Version von OpenJDK auf dem Windows-Server aktualisieren, auf dem Unified Manager installiert ist, um Korrekturen für Sicherheitslücken zu erhalten.</block>
   <block id="b70d1d0a2a88ed730b8d7e854c93fdbe" category="doc">Aktualisierung von OpenJDK</block>
   <block id="27a27fa27099c3dd7d2e0cb3d56381f0" category="paragraph">Sie müssen über Windows-Administratorrechte für das System verfügen, auf dem Unified Manager installiert ist.</block>
-  <block id="c25a026897caa6b556a4ed073ea3eab4" category="paragraph">Sie können OpenJDK-Versionen innerhalb von Versionsfamilien aktualisieren. Sie können beispielsweise ein Upgrade von OpenJDK 11.0.14 auf OpenJDK 11.0.16 durchführen, aber Sie können nicht direkt von OpenJDK 11 auf OpenJDK 12 aktualisieren.</block>
   <block id="13e3592e5e441ee49815c64ebd90f10f" category="list-text">Laden Sie die entsprechende Version von OpenJDK (64-Bit) von der OpenJDK-Website auf das Zielsystem herunter.</block>
-  <block id="db7fdcdf000c603674beba9fdd7c8075" category="paragraph">Beispiel: Download<block ref="a72e1839eb349ce7db2404ba2ea30d6f" prefix=" " category="inline-code"></block>.</block>
   <block id="7d7f701fa4b6dfcc4812f34ebd909b72" category="list-text">Erweitern Sie den<block ref="adcdbd79a8d84175c229b192aadc02f2" prefix=" " category="inline-code"></block> Datei:</block>
-  <block id="83120bcddc0b0db19b2984cc0524dcb9" category="list-text">Kopieren Sie die Verzeichnisse und Dateien aus dem Ergebnis<block ref="30c81266c64bb09194fbb76d80c99fc1" prefix=" " category="inline-code"></block> Verzeichnis (z. B.<block ref="7b12015226b2c68810e719dd47d11964" prefix=" " category="inline-code"></block> An den Speicherort, an dem Java installiert ist. Beispiel:<block ref="b7373e296aa12e5caf1e84edf230028c" prefix=" " category="inline-code"></block></block>
   <block id="4ce60e4b06ffbfa5ed76fd9dbdcbe958" category="list-text">Starten Sie die Unified Manager-Dienste über die Windows Services-Konsole:</block>
   <block id="635dbe5a53fa671dc53b3dfff7d6f296" category="summary">Wird Unified Manager installiert, um Storage-Kapazität, -Verfügbarkeit, -Performance und -Sicherungsprobleme zu überwachen und Fehler zu beheben.</block>
   <block id="d12e3362333ac1183375a383fbb2cc9e" category="doc">Installation Von Unified Manager</block>
@@ -11679,7 +11674,6 @@
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">Mehr Ressourcen</block>
   <block id="aa193eacf5a35a85044e44de3fa9c91a" category="sidebar">Unified Manager Videos</block>
   <block id="197833bfff97d501603036a0febb7a95" category="sidebar">Unified Manager Blogs</block>
-  <block id="85f73dd16ea214346164b0deea26773b" category="sidebar">Unified Manager</block>
   <block id="09d454f0bf432593d99fbfd84c9f9293" category="sidebar">Durchführung von Konfigurations- und Administrationsaufgaben</block>
   <block id="32d8b1bb1bdc5067bfbde495253b3469" category="sidebar">Überwachen und managen Sie den Cluster-Zustand</block>
   <block id="a56ba57e5caff729c6d136191605d68c" category="sidebar">Welche Sicherheitskriterien werden bewertet</block>
@@ -11935,4 +11929,22 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="863843d0337c17ec7301aee27dad4298" category="paragraph">Sie können OpenJDK-Versionen innerhalb von Versionsfamilien aktualisieren. Sie können beispielsweise von OpenJDK 11.0.16 auf OpenJDK 11.0.18 aktualisieren, aber Sie können nicht direkt von OpenJDK 11 auf OpenJDK 12 aktualisieren.</block>
+  <block id="4e6cb3b05eb2ca0baeb29eb6344e5432" category="paragraph">Beispiel: Download<block ref="3ea5e0fd12073d79066798f485ea1222" prefix=" " category="inline-code"></block>.</block>
+  <block id="e3ea195a19318267cdc1d27ad9b8642c" category="inline-link-macro">Anmeldung beim Oracle-Konto</block>
+  <block id="4f4395612db3fd87fa732ad4576c0447" category="admonition"> Zum Herunterladen der Datei ist ein Oracle-Konto erforderlich. Wenn Sie noch kein Oracle-Konto haben, gehen Sie zu <block ref="f286dce8bc3d39b38609ac0c11f4f840" category="inline-link-macro-rx"></block> Zu erstelle eine Seite.</block>
+  <block id="aa2b11ad1dd4cd77a6434da6fa1398a2" category="list-text">Kopieren Sie die Verzeichnisse und Dateien aus dem Ergebnis<block ref="30c81266c64bb09194fbb76d80c99fc1" prefix=" " category="inline-code"></block> Verzeichnis (z. B.<block ref="20ea71c4664ee137228518ed973e20e3" prefix=" " category="inline-code"></block> An den Speicherort, an dem Java installiert ist. Beispiel:<block ref="b7373e296aa12e5caf1e84edf230028c" prefix=" " category="inline-code"></block></block>
+  <block id="b39eb8b293aab19c862c53f0897b4ab2" category="paragraph">Unified Manager wird auf einem WildFly Web-Server bereitgestellt. WildFly 26.1.3 ist gebündelt und mit Unified Manager konfiguriert.</block>
+  <block id="cda5e923848265fa933cb0a9b4e6bbd4" category="summary">Sie können vCenter-Server aus Ihrer Active IQ Unified Manager-Instanz entfernen, wenn sie nicht mehr benötigt werden.</block>
+  <block id="53155d7df50328d5a08c60b81e95d3ef" category="doc">VCenter Server wird entfernt</block>
+  <block id="376e03ef3aadcc01297e928d6cef623c" category="paragraph">Sie können vCenter-Server aus Ihrer Active IQ Unified Manager-Instanz entfernen. Sie können beispielsweise einen vCenter Server entfernen, wenn die vCenter Server-Erkennung fehlschlägt oder wenn sie nicht mehr benötigt wird.</block>
+  <block id="ea11a696566494f3e2f7f7bfc07d792d" category="paragraph">Durch das Entfernen eines vCenter Servers werden auch alle virtuellen Maschinen (VMs) gelöscht, die auf diesem vCenter gehostet werden, sowie die zugehörigen Konfigurationsdaten. Nachdem der vCenter Server entfernt wurde, wird er zusammen mit den zugehörigen Objekten und historischen Daten nicht mehr überwacht. Diese Änderungen werden auf den Seiten vCenter und des virtuellen Maschineninventars übernommen.</block>
+  <block id="fa5dfe737cfc44ab0b5ac99d7503f49c" category="paragraph">Stellen Sie vor dem Entfernen von vCenter-Servern Folgendes sicher:</block>
+  <block id="ac765ea92fedd534778babee969fa772" category="list-text">Sie verfügen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“.</block>
+  <block id="1e79b2ec9bdad2cd8583a73a17b2515b" category="list-text">Sie sollten die vCenter-Servernamen und die zugehörigen IP-Adressen kennen.</block>
+  <block id="98bc0bd3bb75ed59617996abbbe8aa44" category="list-text">Klicken Sie im linken Navigationsbereich auf *VMWARE&gt;vCenter*.</block>
+  <block id="4cf3a43b5cd40be9479e914697ccc1b0" category="list-text">Wählen Sie auf der Seite vCenters den vCenter-Server aus, den Sie entfernen möchten, und klicken Sie auf *Entfernen*.</block>
+  <block id="ed2b47ce4d6fcfacbe77e96d5e7bf8fb" category="list-text">Klicken Sie im Meldungsdialog *Remove vCenter* auf *OK*, um die Anforderung zum Entfernen zu bestätigen.</block>
+  <block id="adb5482d172346e58675bd3dae5bf089" category="list-text">Sie können ein Cluster über die Web-Benutzeroberfläche hinzufügen, und die zertifikatbasierte Authentifizierung wird automatisch aktiviert.</block>
+  <block id="c237abf2822b92e4b37cfd364eb99eaf" category="list-text">Sie können ein Cluster über die Unified Manager CLI hinzufügen. Die zertifikatbasierte Authentifizierung ist standardmäßig nicht aktiviert. Wenn Sie ein Cluster mit der Unified Manager CLI hinzufügen, muss das Cluster über die Unified Manager UI bearbeitet werden. Sie sehen <block ref="33f0770b98ea7c465f6e58d1466ad24f" category="inline-link-macro-rx"></block> Zum Hinzufügen eines Clusters mit der Unified Manager CLI.</block>
 </blocks>

@@ -66,7 +66,7 @@ Wenn MySQL vorinstalliert ist, sollten Sie Folgendes sicherstellen:
 * Der Servicename lautet "`MYSQL8`".
 
 
-Unified Manager wird auf einem WildFly Web-Server bereitgestellt. WildFly 19.0.0 wird im Paket mit Unified Manager konfiguriert.
+Unified Manager wird auf einem WildFly Web-Server bereitgestellt. WildFly 26.1.3 ist gebündelt und mit Unified Manager konfiguriert.
 
 [NOTE]
 ====

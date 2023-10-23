@@ -48,7 +48,8 @@ Die zertifikatbasierte Authentifizierung wird für ein Cluster nicht automatisch
 +
 [NOTE]
 ====
-*** Die zertifikatbasierte Authentifizierung wird automatisch aktiviert, wenn Sie ein Cluster aus der Web-Benutzeroberfläche hinzufügen. Wenn Sie ein Cluster aus der Wartungskonsole hinzufügen, ist die zertifikatbasierte Authentifizierung nicht aktiviert.
+*** Sie können ein Cluster über die Web-Benutzeroberfläche hinzufügen, und die zertifikatbasierte Authentifizierung wird automatisch aktiviert.
+*** Sie können ein Cluster über die Unified Manager CLI hinzufügen. Die zertifikatbasierte Authentifizierung ist standardmäßig nicht aktiviert. Wenn Sie ein Cluster mit der Unified Manager CLI hinzufügen, muss das Cluster über die Unified Manager UI bearbeitet werden. Sie sehen link:https://docs.netapp.com/us-en/active-iq-unified-manager/events/reference_supported_unified_manager_cli_commands.html["Unterstützte CLI-Befehle von Unified Manager"] Zum Hinzufügen eines Clusters mit der Unified Manager CLI.
 *** Wenn die zertifikatbasierte Authentifizierung für ein Cluster aktiviert ist und Sie das Backup von Unified Manager von einem Server aus erstellen und auf einen anderen Unified Manager Server wiederherstellen. Hier wird der Hostname oder die IP-Adresse geändert, dann kann das Monitoring des Clusters fehlschlagen. Um den Ausfall zu vermeiden, bearbeiten und speichern Sie die Cluster-Details. Weitere Informationen über das Bearbeiten von Cluster-Details finden Sie unter link:../storage-mgmt/task_edit_clusters.html["Cluster werden bearbeitet"].
 
 
