@@ -47,4 +47,4 @@ link:https://www.netapp.com/company/legal/privacy-policy/["https://www.netapp.co
 
 Informationen über das Urheberrecht und die Lizenzen Dritter, die in diesem Produkt verwendet werden.
 
-https://library.netapp.com/ecm/ecm_download_file/ECMLP2885775["Hinweis für Active IQ Unified Manager 9.13"]
+https://library.netapp.com/ecm/ecm_download_file/ECMLP2886868["Hinweis für Active IQ Unified Manager 9.14"]

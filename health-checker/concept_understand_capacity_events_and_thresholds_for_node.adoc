@@ -16,3 +16,6 @@ Sie können das Root-Aggregat des Nodes mithilfe von Unified Manager überwachen
 Standardmäßig werden Kapazitäts- und Performance-Ereignisse nicht für die Root-Aggregate generiert. Darüber hinaus gelten die von Unified Manager verwendeten Schwellenwertwerte nicht für die Root-Aggregate der Nodes. Nur ein Mitarbeiter des technischen Supports kann die Einstellungen für diese zu erstellenden Ereignisse ändern. Wenn die Einstellungen vom technischen Supportmitarbeiter geändert werden, werden die Kapazitätsschwellenwerte auf das Root-Aggregat des Nodes angewendet.
 
 Sie können geeignete Maßnahmen ergreifen, um zu verhindern, dass der Node mit ONTAP System Manager oder der ONTAP CLI angehalten wird.
+
+
+NOTE: Die Funktion zum Monitoring von Node-Root-Aggregaten ist nicht verfügbar, wenn auf Clustern ONTAP 9.14.1 oder höher ausgeführt wird.

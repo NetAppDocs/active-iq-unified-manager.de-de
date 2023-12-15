@@ -21,7 +21,7 @@ Vor Beginn eines Backup-Vorgangs führt Unified Manager eine Integritätsprüfun
 ====
 * Sie können eine Snapshot-Kopie nur auf derselben Version von Active IQ Unified Manager wiederherstellen.
 +
-Wenn Sie beispielsweise ein Backup mit Unified Manager 9.13 erstellt haben, kann das Backup nur auf Unified Manager 9.13-Systemen wiederhergestellt werden.
+Wenn Sie beispielsweise ein Backup mit Unified Manager 9.14 erstellt haben, kann das Backup nur auf Unified Manager 9.14-Systemen wiederhergestellt werden.
 
 * Wenn sich die Snapshot-Konfiguration ändert, kann dies zu einem ungültigen Snapshot führen.
 
