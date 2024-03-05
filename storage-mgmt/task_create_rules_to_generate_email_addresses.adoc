@@ -19,10 +19,10 @@ Sie können Regeln erstellen, um die E-Mail-Adresse auf der Grundlage des mit Cl
 * Sie müssen die Richtlinien auf der Seite Regeln zur Erstellung von Benutzer- und Gruppenkontingente-E-Mail-Adresse geprüft haben.
 
 
-Sie müssen die Regeln für Quota-E-Mail-Adressen definieren und in der Reihenfolge eingeben, in der sie ausgeführt werden sollen. Wenn Sie beispielsweise die E-Mail-Adresse qtree1@xyz.com verwenden möchten, um Benachrichtigungen über Quotenverletzungen für qtree1 zu erhalten und die E-Mail-Adresse admin@xyz.com für alle anderen qtrees zu verwenden, müssen die Regeln in der folgenden Reihenfolge aufgeführt werden:
+Sie müssen die Regeln für Quota-E-Mail-Adressen definieren und in der Reihenfolge eingeben, in der sie ausgeführt werden sollen. Wenn Sie zum Beispiel die E-Mail-Adresse abc@xyz.com verwenden möchten, um Benachrichtigungen über Quotenverletzungen für abc zu erhalten und die E-Mail-Adresse dl-€GROUP@ für alle anderen Gruppen zu verwenden, müssen die Regeln in der folgenden Reihenfolge aufgeführt sein:
 
-* Bei (€ QTREE =='qtre1' ) dann qtree1@xyz.com
-* Bei (€ QTREE == * ) dann admin@xyz.com
+* Wenn ( BENUTZER == 'abc' ) dann abc@xyz.com
+* Wenn (@ GROUP == * ) dann dl-€GRUPPE DOMÄNE
 
 
 Wenn keines der von Ihnen angegebenen Kriterien erfüllt ist, wird die Standardregel verwendet:

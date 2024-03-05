@@ -117,3 +117,5 @@ Proc-Type: 4,ENCRYPTED
 <content here>
 -----END EC PRIVATE KEY-----
 ----
+Wenn die Zertifikatinstallation fehlschlägt, lesen Sie den Knowledge Base-Artikel (KB):
+https://kb.netapp.com/mgmt/AIQUM/IQUM_fails_to_install_externally_generated_certificate["ActiveIQ Unified Manager kann ein extern generiertes Zertifikat nicht installieren"^]
