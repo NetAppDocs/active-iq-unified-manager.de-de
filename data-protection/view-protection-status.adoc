@@ -72,7 +72,7 @@ Wenn Sie auf dieser Seite auf die Ereignisse klicken, gelangen Sie zur Seite mit
 
 * Einzelne Ereignisse für SnapMirror Beziehungen, einschließlich der in den letzten 24 Stunden aufgeworfenen Ereignisse
 * Die Anzahl der durch jeden Typ der SnapMirror-Richtlinie geschützten Volumes.
-* Die Anzahl der Beziehungen, die durch die SnapMirror Beziehungstypen gesichert werden, z. B. asynchrone Spiegelung, asynchrone Vault, asynchroner MirrorVault, StricxtSync, die Konsistenzgruppe „SnapMirror Business Continuity“ (SMBC) und „Sync“.
+* Die Anzahl der durch die SnapMirror-Beziehungstypen geschützten Beziehungen, z. B. Asynchronous Mirror, Asynchronous Vault, Asynchronous MirrorVault, StricxtSync, SnapMirror Active Sync Consistency Group und Sync.
 * Die Anzahl der gesunden und ungesunden Beziehungen.
 * Aufbrechen der Anzahl der Volume-Beziehungen Sie können die Diagramme nach RPO-Verzögerungszeit und Status umschalten.
 * Lag-Schwellenwerte für nicht gemanagte Beziehungen. Sie können auf das Einstellungssymbol ( klickenimage:../media/Settings.PNG["Symbol für Verzögerungsschwellenwerte"]) Zum Konfigurieren der Verzögerungsschwellenwerte. Weitere Informationen finden Sie unter link:../health-checker/task_configure_lag_threshold_settings_for_unmanaged_protection.html["Konfigurieren von Verzögerungsschwellenwerten für nicht verwaltete Schutzbeziehungen"].

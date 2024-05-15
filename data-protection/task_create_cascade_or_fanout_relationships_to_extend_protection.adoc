@@ -13,7 +13,7 @@ summary: Sie können den Schutz vor einer bestehenden Beziehung erweitern, indem
 [role="lead"]
 Sie können den Schutz vor einer bestehenden Beziehung erweitern, indem Sie entweder einen Fanout vom Quell-Volume oder eine Kaskade vom Zielvolumen einer bestehenden Beziehung erstellen. Dies kann der Fall sein, wenn Sie Daten von einem Standort auf mehrere Standorte kopieren oder durch das Erstellen weiterer Backups zusätzlichen Schutz bieten müssen.
 
-Sie können die Sicherung auf Volumes mithilfe der Konsistenzgruppe erweitern. Hierbei handelt es sich um einen Container mit mehreren Volumes, sodass Sie alle Volumes als eine Einheit verwalten können. Sie können die SnapMirror Business Continuity (SM-BC) Consistency Group und die synchrone Consistency Group-Beziehung auf der Beziehungsseite von Unified Manager anzeigen.
+Sie können die Sicherung auf Volumes mithilfe der Konsistenzgruppe erweitern. Hierbei handelt es sich um einen Container mit mehreren Volumes, sodass Sie alle Volumes als eine Einheit verwalten können. Sie können die SnapMirror Active Sync Konsistenzgruppe und die synchrone Konsistenzgruppenbeziehung auf der Seite Beziehungen von Unified Manager anzeigen.
 
 *Was Sie brauchen*
 

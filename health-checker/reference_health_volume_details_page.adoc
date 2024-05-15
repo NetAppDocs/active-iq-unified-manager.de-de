@@ -571,7 +571,7 @@ Zeigt den Schutztyp an, der für das ausgewählte Volume verwendet wird. Wenn ei
 
 ** Konsistenzgruppe
 +
-Für Volumes, die durch SnapMirror Business Continuity (SM-BC)-Beziehungen geschützt sind, wird in dieser Spalte die Konsistenzgruppe des Volumes angezeigt.
+Für Volumes, die durch aktive SnapMirror-Synchronisierungsbeziehungen geschützt sind, zeigt diese Spalte die Konsistenzgruppe des Volumes an.
 
 
 

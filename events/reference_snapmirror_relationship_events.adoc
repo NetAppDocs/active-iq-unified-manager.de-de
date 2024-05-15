@@ -183,7 +183,7 @@ Fehler
 
 
  a| 
-ONTAP Mediator Connectivity wurde wiederhergestellt und ist für SMBC (SnapmirrorMediatorInQuorum) resynchronisiert und bereit
+ONTAP Mediator Connectivity wurde neu eingerichtet, neu synchronisiert und bereit für SnapMirror Active Sync (snapmirrorMediatorInQuorum)
  a| 
 Ereignis
  a| 

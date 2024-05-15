@@ -1,8 +1,8 @@
 ---
 permalink: data-protection/view-lun-relationships.html 
 sidebar: sidebar 
-keywords: LUN, SM-BC, SnapMirror Business Continuity, Consistency Group, CG 
-summary: Einheitliche Ansicht von durch SM-BC geschützten LUNs 
+keywords: LUN, SnapMirror active sync, Consistency Group, CG 
+summary: Einheitliche Ansicht der durch SnapMirror aktiven Sync geschützten LUNs. 
 ---
 = Überwachung von LUNs in einer Konsistenzgruppe
 :allow-uri-read: 
@@ -11,15 +11,16 @@ summary: Einheitliche Ansicht von durch SM-BC geschützten LUNs
 
 
 [role="lead"]
-Wenn Ihre ONTAP Umgebung SnapMirror Business Continuity (SM-BC) zum Schutz von Applikationen mit LUNs unterstützt, können Sie diese LUNs auf Active IQ Unified Manager anzeigen und überwachen.
+Wenn Ihre ONTAP Umgebung die aktive SnapMirror Synchronisierung mit unterstützt
+Schützen Sie Applikationen mit LUNs, und Sie können diese LUNs auf der Active IQ Unified Manager anzeigen und überwachen.
 
-SM-BC gewährleistet die Recovery Time Objective (RTO) von null beim Failover in SAN-Umgebungen. In einer typischen Implementierung, die SM-BC unterstützt, sind die LUNs auf Volumes durch Konsistenzgruppenbeziehungen geschützt.
+SnapMirror Active Sync sorgt für null Recovery Time Objective (RTO) während des Failovers in SAN-Umgebungen. In einer typischen Bereitstellung, die SnapMirror Active Sync unterstützt, sind die LUNs auf Volumes durch Beziehungen zu Konsistenzgruppen geschützt.
 
 Diese primären und sekundären LUNs sind zusammengesetzte LUNs oder ein LUN-Replikatpaar mit derselben UUID und Seriennummer. Die I/O-Vorgänge (sowohl Lese- als auch Schreibvorgänge) werden über die Quell- und Zielstandorte auf diesen zusammengesetzten LUNs multipliziert, wodurch Transparenz gewährleistet wird.
 
 Zur Anzeige zusammengesetzter LUNs sollten sowohl die primären als auch die sekundären Cluster mit den LUNs, die Teil der Consistency Group-Beziehung sind, hinzugefügt und in Unified Manager entdeckt werden. Es werden nur iSCSI- und FCP-LUNs unterstützt.
 
-Weitere Informationen zu SM-BC finden Sie unter link:https://docs.netapp.com/us-en/ontap/smbc/index.html["ONTAP 9 Dokumentation für SM-BC"].
+Informationen zur aktiven SnapMirror Synchronisierung finden Sie unter link:https://docs.netapp.com/us-en/ontap/smbc/index.html["ONTAP 9 Dokumentation für SnapMirror Active Sync (ehemals SM-BC)"].
 
 Um sich zusammengesetzte LUNs in Ihrer Umgebung anzusehen, folgen Sie den folgenden Schritten:
 

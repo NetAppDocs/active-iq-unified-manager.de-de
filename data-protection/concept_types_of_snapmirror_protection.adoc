@@ -1,7 +1,7 @@
 ---
 permalink: data-protection/concept_types_of_snapmirror_protection.html 
 sidebar: sidebar 
-keywords: types, snapmirror, protection, consistency group, snapmirror business continuity, smbc, sm-bc 
+keywords: types, snapmirror, protection, consistency group, SnapMirror active sync 
 summary: Je nach Implementierung Ihrer Topologie des Storage können Sie mit Unified Manager mehrere Arten von SnapMirror Sicherungsbeziehungen konfigurieren. Alle Varianten des SnapMirror Schutzes bieten Failover Disaster Recovery-Schutz, bieten jedoch unterschiedliche Funktionen in Bezug auf Performance, Versionsflexibilität und Sicherung mehrerer Backup-Kopien. 
 ---
 = Arten der SnapMirror Sicherung
@@ -72,14 +72,14 @@ Die Schaltfläche „Wiederherstellen“ und die Schaltflächen zum Beziehungsvo
 ====
 
 
-== SnapMirror Synchronous Business Continuity
+== SnapMirror Active Sync
 
-Die SnapMirror Business Continuity Funktion (SM-BC) ist ab ONTAP 9.8 verfügbar und kann damit für die Sicherung von Applikationen mit LUNs eingesetzt werden. Auf diese Weise können Applikationen transparent ausfallen, sodass im Notfall Business Continuity gewährleistet ist.
+Die Funktion für die aktive Synchronisierung von SnapMirror ist mit ONTAP 9.8 und höher verfügbar und dient zum Schutz von Applikationen mit LUNs, sodass Applikationen transparent ein Failover durchführen können, sodass für den Fall, dass es zu einem Ausfall kommt, Business Continuity sichergestellt wird.
 
-Damit können Sie die synchronen SnapMirror Beziehungen für Konsistenzgruppen (CGS) erkennen und überwachen, die auf Clustern und Storage Virtual Machines von Unified Manager verfügbar sind. SM-BC wird auf AFF Clustern oder All SAN Array (ASA) Clustern unterstützt, bei denen die primären und sekundären Cluster entweder AFF oder ASA sein können. SM-BC sichert Applikationen mit iSCSI oder FCP LUNs.
+Damit können Sie die synchronen SnapMirror Beziehungen für Konsistenzgruppen (CGS) erkennen und überwachen, die auf Clustern und Storage Virtual Machines von Unified Manager verfügbar sind. SnapMirror Active Sync wird auf AFF Clustern oder auf All-SAN-Array (ASA) Clustern unterstützt, bei denen die primären und sekundären Cluster entweder AFF oder ASA sein können. SnapMirror Active Sync sichert Applikationen mit iSCSI- oder FCP-LUNs.
 
-Wenn Sie die durch die SM-BC-Beziehung geschützten Volumes und LUNs anzeigen, erhalten Sie eine einheitliche Ansicht für Sicherungsbeziehungen, Konsistenzgruppen im Volume-Bestand, Anzeigen der Schutztopologie für Consistency Group-Beziehungen, Anzeigen historischer Daten für Consistency Group-Beziehungen bis zu einem Jahr. Sie können den Bericht auch herunterladen. Sie können auch die Zusammenfassung der Konsistenzgruppenbeziehungen anzeigen, die Unterstützung von Konsistenzgruppenbeziehungen suchen und Informationen zu Volumes erhalten, die von der Konsistenzgruppe geschützt sind.
+Wenn Sie die durch die SnapMirror Active Sync Beziehung geschützten Volumes und LUNs anzeigen, erhalten Sie eine einheitliche Ansicht für Sicherungsbeziehungen, Konsistenzgruppen in der Volume-Inventarisierung, Sicherungstopologie für Konsistenzgruppenbeziehungen, Anzeigen von Verlaufsdaten für Konsistenzgruppenbeziehungen bis zu einem Jahr. Sie können den Bericht auch herunterladen. Sie können auch die Zusammenfassung der Konsistenzgruppenbeziehungen anzeigen, die Unterstützung von Konsistenzgruppenbeziehungen suchen und Informationen zu Volumes erhalten, die von der Konsistenzgruppe geschützt sind.
 
 Auf der Seite „Beziehungen“ können Sie auch den Schutz der Quell- und Ziel-Storage-Objekte und ihre Beziehung, die durch die Konsistenzgruppe geschützt sind, sortieren, filtern und erweitern.
 
-Weitere Informationen über SnapMirror Synchronous Business Continuity finden Sie unter link:https://docs.netapp.com/us-en/ontap/smbc/index.html["ONTAP 9 Dokumentation für SM-BC"].
+Weitere Informationen zur aktiven SnapMirror Synchronisierung finden Sie unter link:https://docs.netapp.com/us-en/ontap/smbc/index.html["ONTAP 9 Dokumentation für SnapMirror Active Sync (ehemals SM-BC)"].

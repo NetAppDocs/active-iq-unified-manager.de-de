@@ -230,7 +230,7 @@ Zeigt den Mediatorstatus an.
 +
 ** Keine Angabe
 +
-Wenn das Cluster nicht SnapMirror Business Continuity unterstützt.
+Wenn der Cluster die aktive SnapMirror Synchronisierung nicht unterstützt.
 
 ** Nicht Konfiguriert
 +
@@ -286,7 +286,7 @@ Zeigt den Namen des Links mit dem Namen des Quell-Nodes für die SnapMirror Bezi
 
 
 
-Wenn Sie in der benutzerdefinierten Ansicht auf den Link für den Node-Namen klicken, können Sie den Schutz für Speicherobjekte anzeigen und erweitern, auf denen die Volumes dieser Konsistenzgruppen vorhanden sind, die zur SM-BC-Beziehung gehören.
+Wenn Sie in der benutzerdefinierten Ansicht auf den Link Node-Name klicken, können Sie den Schutz für Storage-Objekte anzeigen und erweitern, auf denen die Volumes dieser Konsistenzgruppen zu einer aktiven SnapMirror Synchronisierungsbeziehung gehören.
 
 Wenn Sie auf den Link Knotenanzahl klicken, gelangen Sie zur Knotenseite mit den entsprechenden Knoten, die dieser Beziehung zugeordnet sind. Wenn die Knotenanzahl 0 ist, wird kein Wert angezeigt, da der Beziehung keine Knoten zugeordnet sind.
 
