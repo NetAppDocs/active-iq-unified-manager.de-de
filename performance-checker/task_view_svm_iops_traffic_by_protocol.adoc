@@ -19,7 +19,7 @@ Außerdem zeigt das Diagramm „IOPS – Protokolle“ einen detaillierten Vergl
 * NFS
 * FCP
 * ISCSI
-* NVMe
+* NVMe-FC
 
 
 .Schritte
