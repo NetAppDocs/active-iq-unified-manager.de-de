@@ -44,7 +44,7 @@ Wenn Sie den Host-Namen in Unified Manager ändern, müssen Sie den Hostnamen in
 
 . Netzwerkdienst neu starten:
 +
-`service network restart`
+`systemctl restart NetworkManager.service`
 
 . Überprüfen Sie nach dem Neustart des Dienstes, ob der neue Hostname selbst pingen kann:
 +
