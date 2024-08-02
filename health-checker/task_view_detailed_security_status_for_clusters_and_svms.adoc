@@ -13,7 +13,7 @@ summary: Die Sicherheitsseite zeigt den allgemeinen Sicherheitsstatus aller Clus
 [role="lead"]
 Active IQ Unified Manager ermöglicht Ihnen, den Sicherheitsstatus der Storage-Objekte in Ihrer Umgebung von verschiedenen Punkten der Schnittstelle aus anzuzeigen. Sie können Informationen und Berichte auf der Basis definierter Parameter erfassen und analysieren und verdächtige Verhaltensweisen oder nicht autorisierte Systemänderungen auf den überwachten Clustern und Storage-VMs erkennen.
 
-Informationen zu den Sicherheitsempfehlungen finden Sie im http://www.netapp.com/us/media/tr-4569.pdf["NetApp Leitfaden zur verstärkte Sicherheit in ONTAP 9"]
+Die Sicherheitsempfehlungen finden Sie im https://www.netapp.com/pdf.html?item=/media/10674-tr4569pdf.pdf["NetApp Leitfaden zur verstärkte Sicherheit in ONTAP 9"^]
 
 
 
