@@ -196,7 +196,7 @@ Fehler
 
 
  a| 
-Intercluster für Cloud Tiering inaktiv
+Cloud Tier Intercluster-Netzwerkschnittstelle Nicht Aktiv
  a| 
 objstore.interclusterlifDown
  a| 

@@ -595,7 +595,7 @@ Warnung
 
 
  a| 
-Volume-Latenz ms/op kritischer Schwellenwert – nicht überschritten (OktumVolumeLatenVorfall)
+Volume-Latenz – kritischer Schwellenwert überschritten (ocumVolumeLatenzIncident)
  a| 
 Vorfall
  a| 
@@ -606,7 +606,7 @@ Kritisch
 
 
  a| 
-Volume-Latenz ms/op Warnungsschwellenwert nicht überschritten (ocumVolumeLatencyWarnung)
+Schwellenwert für Volume-Latenzwarnung überschritten (ocumVolumeLatencyWarnung)
  a| 
 Dar
  a| 

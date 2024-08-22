@@ -123,7 +123,7 @@ Fehler
 
 
  a| 
-Cloud Tiering Intercluster LIF Down * (ocumObjstoreInterClusterLifDown)
+Cloud Tiering Intercluster-Netzwerkschnittstelle * (ocumObjstoreInterClusterLifDown)
  a| 
 Dar
  a| 

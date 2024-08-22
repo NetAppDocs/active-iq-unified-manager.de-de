@@ -24,7 +24,7 @@ Ein Sternchen (*) identifiziert EMS-Ereignisse, die in Unified Manager-Ereigniss
 
 
  a| 
-SVM CIFS Service-Down(ocumEvtVserverCifsServiceStatusDown)
+Storage VM CIFS Service Down (ocumEvtVserverCifsServiceStatusDown)
  a| 
 Vorfall
  a| 
@@ -134,7 +134,7 @@ Kritisch
 
 
  a| 
-SVM NFS-Service-Down (ocumEvtVserverNfsServiceStatusDown)
+Storage VM NFS Service Down(ocumEvtVserverNfsServiceStatusDown)
  a| 
 Vorfall
  a| 
@@ -178,7 +178,7 @@ Informationsdaten
 
 
  a| 
-SVM angehalten(ocumEvtVserverDown)
+Storage VM angehalten (ocumEvtVserverDown)
  a| 
 Dar
  a| 
