@@ -11,7 +11,7 @@ summary: Wenn Sie bereits Unified Manager auf einem Red hat Enterprise Linux 7.x
 
 
 [role="lead"]
-Wenn Sie bereits Unified Manager auf einem Red hat Enterprise Linux 7.x-System installiert haben und ein Upgrade auf Red hat Enterprise Linux 8.x durchführen müssen, müssen Sie eines der in diesem Thema aufgeführten Verfahren befolgen. In beiden Fällen müssen Sie eine Sicherung von Unified Manager auf dem Red hat Enterprise Linux 7.x-System erstellen und anschließend die Sicherung auf einem Red hat Enterprise Linux 8.x-System wiederherstellen. Beachten Sie, dass die unterstützten Versionen von Red hat Enterprise Linux zwischen 8.0 und 8.7 liegen.
+Wenn Sie bereits Unified Manager auf einem Red hat Enterprise Linux 7.x-System installiert haben und ein Upgrade auf Red hat Enterprise Linux 8.x durchführen müssen, müssen Sie eines der in diesem Thema aufgeführten Verfahren befolgen. In beiden Fällen müssen Sie eine Sicherung von Unified Manager auf dem Red hat Enterprise Linux 7.x-System erstellen und anschließend die Sicherung auf einem Red hat Enterprise Linux 8.x-System wiederherstellen. Beachten Sie, dass die unterstützten Versionen von Red hat Enterprise Linux zwischen 8.0 und 8.9 liegen.
 
 Der Unterschied zwischen den beiden unten aufgeführten Optionen besteht darin, dass Sie in einem Fall die Wiederherstellung von Unified Manager auf einem neuen 8.x-Server durchführen und im anderen Fall den Wiederherstellungsvorgang auf demselben Server ausführen.
 

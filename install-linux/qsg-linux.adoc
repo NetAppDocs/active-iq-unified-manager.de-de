@@ -17,7 +17,7 @@ Sie können das Installationspaket herunterladen und Unified Manager auf einer p
 
 == Systemanforderungen
 
-* Betriebssystem: Red hat Enterprise Linux Versionen 7.x und von 8.0 bis 8.8 oder CentOS Version 7.x basierend auf x86_64 Architektur, installiert unter Verwendung der „Server mit GUI“ Basisumgebung aus der Option *Software Selection* des OS Installers
+* Betriebssystem: Red hat Enterprise Linux Versionen 7.x und von 8.0 bis 8.9 oder CentOS Version 7.x basierend auf x86_64 Architektur, installiert unter Verwendung der „Server mit GUI“ Basisumgebung aus der Option *Software Selection* des OS Installers
 * RAM: 12 GB, CPU: 9572 MHz insgesamt
 * Freier Speicherplatz: 100 GB Festplattenspeicher im `/opt/netapp/data` Verzeichnis, 50 GB in der Root-Partition. Für die separate Montage `/opt` Und `/var/log` Verzeichnisse, stellen Sie sicher, dass `/opt` Hat 15 GB, `/var/log` Hat 16 GB, und `/tmp` Verfügt über 10 GB freien Speicherplatz.
 
