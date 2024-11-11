@@ -13,4 +13,4 @@ summary: Irgendwann möchten Sie möglicherweise den Host-Namen des Systems änd
 [role="lead"]
 Irgendwann möchten Sie möglicherweise den Host-Namen des Systems ändern, auf dem Unified Manager installiert ist. Beispielsweise möchten Sie den Host umbenennen, um Ihre Unified Manager-Server nach Typ, Arbeitsgruppe oder überwachten Cluster-Gruppen einfacher zu identifizieren.
 
-Je nachdem, ob Unified Manager auf einem VMware ESXi Server, auf einem Red hat oder CentOS Linux Server oder auf einem Microsoft Windows Server ausgeführt wird, sind die zum Ändern des Host-Namens erforderlichen Schritte unterschiedlich.
+Die zum Ändern des Hostnamens erforderlichen Schritte hängen davon ab, ob Unified Manager auf einem VMware ESXi-Server, auf einem Red hat Linux-Server oder auf einem Microsoft Windows-Server ausgeführt wird.

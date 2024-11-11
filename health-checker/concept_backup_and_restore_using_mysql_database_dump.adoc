@@ -15,7 +15,7 @@ Ein MySQL Datenbank Dump Backup ist eine Kopie der Active IQ Unified Manager-Dat
 
 [NOTE]
 ====
-MySQL Datenbank Dump ist der Standard-Backup-Mechanismus, wenn Unified Manager auf einem Linux- und Windows-Server installiert ist. Wenn Unified Manager jedoch eine große Anzahl von Clustern und Nodes managt oder die MySQL Backups viele Stunden in Anspruch nehmen, können Sie mithilfe von Snapshot Kopien ein Backup durchführen. Diese Funktion ist verfügbar für Red hat Enterprise Linux, CentOS Linux und Windows.
+MySQL Datenbank Dump ist der Standard-Backup-Mechanismus, wenn Unified Manager auf einem Linux- und Windows-Server installiert ist. Wenn Unified Manager jedoch eine große Anzahl von Clustern und Nodes managt oder die MySQL Backups viele Stunden in Anspruch nehmen, können Sie mithilfe von Snapshot Kopien ein Backup durchführen. Diese Funktion ist auf Red hat Enterprise Linux und Windows verfügbar.
 
 ====
 Ein Datenbank-Dump-Backup besteht aus einer einzelnen Datei im Sicherungsverzeichnis und einer oder mehreren Dateien im Datenbank-Repository-Verzeichnis. Die Datei im Backup-Verzeichnis ist sehr klein, da sie nur einen Zeiger auf die Dateien enthält, die sich im Datenbank-Repository-Verzeichnis befinden und für die Wiederherstellung des Backups benötigt werden.

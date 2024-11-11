@@ -15,7 +15,7 @@ summary: Über das Menü Netzwerkkonfiguration können Sie die Netzwerkeinstellu
 
 [NOTE]
 ====
-Dieses Menü ist nicht verfügbar, wenn Unified Manager auf Red hat Enterprise Linux, CentOS oder unter Microsoft Windows installiert ist.
+Dieses Menü ist nicht verfügbar, wenn Unified Manager auf Red hat Enterprise Linux oder Microsoft Windows installiert ist.
 
 ====
 Folgende Menüoptionen stehen zur Verfügung:

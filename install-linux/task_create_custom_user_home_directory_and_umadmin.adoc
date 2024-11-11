@@ -16,7 +16,7 @@ Sie können ein benutzerdefiniertes Home-Verzeichnis erstellen und Ihr eigenes u
 *Was Sie brauchen*
 
 * Das System muss die in beschriebenen Anforderungen erfüllen link:concept_virtual_infrastructure_or_hardware_system_requirements.html["Hardwaresystemanforderungen"].
-* Sie müssen sich als Root-Benutzer beim Red hat Enterprise Linux oder CentOS System anmelden können.
+* Sie müssen sich als Root-Benutzer beim Red hat Enterprise Linux-System anmelden können.
 
 
 Die Standardinstallation von Unified Manager führt die folgenden Aufgaben aus:

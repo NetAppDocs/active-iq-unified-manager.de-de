@@ -11,7 +11,7 @@ summary: Sie können ein Upgrade von Unified Manager durchführen, indem Sie die
 
 
 [role="lead"]
-Sie können ein Upgrade von Unified Manager 9.12 oder 9.13 auf 9.14 durchführen, indem Sie die Installationsdatei auf die Linux-Plattform herunterladen und ausführen.
+Sie können ein Upgrade von Unified Manager 9.13 oder 9.14 auf 9.16 durchführen, indem Sie die Installationsdatei auf die Linux-Plattform herunterladen und ausführen.
 
 *Was Sie brauchen*
 
@@ -34,7 +34,7 @@ Siehe link:task_upgrade_openjdk_on_linux_ocum.html["Aktualisieren von JRE auf Li
 
 
 .Schritte
-. Melden Sie sich beim Red hat Enterprise Linux- oder CentOS-Zielserver an.
+. Melden Sie sich beim Ziel-Red hat Enterprise Linux-Server an.
 . Laden Sie das Unified Manager Bundle auf den Server herunter.
 +
 Siehe link:task_download_unified_manager.html["Herunterladen von Unified Manager für Linux"].

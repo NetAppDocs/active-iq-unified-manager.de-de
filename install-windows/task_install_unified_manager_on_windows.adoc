@@ -29,6 +29,7 @@ Ab Unified Manager 9.5 wird OpenJDK im Installationspaket bereitgestellt und aut
 
 ====
 * Sie sollten über Windows-Administratorrechte verfügen. Stellen Sie sicher, dass Ihr Benutzername nicht mit einem Ausrufezeichen "` beginnt!`". Installation of Unified Manager might fail if the user name of user running the installation begins with "`!`".
+* Alle Cluster werden unterstützt, mit Ausnahme von ASA r2-Systemen.
 * Sie sollten über einen unterstützten Webbrowser verfügen.
 * Das Unified Manager-Wartungsbenutzerkennwort sollte zwischen 8 und 20 Zeichen lang sein. Es sollte Groß-/Kleinschreibung oder Buchstaben, Ziffern und Sonderzeichen enthalten.
 * Die folgenden Sonderzeichen sind in der Kennwortzeichenfolge für den Wartungbenutzer oder für den MySQL-Root-Benutzer nicht zulässig: " ' ` % , = & < > ^ \ / ( ) [ ] ;:
@@ -44,8 +45,8 @@ Folgende Sonderzeichen sind erlaubt: ~ ! @ # * - ? . + { }
 https://mysupport.netapp.com/site/products/all/details/activeiq-unified-manager/downloads-tab["NetApp Support Website"^]
 
 . Wählen Sie die erforderliche Version von Unified Manager aus, und akzeptieren Sie die Endbenutzer-Lizenzvereinbarung (Endbenutzer License Agreement, EULA).
-. Laden Sie die Installationsdatei für Unified Manager Windows in ein Zielverzeichnis auf dem Windows-System herunter.
-. Navigieren Sie zum Verzeichnis, in dem sich die Installationsdatei befindet.
+. Laden Sie die Unified Manager Windows-Installationsdatei oder die ZIP-Datei in ein Zielverzeichnis auf dem Windows-System herunter.
+. Extrahieren Sie ggf. die ZIP-Datei, und navigieren Sie zu dem Verzeichnis, in dem sich die Installationsdatei befindet.
 . Klicken Sie mit der rechten Maustaste, und führen Sie die ausführbare Datei des Unified Manager-Installationsprogramms (.exe) als Administrator aus.
 +
 Unified Manager erkennt fehlende oder vorinstallierte Pakete von Drittanbietern und listet sie auf. Wenn die erforderlichen Drittanbieterpakete nicht im System installiert sind, installiert Unified Manager diese im Rahmen der Installation.

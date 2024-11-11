@@ -39,7 +39,7 @@ Wenn Sie die Option *STARTTLS verwenden* oder *SSL verwenden* ausgewählt haben,
 +
 Wenn Sie einen Proxy für den Zugriff auf das Internet festlegen müssen, um AutoSupport-Inhalte zu senden, oder wenn Sie AutoSupport deaktivieren möchten, verwenden Sie die Option *Allgemein* > *AutoSupport* von der Web-Benutzeroberfläche.
 
-. Ändern Sie auf Red hat- und CentOS-Systemen das umadmin-Benutzerpasswort von der standardmäßigen Zeichenfolge „`admin`“ in eine personalisierte Zeichenfolge.
+. Ändern Sie auf Red hat Systemen das umadmin-Benutzerpasswort von der Standardzeichenfolge „`admin`“ in eine personalisierte Zeichenfolge.
 . Wählen Sie auf der Seite API-Gateway einrichten, ob Sie die API-Gateway-Funktion verwenden möchten, mit der Unified Manager die ONTAP-Cluster verwalten kann, die Sie mit ONTAP REST-APIs überwachen möchten. Klicken Sie dann auf *Weiter*.
 +
 Sie können diese Einstellung später in der Web-Benutzeroberfläche über *Allgemein* > *Feature-Einstellungen* > *API-Gateway* aktivieren oder deaktivieren. Weitere Informationen zu den APIs finden Sie unter link:../api-automation/concept_get_started_with_um_apis.html["Erste Schritte mit Active IQ Unified Manager REST APIs"].

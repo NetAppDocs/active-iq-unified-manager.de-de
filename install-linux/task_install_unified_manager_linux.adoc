@@ -2,7 +2,7 @@
 permalink: install-linux/task_install_unified_manager_linux.html 
 sidebar: sidebar 
 keywords: install, unified manager 
-summary: Sie können Unified Manager auf einer physischen oder virtuellen Red hat Enterprise Linux oder CentOS Plattform installieren. 
+summary: Sie können Unified Manager auf einer physischen oder virtuellen Red hat Enterprise Linux Plattform installieren. 
 ---
 = Installation Von Unified Manager
 :allow-uri-read: 
@@ -11,7 +11,7 @@ summary: Sie können Unified Manager auf einer physischen oder virtuellen Red ha
 
 
 [role="lead"]
-Sie können Unified Manager auf einer physischen oder virtuellen Red hat Enterprise Linux oder CentOS Plattform installieren.
+Sie können Unified Manager auf einer physischen oder virtuellen Red hat Enterprise Linux Plattform installieren.
 
 *Was Sie brauchen*
 
@@ -28,7 +28,7 @@ Siehe link:reference_red_hat_and_centos_software_and_installation_requirements.h
 * Die Terminalemulationssoftware muss ScRollback aktiviert haben.
 
 
-Auf dem Red hat Enterprise Linux oder CentOS System sind möglicherweise alle erforderlichen Versionen der erforderlichen Hilfssoftware (Java, MySQL, zusätzliche Dienstprogramme) installiert, nur einige der erforderlichen Software installiert oder es kann sich um ein neu installiertes System mit keiner der erforderlichen Software handelt.
+Auf dem Red hat Enterprise Linux-System sind möglicherweise alle erforderlichen Versionen der erforderlichen unterstützenden Software (Java, MySQL, zusätzliche Dienstprogramme) installiert, nur einige der erforderlichen Software installiert oder es handelt sich um ein neu installiertes System, auf dem keine der erforderlichen Software installiert ist.
 
 .Schritte
 . Melden Sie sich beim Server an, auf dem Sie Unified Manager installieren.
@@ -132,7 +132,7 @@ Wenn die Installation mit dem GPG NOKEY-Fehler fehlschlägt, verwenden Sie `rpm 
 +
 [NOTE]
 ====
-Versuchen Sie nicht, die Installation mithilfe alternativer Befehle (z. B. `rpm -ivh`). Für eine erfolgreiche Installation von Unified Manager auf einem Red hat Enterprise Linux- oder CentOS-System müssen alle Unified Manager-Dateien und zugehörigen Dateien in einer bestimmten Reihenfolge in eine bestimmte Verzeichnisstruktur installiert werden, die automatisch von der erzwungen wird `yum install netapp-um<version>.x86_64.rpm` Befehl.
+Versuchen Sie nicht, die Installation mithilfe alternativer Befehle (wie `rpm -ivh`) durchzuführen. Für eine erfolgreiche Installation von Unified Manager auf einem Red hat Enterprise Linux-System müssen alle Unified Manager-Dateien und zugehörigen Dateien in einer bestimmten Reihenfolge in einer bestimmten Verzeichnisstruktur installiert werden, die automatisch durch den Befehl erzwungen wird `yum install netapp-um<version>.x86_64.rpm`.
 
 ====
 . Ignorieren Sie die E-Mail-Benachrichtigung, die sofort nach den Installationsmeldungen angezeigt wird.

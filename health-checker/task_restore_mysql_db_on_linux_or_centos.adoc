@@ -2,7 +2,7 @@
 permalink: health-checker/task_restore_mysql_db_on_linux_or_centos.html 
 sidebar: sidebar 
 keywords: restore, linux system, mysql, database, backup 
-summary: Im Falle eines Datenverlustes oder einer Beschädigung von Daten können Sie Unified Manager in den vorherigen stabilen Zustand bei minimalem Datenverlust wiederherstellen. Sie können die Unified Manager-Datenbank über die Unified Manager-Wartungskonsole auf einem lokalen oder entfernten Red hat Enterprise Linux- oder CentOS-System wiederherstellen. 
+summary: Im Falle eines Datenverlustes oder einer Beschädigung von Daten können Sie Unified Manager in den vorherigen stabilen Zustand bei minimalem Datenverlust wiederherstellen. Sie können die Unified Manager-Datenbank mithilfe der Wartungskonsole von Unified Manager auf einem lokalen oder Remote Red hat Enterprise Linux-System wiederherstellen. 
 ---
 = Wiederherstellen einer Sicherung einer MySQL-Datenbank auf einem Linux-System
 :allow-uri-read: 
@@ -11,7 +11,7 @@ summary: Im Falle eines Datenverlustes oder einer Beschädigung von Daten könne
 
 
 [role="lead"]
-Im Falle eines Datenverlustes oder einer Beschädigung von Daten können Sie Unified Manager in den vorherigen stabilen Zustand bei minimalem Datenverlust wiederherstellen. Sie können die Unified Manager-Datenbank über die Unified Manager-Wartungskonsole auf einem lokalen oder entfernten Red hat Enterprise Linux- oder CentOS-System wiederherstellen.
+Im Falle eines Datenverlustes oder einer Beschädigung von Daten können Sie Unified Manager in den vorherigen stabilen Zustand bei minimalem Datenverlust wiederherstellen. Sie können die Unified Manager-Datenbank mithilfe der Wartungskonsole von Unified Manager auf einem lokalen oder Remote Red hat Enterprise Linux-System wiederherstellen.
 
 *Was Sie brauchen*
 
@@ -24,7 +24,7 @@ Es wird empfohlen, die Sicherungsdatei in das Standardverzeichnis zu kopieren /`
 * Die Sicherungsdateien müssen aus sein `.7z` Typ.
 
 
-Die Wiederherstellungsfunktion ist plattformspezifisch und versionsspezifisch. Sie können ein Unified Manager-Backup nur auf derselben Version von Unified Manager wiederherstellen. Sie können eine Sicherungsdatei für Linux oder eine Sicherungsdatei einer virtuellen Appliance auf einem Red hat Enterprise Linux oder CentOS System wiederherstellen.
+Die Wiederherstellungsfunktion ist plattformspezifisch und versionsspezifisch. Sie können ein Unified Manager-Backup nur auf derselben Version von Unified Manager wiederherstellen. Sie können eine Backup-Datei für Linux oder eine Backup-Datei für virtuelle Appliances auf einem Red hat Enterprise Linux-System wiederherstellen.
 
 [TIP]
 ====

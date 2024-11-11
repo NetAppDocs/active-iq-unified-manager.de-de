@@ -45,6 +45,8 @@ entries:
     entries:
     - title: Aktualisierung von OpenJDK
       url: "/install-windows/task_upgrade_openjdk_on_windows_ocum.html"
+  - title: Deinstallieren von Drittanbieterprodukten
+    url: "/install-windows/task_uninstall_third_party_products.html"
   - title: Neustart Von Unified Manager
     url: "/install-windows/task_restart_unified_manager_win.html"
   - title: Deinstallieren Von Unified Manager

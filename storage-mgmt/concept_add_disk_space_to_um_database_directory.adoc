@@ -20,4 +20,4 @@ Das Datenbankverzeichnis kann beispielsweise voll erhalten, wenn Unified Manager
 Nach 95 % Auslastung des Verzeichnisses werden keine zusätzlichen Daten aus Clustern erfasst.
 
 ====
-Je nachdem, ob Unified Manager auf einem VMware ESXi Server, auf einem Red hat oder CentOS Linux Server oder auf einem Microsoft Windows Server ausgeführt wird, welche Schritte zum Hinzufügen von Kapazität zum Datenverzeichnis erforderlich sind, unterscheiden sie sich.
+Die Schritte zum Hinzufügen von Kapazität zum Datenverzeichnis sind unterschiedlich, je nachdem, ob Unified Manager auf einem VMware ESXi-Server, auf einem Red hat Linux-Server oder auf einem Microsoft Windows-Server ausgeführt wird.

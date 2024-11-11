@@ -2,7 +2,7 @@
 permalink: health-checker/task_migrate_um_virtual_appliance_to_rhel_or_centos_system.html 
 sidebar: sidebar 
 keywords: unified manager, migrate, virtual, appliance, linux system 
-summary: Sie können eine Backup-Dump-Datenbank von einer virtuellen Appliance in ein Red hat Enterprise Linux oder CentOS Linux System wiederherstellen, wenn Sie das Host-Betriebssystem ändern möchten, auf dem Unified Manager ausgeführt wird. 
+summary: Sie können ein Unified Manager MySQL-Datenbank-Dump-Backup von einer virtuellen Appliance auf einem Red hat Enterprise Linux-System wiederherstellen, wenn Sie das Host-Betriebssystem ändern möchten, auf dem Unified Manager ausgeführt wird. 
 ---
 = Migration einer virtuellen Unified Manager Appliance zu einem Linux System
 :allow-uri-read: 
@@ -11,7 +11,7 @@ summary: Sie können eine Backup-Dump-Datenbank von einer virtuellen Appliance i
 
 
 [role="lead"]
-Sie können eine Backup-Dump-Datenbank von einer virtuellen Appliance in ein Red hat Enterprise Linux oder CentOS Linux System wiederherstellen, wenn Sie das Host-Betriebssystem ändern möchten, auf dem Unified Manager ausgeführt wird.
+Sie können ein Unified Manager MySQL-Datenbank-Dump-Backup von einer virtuellen Appliance auf einem Red hat Enterprise Linux-System wiederherstellen, wenn Sie das Host-Betriebssystem ändern möchten, auf dem Unified Manager ausgeführt wird.
 
 *Was Sie brauchen*
 
@@ -31,7 +31,7 @@ Sie können eine Backup-Dump-Datenbank von einer virtuellen Appliance in ein Red
 
 
 
-In diesen Schritten wird beschrieben, wie eine Sicherungsdatei auf der virtuellen Appliance erstellt, die Sicherungsdateien auf das Red hat Enterprise Linux oder CentOS System kopiert und dann die Datenbanksicherung auf das neue System wiederhergestellt wird.
+In diesen Schritten wird beschrieben, wie Sie eine Sicherungsdatei auf der virtuellen Appliance erstellen, die Sicherungsdateien auf Red hat Enterprise Linux kopieren und dann das Datenbank-Backup auf dem neuen System wiederherstellen.
 
 .Schritte
 . Klicken Sie auf der virtuellen Appliance auf *Verwaltung* > *Datenbank-Backup*.

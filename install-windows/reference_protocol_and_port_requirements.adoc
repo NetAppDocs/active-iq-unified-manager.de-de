@@ -66,7 +66,7 @@ SSH/SFTP
  a| 
 22
  a| 
-Wird verwendet, um auf die Red hat Enterprise Linux oder CentOS Befehlszeile zuzugreifen und Supportpakete abzurufen.
+Dient zum Zugriff auf die Red hat Enterprise Linux Befehlszeile und zum Abrufen von Support Bundles.
 
 
 

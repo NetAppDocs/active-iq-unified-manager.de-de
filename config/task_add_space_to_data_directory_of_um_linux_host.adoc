@@ -15,7 +15,7 @@ Wenn Sie dem nicht genügend Speicherplatz zugewiesen haben `/opt/netapp/data` V
 
 *Was Sie brauchen*
 
-Sie müssen Root-Benutzerzugriff auf die Red hat Enterprise Linux oder CentOS Linux Maschine haben, auf der Unified Manager installiert ist.
+Sie benötigen Root-Benutzerzugriff auf den Red hat Enterprise Linux-Computer, auf dem Unified Manager installiert ist.
 
 Wir empfehlen, dass Sie ein Backup der Unified Manager-Datenbank erstellen, bevor Sie die Größe des Datenverzeichnisses vergrößern.
 
