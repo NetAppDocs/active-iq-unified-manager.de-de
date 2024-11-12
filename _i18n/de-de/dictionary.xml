@@ -11800,15 +11800,12 @@
   <block id="f98499a614ee3e46a1d64724ab7c8d2e" category="list-text">Wenn die installierte Version von MySQL älter als die MySQL 8.0.34 Community Edition ist, geben Sie den folgenden Befehl ein, um sie zu deinstallieren:</block>
   <block id="80bdec6524a5d6db6b1fc5272cd81192" category="paragraph">Sie können die virtuelle Active IQ Unified Manager Appliance von Version 9.12 oder 9.13 auf Version 9.14 aktualisieren.</block>
   <block id="c73b4673fd357d50ad7fe6b46f0de007" category="list-text">Betriebssystem: VMware ESXi 7.0 und 8.0</block>
-  <block id="6e6893b593d627add14e7a987c9dea2d" category="inline-link">Hinweis für Active IQ Unified Manager 9.14</block>
-  <block id="4b72586187e7bd694fd5d9d2189fcc3f" category="paragraph"><block ref="4b72586187e7bd694fd5d9d2189fcc3f" category="inline-link-rx"></block></block>
   <block id="3a44bb5359e8b73237753f7fe7d14cc2" category="paragraph">Wenn die installierte Version beispielsweise Unified Manager 9.9 ist und Sie auf Unified Manager 9.14 aktualisieren möchten, führen Sie eine Reihe von Upgrades aus.</block>
   <block id="1e2075a18224b2ccd4cd9feb5cb36456" category="list-text">Upgrade 9.11 -&gt; 9.13</block>
   <block id="de77bda92bea07bb345ff4c0d56146c5" category="list-text">Upgrade 9.13 -&gt; 9.14</block>
   <block id="ab71876b04bdf2178a36a1f75c0b521f" category="admonition">Der Graphite-Server empfängt keine Performance-Daten für Volumes von Unified Manager.</block>
   <block id="9f05e01be7e6790732b731bbb5ffe318" category="admonition">Die Funktion zur Überwachung von Node-Root-Volumes ist nicht verfügbar, wenn auf Clustern ONTAP 9.14.1 oder höher ausgeführt wird.</block>
   <block id="2bff5bcae094d4c1fca66b645c79b006" category="admonition">Die Funktion zum Monitoring von Node-Root-Aggregaten ist nicht verfügbar, wenn auf Clustern ONTAP 9.14.1 oder höher ausgeführt wird.</block>
-  <block id="72ad43fc7a8d740f98987759e25205fd" category="paragraph">Weitere Informationen finden Sie im<block ref="6bb46765ad444f2cca095cf3f36f15dd" category="inline-link-rx"></block>.</block>
   <block id="2466264a3b3e9cd0747d6419241007ef" category="paragraph">Der Server sollte dediziert sein für die Ausführung von Unified Manager. Auf dem Server sollten keine anderen Anwendungen installiert sein. Es ist möglich, dass Vulnerability Scanner wie Qualys auf Ihrem Linux-System aufgrund von Unternehmensvorschriften installiert ist. Sie sollten den Schwachstellenscanner vor der Installation von Unified Manager deaktivieren, um einen Fehler bei der Installation zu verhindern.</block>
   <block id="d399c2619eb2015cdbc0feeecd5393c0" category="inline-link">ActiveIQ Unified Manager kann ein extern generiertes Zertifikat nicht installieren</block>
   <block id="e27fc816983568847a34ee8cfa2a43ac" category="paragraph">Wenn die Zertifikatinstallation fehlschlägt, lesen Sie den Knowledge Base-Artikel (KB):
@@ -11968,7 +11965,6 @@ Schützen Sie Applikationen mit LUNs, und Sie können diese LUNs auf der Active 
   <block id="b71bc857cc2265ac2904750b41b56a3f" category="paragraph">Sie benötigen Root-Benutzerzugriff auf den Red hat Enterprise Linux-Server, auf dem Unified Manager installiert ist.</block>
   <block id="03e62ce635e27d3eae3fc7eb1fdb7d43" category="paragraph">Sie können ein Upgrade von Unified Manager 9.13 oder 9.14 auf 9.16 durchführen, indem Sie die Installationsdatei auf die Linux-Plattform herunterladen und ausführen.</block>
   <block id="3066d6a2a21e06439438c95e8f0a78ab" category="list-text">Melden Sie sich beim Ziel-Red hat Enterprise Linux-Server an.</block>
-  <block id="1af6d75cb215145d2b721ba6d31196de" category="paragraph">Sie können nur ein Upgrade von Active IQ Unified Manager auf Version 9.16 von Version 9.12 oder 9.13 durchführen.</block>
   <block id="85e1cde38f7710ac3710a0ca4b341ad5" category="list-text">Alle Cluster werden unterstützt, mit Ausnahme von ASA r2-Systemen.</block>
   <block id="a6f8396e876411d4ce52d9a1c9c7726e" category="list-text">Laden Sie die Unified Manager Windows-Installationsdatei oder die ZIP-Datei in ein Zielverzeichnis auf dem Windows-System herunter.</block>
   <block id="8f1edca040f984e1b9d6867249003ff5" category="list-text">Extrahieren Sie ggf. die ZIP-Datei, und navigieren Sie zu dem Verzeichnis, in dem sich die Installationsdatei befindet.</block>
@@ -11989,4 +11985,8 @@ Schützen Sie Applikationen mit LUNs, und Sie können diese LUNs auf der Active 
   <block id="9d8f72b258db1905ee26b8543db626af" category="paragraph">Die Schritte zum Hinzufügen von Kapazität zum Datenverzeichnis sind unterschiedlich, je nachdem, ob Unified Manager auf einem VMware ESXi-Server, auf einem Red hat Linux-Server oder auf einem Microsoft Windows-Server ausgeführt wird.</block>
   <block id="7a7c62cdb283859bf82dbc6d358c3473" category="sidebar">Mit Active IQ Unified Manager (Unified Manager und früher OnCommand Unified Manager) können Sie den Zustand und die Performance Ihrer ONTAP Storage-Systeme über eine einzige Benutzeroberfläche überwachen und managen. Diese Dokumentationsbibliothek enthält Informationen zu Version 9.16.</block>
   <block id="5d0df7caff39f371f91e7b06354eb3b0" category="sidebar">Active IQ Unified Manager 9.16-Dokumentation</block>
+  <block id="d9f6c085dd395f22b9dc3195122f05fb" category="paragraph">Sie können nur ein Upgrade von Active IQ Unified Manager auf Version 9.16 von Version 9.13 oder 9.14 durchführen.</block>
+  <block id="91804ef74bc975f4a628c4e14934bd25" category="inline-link">Hinweis für Active IQ Unified Manager 9.16</block>
+  <block id="4312f256415ac9316c181d6509543043" category="paragraph"><block ref="4312f256415ac9316c181d6509543043" category="inline-link-rx"></block></block>
+  <block id="fba32ed5ef4b0254843c57fba4656cfe" category="paragraph">Weitere Informationen finden Sie im<block ref="2392cb263ac956dff7e4bed674b7b943" category="inline-link-rx"></block>.</block>
 </blocks>
