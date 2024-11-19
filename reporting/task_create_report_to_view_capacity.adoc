@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, um die Kapazität in einer Excel-D
 [role="lead"]
 Sie können einen Bericht erstellen, um die Kapazität in einer Excel-Datei zu analysieren, indem Sie die summierten Summen und das Format der Cluster-Spaltendiagramme verwenden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

@@ -13,8 +13,7 @@ summary: Sie können einen vorhandenen Ressourcenpool bearbeiten, wenn Sie den N
 [role="lead"]
 Sie können einen vorhandenen Ressourcenpool bearbeiten, wenn Sie den Namen des Ressourcenpool und die Beschreibung ändern möchten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Die Schaltfläche *Bearbeiten* ist nur aktiviert, wenn ein Ressourcenpool ausgewählt ist. Wenn mehrere Ressourcen-Pools ausgewählt sind, ist die Schaltfläche *Bearbeiten* deaktiviert.

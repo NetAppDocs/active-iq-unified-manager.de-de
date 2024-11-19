@@ -13,8 +13,7 @@ summary: 'Nutzung der Ansicht „Systemzustand“: Alle Volumes ermöglichen das
 [role="lead"]
 Nutzung der Ansicht „Systemzustand“: Alle Volumes ermöglichen das Erstellen mehrerer SnapMirror Sicherungsbeziehungen gleichzeitig, indem Sie mehrere Volumes auf derselben Storage-VM auswählen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 

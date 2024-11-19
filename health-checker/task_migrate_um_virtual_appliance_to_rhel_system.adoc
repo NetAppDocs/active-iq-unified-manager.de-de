@@ -1,5 +1,5 @@
 ---
-permalink: health-checker/task_migrate_um_virtual_appliance_to_rhel_or_centos_system.html 
+permalink: health-checker/task_migrate_um_virtual_appliance_to_rhel_system.html 
 sidebar: sidebar 
 keywords: unified manager, migrate, virtual, appliance, linux system 
 summary: Sie können ein Unified Manager MySQL-Datenbank-Dump-Backup von einer virtuellen Appliance auf einem Red hat Enterprise Linux-System wiederherstellen, wenn Sie das Host-Betriebssystem ändern möchten, auf dem Unified Manager ausgeführt wird. 
@@ -13,8 +13,7 @@ summary: Sie können ein Unified Manager MySQL-Datenbank-Dump-Backup von einer v
 [role="lead"]
 Sie können ein Unified Manager MySQL-Datenbank-Dump-Backup von einer virtuellen Appliance auf einem Red hat Enterprise Linux-System wiederherstellen, wenn Sie das Host-Betriebssystem ändern möchten, auf dem Unified Manager ausgeführt wird.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Auf der virtuellen Appliance:
 +
 ** Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -23,7 +22,7 @@ Sie können ein Unified Manager MySQL-Datenbank-Dump-Backup von einer virtuellen
 
 * Auf dem Linux-System:
 +
-** Sie müssen Unified Manager auf einem Linux-Server gemäß den Anweisungen in installiert haben link:../install-linux/concept_install_unified_manager_on_rhel_or_centos.html["Installation von Unified Manager auf Linux Systemen"].
+** Sie müssen Unified Manager auf einem Linux-Server gemäß den Anweisungen in installiert habenlink:../install-linux/concept_install_unified_manager_on_rhel.html["Installation von Unified Manager auf Linux Systemen"].
 ** Die Version von Unified Manager auf diesem Server muss mit der Version auf der virtuellen Appliance identisch sein, von der aus Sie die Sicherungsdatei verwenden.
 ** Starten Sie die UI nicht oder konfigurieren Sie nach der Installation keine Cluster-, Benutzer- oder Authentifizierungseinstellungen auf dem Linux-System. Die Sicherungsdatei füllt diese Informationen während des Wiederherstellungsprozesses aus.
 ** Sie müssen über die Stammbenutzeranmeldeinformationen für den Linux-Host verfügen.

@@ -13,8 +13,7 @@ summary: Als Windows-Benutzer können Sie ein Tool herunterladen und installiere
 [role="lead"]
 Als Windows-Benutzer können Sie ein Tool herunterladen und installieren, um das Support-Paket von Ihrem Unified Manager-Server abzurufen. Sie können das Support Bundle an den technischen Support senden, um eine detailliertere Diagnose eines Problems zu erhalten. FileZilla oder WinSCP sind Beispiele für Werkzeuge, die Sie verwenden können.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen der Wartungbenutzer sein, um diese Aufgabe ausführen zu können.
 
 Sie müssen ein Werkzeug verwenden, das SCP oder SFTP unterstützt.

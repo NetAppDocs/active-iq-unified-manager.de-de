@@ -13,8 +13,7 @@ summary: Sie können das Dialogfeld Ressourcen-Pool erstellen verwenden, um Aggr
 [role="lead"]
 Sie können das Dialogfeld Ressourcen-Pool erstellen verwenden, um Aggregate für Bereitstellungszwecke zu gruppieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 .Schritte

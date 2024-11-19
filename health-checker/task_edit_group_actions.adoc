@@ -13,8 +13,7 @@ summary: Sie können die Aktionsparameter der Gruppe bearbeiten, die Sie in Unif
 [role="lead"]
 Sie können die Aktionsparameter der Gruppe bearbeiten, die Sie in Unified Manager konfiguriert haben, z. B. den Gruppenactionnamen, die Beschreibung, den zugeordneten Gruppennamen und die Parameter des Aktionstyps.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 .Schritte

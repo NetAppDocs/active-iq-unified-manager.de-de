@@ -13,8 +13,7 @@ summary: Sie können eine benutzerdefinierte Performance-Schwellenwertrichtlinie
 [role="lead"]
 Sie können eine benutzerdefinierte Performance-Schwellenwertrichtlinie aus einem Storage-Objekt entfernen, wenn Unified Manager den Wert des Performance-Zählers nicht mehr überwachen soll.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 Sie können jeweils nur eine Richtlinie aus einem ausgewählten Objekt entfernen.

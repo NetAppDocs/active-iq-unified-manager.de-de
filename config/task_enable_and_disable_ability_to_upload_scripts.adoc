@@ -13,8 +13,7 @@ summary: Die Möglichkeit, Skripts in Unified Manager hochzuladen und sie auszuf
 [role="lead"]
 Die Möglichkeit, Skripts in Unified Manager hochzuladen und sie auszuführen, ist standardmäßig aktiviert. Wenn Ihr Unternehmen diese Aktivität aus Sicherheitsgründen nicht zulassen möchte, können Sie diese Funktion deaktivieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 .Schritte

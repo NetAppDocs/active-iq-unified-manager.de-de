@@ -13,8 +13,7 @@ summary: Sie können eine Sicherungsbeziehung unterbrechen, um die Datenübertra
 [role="lead"]
 Sie können eine Sicherungsbeziehung unterbrechen, um die Datenübertragung zwischen einem Quell-Volume und einem Ziel-Volume in einer SnapMirror Beziehung zu unterbrechen. Wenn Sie Daten migrieren, für Disaster Recovery-Zwecke oder zum Testen von Applikationen nutzen möchten, können Sie eine Beziehung unterbrechen. Das Zielvolume wird auf ein Lese-/Schreib-Volume geändert. Man kann keine SnapVault Beziehung durchbrechen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 

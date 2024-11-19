@@ -13,8 +13,7 @@ summary: 'Sie können einen Bericht mit einer Liste der Volumes erstellen, die s
 [role="lead"]
 Sie können einen Bericht mit einer Liste der Volumes erstellen, die sich derzeit in FabricPool Aggregaten befinden, über eine Cloud-Empfehlung von Tiers verfügen und über eine große Menge an kalten Daten. In diesem Bericht können Sie entscheiden, ob Sie die Tiering-Richtlinie für bestimmte Volumes in „`Auto`“ oder „`all`“ ändern sollten, um mehr kalte (inaktive) Daten auf die Cloud-Tier zu verlagern.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen FabricPool Aggregate konfiguriert haben und Volumes auf diesen Aggregaten haben.
 

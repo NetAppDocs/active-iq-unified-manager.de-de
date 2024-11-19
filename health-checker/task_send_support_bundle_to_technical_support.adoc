@@ -13,8 +13,7 @@ summary: Wenn ein Problem detailliertere Diagnose- und Fehlerbehebungsinformatio
 [role="lead"]
 Wenn ein Problem detailliertere Diagnose- und Fehlerbehebungsinformationen erfordert als eine AutoSupport Meldung, können Sie ein Support Bundle an den technischen Support senden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen Zugriff auf das Support-Bundle haben, um es an den technischen Support zu senden.
 
 Sie müssen über die technische Support-Website eine Case-Nummer generiert haben.

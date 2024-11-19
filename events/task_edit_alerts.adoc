@@ -13,8 +13,7 @@ summary: Sie können Eigenschaften von Warnmeldungen bearbeiten, z. B. die Resso
 [role="lead"]
 Sie können Eigenschaften von Warnmeldungen bearbeiten, z. B. die Ressource, mit der die Warnmeldung verknüpft ist, Ereignisse, Empfänger, Benachrichtigungsoptionen, Benachrichtigungshäufigkeit, Und zugehörigen Skripts.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 .Schritte

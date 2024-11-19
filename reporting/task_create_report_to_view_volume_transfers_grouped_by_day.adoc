@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, um Volume-Transfers nach Tagen gru
 [role="lead"]
 Sie können einen Bericht erstellen, um Volume-Transfers nach Tagen gruppiert anzuzeigen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

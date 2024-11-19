@@ -13,8 +13,7 @@ summary: Bei Bedarf können Sie die Ereignisse anzeigen, die während eines Unif
 [role="lead"]
 Bei Bedarf können Sie die Ereignisse anzeigen, die während eines Unified Manager-Wartungsfensters für alle Storage-Objekte generiert wurden. Die meisten Ereignisse werden nach Abschluss des Wartungsfensters im Status „veraltet“ angezeigt und alle Systemressourcen werden gesichert und ausgeführt.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Mindestens ein Wartungsfenster muss abgeschlossen sein, bevor Ereignisse verfügbar sind.
 
 Ereignisse, die während eines Wartungsfensters aufgetreten sind, werden standardmäßig nicht auf der Seite „Inventar der Ereignisverwaltung“ angezeigt.

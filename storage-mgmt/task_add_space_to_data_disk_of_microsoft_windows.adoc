@@ -13,8 +13,7 @@ summary: Wenn Sie mehr Festplattenspeicher für die Unified Manager-Datenbank be
 [role="lead"]
 Wenn Sie mehr Festplattenspeicher für die Unified Manager-Datenbank benötigen, können Sie das logische Laufwerk, auf dem Unified Manager installiert ist, um Kapazität erweitern.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über Administratorrechte für Windows verfügen.
 
 Wir empfehlen, dass Sie die Unified Manager-Datenbank sichern, bevor Sie Speicherplatz hinzufügen.

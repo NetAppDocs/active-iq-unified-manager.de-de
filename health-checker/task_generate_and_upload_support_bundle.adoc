@@ -15,8 +15,7 @@ Sie können ein Support-Paket mit Diagnoseinformationen erstellen, damit Sie es 
 
 Wenn Ihr Unified Manager Server ab Unified Manager 9.8 mit dem Internet verbunden ist, können Sie das Support Bundle über die Wartungskonsole auch auf NetApp hochladen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen als Wartungbenutzer Zugriff auf die Wartungskonsole haben.
 
 Da einige Arten von Support-Daten große Mengen von Cluster-Ressourcen verwenden oder sehr viel Zeit in Anspruch nehmen können, können Sie bei Auswahl des vollständigen Support-Pakets Datentypen angeben, die ein- oder ausschließen sollen, um die Größe des Support-Pakets zu verringern. Sie haben auch die Möglichkeit, ein einfaches Support-Bundle zu erstellen, das nur 30 Tage Protokolle und Konfigurationsdatenbanken enthält - es schließt Performancedaten, Erfassungsdateien und Server Heap Dump aus.

@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, um nach Volumes zu suchen, die die
 [role="lead"]
 Sie können einen Bericht erstellen, um nach Volumes zu suchen, die die Standard-Exportrichtlinie verwenden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

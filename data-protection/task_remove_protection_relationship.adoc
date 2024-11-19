@@ -13,8 +13,7 @@ summary: 'Auf der Seite Volume Relationships können Sie eine Schutzbeziehung en
 [role="lead"]
 Auf der Seite Volume Relationships können Sie eine Schutzbeziehung entfernen, um eine vorhandene Beziehung zwischen der ausgewählten Quelle und dem ausgewählten Ziel dauerhaft zu löschen: Zum Beispiel, wenn Sie eine Beziehung unter Verwendung eines anderen Ziels erstellen möchten. Durch diesen Vorgang werden alle Metadaten entfernt und können nicht rückgängig gemacht werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 

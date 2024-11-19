@@ -13,8 +13,7 @@ summary: Sie sollten das Volume zum Speichern von Snapshot Kopien konfigurieren,
 [role="lead"]
 Sie sollten das Volume zum Speichern von Snapshot Kopien konfigurieren, nachdem Sie Unified Manager auf Windows gesichert haben.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Der Cluster, die Storage-VM und das Volume müssen folgende Anforderungen erfüllen:
 
 * Cluster-Anforderungen:

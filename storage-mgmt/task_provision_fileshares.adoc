@@ -13,8 +13,7 @@ summary: 'Sie können Dateifreigabe-Volumes erstellen, die CIFS/SMB- und NFS-Pro
 [role="lead"]
 Sie können Dateifreigabe-Volumes erstellen, die CIFS/SMB- und NFS-Protokolle unterstützen, auf einem vorhandenen Cluster und auf der Seite Storage Virtual Machine (Storage VM) für Bereitstellungs-Workloads.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Die Storage-VM muss Platz haben, um das Dateifreigabvolume bereitzustellen.
 * Auf Ihrer Storage VM sollten entweder oder beide SMB- und NFS-Services aktiviert werden.
 * Für die Auswahl und Zuweisung des Performance Service Level (PSL) und der Storage Efficiency Policy (SEP) für den Workload müssen die Richtlinien erstellt werden, bevor Sie mit der Erstellung des Workloads beginnen.

@@ -13,8 +13,7 @@ summary: Sie können den Zeitplan, auf dem Unified Manager Snapshot Kopien unter
 [role="lead"]
 Sie können den Zeitplan, auf dem Unified Manager Snapshot Kopien unter Verwendung der Benutzeroberfläche von Unified Manager erstellt werden, konfigurieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Sie müssen die Einstellungen für das Erstellen von Snapshot Kopien von der Wartungskonsole konfiguriert haben, um das Ziel zu bestimmen, an dem die Snapshots erstellt werden.
 

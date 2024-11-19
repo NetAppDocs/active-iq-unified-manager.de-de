@@ -13,8 +13,7 @@ summary: Mithilfe der Seite Storage VMs können Sie den Status der Disaster-Reco
 [role="lead"]
 Auf der Seite Storage VMs können Sie den Status vorhandener Storage-VMs`' Disaster-Recovery-Beziehungen anzeigen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Auch Details zu den Sicherungsbeziehungen einschließlich Transfer- und Verzögerungsstatus, Quelle- und Zieldetails können Sie überprüfen. Sie können Berichte planen oder vorhandene Berichte in dem erforderlichen Format herunterladen. Mit der Schaltfläche *ein-/Ausblenden* können Sie die erforderlichen Spalten zu den Berichten hinzufügen, da diese standardmäßig nicht angezeigt werden.

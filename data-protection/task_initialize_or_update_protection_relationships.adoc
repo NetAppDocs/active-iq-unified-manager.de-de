@@ -16,8 +16,7 @@ Auf der Seite Volume Relationships können Sie eine erste Baseline-Übertragung 
 
 NOTE: Sie können Volumes, die durch Konsistenzgruppen geschützt sind, nicht initialisieren oder aktualisieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen OnCommand Workflow Automation eingerichtet haben.
 

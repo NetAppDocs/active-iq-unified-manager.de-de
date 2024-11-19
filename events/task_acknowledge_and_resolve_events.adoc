@@ -13,8 +13,7 @@ summary: Sie sollten ein Ereignis bestätigen, bevor Sie mit der Bearbeitung des
 [role="lead"]
 Sie sollten ein Ereignis bestätigen, bevor Sie mit der Bearbeitung des Problems beginnen, das das Ereignis verursacht hat, damit Sie keine wiederholten Warnmeldungen erhalten. Nachdem Sie die Korrekturmaßnahme für ein bestimmtes Ereignis durchgeführt haben, sollten Sie das Ereignis als gelöst markieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 Sie können mehrere Ereignisse gleichzeitig bestätigen und beheben.

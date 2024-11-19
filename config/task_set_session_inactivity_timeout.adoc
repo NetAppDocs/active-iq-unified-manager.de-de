@@ -13,8 +13,7 @@ summary: 'Sie können für Unified Manager den Wert für Inaktivitätszeitübers
 [role="lead"]
 Sie können für Unified Manager den Wert für Inaktivitätszeitüberschreitung festlegen, damit die Sitzung nach einer bestimmten Zeit automatisch beendet wird. Standardmäßig ist das Timeout auf 4,320 Minuten (72 Stunden) eingestellt.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 Diese Einstellung betrifft alle angemeldeten Benutzersitzungen.

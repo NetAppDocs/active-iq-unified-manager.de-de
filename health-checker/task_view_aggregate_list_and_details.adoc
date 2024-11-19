@@ -13,8 +13,7 @@ summary: 'Aus der Ansicht „Systemzustand“: Alle Aggregate können Sie Ihr In
 [role="lead"]
 Aus der Ansicht „Systemzustand“: Alle Aggregate können Sie Ihr Inventar an Aggregaten überwachen. Die Kapazität: Alle Aggregatansicht ermöglicht es Ihnen, Informationen über Kapazität und Auslastung von Aggregaten in allen Clustern anzuzeigen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 Sie können Details wie Aggregatskapazität und -Konfiguration sowie Festplatteninformationen über die Seite „Aggregate/Health Details“ anzeigen. Sie können diese Details verwenden, bevor Sie die Schwellenwerteinstellungen konfigurieren, falls erforderlich.

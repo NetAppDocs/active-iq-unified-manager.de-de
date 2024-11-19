@@ -13,8 +13,7 @@ summary: Dieser Workflow bietet ein Beispiel dafür, wie Sie Fehler im Schutz ü
 [role="lead"]
 Dieser Workflow bietet ein Beispiel dafür, wie Sie Fehler im Schutz über das Unified Manager-Dashboard identifizieren und beheben können.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Da für einige Aufgaben in diesem Workflow eine Anmeldung über die Administratorrolle erforderlich ist, müssen Sie mit den Rollen vertraut sein, die für die Verwendung verschiedener Funktionen erforderlich sind.
 
 In diesem Szenario greifen Sie auf die Dashboard-Seite zu, um festzustellen, ob es Probleme mit Ihren Schutzaufgaben gibt. Im Bereich Schutzvorfall stellen Sie fest, dass ein Vorfall mit dem Jobabbruch vorliegt und ein Fehler beim Schutz eines Volumes angezeigt wird. Sie untersuchen diesen Fehler, um die mögliche Ursache und mögliche Lösung zu ermitteln.

@@ -13,8 +13,7 @@ summary: Mit Unified Manager können Sie ein Performance-Ereignis untersuchen, d
 [role="lead"]
 Mit Unified Manager können Sie ein Performance-Ereignis untersuchen, das durch die Überprovisionierung eines Aggregats verursacht wird. Sie können auch Unified Manager verwenden, um den Systemzustand des Aggregats zu überprüfen, um zu ermitteln, ob kürzlich auf dem Aggregat erkannte Systemzustandsereignisse zum Performance-Ereignis beigetragen haben.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Es müssen neue, anerkannte oder veraltete Ereignisse für die Leistung vorliegen.
 

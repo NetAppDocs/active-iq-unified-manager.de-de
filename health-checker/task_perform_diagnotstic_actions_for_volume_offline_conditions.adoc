@@ -13,8 +13,7 @@ summary: Nachdem Sie zur Seite Volume / Health Details eines gemeldeten Volumes 
 [role="lead"]
 Nachdem Sie zur Seite Volume / Health Details eines gemeldeten Volumes navigieren, das offline sein soll, können Sie nach zusätzlichen Informationen suchen, die hilfreich sind, um die Offline-Bedingung des Volumens zu diagnostizieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 Wenn das offline gemeldete Volume nicht absichtlich offline geschaltet wurde, ist das Volume aus verschiedenen Gründen offline.

@@ -13,8 +13,7 @@ summary: Sie können eine oder mehrere Bedingungen konfigurieren, um Anmerkungsr
 [role="lead"]
 Sie können eine oder mehrere Bedingungen konfigurieren, um Anmerkungsregeln zu erstellen, die Unified Manager für die Speicherobjekte anwendet. Die Speicherobjekte, die die Anmerkungsregel erfüllen, werden mit dem in der Regel angegebenen Wert versehen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 .Schritte

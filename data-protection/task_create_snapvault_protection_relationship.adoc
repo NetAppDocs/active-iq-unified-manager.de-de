@@ -13,8 +13,7 @@ summary: 'Sie können die Ansicht Systemzustand: Alle Volumes verwenden, um Snap
 [role="lead"]
 Sie können die Ansicht Systemzustand: Alle Volumes verwenden, um SnapVault-Beziehungen für ein oder mehrere Volumes auf derselben Storage-VM zu erstellen, um Daten-Backups zu Sicherungszwecken zu ermöglichen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 

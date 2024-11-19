@@ -13,8 +13,7 @@ summary: Sie können vorhandene Schutzbeziehungen bearbeiten, um die aktuelle ma
 [role="lead"]
 Sie können vorhandene Schutzbeziehungen bearbeiten, um die aktuelle maximale Übertragungsrate, Schutzrichtlinie oder den Schutzzeitplan zu ändern. Sie können eine Beziehung bearbeiten, um die für Datentransfers verwendete Bandbreite zu verringern oder die Häufigkeit geplanter Transfers zu erhöhen, da sich Daten oft ändern.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Workflow Automation muss installiert und konfiguriert sein.
 

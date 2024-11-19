@@ -13,8 +13,7 @@ summary: Sie können Unified Manager verwenden, um Performance-Ereignisse zu unt
 [role="lead"]
 Sie können Unified Manager verwenden, um Performance-Ereignisse zu untersuchen, die durch einen Performance-Zähler durch eine benutzerdefinierte Warnung oder einen kritischen Schwellenwert verursacht werden. Sie können auch Unified Manager verwenden, um den Systemzustand der Cluster-Komponente zu überprüfen, um zu ermitteln, ob kürzlich Systemzustandsereignisse auf der Komponente, die zum Performance-Ereignis beigetragen haben, erkannt wurden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Es müssen neue oder veraltete Performanceereignisse vorliegen.
 

@@ -13,8 +13,7 @@ summary: Sie können die Anzahl der Monate angeben, die ein Ereignis im Unified 
 [role="lead"]
 Sie können die Anzahl der Monate angeben, die ein Ereignis im Unified Manager-Server beibehalten wird, bevor es automatisch gelöscht wird.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 Die Aufbewahrung von Ereignissen über 6 Monate kann die Serverleistung beeinträchtigen und wird nicht empfohlen.

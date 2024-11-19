@@ -1,5 +1,5 @@
 ---
-permalink: health-checker/task_restore_mysql_db_on_linux_or_centos.html 
+permalink: health-checker/task_restore_mysql_db_on_linux.html 
 sidebar: sidebar 
 keywords: restore, linux system, mysql, database, backup 
 summary: Im Falle eines Datenverlustes oder einer Beschädigung von Daten können Sie Unified Manager in den vorherigen stabilen Zustand bei minimalem Datenverlust wiederherstellen. Sie können die Unified Manager-Datenbank mithilfe der Wartungskonsole von Unified Manager auf einem lokalen oder Remote Red hat Enterprise Linux-System wiederherstellen. 
@@ -13,8 +13,7 @@ summary: Im Falle eines Datenverlustes oder einer Beschädigung von Daten könne
 [role="lead"]
 Im Falle eines Datenverlustes oder einer Beschädigung von Daten können Sie Unified Manager in den vorherigen stabilen Zustand bei minimalem Datenverlust wiederherstellen. Sie können die Unified Manager-Datenbank mithilfe der Wartungskonsole von Unified Manager auf einem lokalen oder Remote Red hat Enterprise Linux-System wiederherstellen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Stammbenutzeranmeldeinformationen für den Linux-Host verfügen, auf dem Unified Manager installiert ist.
 * Sie müssen über eine Benutzer-ID und ein Passwort verfügen, um sich bei der Wartungskonsole des Unified Manager-Servers anzumelden.
 * Sie müssen die Backup-Datei von Unified Manager und den Inhalt des Datenbank-Repository-Verzeichnisses auf das System kopiert haben, auf dem Sie den Wiederherstellungsvorgang ausführen möchten.

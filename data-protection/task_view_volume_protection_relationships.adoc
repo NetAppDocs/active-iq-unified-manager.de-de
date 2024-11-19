@@ -13,8 +13,7 @@ summary: 'Aus der Ansicht „Beziehungen“: Alle Beziehungen und auf der Seite 
 [role="lead"]
 Aus der Ansicht „Beziehungen“: Alle Beziehungen und auf der Seite „Volume-Beziehungen“ können Sie den Status vorhandener Volume SnapMirror und SnapVault Beziehungen anzeigen. Sie können auch Details zu Sicherungsbeziehungen unter anderem hinsichtlich Transfer- und lag-Status, Quell- und Zieldetails, Zeitplan- und Richtlinieninformationen usw. prüfen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Sie können auch Beziehungsbefehle von dieser Seite aus initiieren.

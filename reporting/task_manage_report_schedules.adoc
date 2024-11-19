@@ -13,9 +13,8 @@ summary: Sie können Ihre Berichtspläne auf der Seite Berichtspläne verwalten.
 [role="lead"]
 Sie können Ihre Berichtspläne auf der Seite Berichtspläne verwalten. Sie können vorhandene Zeitpläne anzeigen, ändern oder löschen.
 
-*Was Sie brauchen*
-
 [NOTE]
+.Bevor Sie beginnen
 ====
 Sie können keine neuen Berichte über die Seite „Berichtszeitpläne“ planen. Sie können nur geplante Berichte von den Objektbestandsseiten hinzufügen.
 

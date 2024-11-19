@@ -13,8 +13,7 @@ summary: Sie können das OnCommand Workflow Automation Setup aus Unified Manager
 [role="lead"]
 Sie können das OnCommand Workflow Automation Setup aus Unified Manager entfernen, wenn Sie Workflow-Automatisierung nicht mehr verwenden möchten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 .Schritte

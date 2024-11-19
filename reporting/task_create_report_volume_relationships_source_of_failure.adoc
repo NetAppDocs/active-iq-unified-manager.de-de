@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, in dem Volumes gruppiert werden, w
 [role="lead"]
 Sie können einen Bericht erstellen, in dem Volumes gruppiert werden, weil die Beziehung sich in einem ungesunden Zustand befindet.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

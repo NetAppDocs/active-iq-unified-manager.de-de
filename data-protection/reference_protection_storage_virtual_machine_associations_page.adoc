@@ -30,8 +30,7 @@ SVMs können auf drei Arten zugeordnet werden:
 
 Mit dem Assistenten zur Erstellung von Storage Virtual Machines können Partnersicherungsapplikationen eine Quell-Storage-VM zur Verwendung mit SnapMirror und SnapVault Beziehungen mit einer Ziel-Storage-VM verknüpfen. Partnerapplikationen verwenden diese Verknüpfungen zum Zeitpunkt der Erstbereitstellung der Ziel-Volumes, um zu ermitteln, welche Ressourcen ausgewählt werden sollen.dd
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Die Storage-VM, die Sie verknüpfen, muss bereits vorhanden sein.
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
@@ -79,8 +78,7 @@ Wählen Sie diese Option, wenn Sie eine Zuordnung zwischen einer Quell-Speicher-
 
 Sie können Storage-VM-Zuordnungen für Partnerapplikationen löschen, um die sekundäre Bereitstellungsbeziehung zwischen Quell- und Ziel-Storage-VM zu entfernen. So kann dies beispielsweise geschehen, wenn die Ziel-Storage-VM voll ist und Sie neue Storage-VM-Sicherungsverknüpfungen erstellen möchten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Die Schaltfläche *Löschen* ist deaktiviert, bis mindestens eine Speicher-VM-Zuordnung ausgewählt ist. Das Ändern von Zuordnungen mithilfe der Funktionen „Löschen und Erstellen“ wirkt sich nur auf zukünftige Bereitstellungsvorgänge aus. Vorhandene Ziel-Volumes werden nicht verschoben.

@@ -13,8 +13,7 @@ summary: 'Sie können mit Unified Manager ein Performance-Ereignis untersuchen, 
 [role="lead"]
 Sie können mit Unified Manager ein Performance-Ereignis untersuchen, das durch eine QoS-Richtliniengruppe (Quality of Service) verursacht wird, die den Workload-Durchsatz (MB/s) drosselt. Die Drosselung hat die Reaktionszeiten (Latenz) von Volume-Workloads in der Richtliniengruppe erhöht. Anhand der Ereignisinformationen können Sie bestimmen, ob neue Grenzen für die Richtliniengruppen erforderlich sind, um die Drosselung zu stoppen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Es müssen neue, anerkannte oder veraltete Ereignisse für die Leistung vorliegen.
 

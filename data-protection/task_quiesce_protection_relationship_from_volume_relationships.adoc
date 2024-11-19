@@ -13,8 +13,7 @@ summary: Auf der Seite „Volume Relationships“ können Sie eine Schutzbeziehu
 [role="lead"]
 Auf der Seite „Volume Relationships“ können Sie eine Schutzbeziehung stilllegen, um einen vorübergehenden Ausfall von Datentransfers zu verhindern. Sie könnten eine Beziehung stilllegen, wenn Sie eine Snapshot Kopie eines SnapMirror Ziel-Volumes erstellen möchten, das eine Datenbank enthält, und Sie wollen sicherstellen, dass der Inhalt während des Snapshot Kopiervorgangs stabil ist.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 

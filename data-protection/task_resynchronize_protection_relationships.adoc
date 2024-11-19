@@ -13,8 +13,7 @@ summary: Auf der Seite Volume Relationships können Sie eine Beziehung neu synch
 [role="lead"]
 Auf der Seite Volume Relationships können Sie eine Beziehung neu synchronisieren, um sie von einem Ereignis wiederherzustellen, bei dem das Quell-Volume deaktiviert wurde, oder wenn Sie die aktuelle Quelle auf ein anderes Volume ändern möchten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 

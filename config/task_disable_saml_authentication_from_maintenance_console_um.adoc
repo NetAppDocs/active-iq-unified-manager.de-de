@@ -13,8 +13,7 @@ summary: Wenn kein Zugriff auf die Unified Manager GUI besteht, müssen Sie mög
 [role="lead"]
 Wenn kein Zugriff auf die Unified Manager GUI besteht, müssen Sie möglicherweise die SAML-Authentifizierung von der Wartungskonsole aus deaktivieren. Dies kann bei einer Fehlkonfiguration oder bei nicht zugänglichem IdP auftreten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen als Wartungbenutzer Zugriff auf die Wartungskonsole haben.
 
 Wenn die SAML-Authentifizierung deaktiviert ist, führen die konfigurierten Verzeichnisdienstanbieter wie Active Directory oder LDAP eine Anmeldeauthentifizierung durch. Lokale Benutzer und Wartungbenutzer können zusätzlich zu konfigurierten Remote-Benutzern auf die grafische Benutzeroberfläche zugreifen.

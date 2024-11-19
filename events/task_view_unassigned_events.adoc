@@ -13,8 +13,7 @@ summary: Sie können nicht zugewiesene Ereignisse anzeigen und anschließend jed
 [role="lead"]
 Sie können nicht zugewiesene Ereignisse anzeigen und anschließend jedem Benutzer zuweisen, der diese auflösen kann.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 .Schritte

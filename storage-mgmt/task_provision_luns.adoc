@@ -13,8 +13,7 @@ summary: 'Sie können LUNs erstellen, die CIFS-/SMB- und NFS-Protokolle unterst�
 [role="lead"]
 Sie können LUNs erstellen, die CIFS-/SMB- und NFS-Protokolle unterstützen, auf einem vorhandenen Cluster und auf der Seite „Workloads bereitstellen“ (Storage Virtual Machine).
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Die Storage-VM muss Platz für die Bereitstellung der LUN haben.
 * ISCSI und FCP müssen auf der Storage VM aktiviert sein, auf der Sie die LUN erstellen.
 * Für die Auswahl und Zuweisung des Performance Service Level (PSL) und der Storage Efficiency Policy (SEP) für den Workload müssen die Richtlinien erstellt werden, bevor Sie mit der Erstellung des Workloads beginnen.

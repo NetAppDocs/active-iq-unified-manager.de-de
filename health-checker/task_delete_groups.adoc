@@ -13,8 +13,7 @@ summary: Sie können eine Gruppe aus Unified Manager löschen, wenn die Gruppe n
 [role="lead"]
 Sie können eine Gruppe aus Unified Manager löschen, wenn die Gruppe nicht mehr benötigt wird.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Keines der Storage-Objekte (Cluster, SVMs, Volumes) muss einer beliebigen Gruppenregel zugeordnet sein, die der zu löschenden Gruppe zugeordnet ist.
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 

@@ -13,8 +13,7 @@ summary: Anmerkungsregeln können Sie aus Active IQ Unified Manager löschen, we
 [role="lead"]
 Anmerkungsregeln können Sie aus Active IQ Unified Manager löschen, wenn die Regeln nicht mehr benötigt werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Wenn Sie eine Anmerkungsregel löschen, wird die Anmerkung getrennt und aus den Speicherobjekten entfernt.

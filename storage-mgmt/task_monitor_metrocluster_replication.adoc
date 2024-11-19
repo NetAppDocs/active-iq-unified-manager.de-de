@@ -15,8 +15,7 @@ Sie können den allgemeinen Zustand der logischen Verbindungen überwachen und d
 
 Unified Manager überwacht mit Systemzustandsmeldungen den Status der Komponenten und die Konnektivität in der MetroCluster-Konfiguration.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Der lokale und der Remote-Cluster in der MetroCluster Konfiguration müssen Unified Manager hinzugefügt werden
 
 

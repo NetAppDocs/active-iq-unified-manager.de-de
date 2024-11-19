@@ -13,8 +13,7 @@ summary: 'Sie können eine NFS-Dateifreigabe ändern, um CIFS-Protokoll zu unter
 [role="lead"]
 Sie können eine NFS-Dateifreigabe ändern, um CIFS-Protokoll zu unterstützen. Während der Erstellung von Dateifreigabe können sowohl ACL-Parameter (Access Control List) als auch Richtlinienregeln für den Export für dieselbe Dateifreigabe festgelegt werden. Wenn Sie jedoch CIFS auf demselben Volume aktivieren möchten, auf dem Sie eine NFS-Dateifreigabe erstellt haben, können Sie die ACL-Parameter auf dieser Dateifreigabe aktualisieren, um CIFS zu unterstützen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 . Eine NFS-Dateifreigabe muss nur mit den Details der Exportrichtlinie erstellt worden sein. Informationen hierzu finden Sie unter „_Managen von Dateifreigaben_“ und „ Ändern von Storage-Workloads_“.
 . Sie müssen über den Dateifreigabschlüssel verfügen, um diesen Vorgang ausführen zu können. Informationen zum Anzeigen von Details zur Dateifreigabe und zum Abrufen des Dateifreigabschlüssels mithilfe der Job-ID finden Sie unter _Provisioning CIFS and NFS File Shares_.
 

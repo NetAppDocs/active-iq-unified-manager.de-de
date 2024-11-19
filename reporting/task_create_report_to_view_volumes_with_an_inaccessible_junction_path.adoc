@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, um nach Volumes zu suchen, die üb
 [role="lead"]
 Sie können einen Bericht erstellen, um nach Volumes zu suchen, die über einen nicht zugänglichen Bereitstellungspfad verfügen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

@@ -13,8 +13,7 @@ summary: Sie können feststellen, ob das Caching der Datenquelle von Unified Man
 [role="lead"]
 Sie können feststellen, ob das Caching der Datenquelle von Unified Manager ordnungsgemäß funktioniert, indem Sie prüfen, ob die Datenerfassung in Workflow Automation erfolgreich ist. Dies kann Sie erreichen, wenn Sie Workflow Automation in Unified Manager integrieren, um sicherzustellen, dass Workflow-Automatisierung nach der Integration verfügbar ist.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Um diese Aufgabe ausführen zu können, müssen Sie in Workflow Automation entweder die Administratorrolle oder die Rolle „Architekt“ zuweisen.
 
 .Schritte

@@ -13,8 +13,7 @@ summary: 'Sie können einen Bericht erstellen, um die Aggregate zu markieren, di
 [role="lead"]
 Sie können einen Bericht erstellen, um die Aggregate zu markieren, die zu 80 % oder mehr voll sind.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

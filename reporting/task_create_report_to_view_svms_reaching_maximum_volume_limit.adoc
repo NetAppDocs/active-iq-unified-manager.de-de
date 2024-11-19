@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, um SVMs zu finden, die die maximal
 [role="lead"]
 Sie können einen Bericht erstellen, um SVMs zu finden, die die maximale Volume-Obergrenze erreichen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

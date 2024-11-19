@@ -13,8 +13,7 @@ summary: Sie können neue Netzwerkschnittstellen hinzufügen, wenn Sie den Netzw
 [role="lead"]
 Sie können neue Netzwerkschnittstellen hinzufügen, wenn Sie den Netzwerkverkehr trennen müssen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen die Netzwerkschnittstelle der virtuellen Appliance mit vSphere hinzugefügt haben.
 
 Die virtuelle Appliance muss eingeschaltet sein.

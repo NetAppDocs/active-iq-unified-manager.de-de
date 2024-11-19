@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, um die Version der ONTAP Software 
 [role="lead"]
 Sie können einen Bericht erstellen, um die Version der ONTAP Software anzuzeigen, die auf allen Cluster-Nodes installiert ist. So können Sie sehen, welche Nodes Sie aktualisieren sollten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

@@ -13,8 +13,7 @@ summary: 'Sie können die E-Mail-Adressen basierend auf den mit Clustern verbund
 [role="lead"]
 Sie können die E-Mail-Adressen basierend auf den mit Clustern verbundenen Benutzerkontingenten, Storage Virtual Machines (SVMs), Volumes, qtrees, Benutzern oder Benutzergruppen ändern. Sie können die E-Mail-Adresse ändern, wenn Sie die E-Mail-Adresse überschreiben möchten, die durch Regeln generiert wurde, die im Dialogfeld „Regeln zum Generieren von Benutzer- und Gruppenkontingente-E-Mail-Adresse“ angegeben sind.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Sie müssen den geprüft haben link:reference_rules_to_generate_user_and_group_quota.html["Richtlinien zur Erstellung von Regeln"].
 

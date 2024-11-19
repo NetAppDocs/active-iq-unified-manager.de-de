@@ -13,7 +13,7 @@ summary: Sie können ein Sicherheitszertifikat hochladen und installieren, nachd
 [role="lead"]
 Sie können ein Sicherheitszertifikat hochladen und installieren, nachdem eine Zertifizierungsstelle unterschrieben und zurückgesendet wurde. Die Datei, die Sie hochladen und installieren, muss eine signierte Version des vorhandenen selbstsignierten Zertifikats sein. Ein CA-signiertes Zertifikat hilft bei der Verhinderung von man-in-the-Middle-Angriffen und bietet besseren Schutz als ein selbstsigniertes Zertifikat.
 
-*Was Sie brauchen*
+*Was .bevor Sie beginnen
 
 Sie müssen die folgenden Aktionen durchgeführt haben:
 

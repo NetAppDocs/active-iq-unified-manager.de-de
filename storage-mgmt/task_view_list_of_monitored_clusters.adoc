@@ -13,8 +13,7 @@ summary: Mithilfe der Seite Cluster Setup können Sie das Inventar der Cluster a
 [role="lead"]
 Mithilfe der Seite Cluster Setup können Sie das Inventar der Cluster anzeigen. Sie können Details zu den Clustern anzeigen, z. B. ihren Namen oder ihre IP-Adresse und ihren Kommunikationsstatus.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 .Schritt

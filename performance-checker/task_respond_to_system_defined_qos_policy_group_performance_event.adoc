@@ -13,8 +13,7 @@ summary: 'Unified Manager generiert Warnereignisse für die QoS-Richtlinie, wenn
 [role="lead"]
 Unified Manager generiert Warnereignisse für die QoS-Richtlinie, wenn der Workload-Durchsatz (IOPS/TB oder MB/s) die festgelegte ONTAP-QoS-Richtlinieneinstellung überschritten hat und die Workload-Latenz sich beeinträchtigt. Diese systemdefinierten Ereignisse bieten die Möglichkeit, potenzielle Performance-Probleme zu beheben, bevor viele Workloads von der Latenz beeinträchtigt werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Es müssen neue, anerkannte oder veraltete Ereignisse für die Leistung vorliegen.
 

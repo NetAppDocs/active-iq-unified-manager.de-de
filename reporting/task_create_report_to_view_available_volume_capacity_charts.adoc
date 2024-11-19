@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, um die verfügbare Volume-Kapazit�
 [role="lead"]
 Sie können einen Bericht erstellen, um die verfügbare Volume-Kapazität in einem Excel-Diagramm zu analysieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

@@ -13,8 +13,7 @@ summary: Die Bereitstellung von Unified Manager umfasst das Herunterladen von So
 [role="lead"]
 Die Bereitstellung von Unified Manager umfasst das Herunterladen von Software, die Bereitstellung der virtuellen Appliance, das Erstellen eines Benutzernamens und Kennworts für die Wartung und das Durchführen der ersten Einrichtung in der Web-Benutzeroberfläche.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie sollten die Systemanforderungen für die Implementierung überprüfen und vervollständigen.
 +
 Siehe link:concept_requirements_for_installing_unified_manager.html["Systemanforderungen"].

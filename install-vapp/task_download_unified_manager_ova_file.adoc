@@ -13,8 +13,7 @@ summary: Laden Sie die Installationsdatei für Unified Manager von der NetApp Su
 [role="lead"]
 Laden Sie die Installationsdatei für Unified Manager von der NetApp Support Site herunter, um Unified Manager als virtuelle Appliance zu implementieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie sollten die Anmeldedaten für die NetApp Support-Website besitzen.
 
 Die Installationsdatei ist eine `.tar` Datei, die ein Stammzertifikat enthält, a `README` Datei und an `OVA` Datei mit der für eine virtuelle Appliance konfigurierten Unified Manager Software.

@@ -13,8 +13,7 @@ summary: Sie können den Speicherplatz berechnen, den zurückgewonnen werden kan
 [role="lead"]
 Sie können den Speicherplatz berechnen, den zurückgewonnen werden kann, wenn eine oder mehrere Snapshot-Kopien gelöscht werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Das Volume muss sich online sein.
 * Das Volume muss ein FlexVol Volume sein. Diese Funktion wird nicht mit FlexGroup Volumes unterstützt.

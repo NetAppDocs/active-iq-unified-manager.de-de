@@ -13,8 +13,7 @@ summary: Standardmäßig speichert Unified Manager Ereignisdaten und Performance
 [role="lead"]
 Standardmäßig speichert Unified Manager Ereignisdaten und Performance-Daten für 6 Monate für alle überwachten Cluster. Nach diesem Zeitpunkt werden ältere Daten automatisch gelöscht, um Platz für neue Daten zu schaffen. Dieser Zeitrahmen eignet sich für die meisten Konfigurationen gut. Sehr große Konfigurationen mit vielen Clustern und Nodes müssen möglicherweise den Aufbewahrungszeitraum verkürzen, um einen optimalen Betrieb von Unified Manager zu erzielen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 Sie können die Aufbewahrungsfristen für diese beiden Datentypen auf der Seite Datenspeicherung ändern. Diese Einstellungen wirken sich auf die Aufbewahrung von Daten aus allen Clustern aus, die diese Instanz von Unified Manager überwacht.

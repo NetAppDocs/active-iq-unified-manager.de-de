@@ -13,8 +13,7 @@ summary: Sie können grundlegende oder erweiterte Zeitpläne für SnapMirror und
 [role="lead"]
 Sie können grundlegende oder erweiterte Zeitpläne für SnapMirror und SnapVault erstellen, um automatische Datensicherheitstransfers auf einem Quell- oder primären Volume zu ermöglichen. Dadurch werden diese je nach Häufigkeit der Datenänderungen auf Ihren Volumes häufiger oder weniger häufiger durchgeführt.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen den Bereich Zielinformationen im Dialogfeld Schutz konfigurieren bereits ausgefüllt haben.
 * Sie müssen Workflow Automation einrichten, um diese Aufgabe auszuführen.

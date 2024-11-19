@@ -13,8 +13,7 @@ summary: Wenn die systemdefinierten Performance-Service-Level nicht Ihren Worklo
 [role="lead"]
 Wenn die systemdefinierten Performance-Service-Level nicht Ihren Workload-Anforderungen entsprechen, können Sie Ihre eigenen Performance-Service-Level erstellen, die für Ihre Workloads optimiert sind.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Anwendungsadministratorrolle verfügen.
 * Der Name der Leistungsstufe muss eindeutig sein, und Sie können die folgenden reservierten Schlüsselwörter nicht verwenden:
 +

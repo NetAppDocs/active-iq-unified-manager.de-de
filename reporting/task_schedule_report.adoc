@@ -13,8 +13,7 @@ summary: Nachdem Sie über eine Ansicht oder eine Excel-Datei verfügen, die Sie
 [role="lead"]
 Nachdem Sie über eine Ansicht oder eine Excel-Datei verfügen, die Sie für die regelmäßige Erstellung und Verteilung planen möchten, können Sie den Bericht planen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen die SMTP-Servereinstellungen auf der Seite *Allgemein* > *Benachrichtigungen* konfiguriert haben, damit die Reporting-Engine Berichte als E-Mail-Anhänge an die Empfängerliste des Unified Manager-Servers senden kann.
 * Der E-Mail-Server muss so konfiguriert sein, dass Anhänge mit den generierten E-Mails gesendet werden können.

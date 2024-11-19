@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, um Volumes mit einer hohen Menge a
 [role="lead"]
 Sie können einen Bericht erstellen, um Volumes mit einer hohen Menge an „kalten“ Daten auf einem nicht-FabricPool-Aggregat anzuzeigen. So können Sie Volumes identifizieren, die in ein FabricPool Aggregat verschoben werden sollten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

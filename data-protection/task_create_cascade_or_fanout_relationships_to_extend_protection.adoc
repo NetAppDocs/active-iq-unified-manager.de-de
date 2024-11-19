@@ -15,8 +15,7 @@ Sie können den Schutz vor einer bestehenden Beziehung erweitern, indem Sie entw
 
 Sie können die Sicherung auf Volumes mithilfe der Konsistenzgruppe erweitern. Hierbei handelt es sich um einen Container mit mehreren Volumes, sodass Sie alle Volumes als eine Einheit verwalten können. Sie können die SnapMirror Active Sync Konsistenzgruppe und die synchrone Konsistenzgruppenbeziehung auf der Seite Beziehungen von Unified Manager anzeigen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 

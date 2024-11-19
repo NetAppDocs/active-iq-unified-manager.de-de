@@ -13,8 +13,7 @@ summary: Sie können eine SnapVault-Beziehung auf der Seite Volume / Health Deta
 [role="lead"]
 Sie können eine SnapVault-Beziehung auf der Seite Volume / Health Details erstellen, so dass Daten-Backups für Sicherungszwecke auf Volumes aktiviert sind.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten, um diese Aufgabe auszuführen.
 

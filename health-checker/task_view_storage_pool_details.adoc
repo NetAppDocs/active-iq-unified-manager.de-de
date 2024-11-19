@@ -13,8 +13,7 @@ summary: Sie können Details zum Speicherpool anzeigen, um den Zustand des Speic
 [role="lead"]
 Sie können Details zum Speicherpool anzeigen, um den Zustand des Speicherpools, den gesamten und verfügbaren Cache sowie die verwendeten und verfügbaren Zuweisungen zu überwachen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 .Schritte

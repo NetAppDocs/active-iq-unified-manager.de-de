@@ -13,8 +13,7 @@ summary: Nachdem Sie Maßnahmen zur Behebung eines fehlgeschlagenen Schutzjobs e
 [role="lead"]
 Nachdem Sie Maßnahmen ergriffen haben, um einen fehlgeschlagenen Schutzauftrag zu beheben, können Sie den Job mit *Retry* erneut ausführen. Durch Wiederversuchen eines Jobs wird mithilfe der ursprünglichen Job-ID ein neuer Job erstellt.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Sie können nur einen fehlgeschlagenen Job gleichzeitig erneut versuchen. Wenn Sie mehrere Jobs auswählen, wird die Schaltfläche *Wiederholen* deaktiviert. Es können nur Jobs vom Typ Protection Configuration and Protection Relationship Operation wiederholt werden.

@@ -13,8 +13,7 @@ summary: Sie können ein benutzerdefiniertes Home-Verzeichnis erstellen und Ihr 
 [role="lead"]
 Sie können ein benutzerdefiniertes Home-Verzeichnis erstellen und Ihr eigenes umadmin-Benutzerpasswort vor der Installation von Unified Manager definieren. Diese Aufgabe ist optional, aber einige Standorte benötigen möglicherweise die Flexibilität, die Standardeinstellungen für die Unified Manager-Installation zu überschreiben.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Das System muss die in beschriebenen Anforderungen erfüllen link:concept_virtual_infrastructure_or_hardware_system_requirements.html["Hardwaresystemanforderungen"].
 * Sie müssen sich als Root-Benutzer beim Red hat Enterprise Linux-System anmelden können.
 

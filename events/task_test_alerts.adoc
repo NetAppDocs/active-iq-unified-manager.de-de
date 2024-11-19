@@ -13,8 +13,7 @@ summary: Sie können eine Meldung testen, um zu überprüfen, ob Sie sie richtig
 [role="lead"]
 Sie können eine Meldung testen, um zu überprüfen, ob Sie sie richtig konfiguriert haben. Wenn ein Ereignis ausgelöst wird, wird eine Warnmeldung generiert und eine Warnmeldung an die konfigurierten Empfänger gesendet. Sie können anhand der Testwarnung überprüfen, ob die Benachrichtigung gesendet wird und ob Ihr Skript ausgeführt wird.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen Benachrichtigungseinstellungen wie die E-Mail-Adresse der Empfänger, SMTP-Server und SNMP-Trap konfiguriert haben.
 +
 Der Unified Manager-Server kann diese Einstellungen verwenden, um Benachrichtigungen an Benutzer zu senden, wenn ein Ereignis generiert wird.

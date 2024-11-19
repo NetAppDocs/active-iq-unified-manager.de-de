@@ -13,8 +13,7 @@ summary: Mithilfe von Unified Manager können Sie ein Aggregat identifizieren, d
 [role="lead"]
 Mithilfe von Unified Manager können Sie ein Aggregat identifizieren, das weniger ausgelastet ist als das Aggregat, in dem Ihre Workloads sich befinden. Anschließend können Sie ausgewählte Volumes oder LUNs zu diesem Aggregat verschieben. Durch die Verschiebung hochperformanter Workloads in ein weniger ausgelastete Aggregat oder ein Aggregat mit aktiviertem Flash-Storage können die Workloads effizienter arbeiten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Sie müssen den Namen des Aggregats aufgezeichnet haben, das derzeit ein Performance-Problem hat.
 * Sie müssen das Datum und die Uhrzeit aufgezeichnet haben, zu der das Aggregat das Ereignis erhalten hat.

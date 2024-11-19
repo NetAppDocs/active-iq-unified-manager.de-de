@@ -13,8 +13,7 @@ summary: Mit der Maus können Sie den Zeitbereich reduzieren, um sich auf einen 
 [role="lead"]
 Mit der Maus können Sie den Zeitbereich reduzieren, um sich auf einen bestimmten Zeitraum im Bereich Zählerdiagramm oder im Fenster Zoomansicht der Zählerdiagramme zu konzentrieren. So sehen Sie eine granularere und mikroskopische Ansicht aller Teile der Zeitachse von Performance-Daten, Ereignissen und Schwellenwerten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Der Cursor muss in eine Lupe geändert werden, um anzuzeigen, dass diese Funktion aktiv ist.
 
 [NOTE]

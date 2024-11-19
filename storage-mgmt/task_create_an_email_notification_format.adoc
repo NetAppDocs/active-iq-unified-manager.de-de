@@ -13,8 +13,7 @@ summary: 'Sie können ein Benachrichtigungsformat für E-Mails erstellen, die an
 [role="lead"]
 Sie können ein Benachrichtigungsformat für E-Mails erstellen, die an einen Benutzer oder eine Benutzergruppe gesendet werden, wenn ein mit Quota zusammenhängendes Problem vorliegt (weiche Obergrenze oder harte Grenze erreicht).
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 .Schritte

@@ -13,8 +13,7 @@ summary: Auf der Seite Jobs können Sie den Jobstatus überwachen und Jobeigensc
 [role="lead"]
 Auf der Seite Jobs können Sie den Jobstatus überwachen und Jobeigenschaften wie Speicherservicetyp, Status, Abges. Zeit und Abgeschlossene Zeit anzeigen, um zu bestimmen, ob ein Job erfolgreich abgeschlossen wurde oder nicht.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 .Schritte

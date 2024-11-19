@@ -13,8 +13,7 @@ summary: Eine Liste aller Volumes und Storage VMs sowie der aktuelle Status gege
 [role="lead"]
 Eine Liste aller Volumes und Storage VMs (SVMs) und ihres aktuellen Status gegen Ransomware können Sie feststellen, ob die Daten auf Ihren Volumes und SVMs ausreichend vor Ransomware-Angriffen geschützt sind.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 Weitere Informationen zu den verschiedenen Status gegen Ransomware finden Sie unter link:https://docs.netapp.com/us-en/ontap/anti-ransomware/enable-task.html#system-manager-procedure["ONTAP: Anti-Ransomware"].

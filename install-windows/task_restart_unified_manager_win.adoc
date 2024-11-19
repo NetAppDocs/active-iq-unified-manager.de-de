@@ -13,8 +13,7 @@ summary: Möglicherweise müssen Sie Unified Manager neu starten, nachdem Sie di
 [role="lead"]
 Möglicherweise müssen Sie Unified Manager neu starten, nachdem Sie die Konfigurationsänderungen vorgenommen haben.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über Administratorrechte für Windows verfügen.
 
 .Schritte

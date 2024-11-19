@@ -13,8 +13,7 @@ summary: Bei der Konfiguration von Volume-Warnmeldungen können Sie im Dialogfel
 [role="lead"]
 Bei der Konfiguration von Volume-Warnmeldungen können Sie im Dialogfeld Warnung eine Zeichenfolge angeben, die ein Volume oder eine Volume-Gruppe identifiziert. Wenn Sie Disaster Recovery für SVMs konfiguriert haben, jedoch haben die Quell- und Ziel-Volumes denselben Namen, sodass Sie Warnmeldungen für beide Volumes erhalten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Die Alarme für Disaster-Recovery-Ziel-Volumes lassen sich deaktivieren, indem Volumes mit dem Namen der Ziel-SVM ausgeschlossen werden. Dies ist möglich, da die Kennung für Volume-Ereignisse den SVM-Namen und den Volume-Namen im Format „<svm_Name>:/<Volume_Name>“ enthält.

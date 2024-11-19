@@ -13,8 +13,7 @@ summary: Sie können auf der Seite Storage VMs im Inventar alle Storage VMs in A
 [role="lead"]
 Sie können auf der Seite Storage VMs im Inventar alle Storage VMs in Active IQ Unified Manager anzeigen und die Storage-VMs anhand ihres Sicherungsstatus filtern.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Eine neue Spalte Sicherungsrolle wird der Storage VMs-Ansicht hinzugefügt. Sie enthält Informationen darüber, ob die Storage-VM geschützt oder ungesichert ist.

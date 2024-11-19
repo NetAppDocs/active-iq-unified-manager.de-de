@@ -13,8 +13,7 @@ summary: Wenn die Remote-Authentifizierung aktiviert ist, können Sie die versch
 [role="lead"]
 Wenn die Remote-Authentifizierung aktiviert ist, können Sie die verschachtelte Gruppenauthentifizierung deaktivieren, sodass sich nur einzelne Benutzer und nicht Gruppenmitglieder im Remote-Zugriff auf Unified Manager authentifizieren können. Sie können verschachtelte Gruppen deaktivieren, wenn Sie die Reaktionszeit der Active Directory-Authentifizierung verbessern möchten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Anwendungsadministratorrolle verfügen.
 * Das Deaktivieren verschachtelter Gruppen ist nur bei Verwendung von Active Directory anwendbar.
 

@@ -13,8 +13,7 @@ summary: Sie können Unified Manager so konfigurieren, dass Benachrichtigungen g
 [role="lead"]
 Sie können Unified Manager so konfigurieren, dass Benachrichtigungen gesendet werden, wenn ein Ereignis generiert wird oder ein Ereignis einem Benutzer zugewiesen ist. Sie können den SMTP-Server konfigurieren, der zum Senden der Warnmeldung verwendet wird, und Sie können verschiedene Benachrichtigungsmechanismen festlegen – beispielsweise können Alarmbenachrichtigungen als E-Mails oder SNMP-Traps gesendet werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen die folgenden Informationen haben:
 
 * E-Mail-Adresse, von der die Benachrichtigung gesendet wird

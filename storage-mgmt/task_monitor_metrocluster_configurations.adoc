@@ -21,8 +21,7 @@ Sie können die MetroCluster-Konfigurationen über die folgenden Ansichten im li
 
 Unified Manager verwendet Systemzustandsmeldungen, um den Status der Komponenten und die Konnektivität in der MetroCluster-Konfiguration anzugeben.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Der Active IQ Unified Manager muss sowohl die lokalen als auch die Remote-Cluster in einer MetroCluster Konfiguration hinzugefügt werden.
 * Wenn in einer Konfiguration von MetroCluster over IP ein Mediator unterstützt werden soll, sollte der Mediator konfiguriert und dem Cluster durch die entsprechende API hinzugefügt werden.
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.

@@ -13,8 +13,7 @@ summary: Wenn die System-definierten Storage-Effizienzrichtlinien nicht Ihren Wo
 [role="lead"]
 Wenn die System-definierten Storage-Effizienzrichtlinien nicht Ihren Workload-Anforderungen entsprechen, können Sie Ihre eigenen Storage-Effizienzrichtlinien erstellen, die für Ihre Workloads optimiert sind.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Anwendungsadministratorrolle verfügen.
 * Der Name der Storage Efficiency Policy muss eindeutig sein. Sie können die folgenden reservierten Schlüsselwörter nicht verwenden:
 +

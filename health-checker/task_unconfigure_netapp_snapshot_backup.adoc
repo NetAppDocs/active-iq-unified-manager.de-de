@@ -13,8 +13,7 @@ summary: Wenn Sie den Backup-Typ für Ihr Active IQ Unified Manager System ände
 [role="lead"]
 Wenn Sie den Backup-Typ für Ihr Active IQ Unified Manager System ändern möchten, können Sie die Wartungsperkonsolen-Optionen verwenden. Die *Unconfigure NetApp Snapshot Backup* Option ermöglicht es Ihnen, auf das MySQL basierte Backup zurückzufallen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über eine Benutzer-ID und ein Passwort verfügen, um sich bei der Wartungskonsole des Unified Manager-Servers anzumelden.
 
 .Schritte

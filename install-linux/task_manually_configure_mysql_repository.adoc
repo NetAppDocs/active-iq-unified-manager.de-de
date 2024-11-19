@@ -21,15 +21,15 @@ Diese Aufgabe kann fehlschlagen, wenn das System nicht über die Internetverbind
 
 ====
 .Schritte
-. Laden Sie das entsprechende MySQL-Repository für Ihre Installation herunter. Für Red hat Enterprise Linux 7 können Sie ihn unter folgender Adresse herunterladen:
+. Laden Sie das entsprechende MySQL-Repository für Ihre Installation herunter. Laden Sie die Version 8 unter folgender Adresse herunter:
 +
-`+wget http://repo.mysql.com/yum/mysql-8.0-community/el/7/x86_64/mysql80-community-release-el7-3.noarch.rpm+`
+`wget http://repo.mysql.com/yum/mysql-8.0-community/el/8/x86_64/mysql80-community-release-el8-1.noarch.rpm`
 
 +
-Laden Sie die Version 8 unter folgender Adresse herunter:
+Laden Sie die Version 9 unter folgender Adresse herunter:
 
 +
-`+wget http://repo.mysql.com/yum/mysql-8.0-community/el/8/x86_64/mysql80-community-release-el8-1.noarch.rpm+`
+`wget http://repo.mysql.com/yum/mysql-8.0-community/el/9/x86_64/mysql80-community-release-el9-1.noarch.rpm`
 
 . Konfigurieren Sie das MySQL-Repository:
 +

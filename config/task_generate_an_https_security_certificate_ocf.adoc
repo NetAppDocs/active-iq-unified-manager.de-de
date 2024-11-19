@@ -13,8 +13,7 @@ summary: Wenn Active IQ Unified Manager zum ersten Mal installiert wird, wird ei
 [role="lead"]
 Wenn Active IQ Unified Manager zum ersten Mal installiert wird, wird ein HTTPS-Standardzertifikat installiert. Sie können ein neues HTTPS-Sicherheitszertifikat generieren, das das vorhandene Zertifikat ersetzt.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 Es kann mehrere Gründe geben, das Zertifikat neu zu generieren, z. B. wenn Sie bessere Werte für Distinguished Name (DN) haben möchten oder wenn Sie eine höhere Schlüsselgröße oder einen längeren Ablaufzeitraum wünschen oder wenn das aktuelle Zertifikat abgelaufen ist.

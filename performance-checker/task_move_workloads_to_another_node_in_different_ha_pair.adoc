@@ -13,8 +13,7 @@ summary: Mithilfe von Unified Manager können Sie ein Aggregat auf einem Node in
 [role="lead"]
 Mithilfe von Unified Manager können Sie ein Aggregat auf einem Node in einem anderen HA-Paar identifizieren, das weniger beschäftigt ist als das HA-Paar, in dem Ihre Workloads derzeit ausgeführt werden. Anschließend können Sie ausgewählte Volumes auf dem neuen HA-Paar in Aggregate verschieben. Durch die Migration hochperformanter Workloads auf ein Aggregat auf einem weniger ausgelasteten Node können Workloads auf beiden Nodes effizienter ausgeführt werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Der Cluster muss aus mindestens zwei HA-Paaren bestehen. Diese Problembehebung ist nicht möglich, wenn im Cluster nur ein HA-Paar vorhanden ist.
 * Sie müssen die Namen der beiden Nodes im HA-Paar, in dem derzeit das Performance-Problem aufgetreten ist, notiert haben.

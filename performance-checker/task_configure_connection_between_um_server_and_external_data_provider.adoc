@@ -13,8 +13,7 @@ summary: Unified Manager kann Cluster-Leistungsdaten an einen externen Server se
 [role="lead"]
 Unified Manager kann Cluster-Leistungsdaten an einen externen Server senden. Sie können die Art der gesendeten statistischen Daten und das Intervall angeben, in dem Daten gesendet werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über eine Benutzer-ID verfügen, um sich bei der Wartungskonsole des Unified Manager-Servers anzumelden.
 * Sie müssen über die folgenden Informationen zum externen Datenanbieter verfügen:
 +

@@ -13,8 +13,7 @@ summary: Sie weisen einem Storage-Objekt eine benutzerdefinierte Performance-Sch
 [role="lead"]
 Sie weisen einem Storage-Objekt eine benutzerdefinierte Performance-Schwellenwertrichtlinie zu, damit Unified Manager ein Ereignis meldet, wenn der Wert des Performance-Zählers die Richtlinieneinstellung überschreitet.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 Die Richtlinie für Performance-Schwellenwerte oder -Richtlinien, die Sie auf das Objekt anwenden möchten, müssen vorhanden sein.

@@ -13,8 +13,7 @@ summary: 'Authentifizierungsservices ermöglichen die Authentifizierung von Remo
 [role="lead"]
 Authentifizierungsservices ermöglichen die Authentifizierung von Remote-Benutzern oder Remotegruppen in einem Authentifizierungsserver, bevor sie ihnen den Zugriff auf Unified Manager gewähren. Sie können Benutzer mithilfe von vordefinierten Authentifizierungsdiensten (z. B. Active Directory oder OpenLDAP) authentifizieren, oder indem Sie Ihren eigenen Authentifizierungsmechanismus konfigurieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen die Remote-Authentifizierung aktiviert haben.
 * Sie müssen über die Anwendungsadministratorrolle verfügen.
 

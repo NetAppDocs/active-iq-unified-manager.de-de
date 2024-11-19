@@ -13,8 +13,7 @@ summary: Wenn die Benutzeroberfläche von Unified Manager nicht ausgeführt wird
 [role="lead"]
 Wenn die Benutzeroberfläche von Unified Manager nicht ausgeführt wird oder Sie Funktionen ausführen müssen, die in der Benutzeroberfläche nicht verfügbar sind, können Sie die Wartungskonsole aufrufen, um die virtuelle Appliance neu zu konfigurieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen der Wartungbenutzer sein.
 * Die virtuelle Appliance muss eingeschaltet sein, um auf die Wartungskonsole zugreifen zu können.
 

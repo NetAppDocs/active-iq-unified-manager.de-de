@@ -13,8 +13,7 @@ summary: Dieser Workflow bietet ein Beispiel dafür, wie Sie ein lag-Problem lö
 [role="lead"]
 Dieser Workflow bietet ein Beispiel dafür, wie Sie ein lag-Problem lösen können. In diesem Szenario greifen Sie als Administrator oder Operator auf die Seite Unified ManagerDashboard zu, um zu sehen, ob Probleme mit Ihren Schutzbeziehungen auftreten und, falls sie vorhanden sind, Lösungen zu finden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Auf der Dashboard-Seite sehen Sie sich den Bereich „ungelöste Vorfälle und Risiken“ an und Sie sehen einen SnapMirror lag-Fehler im Teilfenster „Sicherung“ unter „Sicherungsrisiken“.

@@ -13,8 +13,7 @@ summary: Auf der Seite „Ressourcen-Pools“ können Sie den Ressourcenpoolbest
 [role="lead"]
 Auf der Seite „Ressourcen-Pools“ können Sie den Ressourcenpoolbestand anzeigen und die verbleibende Kapazität für jeden Ressourcenpool überwachen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 .Schritt

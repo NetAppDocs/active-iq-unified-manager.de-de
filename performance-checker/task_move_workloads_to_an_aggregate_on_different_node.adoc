@@ -13,8 +13,7 @@ summary: Mithilfe von Unified Manager können Sie ein Aggregat auf einem anderen
 [role="lead"]
 Mithilfe von Unified Manager können Sie ein Aggregat auf einem anderen Node identifizieren, der weniger ausgelastet ist als der Node, auf dem Ihre Workloads gerade ausgeführt werden. Anschließend können Sie ausgewählte Volumes zu diesem Aggregat verschieben. Durch die Migration hochperformanter Workloads auf ein Aggregat auf einem weniger ausgelasteten Node können Workloads auf beiden Nodes effizienter ausgeführt werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Sie müssen den Namen des Node notiert haben, der derzeit ein Performance-Problem hat.
 * Sie müssen das Datum und die Uhrzeit aufgezeichnet haben, zu der der Node das Performance-Ereignis erhalten hat.

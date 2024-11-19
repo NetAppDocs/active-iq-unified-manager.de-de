@@ -13,8 +13,7 @@ summary: 'Um die Performance der Virtual Machines (VMs) anzuzeigen und zu behebe
 [role="lead"]
 Um die Performance der Virtual Machines (VMs) anzuzeigen und zu beheben, müssen die zugehörigen vCenter Server in Ihrer Active IQ Unified Manager Instanz hinzugefügt werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Stellen Sie vor dem Hinzufügen oder Anzeigen von vCenter-Servern Folgendes sicher:
 
 * Sie kennen die vCenter Server-Namen.

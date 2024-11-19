@@ -13,8 +13,7 @@ summary: Sie können die Seite Jobs verwenden, um einen Job abzubrechen, wenn er
 [role="lead"]
 Sie können die Seite Jobs verwenden, um einen Job abzubrechen, wenn er zu lange dauert, zu viele Fehler auftritt oder nicht mehr benötigt wird. Sie können einen Job nur dann abbrechen, wenn ihm Status und Typ erlauben. Sie können jeden laufenden Job abbrechen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 .Schritte

@@ -13,8 +13,7 @@ summary: Sie können Ihre Disaster-Recovery-Beziehungen für Storage-VMs von der
 [role="lead"]
 Sie können Ihre Disaster-Recovery-Beziehungen für Storage-VMs von der Seite „Beziehungen“ im ABSCHNITT „SCHUTZ“ des BESTANDS aus überwachen. Standardmäßig werden auf der Seite „Beziehungen“ nur die Beziehungen auf der obersten Ebene aufgeführt, wenn der Filter „Bestandbeziehungen“ angewendet wird.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Mithilfe von Filtern können Sie die Disaster-Recovery-Beziehungen zwischen Storage-VMs anzeigen.

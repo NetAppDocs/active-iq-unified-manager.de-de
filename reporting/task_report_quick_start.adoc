@@ -13,8 +13,7 @@ summary: 'Erstellen Sie einen benutzerdefinierten Beispielbericht, um Ansichten 
 [role="lead"]
 Erstellen Sie einen benutzerdefinierten Beispielbericht, um Ansichten zu untersuchen und Berichte zu planen. Dieser Schnellstart-Bericht enthält eine Liste der Volumes, die Sie möglicherweise auf das Cloud-Tier verschieben möchten, da es eine Menge inaktiver (kalter) Daten gibt. Sie öffnen die Ansicht „Leistung: Alle Volumes“, passen die Ansicht mit Filtern und Spalten an, speichern die benutzerdefinierte Ansicht als Bericht und planen den Bericht für die Freigabe einmal pro Woche.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen FabricPool Aggregate konfiguriert haben und Volumes auf diesen Aggregaten haben.
 

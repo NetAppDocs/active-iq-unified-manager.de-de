@@ -13,8 +13,7 @@ summary: Sie können die virtuelle Maschine von der Wartungskonsole von Unified 
 [role="lead"]
 Sie können die virtuelle Maschine von der Wartungskonsole von Unified Manager aus neu starten. Sie müssen neu starten, nachdem Sie ein neues Sicherheitszertifikat erstellt haben oder wenn ein Problem mit der virtuellen Maschine auftritt.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Die virtuelle Appliance wird eingeschaltet.
 
 Sie sind als Maintenance-Benutzer bei der Wartungskonsole angemeldet.

@@ -18,8 +18,7 @@ NOTE: Active IQ-Regeln werden auch als sichere Config Advisor-Regeln (CA) bezeic
 
 Wenn Sie Unified Manager auf eine bestimmte Version an einem Standort ohne Netzwerkverbindung installieren oder aktualisieren, stehen die gebündelten Active IQ-Regeln automatisch für den Upload zur Verfügung. Wir empfehlen jedoch, etwa einmal pro Monat eine neue Regeldatei von der NetApp Support Site herunterzuladen, um sicherzustellen, dass aktualisierte Ereignisse generiert werden und Ihre Storage-Systeme weiterhin optimal funktionieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Die Ereignisberichte für das Active IQ Portal müssen aktiviert sein. Diese Funktion ist standardmäßig aktiviert. Weitere Informationen finden Sie unter link:../config/concept_active_iq_platform_events.html["Aktivieren von Active IQ Portal-Ereignissen"].
 * Sie müssen die Regeldatei von der NetApp Support-Website herunterladen.
 +

@@ -13,8 +13,7 @@ summary: Ein Ressourcen-Pool besteht aus einer Reihe von Mitglied-Aggregaten. Si
 [role="lead"]
 Ein Ressourcen-Pool besteht aus einer Reihe von Mitglied-Aggregaten. Sie können zu vorhandenen Ressourcen-Pools Aggregate hinzufügen, um den für die Provisionierung des sekundären Volumes verfügbaren Speicherplatz zu erhöhen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Sie können nicht mehr als 200 Aggregate gleichzeitig einem Ressourcen-Pool hinzufügen. Aggregate, die im Dialogfeld Aggregate angezeigt werden, gehören keiner anderen Ressource-Pool an.

@@ -13,8 +13,7 @@ summary: Sie können eine SnapMirror Beziehung mit versionsflexibler Replizierun
 [role="lead"]
 Sie können eine SnapMirror Beziehung mit versionsflexibler Replizierung erstellen. Die versionsflexible Replizierung ermöglicht Ihnen die Implementierung der SnapMirror Sicherung, selbst wenn Quell- und Ziel-Volumes unter verschiedenen Versionen von ONTAP ausgeführt werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 * Die Quell- und Ziel-SVMs müssen jeweils eine SnapMirror Lizenz aktiviert haben.

@@ -13,8 +13,7 @@ summary: Sie können die Liste der Warnungen, die für verschiedene Ereignisse e
 [role="lead"]
 Sie können die Liste der Warnungen, die für verschiedene Ereignisse erstellt wurden, auf der Seite „Alarm-Setup“ anzeigen. Zudem können Sie Eigenschaften von Warnmeldungen anzeigen, z. B. Alarmbeschreibung, Benachrichtigungsmethode und -Häufigkeit, Ereignisse, die die Warnung auslösen, E-Mail-Empfänger der Warnmeldungen und betroffene Ressourcen wie Cluster, Aggregate und Volumes.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 .Schritt

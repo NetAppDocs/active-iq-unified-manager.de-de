@@ -13,8 +13,7 @@ summary: Die Standard-Ports, die Unified Manager für HTTP- und HTTPS-Protokolle
 [role="lead"]
 Die Standard-Ports, die Unified Manager für HTTP- und HTTPS-Protokolle verwendet, können nach der Installation geändert werden, falls dies zur Sicherheit erforderlich ist. Die Standardports sind 80 für HTTP und 443 für HTTPS.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über eine Benutzer-ID und ein Passwort verfügen, um sich bei der Wartungskonsole des Unified Manager-Servers anzumelden.
 
 [NOTE]

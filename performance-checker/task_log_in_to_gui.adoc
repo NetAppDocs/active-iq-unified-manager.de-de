@@ -13,8 +13,7 @@ summary: Sie können sich über einen unterstützten Webbrowser bei der Benutzer
 [role="lead"]
 Sie können sich über einen unterstützten Webbrowser bei der Benutzeroberfläche von Unified Manager anmelden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Der Webbrowser muss die Mindestanforderungen erfüllen.
 +
 Weitere Informationen finden Sie in der Interoperabilitäts-Matrix unter http://mysupport.netapp.com/matrix["mysupport.netapp.com/matrix"] Für die vollständige Liste der unterstützten Browser-Versionen.

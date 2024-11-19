@@ -13,8 +13,7 @@ summary: 'Aus der Ansicht „Systemzustand“: Alle Storage VMs können Sie Ihr 
 [role="lead"]
 Aus der Ansicht „Systemzustand“: Alle Storage VMs können Sie Ihr Inventar an Storage Virtual Machines (SVMs) überwachen. Mithilfe der Seite Storage VM/Health Details können Sie detaillierte Informationen zu überwachten SVMs anzeigen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 Sie können SVM-Details anzeigen, beispielsweise die Kapazität, Effizienz und Konfiguration einer SVM. Sie können auch Informationen zu zugehörigen Geräten und zugehörigen Warnmeldungen für diese SVM anzeigen.

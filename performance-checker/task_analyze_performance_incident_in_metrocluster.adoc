@@ -13,8 +13,7 @@ summary: Mit Unified Manager können Sie dynamische Performance-Ereignisse auf e
 [role="lead"]
 Mit Unified Manager können Sie dynamische Performance-Ereignisse auf einem Remote-Cluster in einer MetroCluster-Konfiguration analysieren. Mit der Analyse können Sie ermitteln, ob ein Ereignis im Remote-Cluster ein Ereignis auf seinem Partner-Cluster verursacht hat.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Sie müssen ein Performance-Ereignis auf einem lokalen Cluster in einer MetroCluster Konfiguration analysiert und die Ereigniserkennungszeit ermittelt haben.
 * Sie müssen den Zustand des lokalen Clusters und dessen am Performance-Ereignis beteiligten Partner-Clusters überprüft und den Namen des Partner-Clusters erhalten haben.

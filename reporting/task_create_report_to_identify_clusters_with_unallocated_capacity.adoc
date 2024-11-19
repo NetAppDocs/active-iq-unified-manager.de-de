@@ -13,7 +13,9 @@ summary: Sie können einen Bericht erstellen, um die Cluster mit der am meisten 
 [role="lead"]
 Sie können einen Bericht erstellen, um die Cluster mit der am meisten nicht zugewiesenen LUN-Kapazität zu finden. Dieser Wert liegt bei über 0,5 TB. Damit können Sie ermitteln, wo Sie zusätzliche Workloads hinzufügen können.
 
-*Was Sie benötigen* * Sie müssen die Rolle „Application Administrator“ oder „Storage Administrator“ haben.
+.Bevor Sie beginnen
+* Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
+
 
 Führen Sie die folgenden Schritte aus, um eine benutzerdefinierte Ansicht zu erstellen, in der Cluster mit der am meisten nicht zugewiesenen LUN-Kapazität angezeigt werden. Anschließend können Sie einen Bericht so planen, dass er für diese Ansicht erstellt wird.
 

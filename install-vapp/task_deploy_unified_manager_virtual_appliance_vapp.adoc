@@ -13,8 +13,7 @@ summary: Nach dem Herunterladen der Installationsdatei stellen Sie Unified Manag
 [role="lead"]
 Nach dem Herunterladen der Installationsdatei stellen Sie Unified Manager als virtuelle Appliance bereit. Verwenden Sie den vSphere Web Client, um die virtuelle Appliance auf einem ESXi-Server bereitzustellen. Wenn Sie die virtuelle Appliance bereitstellen, wird eine virtuelle Maschine erstellt.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie sollten die Systemanforderungen überprüfen. Nehmen Sie die erforderlichen Änderungen vor der Bereitstellung der virtuellen Unified Manager Appliance vor.
 
 Siehe link:concept_virtual_infrastructure_or_hardware_system_requirements.html["Anforderungen an die virtuelle Infrastruktur"].

@@ -13,8 +13,7 @@ summary: Bei Datenverlust oder Datenbeschädigung kann Unified Manager mit der W
 [role="lead"]
 Bei Datenverlust oder Datenbeschädigung kann Unified Manager mit der Wiederherstellungsfunktion in den vorherigen stabilen Zustand bei minimalem Verlust wiederhergestellt werden. Sie können die Unified Manager MySQL-Datenbank mithilfe der Unified Manager-Wartungskonsole auf einem lokalen Windows-System oder einem Remote-Windows-System wiederherstellen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über Administratorrechte für Windows verfügen.
 * Sie müssen die Backup-Datei von Unified Manager und den Inhalt des Datenbank-Repository-Verzeichnisses auf das System kopiert haben, auf dem Sie den Wiederherstellungsvorgang ausführen möchten.
 +

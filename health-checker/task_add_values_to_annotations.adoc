@@ -13,8 +13,7 @@ summary: Sie können Annotationen Werte hinzufügen und Speicherobjekte anschlie
 [role="lead"]
 Sie können Annotationen Werte hinzufügen und Speicherobjekte anschließend einem bestimmten Namenwertpaar der Anmerkung zuordnen. Durch das Hinzufügen von Werten zu Annotationen können Sie Storage-Objekte effizienter managen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Sie können vordefinierten Anmerkungen keine Werte hinzufügen.

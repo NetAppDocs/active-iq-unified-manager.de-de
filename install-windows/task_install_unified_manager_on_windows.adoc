@@ -13,8 +13,7 @@ summary: Wird Unified Manager installiert, um Storage-Kapazität, -Verfügbarkei
 [role="lead"]
 Wird Unified Manager installiert, um Storage-Kapazität, -Verfügbarkeit, -Performance und -Sicherungsprobleme zu überwachen und Fehler zu beheben.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Das System, auf dem Unified Manager installiert werden soll, sollte die System- und Softwareanforderungen erfüllen.
 +
 Siehe link:concept_virtual_infrastructure_or_hardware_system_requirements.html["Hardwaresystemanforderungen"].

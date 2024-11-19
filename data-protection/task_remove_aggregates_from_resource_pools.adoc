@@ -13,8 +13,7 @@ summary: Sie können Aggregate aus einem vorhandenen Ressourcen-Pool entfernen, 
 [role="lead"]
 Sie können Aggregate aus einem vorhandenen Ressourcen-Pool entfernen, wenn Sie beispielsweise ein Aggregat für einen anderen Zweck verwenden möchten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Ressourcen-Pool-Mitglieder werden nur angezeigt, wenn ein Ressourcen-Pool ausgewählt ist.

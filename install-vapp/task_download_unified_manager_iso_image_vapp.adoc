@@ -13,8 +13,7 @@ summary: Laden Sie vor dem Upgrade von Unified Manager die Upgrade-Datei von der
 [role="lead"]
 Laden Sie vor dem Upgrade von Unified Manager die Upgrade-Datei von der NetApp Support Site herunter.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie sollten die Anmeldedaten für die NetApp Support-Website besitzen.
 
 .Schritte

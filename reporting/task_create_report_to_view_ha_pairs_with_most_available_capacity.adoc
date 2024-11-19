@@ -13,8 +13,7 @@ summary: 'Sie können einen Bericht erstellen, um zu ermitteln, welche Hochverf�
 [role="lead"]
 Sie können einen Bericht erstellen, um zu ermitteln, welche Hochverfügbarkeitspaare (HA) mit der größten Kapazität zur Bereitstellung neuer Volumes und LUNs bestehen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

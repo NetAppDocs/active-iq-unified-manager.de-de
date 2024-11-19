@@ -15,8 +15,7 @@ Sie können eine erste Basistransfer für eine neue Schutzbeziehung durchführen
 
 *HINWEIS*: Sie können Volumes, die durch Consistency Groups geschützt sind, nicht initialisieren oder aktualisieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen OnCommand Workflow Automation eingerichtet haben.
 

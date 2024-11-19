@@ -13,8 +13,7 @@ summary: Sie können eine SnapMirror Beziehung mit versionsflexiblen Replizierun
 [role="lead"]
 Sie können eine SnapMirror Beziehung mit versionsflexiblen Replizierungs- und Backup-Funktionen erstellen. Die Funktion für Backup-Optionen ermöglicht die Implementierung der SnapMirror Sicherung und enthält zudem mehrere Versionen von Backup-Kopien am Zielspeicherort.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 * Die Quell- und Ziel-SVMs müssen jeweils eine SnapMirror Lizenz aktiviert haben.

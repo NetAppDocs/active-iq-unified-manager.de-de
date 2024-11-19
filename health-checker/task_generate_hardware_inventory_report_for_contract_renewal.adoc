@@ -13,8 +13,7 @@ summary: 'Sie können einen Bericht generieren, der eine vollständige Liste von
 [role="lead"]
 Sie können einen Bericht generieren, der eine vollständige Liste von Cluster- und Node-Informationen enthält, wie z. B. Hardware-Modellnummern, Seriennummern, Festplattentypen und -Anzahl, installierte Lizenzen usw. Dieser Bericht unterstützt Sie bei der Vertragsverlängerung innerhalb sicherer Standorte („`dARK`“-Websites), die keine Verbindung zur NetAppActive IQ Plattform aufweisen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 .Schritte

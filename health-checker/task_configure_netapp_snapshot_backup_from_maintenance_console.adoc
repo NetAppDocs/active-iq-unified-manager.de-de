@@ -13,8 +13,7 @@ summary: Um Active IQ Unified Manager-Backup mit Snapshot-Kopie zu erstellen, so
 [role="lead"]
 Um Active IQ Unified Manager-Backup mit Snapshot-Kopie zu erstellen, sollten Sie ein paar Konfigurationsschritte von der Wartungskonsole aus durchführen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie sollten für Ihr System die folgenden Informationen haben:
 
 * Cluster-IP-Adresse

@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, in dem der Status der Volume-Trans
 [role="lead"]
 Sie können einen Bericht erstellen, in dem der Status der Volume-Transfers angezeigt wird. Sie können sowohl fehlgeschlagene als auch erfolgreiche Volume-Transfers in diesem Bericht anzeigen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

@@ -13,8 +13,7 @@ summary: Unified Manager generiert Warnereignisse bei einem Cluster-Ungleichgewi
 [role="lead"]
 Unified Manager generiert Warnereignisse bei einem Cluster-Ungleichgewicht, wenn ein Node in einem Cluster mit einer deutlich höheren Auslastung arbeitet als andere Nodes, und dies beeinträchtigt möglicherweise die Workload-Latenzen. Diese systemdefinierten Ereignisse bieten die Möglichkeit, potenzielle Performance-Probleme zu beheben, bevor viele Workloads von der Latenz beeinträchtigt werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 Unified Manager generiert Warnereignisse für Richtlinienverstöße im Cluster-Ungleichgewicht, indem der für alle Nodes im Cluster verwendete Performance-Wert verglichen wird, um zu sehen, ob zwischen allen Nodes ein Lastunterschied von 30 % erzielt wird.

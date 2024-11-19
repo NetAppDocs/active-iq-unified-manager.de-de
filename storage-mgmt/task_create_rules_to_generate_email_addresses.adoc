@@ -13,8 +13,7 @@ summary: 'Sie können Regeln erstellen, um die E-Mail-Adresse auf der Grundlage 
 [role="lead"]
 Sie können Regeln erstellen, um die E-Mail-Adresse auf der Grundlage des mit Clustern, Storage Virtual Machines (SVMs), Volumes, qtrees, Benutzern oder Benutzergruppen verbundenen Benutzerkontingente anzugeben. Bei einer Quota-Verletzung wird eine Benachrichtigung an die angegebene E-Mail-Adresse gesendet.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen die Richtlinien auf der Seite Regeln zur Erstellung von Benutzer- und Gruppenkontingente-E-Mail-Adresse geprüft haben.
 

@@ -13,8 +13,7 @@ summary: Sie können Ressourcenpools löschen, wenn sie nicht mehr benötigt wer
 [role="lead"]
 Sie können Ressourcenpools löschen, wenn sie nicht mehr benötigt werden. Beispielsweise möchten Sie die Mitgliedslegierung von einem Ressourcenpool auf mehrere andere Ressourcenpools verteilen, sodass der ursprüngliche Ressourcenpool überflüssig wird.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Die Schaltfläche *Löschen* ist nur aktiviert, wenn mindestens ein Ressourcen-Pool ausgewählt ist.

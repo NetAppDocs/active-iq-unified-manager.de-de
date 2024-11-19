@@ -13,8 +13,7 @@ summary: Nachdem Sie eine Beziehung stillgelegt haben, um geplante Transfers zu 
 [role="lead"]
 Nachdem Sie eine Beziehung stillgelegt haben, um geplante Transfers zu stoppen, können Sie *Resume* verwenden, um geplante Transfers wieder zu aktivieren, damit Daten auf dem Quell- oder Primärvolume geschützt sind. Transfers werden im nächsten geplanten Transferintervall von einem Kontrollpunkt fortgesetzt, falls vorhanden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 

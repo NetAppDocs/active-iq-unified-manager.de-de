@@ -13,8 +13,7 @@ summary: 'Sie können die Ansicht Systemzustand: Alle Knoten verwenden, um die L
 [role="lead"]
 Sie können die Ansicht Systemzustand: Alle Knoten verwenden, um die Liste der Knoten in Ihren Clustern anzuzeigen. Mit der Seite „Cluster/Systemzustand“ werden ausführliche Informationen zu Nodes angezeigt, die Teil des überwachten Clusters sind.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 Sie können Details wie den Node-Status, den Cluster mit dem Node, die zusammengefasste Kapazität (verwendet und insgesamt) und Details zur Rohkapazität (nutzbar, frei und insgesamt) anzeigen. Zudem erhalten Sie Informationen über HA-Paare, Festplatten-Shelfs und Ports.

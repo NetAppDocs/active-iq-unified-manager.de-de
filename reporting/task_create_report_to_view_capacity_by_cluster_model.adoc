@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, um die Storage-Kapazität und Ausl
 [role="lead"]
 Sie können einen Bericht erstellen, um die Storage-Kapazität und Auslastung von Clustern auf der Grundlage des Storage-Systemmodells zu analysieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

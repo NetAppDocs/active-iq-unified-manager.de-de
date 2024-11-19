@@ -13,8 +13,7 @@ summary: 'Sie können Details zu allen NFS-Freigaben anzeigen, z. B. ihren Statu
 [role="lead"]
 Sie können Details zu allen NFS-Freigaben anzeigen, z. B. ihren Status, den dem Volume zugeordneten Pfad (FlexGroup Volumes oder FlexVol Volumes), die Zugriffsebenen von Clients auf die NFS-Shares und die für die exportierten Volumes definierte Exportrichtlinie. Nutzung der Ansicht „Systemzustand“: Alle NFS-Freigaben anzeigen, um alle NFS-Freigaben auf allen überwachten Clustern zu sehen, und über die Seite „Storage VM/Health Details“ können Sie alle NFS-Freigaben auf einer bestimmten Storage Virtual Machine (SVM) anzeigen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Die NFS-Lizenz muss auf dem Cluster aktiviert sein.
 * Netzwerkschnittstellen, die die NFS-Freigaben erfüllen, müssen konfiguriert sein.
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.

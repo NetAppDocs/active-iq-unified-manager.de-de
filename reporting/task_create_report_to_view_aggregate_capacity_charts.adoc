@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, um die Gesamtspeicherkapazität un
 [role="lead"]
 Sie können einen Bericht erstellen, um die Gesamtspeicherkapazität und die Kapazität in einem Excel-Diagrammformat zu analysieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

@@ -13,8 +13,7 @@ summary: Ist kein Thin Provisioning auf einem Volume möglich, nimmt dies den ge
 [role="lead"]
 Ist kein Thin Provisioning auf einem Volume möglich, nimmt dies den gesamten Speicherplatz auf der Festplatte ein, wie zum Zeitpunkt der Erstellung des Volume definiert. Wenn Sie Volumes mit deaktiviertem Thin Provisioning festlegen, können Sie entscheiden, ob Sie Thin Provisioning auf bestimmten Volumes aktivieren möchten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

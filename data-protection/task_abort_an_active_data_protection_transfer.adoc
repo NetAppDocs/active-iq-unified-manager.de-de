@@ -16,8 +16,7 @@ Sie können eine aktive Datensicherung abbrechen, wenn Sie eine SnapMirror Repli
 
 NOTE: Sie können Volume-Beziehungen, die von der Konsistenzgruppe geschützt sind, nicht abbrechen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 

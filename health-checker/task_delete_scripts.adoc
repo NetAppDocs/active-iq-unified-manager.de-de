@@ -13,8 +13,7 @@ summary: Sie können ein Skript aus Unified Manager löschen, wenn das Skript ni
 [role="lead"]
 Sie können ein Skript aus Unified Manager löschen, wenn das Skript nicht mehr benötigt oder gültig ist.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Das Skript darf keiner Warnung zugeordnet werden.
 

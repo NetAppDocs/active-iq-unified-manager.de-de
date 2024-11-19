@@ -13,8 +13,7 @@ summary: Ereignisse auf der Active IQ-Plattform werden standardmäßig in der Be
 [role="lead"]
 Ereignisse auf der Active IQ-Plattform werden standardmäßig in der Benutzeroberfläche von Unified Manager generiert und angezeigt. Wenn diese Ereignisse zu „laut“ sind oder Sie diese Ereignisse nicht in Unified Manager anzeigen möchten, können Sie die Erzeugung dieser Ereignisse deaktivieren. Sie können sie zu einem späteren Zeitpunkt aktivieren, wenn Sie den Empfang dieser Benachrichtigungen fortsetzen möchten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 Wenn Sie diese Funktion deaktivieren, wird Active IQ-Plattformereignisse sofort von Unified Manager nicht mehr empfangen.

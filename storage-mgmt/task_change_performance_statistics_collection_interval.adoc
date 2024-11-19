@@ -13,8 +13,7 @@ summary: Das Standard-Erfassungsintervall für Performance-Statistiken beträgt 
 [role="lead"]
 Das Standard-Erfassungsintervall für Performance-Statistiken beträgt 5 Minuten. Sie können dieses Intervall auf 10 oder 15 Minuten ändern, wenn Sie feststellen, dass Sammlungen von großen Clustern nicht innerhalb der Standardzeit abgeschlossen werden. Diese Einstellung wirkt sich auf die Erfassung der Statistiken aus allen Clustern aus, die diese Instanz von Unified Manager überwacht.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über eine Benutzer-ID und ein Passwort verfügen, um sich bei der Wartungskonsole des Unified Manager-Servers anzumelden.
 
 Das Problem der Performance-Statistiken-Sammlungen, die nicht rechtzeitig beenden, wird durch die Banner-Meldungen angezeigt `Unable to consistently collect from cluster <cluster_name> or Data collection is taking too long on cluster <cluster_name>.`

@@ -13,8 +13,7 @@ summary: Sie können den Port ändern, den der Unified Manager-Server für die K
 [role="lead"]
 Sie können den Port ändern, den der Unified Manager-Server für die Kommunikation mit Ihrem Authentifizierungsserver verwendet.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 .Schritte

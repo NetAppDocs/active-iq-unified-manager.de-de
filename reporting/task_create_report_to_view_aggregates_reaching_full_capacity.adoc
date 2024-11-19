@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, um die volle Kapazität der Aggreg
 [role="lead"]
 Sie können einen Bericht erstellen, um die volle Kapazität der Aggregate zu ermitteln, damit Sie mehr Kapazität hinzufügen oder Workloads zu anderen Aggregaten verschieben können.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

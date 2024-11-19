@@ -13,8 +13,7 @@ summary: Sie können auf der Seite „Inventar des Event Managements“ eine Lis
 [role="lead"]
 Sie können auf der Seite „Inventar des Event Managements“ eine Liste aller Performance-Ereignisse auf den von Unified Manager zu überwachenden Clustern anzeigen. Durch die Anzeige dieser Informationen können Sie die kritischsten Ereignisse bestimmen und anschließend detaillierte Informationen abrufen, um die Ursache des Ereignisses zu bestimmen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 

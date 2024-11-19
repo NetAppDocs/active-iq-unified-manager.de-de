@@ -13,8 +13,7 @@ summary: 'Sie können den Identitäts-Provider (IdP), den Unified Manager zur Au
 [role="lead"]
 Sie können den Identitäts-Provider (IdP), den Unified Manager zur Authentifizierung von Remote-Benutzern verwendet, ändern.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die IdP-URL und die Metadaten verfügen.
 * Sie müssen Zugriff auf die IdP haben.
 

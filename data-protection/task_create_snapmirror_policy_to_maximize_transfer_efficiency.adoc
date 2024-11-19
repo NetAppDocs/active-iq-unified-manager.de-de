@@ -13,8 +13,7 @@ summary: Sie können eine SnapMirror-Richtlinie erstellen, um die SnapMirror Üb
 [role="lead"]
 Sie können eine SnapMirror-Richtlinie erstellen, um die SnapMirror Übertragungspriorität für Sicherungsbeziehungen festzulegen. Mithilfe der SnapMirror Richtlinien lässt sich die Übertragungseffizienz von der Quelle zum Ziel maximieren, indem Prioritäten zugewiesen werden, sodass Transfers mit niedriger Priorität nach Transfers mit normaler Priorität geplant werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 * Bei dieser Aufgabe wird davon ausgegangen, dass Sie den Bereich Zielinformationen im Dialogfeld Schutz konfigurieren bereits abgeschlossen haben.

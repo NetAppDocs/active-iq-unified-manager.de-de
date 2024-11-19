@@ -13,8 +13,7 @@ summary: Sie können eine Snapshot-Kopie löschen, um Speicherplatz zu sparen od
 [role="lead"]
 Sie können eine Snapshot-Kopie löschen, um Speicherplatz zu sparen oder um freien Speicherplatz zu freizugeben. Oder Sie können die Snapshot-Kopie löschen, wenn sie nicht mehr benötigt wird.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Das Volume muss sich online sein.

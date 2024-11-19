@@ -13,8 +13,7 @@ summary: 'Sie können Details zu allen SMB-/CIFS-Freigaben anzeigen, z. B. Freig
 [role="lead"]
 Sie können Details zu allen SMB-/CIFS-Freigaben anzeigen, z. B. Freigabename, Verbindungspfad, mit Objekten, Sicherheitseinstellungen und für die Freigabe definierten Exportrichtlinien. Nutzung der Ansicht „Systemzustand“: Alle SMB-Freigaben anzeigen, um alle SMB-Freigaben auf allen überwachten Clustern anzuzeigen. Auf der Seite Storage VM/Health Details können Sie alle SMB-Freigaben auf einer bestimmten Storage Virtual Machine (SVM) anzeigen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Die CIFS-Lizenz muss auf dem Cluster aktiviert sein.
 * Netzwerkschnittstellen, die die SMB/CIFS-Freigaben unterstützen, müssen konfiguriert werden.
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.

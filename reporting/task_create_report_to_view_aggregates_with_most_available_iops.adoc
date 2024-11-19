@@ -13,8 +13,7 @@ summary: Dieser Bericht zeigt, welche Aggregate die meisten verfügbaren IOPS pr
 [role="lead"]
 Dieser Bericht zeigt, welche Aggregate die meisten verfügbaren IOPS pro Aggregattyp haben, auf dem Sie neue Workloads bereitstellen können.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

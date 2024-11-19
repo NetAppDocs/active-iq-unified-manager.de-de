@@ -14,8 +14,7 @@ summary: Sie können Unified Manager deinstallieren, indem Sie den Assistenten P
 [role="lead"]
 Sie können Unified Manager deinstallieren, indem Sie den Assistenten Programme und Funktionen verwenden oder eine unbeaufsichtigte Deinstallation von der Befehlszeilenschnittstelle durchführen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über Administratorrechte für Windows verfügen.
 * Alle Cluster (Datenquellen) müssen vom Unified Manager-Server entfernt werden, bevor die Software deinstalliert wird.
 * Sie sollten die Firewall-Regeln, die erstellt werden, manuell löschen, um MySQL-Port 3306 zu ermöglichen oder zu blockieren. Die Firewall-Regeln werden nicht automatisch gelöscht.

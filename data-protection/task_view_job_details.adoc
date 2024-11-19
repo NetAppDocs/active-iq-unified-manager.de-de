@@ -13,8 +13,7 @@ summary: Nachdem Sie einen Job gestartet haben, können Sie den Fortschritt auf 
 [role="lead"]
 Nachdem Sie einen Job gestartet haben, können Sie den Fortschritt auf der Seite Jobdetails verfolgen und die zugehörigen Aufgaben auf mögliche Fehler überwachen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 .Schritte

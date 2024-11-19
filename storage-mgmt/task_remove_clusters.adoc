@@ -13,8 +13,7 @@ summary: Sie können ein Cluster mithilfe der Seite Cluster-Setup aus Unified Ma
 [role="lead"]
 Sie können ein Cluster mithilfe der Seite Cluster-Setup aus Unified Manager entfernen. Beispielsweise können Sie ein Cluster entfernen, wenn die Cluster-Erkennung ausfällt oder wenn Sie ein Storage-System stilllegen möchten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle oder die Speicheradministratorrolle verfügen.
 
 Durch diese Aufgabe wird das ausgewählte Cluster aus Unified Manager entfernt. Nachdem ein Cluster entfernt wurde, wird er nicht mehr überwacht. Die beim entfernten Cluster registrierte Instanz des Unified Manager wird auch vom Cluster nicht registriert.

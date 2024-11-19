@@ -13,8 +13,7 @@ summary: Sie können Unified Manager mit einem einzigen Befehl vom Red hat Enter
 [role="lead"]
 Sie können Unified Manager mit einem einzigen Befehl vom Red hat Enterprise Linux-Host aus anhalten und deinstallieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über Root-Benutzerzugriff auf den Server verfügen, von dem Sie Unified Manager entfernen möchten.
 * Security-Enhanced Linux (SELinux) muss auf dem Linux-System deaktiviert sein. Ändern Sie den SELinux-Laufzeitmodus in „`permissiv`“, indem Sie das verwenden `setenforce 0` Befehl.
 * Alle Cluster (Datenquellen) müssen vor dem Entfernen der Software vom Unified Manager-Server entfernt werden.

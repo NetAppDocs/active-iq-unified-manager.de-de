@@ -13,8 +13,7 @@ summary: Sie können das Volume mithilfe von ONTAP System Manager oder über die
 [role="lead"]
 Sie können das Volume mithilfe von ONTAP System Manager oder über die ONTAP CLI so konfigurieren, dass Snapshot Kopien auf einem Ihrer ONTAP Cluster gespeichert werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Der Cluster, die Storage-VM und das Volume müssen folgende Anforderungen erfüllen:
 
 * Cluster-Anforderungen:

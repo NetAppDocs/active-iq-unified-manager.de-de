@@ -13,8 +13,7 @@ summary: Mithilfe des Dialogfelds „Advanced Destination Settings“ können Si
 [role="lead"]
 Mithilfe des Dialogfelds „Advanced Destination Settings“ können Sie die Effizienzeinstellungen des Ziels, wie Deduplizierung, Komprimierung, Autogrow und Speicherplatzzusage für ein Schutzziel, konfigurieren. Sie verwenden diese Einstellungen, um die Speicherauslastung auf einem Ziel oder einem sekundären Volume zu maximieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 Standardmäßig stimmen die Effizienzeinstellungen mit denen des Quell-Volume überein. Ausgenommen sind Komprimierungseinstellungen in einer SnapVault-Beziehung, die standardmäßig deaktiviert sind.

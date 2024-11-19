@@ -13,8 +13,7 @@ summary: Wenn Sie die Menge an Speicherplatz auf der Datenfestplatte für die Un
 [role="lead"]
 Wenn Sie die Menge an Speicherplatz auf der Datenfestplatte für die Unified Manager-Datenbank vergrößern müssen, können Sie nach der Installation Kapazität hinzufügen, indem Sie über die Unified Manager-Wartungskonsole Festplattenspeicher erweitern.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen Zugriff auf den vSphere Client haben.
 * Auf der virtuellen Maschine dürfen keine Snapshots lokal gespeichert werden.
 * Sie müssen über die Anmeldeinformationen für den Wartungs-Benutzer verfügen.

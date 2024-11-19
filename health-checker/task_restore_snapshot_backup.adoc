@@ -13,8 +13,7 @@ summary: Im Falle eines Datenverlustes oder einer Beschädigung von Daten könne
 [role="lead"]
 Im Falle eines Datenverlustes oder einer Beschädigung von Daten können Sie Unified Manager in den vorherigen stabilen Zustand bei minimalem Datenverlust wiederherstellen. Sie können die Snapshot-Datenbank von Unified Manager mithilfe der Wartungskonsole auf einem lokalen oder Remote-Betriebssystem wiederherstellen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Stammbenutzeranmeldeinformationen für den Linux-Host und die Administratorrechte für Windows-Hostcomputer verfügen, auf dem Unified Manager installiert ist.
 * Sie müssen über eine Benutzer-ID und ein Passwort verfügen, um sich bei der Wartungskonsole des Unified Manager-Servers anzumelden.
 

@@ -13,8 +13,7 @@ summary: Dem Netzwerk-Host wird ein Name zugewiesen, wenn die virtuelle Unified 
 [role="lead"]
 Dem Netzwerk-Host wird ein Name zugewiesen, wenn die virtuelle Unified Manager-Appliance zuerst bereitgestellt wird. Sie können den Host-Namen nach der Bereitstellung ändern. Wenn Sie den Hostnamen ändern, müssen Sie auch das HTTPS-Zertifikat neu generieren.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen bei Unified Manager als Wartungbenutzer angemeldet sein oder Ihnen die Rolle „Anwendungsadministrator“ zugewiesen haben, um diese Aufgaben ausführen zu können.
 
 Sie können den Host-Namen (oder die Host-IP-Adresse) verwenden, um auf die Unified Manager Web-UI zuzugreifen. Wenn Sie während der Bereitstellung eine statische IP-Adresse für Ihr Netzwerk konfiguriert haben, hätten Sie einen Namen für den Netzwerk-Host zugewiesen. Wenn Sie das Netzwerk mit DHCP konfiguriert haben, sollte der Host-Name aus dem DNS übernommen werden. Wenn DHCP oder DNS nicht richtig konfiguriert ist, wird der Hostname „`Unified Manager`“ automatisch zugewiesen und dem Sicherheitszertifikat zugeordnet.

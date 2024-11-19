@@ -13,8 +13,7 @@ summary: Sie können eine Zertifizierungssignierungsanforderung für das aktuell
 [role="lead"]
 Sie können eine Zertifizierungssignierungsanforderung für das aktuelle HTTPS-Sicherheitszertifikat herunterladen, so dass Sie die Datei einer Zertifizierungsstelle zum Signieren zur Verfügung stellen können. Ein von einer Zertifizierungsstelle signiertes Zertifikat hilft bei der Verhinderung von man-in-the-Middle-Angriffen und bietet besseren Schutz als ein selbstsigniertes Zertifikat.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 .Schritte

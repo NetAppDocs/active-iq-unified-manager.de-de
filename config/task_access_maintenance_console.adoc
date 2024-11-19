@@ -13,8 +13,7 @@ summary: Wenn die Benutzeroberfläche von Unified Manager nicht ausgeführt wird
 [role="lead"]
 Wenn die Benutzeroberfläche von Unified Manager nicht ausgeführt wird oder Sie Funktionen ausführen müssen, die in der Benutzeroberfläche nicht verfügbar sind, können Sie auf die Wartungskonsole zugreifen, um Ihr Unified Manager System zu verwalten.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen Unified Manager installiert und konfiguriert haben.
 
 Nach 15 Minuten Inaktivität meldet die Wartungskonsole sie aus.

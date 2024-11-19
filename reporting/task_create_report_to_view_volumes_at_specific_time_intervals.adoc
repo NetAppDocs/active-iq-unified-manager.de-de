@@ -13,8 +13,7 @@ summary: Sie können einen Bericht erstellen, in dem die Trends der Volume-Über
 [role="lead"]
 Sie können einen Bericht erstellen, in dem die Trends der Volume-Übertragung in bestimmten Zeitintervallen angezeigt werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 

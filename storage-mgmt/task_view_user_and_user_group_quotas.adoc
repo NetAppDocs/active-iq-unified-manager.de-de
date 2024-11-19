@@ -13,8 +13,7 @@ summary: Auf der Seite Storage VM/Health Details werden Informationen über die 
 [role="lead"]
 Auf der Seite Storage VM/Health Details werden Informationen über die auf der SVM konfigurierten Benutzer- und Benutzergruppenkontingente angezeigt. Sie können den Namen des Benutzers oder der Benutzergruppe, die auf Festplatten und Dateien festgelegten Grenzen, den verwendeten Festplatten- und Dateispeicherplatz und die E-Mail-Adresse für Benachrichtigungen anzeigen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 .Schritte

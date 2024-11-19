@@ -13,8 +13,7 @@ summary: 'In der Ansicht „Systemzustand: Alle Volumes“ können Sie Ihr Inven
 [role="lead"]
 In der Ansicht „Systemzustand: Alle Volumes“ können Sie Ihr Inventar von Volumes überwachen. Die Kapazität: Die Ansicht aller Volumes ermöglicht die Anzeige von Informationen zur Kapazität und Auslastung von Volumes in einem Cluster.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 Auf der Seite Volume/Health Details können Sie auch detaillierte Informationen zu überwachten Volumes anzeigen, einschließlich Kapazität, Effizienz, Konfiguration und Sicherung der Volumes. Sie können auch Informationen zu den zugehörigen Geräten und zugehörigen Warnmeldungen für ein bestimmtes Volume anzeigen.

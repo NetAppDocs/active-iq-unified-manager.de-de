@@ -13,8 +13,7 @@ summary: Sie erstellen Performance-Schwellenwertrichtlinien für Storage-Objekte
 [role="lead"]
 Sie erstellen Performance-Schwellenwertrichtlinien für Storage-Objekte, damit Benachrichtigungen gesendet werden, wenn ein Performance-Zähler einen bestimmten Wert überschreitet. Die Ereignisbenachrichtigung identifiziert, dass ein Performance-Problem auf dem Cluster auftritt.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 Sie erstellen Richtlinien für Leistungsschwellenwerte, indem Sie die Schwellenwerte auf der Seite Richtlinie für Leistungsschwellenwert erstellen eingeben. Sie können neue Richtlinien erstellen, indem Sie alle Richtlinienwerte auf dieser Seite definieren, oder Sie können eine Kopie einer vorhandenen Richtlinie erstellen und die Werte in der Kopie ändern (genannt _Cloning_).

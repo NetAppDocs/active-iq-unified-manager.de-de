@@ -13,8 +13,7 @@ summary: Sie können überprüfen, ob Ihr Skript korrekt ausgeführt wird, wenn 
 [role="lead"]
 Sie können überprüfen, ob Ihr Skript korrekt ausgeführt wird, wenn eine Warnung für ein Speicherobjekt generiert wird.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen ein Skript im unterstützten Dateiformat auf Unified Manager hochgeladen haben.
 

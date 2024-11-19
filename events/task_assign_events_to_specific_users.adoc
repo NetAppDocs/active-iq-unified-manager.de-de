@@ -13,8 +13,7 @@ summary: Sie können nicht zugewiesene Ereignisse selbst oder anderen Benutzern,
 [role="lead"]
 Sie können nicht zugewiesene Ereignisse selbst oder anderen Benutzern, einschließlich Remote-Benutzern, zuweisen. Sie können zugewiesene Ereignisse bei Bedarf einem anderen Benutzer zuweisen. Wenn z. B. häufig Probleme an einem Storage-Objekt auftreten, können Sie den Benutzer, der das Objekt verwaltet, die Ereignisse für diese Probleme zuweisen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Der Name und die E-Mail-ID des Benutzers müssen korrekt konfiguriert sein.
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 

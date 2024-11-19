@@ -13,8 +13,7 @@ summary: Sie können die Einstellungen eines vorhandenen Clusters, z. B. Host-Na
 [role="lead"]
 Sie können die Einstellungen eines vorhandenen Clusters, z. B. Host-Name oder IP-Adresse, Benutzername, Passwort und Port, über das Dialogfeld Cluster bearbeiten ändern.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle oder die Speicheradministratorrolle verfügen.
 
 [NOTE]

@@ -13,8 +13,7 @@ summary: Sie können eine neue SnapVault-Richtlinie erstellen, um die Priorität
 [role="lead"]
 Sie können eine neue SnapVault-Richtlinie erstellen, um die Priorität für eine SnapVault-Übertragung festzulegen. Anhand von Richtlinien wird die Effizienz der Übertragungen in einer Sicherungsbeziehung vom primären zum sekundären Volume maximiert.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Sie müssen Workflow Automation einrichten.
 * Sie müssen bereits den Bereich Zielinformationen im Dialogfeld Schutz konfigurieren ausgefüllt haben.

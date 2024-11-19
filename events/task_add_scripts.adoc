@@ -13,8 +13,7 @@ summary: Im Unified Manager können Skripts hinzugefügt und die Skripte mit War
 [role="lead"]
 Im Unified Manager können Skripts hinzugefügt und die Skripte mit Warnmeldungen verknüpft werden. Diese Skripte werden automatisch ausgeführt, wenn eine Warnmeldung generiert wird, und ermöglichen es Ihnen, Informationen über Speicherobjekte zu erhalten, für die das Ereignis generiert wird.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen die Skripte erstellt und gespeichert haben, die Sie dem Unified Manager-Server hinzufügen möchten.
 * Die unterstützten Dateiformate für Skripte sind Perl, Shell, PowerShell, Python und `.bat` Dateien:
 +

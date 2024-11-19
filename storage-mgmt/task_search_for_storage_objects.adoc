@@ -13,8 +13,7 @@ summary: Um schnell auf ein bestimmtes Objekt zuzugreifen, können Sie das Feld 
 [role="lead"]
 Um schnell auf ein bestimmtes Objekt zuzugreifen, können Sie das Feld *Alle Speicherobjekte durchsuchen* oben in der Menüleiste verwenden. Mit dieser Methode der globalen Suche über alle Objekte können Sie schnell bestimmte Objekte nach Typ finden. Die Suchergebnisse sind nach Speicherobjekttyp sortiert und Sie können sie über das Dropdown-Menü nach Objekt weiter filtern.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen eine der folgenden Rollen haben, um diese Aufgabe auszuführen: Operator, Anwendungsadministrator oder Speicheradministrator.
 * Eine gültige Suche muss mindestens drei Zeichen enthalten.
 

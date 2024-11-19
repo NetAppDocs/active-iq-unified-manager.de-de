@@ -13,8 +13,7 @@ summary: Unified Manager generiert zu stark ausgelastete Warnmeldungen bei Node-
 [role="lead"]
 Unified Manager generiert zu stark ausgelastete Warnmeldungen bei Node-Ressourcen, wenn ein einzelner Node über die Grenzen seiner betrieblichen Effizienz arbeitet und so die Workload-Latenzen potenziell beeinträchtigen. Diese systemdefinierten Ereignisse bieten die Möglichkeit, potenzielle Performance-Probleme zu beheben, bevor viele Workloads von der Latenz beeinträchtigt werden.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Es müssen neue oder veraltete Performanceereignisse vorliegen.
 

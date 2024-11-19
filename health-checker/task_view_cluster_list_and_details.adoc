@@ -13,8 +13,7 @@ summary: 'Sie können die Ansicht Health: All Clusters verwenden, um Ihr Inventa
 [role="lead"]
 Sie können die Ansicht Health: All Clusters verwenden, um Ihr Inventar der Cluster anzuzeigen. Die Kapazität: Alle Cluster-Ansichten ermöglichen die Anzeige zusammengefasste Informationen zur Storage-Kapazität und Auslastung in allen Clustern.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 Sie können auch Details für einzelne Cluster anzeigen, beispielsweise für den Zustand des Clusters, die Kapazität, die Konfiguration, LIFs, Nodes, Und Festplatten in diesem Cluster mithilfe der Seite „Cluster/Health Details“.

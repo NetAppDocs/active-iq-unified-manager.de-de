@@ -13,8 +13,7 @@ summary: Sie können Werte löschen, die mit benutzerdefinierten Anmerkungen ver
 [role="lead"]
 Sie können Werte löschen, die mit benutzerdefinierten Anmerkungen verknüpft sind, wenn dieser Wert nicht mehr für die Anmerkung gilt.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 * Der Anmerkungswert darf keiner Anmerkungsregel oder Gruppenregeln zugeordnet werden.
 

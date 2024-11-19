@@ -13,8 +13,7 @@ summary: Sie können Unified Manager verwenden, um ein Aggregat auf einem Node i
 [role="lead"]
 Sie können Unified Manager verwenden, um ein Aggregat auf einem Node in einem anderen HA-Paar zu identifizieren, das über mehr freie Performance-Kapazität verfügt als das HA-Paar, in dem Ihre Workloads derzeit ausgeführt werden. Anschließend können Sie ausgewählte Volumes auf dem neuen HA-Paar in Aggregate verschieben.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Ihr Cluster muss aus mindestens zwei HA-Paaren bestehen
 +

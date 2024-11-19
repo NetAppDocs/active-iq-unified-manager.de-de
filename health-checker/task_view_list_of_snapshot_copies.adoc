@@ -13,8 +13,7 @@ summary: Sie können die Liste der Snapshot Kopien für ein ausgewähltes Volume
 [role="lead"]
 Sie können die Liste der Snapshot Kopien für ein ausgewähltes Volume anzeigen. Mithilfe der Liste der Snapshot Kopien lässt sich die Menge an Festplattenspeicher berechnen, die zurückgewonnen werden kann, wenn eine oder mehrere Snapshot Kopien gelöscht werden. Außerdem können Sie die Snapshot Kopien bei Bedarf löschen.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 * Das Volume, das die Snapshot Kopien enthält, muss online sein.
 

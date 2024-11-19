@@ -13,8 +13,7 @@ summary: Sie können eine Liste aller Volumes und ihren aktuellen Verschlüsselu
 [role="lead"]
 Sie können eine Liste aller Volumes und ihren aktuellen Verschlüsselungsstatus anzeigen, um zu ermitteln, ob die Daten auf Ihren Volumes vor dem Zugriff durch nicht autorisierte Benutzer angemessen geschützt sind.
 
-*Was Sie brauchen*
-
+.Bevor Sie beginnen
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 Auf ein Volume können folgende Verschlüsselungsarten angewendet werden:
