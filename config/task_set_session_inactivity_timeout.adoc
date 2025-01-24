@@ -4,14 +4,14 @@ sidebar: sidebar
 keywords: inactivity, timeout 
 summary: 'Sie können für Unified Manager den Wert für Inaktivitätszeitüberschreitung festlegen, damit die Sitzung nach einer bestimmten Zeit automatisch beendet wird. Standardmäßig ist das Timeout auf 4,320 Minuten (72 Stunden) eingestellt.' 
 ---
-= Einstellen des Timeout für die Inaktivität der Sitzung
+= Legen Sie das Zeitlimit für die Inaktivität der Sitzung fest
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
 
 
 [role="lead"]
-Sie können für Unified Manager den Wert für Inaktivitätszeitüberschreitung festlegen, damit die Sitzung nach einer bestimmten Zeit automatisch beendet wird. Standardmäßig ist das Timeout auf 4,320 Minuten (72 Stunden) eingestellt.
+Sie können den Wert für das Inaktivitäts-Timeout für Unified Manager festlegen, damit die Sitzung nach einer bestimmten Inaktivitätsdauer automatisch beendet wird. Standardmäßig ist das Timeout auf 4,320 Minuten (72 Stunden) eingestellt.
 
 .Bevor Sie beginnen
 Sie müssen über die Anwendungsadministratorrolle verfügen.

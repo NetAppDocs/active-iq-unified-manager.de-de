@@ -55,12 +55,9 @@ Auf der Seite „Prüfungsdetails“:
 
 +
 ** Überprüfen Sie die Details des Abschnitts Publisher. Die Nachricht * Code signieren - OVCS2 (Trusted Certificate)* bestätigt die Integrität des heruntergeladenen `OVA` Datei: + Wenn die Meldung *Code-Signatur anvertrauen - OVCS2 (ungültiges Zertifikat)* angezeigt wird, dann aktualisieren Sie den VMware vCenter Server auf 7.0U3E oder eine höhere Version.
-
-
 +
 Auf der Seite Vorlage anpassen:
 
-+
 ** Lassen Sie alle Felder leer, wenn Sie DHCP- und IPv4-Adressen verwenden.
 ** Aktivieren Sie das Kontrollkästchen „`Auto IPv6 Addressing`“, und lassen Sie alle anderen Felder leer, wenn Sie DHCP- und IPv6-Adressen verwenden.
 ** Wenn Sie eine statische Netzwerkkonfiguration verwenden möchten, können Sie die Felder auf dieser Seite ausfüllen und diese Einstellungen werden während der Bereitstellung angewendet. Stellen Sie sicher, dass die IP-Adresse für den Host, auf dem sie bereitgestellt wird, eindeutig ist, dass sie nicht bereits verwendet wird und dass er über einen gültigen DNS-Eintrag verfügt.
