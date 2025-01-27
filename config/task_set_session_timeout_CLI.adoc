@@ -20,5 +20,5 @@ Die Einstellung für das Sitzungs-Timeout wirkt sich auf alle angemeldeten Benut
 
 .Schritte
 . Loggen Sie sich in der Unified Manager CLI ein, indem Sie den Befehl eingeben `um cli login`. Verwenden Sie einen gültigen Benutzernamen und ein gültiges Kennwort für die Authentifizierung.
-. Geben Sie den ein `um option set max.session.timeout.value=<in mins>`, um den Sitzungs-Timeout-Wert zu ändern.
+. Geben Sie den Befehl ein `um option set max.session.timeout.value=<in mins>`, um den Sitzungs-Timeout-Wert zu ändern.
 
