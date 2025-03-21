@@ -11769,7 +11769,6 @@
   <block id="ed2b47ce4d6fcfacbe77e96d5e7bf8fb" category="list-text">Klicken Sie im Meldungsdialog *Remove vCenter* auf *OK*, um die Anforderung zum Entfernen zu bestätigen.</block>
   <block id="adb5482d172346e58675bd3dae5bf089" category="list-text">Sie können ein Cluster über die Web-Benutzeroberfläche hinzufügen, und die zertifikatbasierte Authentifizierung wird automatisch aktiviert.</block>
   <block id="c237abf2822b92e4b37cfd364eb99eaf" category="list-text">Sie können ein Cluster über die Unified Manager CLI hinzufügen. Die zertifikatbasierte Authentifizierung ist standardmäßig nicht aktiviert. Wenn Sie ein Cluster mit der Unified Manager CLI hinzufügen, muss das Cluster über die Unified Manager UI bearbeitet werden. Sie sehen <block ref="33f0770b98ea7c465f6e58d1466ad24f" category="inline-link-macro-rx"></block> Zum Hinzufügen eines Clusters mit der Unified Manager CLI.</block>
-  <block id="3d89b288e65d6d87dbc31d2d93a06f41" category="list-text">P7zip Version 23.01 oder höher</block>
   <block id="c73b4673fd357d50ad7fe6b46f0de007" category="list-text">Betriebssystem: VMware ESXi 7.0 und 8.0</block>
   <block id="3a44bb5359e8b73237753f7fe7d14cc2" category="paragraph">Wenn die installierte Version beispielsweise Unified Manager 9.9 ist und Sie auf Unified Manager 9.14 aktualisieren möchten, führen Sie eine Reihe von Upgrades aus.</block>
   <block id="1e2075a18224b2ccd4cd9feb5cb36456" category="list-text">Upgrade 9.11 -&gt; 9.13</block>
@@ -11994,4 +11993,5 @@ Schützen Sie Applikationen mit LUNs, und Sie können diese LUNs auf der Active 
   <block id="9a50289207c5c1a11d0959e0985b20cf" category="list-text">Loggen Sie sich in der Unified Manager CLI ein, indem Sie den Befehl eingeben<block ref="e9fa1c3ff424bc99b177f43b6ac2844b" prefix=" " category="inline-code"></block>. Verwenden Sie einen gültigen Benutzernamen und ein gültiges Kennwort für die Authentifizierung.</block>
   <block id="d0613f9dacd2054b89ab7de88b10e711" category="list-text">Geben Sie den Befehl ein<block ref="29b975f43a92ea73b14f0ce29e1eb6b3" prefix=" " category="inline-code"></block>, um den Sitzungs-Timeout-Wert zu ändern.</block>
   <block id="3d937fc01fa5cc206639b1a0a897e80d" category="paragraph">Ab 9.14.1 bietet Active IQ Unified Manager Statusinformationen zum Online Certificate Status Protocol (OCSP) auf Ebene der Storage Virtual Machine (SVM, früher als Vserver bezeichnet). Das bedeutet, dass die OCSP-Validierung auf alle SSL/TLS-Verbindungen angewendet wird, die an der SVM vorgenommen werden, und die Integrität und Gültigkeit der in diesen Verbindungen verwendeten Zertifikate sicherstellt.</block>
+  <block id="af95c5c8b4d0fa2b905341b11918dede" category="list-text">7-zip Version 23.01 oder höher</block>
 </blocks>

@@ -50,7 +50,7 @@ Die folgenden Drittanbieterpakete werden mit Unified Manager gebündelt. Wenn di
 * MySQL Community Edition Version 8.0.37
 * Python 3.12.4
 * OpenJDK Version 11.0.23
-* P7zip Version 23.01 oder höher
+* 7-zip Version 23.01 oder höher
 
 
 [NOTE]
