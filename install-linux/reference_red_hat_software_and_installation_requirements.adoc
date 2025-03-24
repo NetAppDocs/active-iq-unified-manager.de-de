@@ -56,6 +56,8 @@ Vor dem Upgrade von Software anderer Anbieter müssen Sie eine laufende Instanz 
 
 Die Installation von Unified Manager auf einem Linux-System kann vom Root-Benutzer oder von nicht-Root-Benutzern mit dem durchgeführt werden `sudo` Befehl.
 
+Zusätzlich umfasst die Standard-Unified Manager-Installation den umadmin-Benutzer (Standard-Wartungsbenutzer) und den jboss-Benutzer in den sudoers-Dateien (`ocum_sudoers` und `ocie_sudoers`) im `/etc/sudoers.d/` Verzeichnis. Wenn Sie diesen Inhalt aufgrund von Sicherheitsrichtlinien oder aufgrund eines Sicherheitsüberwachungstools aus Ihrer Umgebung entfernen, müssen Sie ihn wieder hinzufügen. Sie müssen die sudoers-Konfiguration beibehalten, da für einige Unified Manager-Vorgänge diese sudo-Berechtigungen erforderlich sind.
+
 
 
 == Installationsvoraussetzungen
