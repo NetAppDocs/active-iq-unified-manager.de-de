@@ -294,4 +294,15 @@ WebSocket über TCP
  a| 
 Wird verwendet, um an diesem Port Nachrichten abzuhören, die von ONTAP (Cloud-Agent) empfangen werden. Die Kommunikation über diesen Port unterstützt die von TLS oder SSL bereitgestellte Verschlüsselung.
 
+
+
+ a| 
+Syslog
+ a| 
+UDP
+ a| 
+514
+ a| 
+Wird von Unified Manager zum Senden von Audit-Protokollen an einen Remote-Syslog-Server verwendet.
+
 |===

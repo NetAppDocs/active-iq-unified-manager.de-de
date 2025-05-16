@@ -209,4 +209,15 @@ NTP
  a| 
 Wird verwendet, um die Zeit auf dem Unified Manager-Server mit einem externen NTP-Zeitserver zu synchronisieren. (Nur VMware Systeme)
 
+
+
+ a| 
+Syslog
+ a| 
+UDP
+ a| 
+514
+ a| 
+Wird von Unified Manager zum Senden von Audit-Protokollen an einen Remote-Syslog-Server verwendet.
+
 |===
