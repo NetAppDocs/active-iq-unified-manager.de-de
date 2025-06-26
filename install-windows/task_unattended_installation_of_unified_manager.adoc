@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: perform, unattended, installation, unified manager 
 summary: Sie können Unified Manager ohne Eingriff des Benutzers über die Befehlszeilenschnittstelle installieren. Sie können die unbeaufsichtigte Installation abschließen, indem Sie die Parameter in Schlüsselwert-Paaren übergeben. 
 ---
-= Durchführen einer unbeaufsichtigten Installation von Unified Manager
+= Führen Sie eine unbeaufsichtigte Installation von Unified Manager durch
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

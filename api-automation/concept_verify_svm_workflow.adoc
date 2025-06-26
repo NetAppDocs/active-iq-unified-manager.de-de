@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: verify, svms, clusters 
 summary: 'Bevor Sie Dateifreigaben oder LUNs bereitstellen, müssen Sie überprüfen, ob auf den Clustern Storage Virtual Machines (SVMs) erstellt wurden.' 
 ---
-= Überprüfung von SVMs auf Clustern mithilfe von APIs
+= Überprüfen von SVMs auf Clustern mithilfe von APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

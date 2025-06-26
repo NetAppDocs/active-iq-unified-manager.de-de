@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: change, unified manager, virtual, appliance, host name 
 summary: Dem Netzwerk-Host wird ein Name zugewiesen, wenn die virtuelle Unified Manager-Appliance zuerst bereitgestellt wird. Sie können den Host-Namen nach der Bereitstellung ändern. Wenn Sie den Hostnamen ändern, müssen Sie auch das HTTPS-Zertifikat neu generieren. 
 ---
-= Ändern des Host-Namens der virtuellen Unified Manager-Appliance
+= Ändern des Hostnamens der virtuellen Unified Manager-Appliance
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

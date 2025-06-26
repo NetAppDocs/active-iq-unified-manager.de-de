@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, group rules 
 summary: 'Sie können Gruppenregeln für eine Gruppe erstellen, um der Gruppe dynamisch Storage-Objekte wie Volumes, Cluster oder Storage Virtual Machines (SVMs) hinzuzufügen. Sie müssen mindestens eine Bedingungsgruppe mit mindestens einer Bedingung konfigurieren, um eine Gruppenregel zu erstellen.' 
 ---
-= Gruppenregeln werden hinzugefügt
+= Gruppenregeln hinzufügen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

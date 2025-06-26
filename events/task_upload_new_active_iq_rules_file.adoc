@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: upload, new, active iq AIQ rules, rules file, CA secure rules, config advisor rules 
 summary: Unified Manager prüft automatisch auf eine neue Active IQ-Regeldatei und lädt eine neue Datei herunter, wenn neuere Regeln vorliegen. In Sites ohne externen Netzwerkzugriff müssen Sie die Regeldatei jedoch manuell hochladen. 
 ---
-= Eine neue Datei für Active IQ-Regeln wird hochgeladen
+= Laden Sie eine neue Active IQ-Regeldatei hoch
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

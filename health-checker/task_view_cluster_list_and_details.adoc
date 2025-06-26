@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, cluster list, details 
 summary: 'Sie können die Ansicht Health: All Clusters verwenden, um Ihr Inventar der Cluster anzuzeigen. Die Kapazität: Alle Cluster-Ansichten ermöglichen die Anzeige zusammengefasste Informationen zur Storage-Kapazität und Auslastung in allen Clustern.' 
 ---
-= Anzeigen der Cluster-Liste und der Details
+= Anzeigen der Clusterliste und Details
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

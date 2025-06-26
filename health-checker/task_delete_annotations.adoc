@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, annotations 
 summary: Sie können benutzerdefinierte Anmerkungen und ihre Werte löschen, wenn sie nicht mehr benötigt werden. 
 ---
-= Anmerkungen werden gelöscht
+= Anmerkungen löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

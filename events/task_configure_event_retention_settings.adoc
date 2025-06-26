@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, event, retention, settings 
 summary: Sie können die Anzahl der Monate angeben, die ein Ereignis im Unified Manager-Server beibehalten wird, bevor es automatisch gelöscht wird. 
 ---
-= Konfigurieren von Einstellungen für die Ereignisaufbewahrung
+= Konfigurieren der Ereignisaufbewahrungseinstellungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

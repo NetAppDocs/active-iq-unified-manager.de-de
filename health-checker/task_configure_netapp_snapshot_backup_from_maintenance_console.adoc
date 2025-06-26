@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, backup, snapshot copy, copies maintenance console 
 summary: Um Active IQ Unified Manager-Backup mit Snapshot-Kopie zu erstellen, sollten Sie ein paar Konfigurationsschritte von der Wartungskonsole aus durchführen. 
 ---
-= Konfigurieren eines Backups mit Snapshot-Kopie von der Wartungskonsole
+= Konfigurieren Sie die Sicherung per Snapshot-Kopie von der Wartungskonsole aus
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

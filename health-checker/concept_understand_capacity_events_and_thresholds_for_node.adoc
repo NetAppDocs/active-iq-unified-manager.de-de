@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, events, thresholds, node, root, aggregates 
 summary: Sie können das Root-Aggregat des Nodes mithilfe von Unified Manager überwachen. Als Best Practice empfiehlt es sich, das Root-Volumen im Root-Aggregat stark bereitzustellen, um zu verhindern, dass der Knoten angehalten wird. 
 ---
-= Allgemeines zu Ereignissen und Schwellenwerten für Root-Aggregate von Nodes
+= Verstehen Sie Ereignisse und Schwellenwerte für Knotenstammaggregate
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

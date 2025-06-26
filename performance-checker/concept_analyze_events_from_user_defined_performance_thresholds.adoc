@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: analyze, events, user-defined, performance, thresholds 
 summary: Ereignisse, die aus benutzerdefinierten Schwellenwerten generiert werden, deuten darauf hin, dass ein Performance-Zähler für ein bestimmtes Storage-Objekt, z. B. ein Aggregat oder ein Volume, den in der Richtlinie definierten Schwellenwert überschritten hat. Dies gibt an, dass beim Cluster-Objekt ein Performance-Problem auftritt. 
 ---
-= Analyse von Ereignissen aus benutzerdefinierten Performance-Schwellenwerten
+= Analysieren Sie Ereignisse anhand benutzerdefinierter Leistungsschwellenwerte
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

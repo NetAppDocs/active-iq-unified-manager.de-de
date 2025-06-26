@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: test, alerts 
 summary: Sie können eine Meldung testen, um zu überprüfen, ob Sie sie richtig konfiguriert haben. Wenn ein Ereignis ausgelöst wird, wird eine Warnmeldung generiert und eine Warnmeldung an die konfigurierten Empfänger gesendet. Sie können anhand der Testwarnung überprüfen, ob die Benachrichtigung gesendet wird und ob Ihr Skript ausgeführt wird. 
 ---
-= Warnungen werden getestet
+= Testalarme
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

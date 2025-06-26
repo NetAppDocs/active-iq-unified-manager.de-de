@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add space, logica, drive, microsoft windows server 
 summary: Wenn Sie mehr Festplattenspeicher für die Unified Manager-Datenbank benötigen, können Sie das logische Laufwerk, auf dem Unified Manager installiert ist, um Kapazität erweitern. 
 ---
-= Hinzufügen von Speicherplatz zum logischen Laufwerk des Microsoft Windows-Servers
+= Fügen Sie dem logischen Laufwerk des Microsoft Windows-Servers Speicherplatz hinzu
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

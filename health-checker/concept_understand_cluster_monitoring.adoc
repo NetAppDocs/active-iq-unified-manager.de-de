@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, cluster, monitor 
 summary: Sie können der Unified Manager Datenbank Cluster hinzufügen, um Cluster zu überwachen, um Verfügbarkeit, Kapazität und andere Details wie CPU-Nutzung, Schnittstellenstatistiken, freien Festplattenspeicher, qtree-Nutzung und Chassis-Umgebung zu überwachen. 
 ---
-= Allgemeines zum Cluster-Monitoring
+= Grundlegendes zur Clusterüberwachung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

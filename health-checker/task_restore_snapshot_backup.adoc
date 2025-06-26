@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: restore, unified manager, snapshot copy, copies, 
 summary: Im Falle eines Datenverlustes oder einer Beschädigung von Daten können Sie Unified Manager in den vorherigen stabilen Zustand bei minimalem Datenverlust wiederherstellen. Sie können die Snapshot-Datenbank von Unified Manager mithilfe der Wartungskonsole auf einem lokalen oder Remote-Betriebssystem wiederherstellen. 
 ---
-= Wiederherstellung von Unified Manager mithilfe von Snapshot Kopien
+= Wiederherstellen von Unified Manager mithilfe von Snapshot-Kopien
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

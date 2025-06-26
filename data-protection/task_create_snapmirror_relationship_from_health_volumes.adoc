@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, snapmirror, protection, relationship, health, volumes view 
 summary: 'Nutzung der Ansicht „Systemzustand“: Alle Volumes ermöglichen das Erstellen mehrerer SnapMirror Sicherungsbeziehungen gleichzeitig, indem Sie mehrere Volumes auf derselben Storage-VM auswählen.' 
 ---
-= Erstellen einer SnapMirror Schutzbeziehung aus der Ansicht „Systemzustand: Alle Volumes“
+= Erstellen Sie eine SnapMirror-Schutzbeziehung aus der Ansicht „Health: All Volumes“
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

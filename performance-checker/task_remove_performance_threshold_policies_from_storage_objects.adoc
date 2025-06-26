@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: remove, performance, threshold, policies, storage, objects 
 summary: Sie können eine benutzerdefinierte Performance-Schwellenwertrichtlinie aus einem Storage-Objekt entfernen, wenn Unified Manager den Wert des Performance-Zählers nicht mehr überwachen soll. 
 ---
-= Entfernen von Richtlinien für Performance-Schwellenwerte aus Storage-Objekten
+= Entfernen Sie Leistungsschwellenwertrichtlinien aus Speicherobjekten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

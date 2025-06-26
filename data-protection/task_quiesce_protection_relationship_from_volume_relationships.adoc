@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: quiesce, protection, relationship, volume, relationships page 
 summary: Auf der Seite „Volume Relationships“ können Sie eine Schutzbeziehung stilllegen, um einen vorübergehenden Ausfall von Datentransfers zu verhindern. Sie könnten eine Beziehung stilllegen, wenn Sie eine Snapshot Kopie eines SnapMirror Ziel-Volumes erstellen möchten, das eine Datenbank enthält, und Sie wollen sicherstellen, dass der Inhalt während des Snapshot Kopiervorgangs stabil ist. 
 ---
-= Eine Schutzbeziehung wird auf der Seite Volume Relationships stillgelegt
+= Quiesce einer Schutzbeziehung auf der Seite „Volume-Beziehungen“
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

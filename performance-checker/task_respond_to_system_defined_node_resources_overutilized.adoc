@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: node, resources, overutilized, performance, events 
 summary: Unified Manager generiert zu stark ausgelastete Warnmeldungen bei Node-Ressourcen, wenn ein einzelner Node über die Grenzen seiner betrieblichen Effizienz arbeitet und so die Workload-Latenzen potenziell beeinträchtigen. Diese systemdefinierten Ereignisse bieten die Möglichkeit, potenzielle Performance-Probleme zu beheben, bevor viele Workloads von der Latenz beeinträchtigt werden. 
 ---
-= Reaktion auf Node-Ressourcen überlastete Performance-Ereignisse
+= Reagieren Sie auf Leistungsereignisse bei Überauslastung der Knotenressourcen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

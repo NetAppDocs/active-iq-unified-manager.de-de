@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: provision, luns 
 summary: 'Sie können LUNs auf Ihren Storage Virtual Machines (SVMs) bereitstellen, indem Sie die BereitstellungsAPIs verwenden, die als Teil von Active IQ Unified Manager zur Verfügung gestellt werden. Dieser Workflow zur Bereitstellung umfasst die Schritte zum Abrufen der Schlüssel der SVMs, Performance Service Levels und Storage-Effizienz-Richtlinien, bevor die LUN erstellt wird.' 
 ---
-= Bereitstellung von LUNs mithilfe von APIs
+= Bereitstellen von LUNs mithilfe von APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

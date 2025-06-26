@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: resume, schedule, transfers, quiesce, relationship, volume relationships page 
 summary: Nachdem Sie eine Beziehung stillgelegt haben, um geplante Transfers zu stoppen, können Sie mit Resume geplante Transfers erneut aktivieren, um so die Daten auf dem Quell- oder primären Volume zu schützen. Transfers werden im nächsten geplanten Transferintervall von einem Kontrollpunkt fortgesetzt, falls vorhanden. 
 ---
-= Wiederaufnahme geplanter Transfers für eine stillgelegte Beziehung von der Seite Volume-Beziehungen
+= Fortsetzen geplanter Übertragungen einer stillgelegten Beziehung über die Seite „Volume-Beziehungen“
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

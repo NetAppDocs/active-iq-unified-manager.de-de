@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, annotations, manually, individual, storage objects 
 summary: Ausgewählte Volumes, Cluster und SVMs lassen sich manuell und ohne Verwendung von Annotationsregeln beschriften. Sie können ein einzelnes Storage-Objekt oder mehrere Storage-Objekte mit Anmerkungen versehen und die erforderliche Kombination aus Name-Wert-Paaren für die Annotation angeben. 
 ---
-= Anmerkungen manuell zu einzelnen Speicherobjekten hinzufügen
+= Manuelles Hinzufügen von Anmerkungen zu einzelnen Speicherobjekten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

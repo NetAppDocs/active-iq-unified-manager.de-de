@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, HA pairs, available, capacity 
 summary: 'Sie können einen Bericht erstellen, um zu ermitteln, welche Hochverfügbarkeitspaare (HA) mit der größten Kapazität zur Bereitstellung neuer Volumes und LUNs bestehen.' 
 ---
-= Erstellen eines Berichts zur Anzeige von HA-Paaren mit der höchsten verfügbaren Kapazität
+= Erstellen Sie einen Bericht, um HA-Paare mit der größten verfügbaren Kapazität anzuzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

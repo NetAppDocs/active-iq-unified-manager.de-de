@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: analyze, performance, events 
 summary: 'Sie können Performance-Ereignisse analysieren, um zu ermitteln, wann sie erkannt wurden, ob sie aktiv (neu oder bestätigt) oder veraltet sind, die betroffenen Workloads und Cluster-Komponenten betroffen sind und die Optionen für die Behebung von Ereignissen selbst verfügbar sind.' 
 ---
-= Analyse von Performance-Ereignissen
+= Analysieren von Leistungsereignissen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

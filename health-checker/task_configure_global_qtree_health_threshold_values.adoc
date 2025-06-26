@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, global, qtree, health, threshold values 
 summary: Sie können die globalen Schwellenwerte für den Systemzustand für alle qtrees konfigurieren, um Schwellenverletzungen zu verfolgen. Geeignete Ereignisse werden zum Erreichen von Gesundheitsschwellenwerten generiert und anhand dieser Ereignisse können vorbeugende Maßnahmen ergriffen werden. Sie können die globalen Werte anhand der Best Practice-Einstellungen für Schwellenwerte konfigurieren, die für alle überwachten qtrees gelten. 
 ---
-= Konfigurieren von globalen qtree-Zustandsschwellenwerten
+= Konfigurieren Sie globale Qtree-Integritätsschwellenwerte
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

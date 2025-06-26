@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: dynamic, performance, qos, policy, group, throttling 
 summary: 'Sie können mit Unified Manager ein Performance-Ereignis untersuchen, das durch eine QoS-Richtliniengruppe (Quality of Service) verursacht wird, die den Workload-Durchsatz (MB/s) drosselt. Die Drosselung hat die Reaktionszeiten (Latenz) von Volume-Workloads in der Richtliniengruppe erhöht. Anhand der Ereignisinformationen können Sie bestimmen, ob neue Grenzen für die Richtliniengruppen erforderlich sind, um die Drosselung zu stoppen.' 
 ---
-= Er reagiert auf ein dynamisches Performance-Ereignis, das durch die QoS-Richtliniengruppendrosselung verursacht wird
+= Reagieren Sie auf ein dynamisches Leistungsereignis, das durch die Drosselung der QoS-Richtliniengruppe verursacht wird
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

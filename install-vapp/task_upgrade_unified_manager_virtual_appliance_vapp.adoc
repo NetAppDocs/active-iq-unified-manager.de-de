@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: upgrade, unified manager, virtual, appliance 
 summary: Sie können ein Upgrade der virtuellen Unified Manager-Appliance durchführen 
 ---
-= Aktualisieren der virtuellen Unified Manager Appliance
+= Aktualisieren Sie die virtuelle Unified Manager-Appliance
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

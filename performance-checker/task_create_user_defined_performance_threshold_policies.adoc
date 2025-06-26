@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, user-defined, performance, threshold, policies 
 summary: Sie erstellen Performance-Schwellenwertrichtlinien für Storage-Objekte, damit Benachrichtigungen gesendet werden, wenn ein Performance-Zähler einen bestimmten Wert überschreitet. Die Ereignisbenachrichtigung identifiziert, dass ein Performance-Problem auf dem Cluster auftritt. 
 ---
-= Benutzerdefinierte Richtlinien für Leistungsschwellenwerte werden erstellt
+= Erstellen benutzerdefinierter Richtlinien für Leistungsschwellenwerte
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

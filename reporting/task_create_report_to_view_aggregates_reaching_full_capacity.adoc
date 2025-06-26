@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, aggregates, reaching, full capacity 
 summary: Sie können einen Bericht erstellen, um die volle Kapazität der Aggregate zu ermitteln, damit Sie mehr Kapazität hinzufügen oder Workloads zu anderen Aggregaten verschieben können. 
 ---
-= Erstellen eines Berichts, um Aggregate anzuzeigen, die voll ausgelastet sind
+= Erstellen Sie einen Bericht, um anzuzeigen, dass Aggregate ihre volle Kapazität erreichen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

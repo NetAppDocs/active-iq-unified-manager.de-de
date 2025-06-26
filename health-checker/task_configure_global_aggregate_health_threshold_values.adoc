@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, global, aggregate, health, threshold values 
 summary: Sie können globale Statusschwellenwerte für alle Aggregate konfigurieren, um eine Schwellenwertverletzung zu verfolgen. Angemessene Ereignisse werden für Schwellenverletzungen generiert und Sie können auf dieser Grundlage vorbeugende Maßnahmen ergreifen. Sie können die globalen Werte basierend auf den Best-Practice-Einstellungen für Schwellenwerte konfigurieren, die für alle überwachten Aggregate gelten. 
 ---
-= Konfigurieren von globalen Integritätsschwellenwerten für das Aggregat
+= Konfigurieren globaler Schwellenwerte für die Gesamtintegrität
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

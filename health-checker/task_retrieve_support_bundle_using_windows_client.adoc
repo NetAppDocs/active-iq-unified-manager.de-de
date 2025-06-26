@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: retrieve, support bundle, windows client 
 summary: Als Windows-Benutzer können Sie ein Tool herunterladen und installieren, um das Support-Paket von Ihrem Unified Manager-Server abzurufen. Sie können das Support Bundle an den technischen Support senden, um eine detailliertere Diagnose eines Problems zu erhalten. FileZilla oder WinSCP sind Beispiele für Werkzeuge, die Sie verwenden können. 
 ---
-= Abrufen des Support-Pakets über einen Windows-Client
+= Abrufen des Support-Pakets mit einem Windows-Client
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

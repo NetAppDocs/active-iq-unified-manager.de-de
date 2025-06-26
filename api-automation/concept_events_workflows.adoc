@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: determine, issues, storage, objects, events 
 summary: Wenn ein Storage-Objekt im Datacenter einen Schwellenwert überschreitet, erhalten Sie eine Benachrichtigung über dieses Ereignis. Mithilfe dieser Benachrichtigung können Sie das Problem analysieren und mithilfe der Ereignis-APIs Korrekturmaßnahmen ergreifen. 
 ---
-= Bestimmen von Problemen in Storage-Objekten mithilfe von Ereignis-APIs
+= Ermitteln Sie Probleme in Speicherobjekten mithilfe von Ereignis-APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

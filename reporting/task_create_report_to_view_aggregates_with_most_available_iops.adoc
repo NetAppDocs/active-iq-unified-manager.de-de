@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, aggregates, available, IOPS 
 summary: Dieser Bericht zeigt, welche Aggregate die meisten verfügbaren IOPS pro Aggregattyp haben, auf dem Sie neue Workloads bereitstellen können. 
 ---
-= Erstellung eines Berichts, um Aggregate mit den meisten verfügbaren IOPS anzuzeigen
+= Erstellen Sie einen Bericht, um Aggregate mit den meisten verfügbaren IOPS anzuzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

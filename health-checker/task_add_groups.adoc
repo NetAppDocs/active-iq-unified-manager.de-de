@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, groups 
 summary: 'Gruppen können erstellt werden, um Cluster, Volumes und Storage Virtual Machines (SVMs) zu kombinieren und so das Management zu vereinfachen.' 
 ---
-= Hinzufügen von Gruppen
+= Gruppen hinzufügen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

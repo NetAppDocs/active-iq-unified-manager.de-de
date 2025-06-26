@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: system-defined, performance, threshold, events 
 summary: Sie können Unified Manager verwenden, um Performance-Ereignisse zu untersuchen, die durch einen Performance-Zähler einen vom System definierten Warnschwellenwert verursacht werden. Sie können auch den Systemzustand der Cluster-Komponente mit Unified Manager überprüfen, um zu ermitteln, ob kürzlich entdeckte Ereignisse auf der Komponente, die zum Performance-Ereignis beigetragen hat. 
 ---
-= Reaktion auf systemdefinierte Performance-Schwellenwertereignisse
+= Reagieren auf systemdefinierte Leistungsschwellenwertereignisse
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

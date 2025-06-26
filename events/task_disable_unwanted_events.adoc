@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: disable, unwanted, events 
 summary: Standardmäßig sind alle Ereignisse aktiviert. Sie können Ereignisse global deaktivieren, um eine Generierung von Benachrichtigungen für in Ihrer Umgebung nicht wichtige Ereignisse zu verhindern. Sie können Ereignisse aktivieren, die deaktiviert sind, wenn Sie den Empfang von Benachrichtigungen für sie fortsetzen möchten. 
 ---
-= Deaktivieren unerwünschter Ereignisse
+= Deaktivieren Sie unerwünschte Ereignisse
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

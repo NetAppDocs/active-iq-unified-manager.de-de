@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: determine, volume, offline, broken disks, aggregate 
 summary: Sie können die Unified Manager Web-UI nutzen, um die Möglichkeit zu bestätigen oder zu beseitigen, dass ein Volume offline ist, da RAID-Festplattenprobleme sein Host-Aggregat offline geschaltet haben. 
 ---
-= Ermitteln, ob ein Volume aufgrund von defekten Festplatten in einem Aggregat offline ist
+= Ermitteln, ob ein Volume aufgrund defekter Datenträger in einem Aggregat offline ist
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

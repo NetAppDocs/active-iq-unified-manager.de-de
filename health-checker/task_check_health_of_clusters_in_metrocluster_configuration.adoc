@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: check, health, clusters, metrocluster, configuration 
 summary: Mit Unified Manager können Sie den Betriebszustand der Cluster und ihrer Komponenten in einer MetroCluster-Konfiguration überprüfen. Wenn die Cluster an einem von Unified Manager erkannten Performance-Ereignis beteiligt waren, kann der Integritätsstatus Ihnen dabei helfen festzustellen, ob ein Hardware- oder Softwareproblem zu dem Ereignis beigetragen hat. 
 ---
-= Überprüfen des Systemzustands von Clustern in einer MetroCluster-Konfiguration
+= Überprüfen Sie den Zustand von Clustern in einer MetroCluster-Konfiguration
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -21,7 +21,7 @@ Mit Active IQ Unified Manager (Unified Manager) können Sie den Betriebszustand 
 
 
 
-== Bestimmen des Cluster-Systemzustands in MetroCluster über die FC-Konfiguration
+== Bestimmen Sie die Clusterintegrität in der MetroCluster-über-FC-Konfiguration
 
 Befolgen Sie diese Schritte, um den Cluster-Zustand in einer MetroCluster über die FC-Konfiguration zu bestimmen.
 
@@ -59,7 +59,7 @@ Wenn in diesem Beispiel das NVRAM-Symbol auf dem lokalen oder Partner-Cluster ge
 
 
 
-== Bestimmen des Cluster-Systemzustands in MetroCluster über die IP-Konfiguration
+== Bestimmen Sie die Clusterintegrität in der MetroCluster over IP-Konfiguration
 
 Befolgen Sie diese Schritte, um den Cluster-Zustand in einer MetroCluster über IP-Konfiguration zu bestimmen.
 

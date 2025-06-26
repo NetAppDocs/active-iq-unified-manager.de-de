@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, global, volume, health, threshold values 
 summary: Sie können die globalen Schwellenwerte für den Zustand für alle Volumes konfigurieren, um eine Schwellenverletzung zu verfolgen. Geeignete Ereignisse werden zum Erreichen von Gesundheitsschwellenwerten generiert und anhand dieser Ereignisse können vorbeugende Maßnahmen ergriffen werden. Sie können die globalen Werte basierend auf den Best-Practice-Einstellungen für Schwellenwerte konfigurieren, die für alle überwachten Volumes gelten. 
 ---
-= Konfigurieren von globalen Schwellenwerten für den Zustand des Volumes
+= Konfigurieren globaler Schwellenwerte für die Volumeintegrität
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

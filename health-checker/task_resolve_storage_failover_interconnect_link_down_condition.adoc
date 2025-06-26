@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: scan, resolve, storage, failover, interconnect link, conditions 
 summary: Dieser Workflow bietet ein Beispiel dafür, wie Sie ausgefallene Storage Failover Interconnect-Verbindungsbedingungen suchen, bewerten und beheben können. In diesem Szenario suchen Sie als Administrator mit Unified Manager nach Storage-Failover-Risiken, bevor Sie ein ONTAP Version Upgrade auf den Nodes starten. 
 ---
-= Scannen und Beheben von Verbindungsproblemen für Storage Failover Interconnect
+= Suchen und beheben Sie Verbindungsausfälle bei Speicher-Failovern
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

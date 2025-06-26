@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: define, backup, schedule, linux, windows, snapshot copy, copies 
 summary: Sie können den Zeitplan, auf dem Unified Manager Snapshot Kopien unter Verwendung der Benutzeroberfläche von Unified Manager erstellt werden, konfigurieren. 
 ---
-= Definieren eines Backup-Zeitplans für Linux und Windows
+= Definieren Sie einen Sicherungszeitplan für Linux und Windows
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

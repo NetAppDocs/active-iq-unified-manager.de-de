@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: customize, columns 
 summary: Wählen Sie mit „Anzeigen/Ausblenden“ die Spalten aus, die in Ihrem Bericht verwendet werden sollen. Ziehen Sie die Spalten auf der Bestandsseite, um sie neu anzuordnen. 
 ---
-= Anpassen von Spalten
+= Spalten anpassen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

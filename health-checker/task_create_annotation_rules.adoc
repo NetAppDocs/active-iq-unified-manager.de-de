@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, annotation rules 
 summary: 'Zudem können Anmerkungsregeln erstellt werden, die in Unified Manager verwendet werden, um Storage-Objekte wie Volumes, Cluster oder Storage Virtual Machines (SVMs) dynamisch anzunotieren.' 
 ---
-= Anmerkungsregeln werden erstellt
+= Erstellen von Anmerkungsregeln
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

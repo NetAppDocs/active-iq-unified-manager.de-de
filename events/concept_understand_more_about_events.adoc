@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, more, events 
 summary: Wenn Sie die Konzepte zu Ereignissen verstehen, können Sie Ihre Cluster und Cluster-Objekte effizient managen und Warnmeldungen entsprechend definieren. 
 ---
-= Allgemeines zu Ereignissen
+= Erfahren Sie mehr über Ereignisse
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

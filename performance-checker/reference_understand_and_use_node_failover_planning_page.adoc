@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understanding, node, failover, planning page 
 summary: 'Die Seite Performance/Node Failover Planning schätzt die Auswirkungen auf die Leistung eines Knotens, wenn der hochverfügbare (HA-)Partner-Knoten des Knotens ausfällt. Die Schätzungen von Unified Manager beruhen auf der historischen Performance von Nodes im HA-Paar.' 
 ---
-= Verstehen und Verwenden der Seite Node Failover Planning
+= Verstehen und Verwenden der Seite „Knoten-Failover-Planung“
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

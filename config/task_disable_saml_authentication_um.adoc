@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: disable, saml authentication 
 summary: 'Sie können die SAML-Authentifizierung deaktivieren, wenn Sie die Authentifizierung von Remote-Benutzern über einen sicheren Identitäts-Provider (IdP) beenden möchten, bevor sie sich in der Web-UI von Unified Manager anmelden können. Wenn die SAML-Authentifizierung deaktiviert ist, führen die konfigurierten Verzeichnisdienstanbieter wie Active Directory oder LDAP eine Anmeldeauthentifizierung durch.' 
 ---
-= Deaktivieren der SAML-Authentifizierung
+= Deaktivieren Sie die SAML-Authentifizierung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

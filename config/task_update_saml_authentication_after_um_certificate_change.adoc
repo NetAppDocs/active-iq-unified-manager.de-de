@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: update, saml, authentication, settings, unified manager, security, certificate, change 
 summary: Jede Änderung am HTTPS-Sicherheitszertifikat, das auf dem Unified Manager-Server installiert ist, erfordert, dass Sie die Einstellungen für die SAML-Authentifizierung aktualisieren. Das Zertifikat wird aktualisiert, wenn Sie das Hostsystem umbenennen, eine neue IP-Adresse für das Hostsystem zuweisen oder das Sicherheitszertifikat für das System manuell ändern. 
 ---
-= SAML-Authentifizierungseinstellungen werden nach Änderung des Unified Manager-Sicherheitszertifikats aktualisiert
+= Aktualisieren Sie die SAML-Authentifizierungseinstellungen nach der Änderung des Unified Manager-Sicherheitszertifikats
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

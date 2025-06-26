@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, snapmirror, protection, relationship,  volume, health details page 
 summary: Sie können auf der Seite Volume-/Integritätsdetails eine SnapMirror Beziehung erstellen, sodass die Datenreplizierung zu Sicherungszwecken aktiviert wird. Die SnapMirror Replizierung ermöglicht Ihnen die Wiederherstellung von Daten vom Ziel-Volume im Falle eines Datenverlusts auf dem Quellsystem. 
 ---
-= Erstellen einer SnapMirror Schutzbeziehung auf der Seite „Volume/Health Details“
+= Erstellen Sie eine SnapMirror-Schutzbeziehung auf der Seite mit den Volume-/Integritätsdetails
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

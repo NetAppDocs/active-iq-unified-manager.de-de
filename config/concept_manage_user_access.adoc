@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, user, access 
 summary: Sie können Rollen erstellen und Funktionen zuweisen, um den Benutzerzugriff auf ausgewählte Cluster-Objekte zu steuern. Sie können Benutzer identifizieren, die über die erforderlichen Funktionen für den Zugriff auf ausgewählte Objekte in einem Cluster verfügen. Nur diese Benutzer haben Zugriff, um Cluster-Objekte zu managen. 
 ---
-= Verwalten des Benutzerzugriffs
+= Managen Sie den Benutzerzugriff
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

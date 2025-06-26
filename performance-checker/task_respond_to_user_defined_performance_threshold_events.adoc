@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: user-defined, performance, threshold, events 
 summary: Sie können Unified Manager verwenden, um Performance-Ereignisse zu untersuchen, die durch einen Performance-Zähler durch eine benutzerdefinierte Warnung oder einen kritischen Schwellenwert verursacht werden. Sie können auch Unified Manager verwenden, um den Systemzustand der Cluster-Komponente zu überprüfen, um zu ermitteln, ob kürzlich Systemzustandsereignisse auf der Komponente, die zum Performance-Ereignis beigetragen haben, erkannt wurden. 
 ---
-= Reaktion auf benutzerdefinierte Performance-Schwellenwertereignisse
+= Reagieren auf benutzerdefinierte Leistungsschwellenwertereignisse
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

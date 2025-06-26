@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, volume, protection relationships 
 summary: 'Aus der Ansicht „Beziehungen“: Alle Beziehungen und auf der Seite „Volume-Beziehungen“ können Sie den Status vorhandener Volume SnapMirror und SnapVault Beziehungen anzeigen. Sie können auch Details zu Sicherungsbeziehungen unter anderem hinsichtlich Transfer- und lag-Status, Quell- und Zieldetails, Zeitplan- und Richtlinieninformationen usw. prüfen.' 
 ---
-= Anzeigen von Volume-Sicherungsbeziehungen
+= Anzeigen von Volume-Schutzbeziehungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

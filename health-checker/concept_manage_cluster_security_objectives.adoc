@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: cluster, security, manage, objectives 
 summary: 'Unified Manager bietet ein Dashboard, in dem die Sicherheit Ihrer ONTAP Cluster, Storage Virtual Machines (SVMs) und Volumes anhand der Empfehlungen identifiziert wird, die im NetApp Security Hardening Guide for ONTAP 9 definiert wurden.' 
 ---
-= Verwalten von Zielen für die Cluster-Sicherheit
+= Verwalten von Cluster-Sicherheitszielen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

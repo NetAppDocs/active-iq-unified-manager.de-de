@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: edit, protection, relationships, volume, health details page 
 summary: Sie können vorhandene Schutzbeziehungen bearbeiten, um die aktuelle maximale Übertragungsrate, Schutzrichtlinie oder den Schutzzeitplan zu ändern. Sie können eine Beziehung bearbeiten, um die für Datentransfers verwendete Bandbreite zu verringern oder die Häufigkeit geplanter Transfers zu erhöhen, da sich Daten oft ändern. 
 ---
-= Bearbeiten von Schutzbeziehungen auf der Seite Volume / Health Details
+= Bearbeiten Sie Schutzbeziehungen auf der Seite „Volume-/Integritätsdetails“.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

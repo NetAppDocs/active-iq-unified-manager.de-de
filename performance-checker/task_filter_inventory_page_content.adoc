@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: filtering, inventory, page, content 
 summary: Sie können die Daten auf den Inventarseiten in Unified Manager filtern, um Daten anhand spezifischer Kriterien schnell zu finden. Mithilfe der Filterung können Sie den Inhalt der Seiten von Unified Manager einschränken, um nur die für Sie jeweils interessierten Ergebnisse anzuzeigen. Dies bietet eine sehr effiziente Methode, um nur die Daten anzuzeigen, in denen Sie interessiert sind. 
 ---
-= Inhalt der Bestandsseite wird gefiltert
+= Inhalt der Inventarseite filtern
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

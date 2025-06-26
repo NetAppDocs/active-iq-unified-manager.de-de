@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, group, volume, relationships, source, failure 
 summary: Sie können einen Bericht erstellen, in dem Volumes gruppiert werden, weil die Beziehung sich in einem ungesunden Zustand befindet. 
 ---
-= Erstellen eines Berichts, um Volume-Beziehungen nach Fehlerquelle zu gruppieren
+= Erstellen Sie einen Bericht, um Volumenbeziehungen nach Fehlerquelle zu gruppieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

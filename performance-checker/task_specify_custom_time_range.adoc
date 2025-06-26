@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: specify, custom, time range 
 summary: Auf der Seite „Performance Explorer“ können Sie den Datums- und Zeitbereich für Ihre Leistungsdaten angeben. Die Angabe eines benutzerdefinierten Zeitbereichs bietet größere Flexibilität als die Verwendung vordefinierter Zeitbereiche bei der Raffination von Cluster-Objektdaten. 
 ---
-= Festlegen eines benutzerdefinierten Zeitbereichs
+= Geben Sie einen benutzerdefinierten Zeitraum an
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

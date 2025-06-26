@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: resolve, protection, job failure 
 summary: Dieser Workflow bietet ein Beispiel dafür, wie Sie Fehler im Schutz über das Unified Manager-Dashboard identifizieren und beheben können. 
 ---
-= Behebung eines Schutzauftrags
+= Beheben eines Schutzauftragsfehlers
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

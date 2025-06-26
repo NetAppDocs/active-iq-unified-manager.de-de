@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: uninstall, unified manager 
 summary: Sie können Unified Manager deinstallieren, indem Sie den Assistenten Programme und Funktionen verwenden oder eine unbeaufsichtigte Deinstallation von der Befehlszeilenschnittstelle durchführen. 
 ---
-= Deinstallieren Von Unified Manager
+= Deinstallieren Sie Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

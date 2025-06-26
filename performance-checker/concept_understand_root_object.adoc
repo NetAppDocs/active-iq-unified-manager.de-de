@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, root, object 
 summary: Das Root-Objekt ist die Basis, mit der andere Objektvergleiche erstellt werden. So lassen sich Daten von anderen Objekten mit dem Root-Objekt anzeigen und vergleichen. So wird eine Performance-Datenanalyse bereitgestellt, mit der Fehler behoben und die Objekt-Performance verbessert werden kann. 
 ---
-= Allgemeines zum Root-Objekt
+= Verstehen Sie das Stammobjekt
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, endpoints, access 
 summary: 'Zugriffendpunkte oder logische Schnittstellen (LIFs) müssen erstellt werden, die für die Bereitstellung von Storage Virtual Machines (SVMs), LUNs und Dateifreigaben erforderlich sind. Sie können die Zugriffendpunkte für die SVMs, LUNs oder File Shares in der Active IQ Unified Manager Umgebung anzeigen, erstellen, ändern und löschen.' 
 ---
-= Management von Zugriffendpunkten mithilfe von APIs
+= Verwalten von Zugriffsendpunkten mithilfe von APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: viewing, qos, policy, groups, available, clusters 
 summary: Sie können eine Liste aller QoS-Richtliniengruppen anzeigen, die in den von Unified Manager überwachten Clustern verfügbar sind. Dies umfasst herkömmliche QoS-Richtlinien, anpassungsfähige QoS-Richtlinien und QoS-Richtlinien, die durch Unified Manager Performance Service Level-Richtlinien gemanagt werden. 
 ---
-= Anzeigen aller QoS-Richtliniengruppen, die auf allen Clustern verfügbar sind
+= Alle auf allen Clustern verfügbaren QoS-Richtliniengruppen anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

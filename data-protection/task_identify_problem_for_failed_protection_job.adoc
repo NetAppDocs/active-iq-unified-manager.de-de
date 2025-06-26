@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: identify, problem, perform, corrective actions, failed, protection job 
 summary: Sie überprüfen die Fehlermeldung zum Jobfehler im Feld Ursache auf der Seite Ereignisdetails und stellen fest, dass der Job aufgrund eines Fehlers bei der Snapshot-Kopie fehlgeschlagen ist. Fahren Sie dann zur Seite Volume / Health Details, um weitere Informationen zu erhalten. 
 ---
-= Identifizieren des Problems und Durchführen von Korrekturmaßnahmen für einen fehlgeschlagenen Schutzauftrag
+= Identifizieren Sie das Problem und führen Sie Korrekturmaßnahmen für einen fehlgeschlagenen Schutzauftrag durch
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

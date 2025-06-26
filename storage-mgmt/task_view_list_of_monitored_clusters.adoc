@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, list, monitored, clusters 
 summary: Mithilfe der Seite Cluster Setup können Sie das Inventar der Cluster anzeigen. Sie können Details zu den Clustern anzeigen, z. B. ihren Namen oder ihre IP-Adresse und ihren Kommunikationsstatus. 
 ---
-= Anzeigen der Liste der überwachten Cluster
+= Liste der überwachten Cluster anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

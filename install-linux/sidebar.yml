@@ -22,7 +22,7 @@ entries:
     url: "/install-linux/reference_protocol_and_port_requirements.html"
   - title: Füllen Sie das Arbeitsblatt aus
     url: "/install-linux/reference_complete_worksheet_um.html"
-- title: Installieren, Aktualisieren und Entfernen der Unified Manager Software
+- title: Installieren, Aktualisieren und Entfernen der Unified Manager-Software
   url: "/install-linux/concept_install_upgrade_and_remove_unified_manager_software.html"
   entries:
   - title: Überblick über den Installationsprozess
@@ -32,17 +32,17 @@ entries:
     entries:
     - title: Manuelles Konfigurieren des EPEL-Repositorys
       url: "/install-linux/task_manually_configure_epel_repository.html"
-    - title: Manuelles Konfigurieren des MySQL-Repository
+    - title: Manuelles Konfigurieren des MySQL-Repositorys
       url: "/install-linux/task_manually_configure_mysql_repository.html"
   - title: SELinux-Anforderungen für NFS- oder CIFS-Freigabe
     url: "/install-linux/task_selinux_requirements_for_mounting_opt_netapp.html"
   - title: Installation von Unified Manager auf Linux Systemen
     url: "/install-linux/concept_install_unified_manager_on_rhel.html"
     entries:
-    - title: Erstellen eines benutzerdefinierten Home-Verzeichnisses für Benutzer
-        und eines umadmin-Passworts vor der Installation
+    - title: Erstellen Sie vor der Installation ein benutzerdefiniertes Benutzer-Home-Verzeichnis
+        und ein Umadmin-Passwort
       url: "/install-linux/task_create_custom_user_home_directory_and_umadmin.html"
-    - title: Download Von Unified Manager
+    - title: Laden Sie Unified Manager Herunter
       url: "/install-linux/task_download_unified_manager.html"
     - title: Installation Von Unified Manager
       url: "/install-linux/task_install_unified_manager_linux.html"
@@ -50,24 +50,25 @@ entries:
       url: "/install-linux/reference_users_created_in_unified_manager.html"
     - title: Ändern des JBoss-Passworts
       url: "/install-linux/task_change_jboss_password.html"
-  - title: Upgrade von Unified Manager auf Red hat Enterprise Linux
+  - title: Upgrade von Unified Manager auf Red Hat Enterprise Linux
     url: "/install-linux/concept_upgrade_unified_manager_on_rhel.html"
     entries:
     - title: Unterstützter Upgrade-Pfad für Unified Manager-Versionen
       url: "/include/upgrade-path.html"
     - title: Upgrade Von Unified Manager
       url: "/install-linux/task_upgrade_unified_manager.html"
-    - title: Aktualisieren des Host-Betriebssystems von Red hat Enterprise Linux 7.x
-        auf 8.x
+    - title: Aktualisieren Sie das Host-Betriebssystem von Red Hat Enterprise Linux
+        7.x auf 8.x
       url: "/install-linux/task_upgrade_host_os.html"
-  - title: Upgrade von Drittanbieterprodukten nach der Installation von Unified Manager
+  - title: Aktualisieren Sie Produkte von Drittanbietern nach der Installation von
+      Unified Manager
     url: "/install-linux/concept_upgrade_third_party_products_on_linux_um.html"
     entries:
-    - title: Aktualisieren von OpenJDK unter Linux
+    - title: Aktualisieren Sie OpenJDK unter Linux
       url: "/install-linux/task_upgrade_openjdk_on_linux_ocum.html"
-  - title: Neustart Von Unified Manager
+  - title: Unified Manager neu starten
     url: "/install-linux/task_restart_unified_manager.html"
-  - title: Unified Manager Wird Entfernt
+  - title: Unified Manager entfernen
     url: "/install-linux/task_remove_unified_manager.html"
-  - title: Entfernen des benutzerdefinierten umadmin-Benutzers und der Wartungsgruppe
+  - title: Entfernen Sie den benutzerdefinierten Umadmin-Benutzer und die Wartungsgruppe
     url: "/install-linux/task_remove_custom_umadmin_user_and_maintenance_group.html"

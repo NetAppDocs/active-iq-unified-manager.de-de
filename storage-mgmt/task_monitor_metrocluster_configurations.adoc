@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: monitor, metrocluster, configurations 
 summary: Sie können Konnektivitätsprobleme in Ihrer MetroCluster-Konfiguration überwachen. Die Details umfassen den Status der Komponenten und die Konnektivität innerhalb eines Clusters und den Konnektivitätsstatus zwischen den Clustern in der MetroCluster Konfiguration. 
 ---
-= Monitoring der MetroCluster Konfigurationen
+= Überwachung der MetroCluster-Konfigurationen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -54,7 +54,7 @@ Wenn Sie den Mauszeiger über das Symbol bewegen, können Sie detaillierte Infor
 
 Wenn Sie Konnektivitätsprobleme in Ihrer MetroCluster-Konfiguration feststellen, müssen Sie sich bei System Manager einloggen oder auf die ONTAP-CLI zugreifen, um die Probleme zu beheben.
 
-Weitere Informationen zum Bestimmen des Cluster-Systemzustands finden Sie unter link:../health-checker/task_check_health_of_clusters_in_metrocluster_configuration.html#determining-cluster-health-in-metrocluster-over-fc-configuration["Bestimmen des Cluster-Systemzustands in MetroCluster über die FC-Konfiguration"].
+Weitere Informationen zum Bestimmen des Clusterzustands finden Sie unter link:../health-checker/task_check_health_of_clusters_in_metrocluster_configuration.html#determine-cluster-health-in-metrocluster-over-fc-configuration["Bestimmen Sie die Clusterintegrität in der MetroCluster-über-FC-Konfiguration"].
 
 
 
@@ -99,7 +99,7 @@ NOTE: Nur bei einer MetroCluster-over-IP-Konfiguration können Sie die Clusterto
 *Verwandte Informationen*
 
 * link:../health-checker/reference_health_cluster_details_page.html["„Cluster/Systemzustand“-Details"]
-* Informationen über *Relationship:MetroCluster* View finden Sie unter link:../storage-mgmt/task_monitor_metrocluster_configurations.html["Monitoring der MetroCluster Konfigurationen"].
+* Informationen zur Ansicht *Beziehung:MetroCluster* finden Sie unter link:../storage-mgmt/task_monitor_metrocluster_configurations.html["Überwachung der MetroCluster-Konfigurationen"].
 * Weitere Informationen zu *Beziehung: Letzte 1 Monat Status der Übertragung* Ansicht, siehe link:../data-protection/reference_relationship_last_1_month_transfer_status_view.html["Beziehung: Letzte 1 Monat Transfer Status Ansicht"].
 * Weitere Informationen zu *Beziehung: Letzte 1 Monat Transferrate* Ansicht, siehe link:../data-protection/reference_relationship_last_1_month_transfer_rate_view.html["Beziehung: Letzte 1 Monat Transferrate Ansicht"].
 * Für Informationen über *Beziehung: Alle Beziehungen* Ansicht, siehe link:../data-protection/reference_relationship_all_relationships_view.html["Beziehung: Ansicht aller Beziehungen"].

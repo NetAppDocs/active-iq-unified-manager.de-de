@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: determine, volume, offline, svm, node 
 summary: 'Mit der Unified Manager Web-UI lässt sich die Möglichkeit bestätigen oder ganz vermeiden, dass ein Volume offline ist, da die SVM (Host Storage Virtual Machine) aufgrund des Node, der das Root-Volume dieser SVM hostet, angehalten wird.' 
 ---
-= Ermitteln, ob ein Volume offline ist und seine SVM angehalten ist, da ein Node ausfällt
+= Ermitteln Sie, ob ein Volume offline ist und sein SVM gestoppt wurde, weil ein Knoten ausgefallen ist
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

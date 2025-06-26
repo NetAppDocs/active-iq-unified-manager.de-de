@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, events, adaptive, qos, policies, defined, block, size 
 summary: Adaptive QoS-Richtliniengruppen skalieren je nach Volume-Größe automatisch eine Durchsatzdecke oder -Stellfläche und erzielen so bei veränderter Volume-Größe das Verhältnis von IOPS zu TB. Ab ONTAP 9.5 können Sie die Blockgröße in der QoS-Richtlinie festlegen, um einen MB/s-Schwellenwert gleichzeitig effektiv anzuwenden. 
 ---
-= Allgemeines zu Ereignissen durch anpassungsfähige QoS-Richtlinien mit einer definierten Blockgröße
+= Verstehen Sie Ereignisse aus adaptiven QoS-Richtlinien mit einer definierten Blockgröße
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

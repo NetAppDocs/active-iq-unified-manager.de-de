@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: api gateway 
 summary: Mit der API-Gateway-Funktion kann Active IQ Unified Manager als eine einzige Kontrollebene verwendet werden, über die Sie diverse ONTAP-Cluster managen können, ohne sich dabei individuell anmelden zu müssen. 
 ---
-= Aktivieren des API-Gateways
+= API-Gateway aktivieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: volume relationship, protection status, dashboard protection card, protection widget, lag, relationship health, healthy relationship, lag threshold, relationship event, source cluster, snapmirror, snapshot 
 summary: Die Seite Datensicherung bietet einen ganzheitlichen Überblick über die Datensicherungsdetails für alle geschützten Volumes in Ihrem Datacenter. 
 ---
-= Anzeigen des Volume-Sicherungsstatus
+= Anzeigen des Volume-Schutzstatus
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

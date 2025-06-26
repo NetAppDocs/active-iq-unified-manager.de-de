@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: resolve, capacity issues 
 summary: Dieser Workflow bietet ein Beispiel dafür, wie Sie ein Kapazitätsproblem lösen können. In diesem Szenario greifen Sie als Administrator oder Operator auf die Seite Unified Manager Dashboard zu, um zu ermitteln, ob eines der überwachten Speicherobjekte Kapazitätsprobleme haben. Sie möchten die mögliche Ursache und Lösung des Problems ermitteln. 
 ---
-= Behebung von Kapazitätsproblemen
+= Beheben Sie Kapazitätsprobleme
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

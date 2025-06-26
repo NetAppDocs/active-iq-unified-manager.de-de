@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, annotations, dynamically 
 summary: 'Beim Erstellen benutzerdefinierter Annotationen ordnet Unified Manager Cluster, Storage Virtual Machines (SVMs) und Volumes anhand von Regeln dynamisch den Annotationen zu. Diese Regeln weisen die Anmerkungen automatisch den Speicherobjekten zu.' 
 ---
-= Anmerkungen werden dynamisch hinzugefügt
+= Anmerkungen dynamisch hinzufügen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

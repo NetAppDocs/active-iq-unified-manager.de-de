@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, events, system, details 
 summary: Mithilfe der Events-API können Sie die Ereignisse abrufen, die für die überwachten Cluster in Ihrem Datacenter generiert werden. 
 ---
-= Verwalten von Ereignissen und Warnmeldungen mithilfe von APIs
+= Verwalten von Ereignissen und Warnungen mithilfe von APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -23,7 +23,7 @@ Durch Ausführen des `GET` Methode für das `/management-server/events` API, Sie
 
 Durch Ausführen des PATCH-Vorgangs für diese API können Sie den Auflösungsworkflow für das Ereignis aktivieren. Sie können sich selbst oder einem anderen Benutzer ein Ereignis zuweisen und den Empfang der Veranstaltung bestätigen. Wenn Sie die Schritte auf den Ressourcen ausführen, um das Problem, das das Ereignis ausgelöst hat, zu beheben, können Sie diese API verwenden, um das Ereignis als gelöst zu markieren.
 
-Weitere Informationen zu Ereignissen finden Sie unter link:../events/concept_manage_events.html["Verwalten von Ereignissen"].
+Weitere Informationen zu Veranstaltungen finden Sie unter link:../events/concept_manage_events.html["Ereignisse verwalten"].
 
 [cols="4*"]
 |===
@@ -103,11 +103,11 @@ NOTE: Beachten Sie beim Auswählen einer Ressource zum Hinzufügen einer Meldung
 
 
 
-== Verwalten von Skripten
+== Skripte verwalten
 
 Durch Verwendung des `/management-server/scripts` API. Sie können auch eine Warnung einem Skript zuordnen, das bei Auslösung einer Warnmeldung ausgeführt wird. Mithilfe von Skripten können mehrere Storage-Objekte in Unified Manager automatisch geändert oder aktualisiert werden. Das Skript ist einer Warnung zugeordnet. Wenn ein Ereignis eine Warnung auslöst, wird das Skript ausgeführt. Sie können benutzerdefinierte Skripts hochladen und deren Ausführung testen, wenn eine Warnung erzeugt wird. Sie können eine Warnung mit Ihrem Skript verknüpfen, damit das Skript ausgeführt wird, wenn eine Warnung für ein Ereignis in Unified Manager ausgegeben wird.
 
-Weitere Informationen zu Skripten finden Sie unter link:../events/concept_manage_scripts.html["Verwalten von Skripten"].
+Weitere Informationen zu Skripten finden Sie unter link:../events/concept_manage_scripts.html["Skripte verwalten"].
 
 [cols="4*"]
 |===

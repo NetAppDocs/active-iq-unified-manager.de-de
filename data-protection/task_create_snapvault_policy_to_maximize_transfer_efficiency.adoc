@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, snapvault, policy,  maximize, transfer, efficiency 
 summary: Sie können eine neue SnapVault-Richtlinie erstellen, um die Priorität für eine SnapVault-Übertragung festzulegen. Anhand von Richtlinien wird die Effizienz der Übertragungen in einer Sicherungsbeziehung vom primären zum sekundären Volume maximiert. 
 ---
-= Erstellen einer SnapVault-Richtlinie zur Maximierung der Übertragungseffizienz
+= Erstellen Sie eine SnapVault-Richtlinie, um die Übertragungseffizienz zu maximieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

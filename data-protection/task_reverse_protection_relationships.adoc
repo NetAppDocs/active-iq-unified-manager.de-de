@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: reverse, protection, relationships, volume, relationships page 
 summary: Wenn ein Notfall das Quellvolume in Ihrer Schutzbeziehung deaktiviert, können Sie das Zielvolume für die Bereitstellung von Daten verwenden, indem Sie es in ein Lese-/Schreibvolume konvertieren, während Sie die Quelle reparieren oder ersetzen. Wenn die Quelle für den Empfang von Daten erneut verfügbar ist, können Sie mithilfe der Resynchronisierung auf umgekehrter Richtung die Beziehung herstellen und die Daten auf der Quelle mit den Daten auf dem Ziel für Lesen/Schreiben synchronisieren. 
 ---
-= Schutzbeziehungen auf der Seite Volume Relationships rückgängig machen
+= Umkehren von Schutzbeziehungen auf der Seite „Volume-Beziehungen“
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

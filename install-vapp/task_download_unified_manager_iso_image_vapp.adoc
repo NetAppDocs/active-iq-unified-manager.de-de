@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: download, unified manager, upgrade file 
 summary: Laden Sie vor dem Upgrade von Unified Manager die Upgrade-Datei von der NetApp Support Site herunter. 
 ---
-= Upgrade-Datei für Unified Manager wird heruntergeladen
+= Laden Sie die Unified Manager-Upgradedatei herunter
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

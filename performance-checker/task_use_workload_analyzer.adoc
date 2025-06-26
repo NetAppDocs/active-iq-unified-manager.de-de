@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: workload analyzer 
 summary: Es gibt viele Möglichkeiten, die Workload-Analyse von der Benutzeroberfläche aus zu starten. Hier beschreiben wir das Starten des Tools aus dem linken Navigationsbereich. 
 ---
-= Workload Analyzer verwenden
+= Verwenden des Workload-Analyzers
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

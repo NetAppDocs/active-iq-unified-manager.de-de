@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: remove, cluster 
 summary: Sie können ein Cluster mithilfe der Seite Cluster-Setup aus Unified Manager entfernen. Beispielsweise können Sie ein Cluster entfernen, wenn die Cluster-Erkennung ausfällt oder wenn Sie ein Storage-System stilllegen möchten. 
 ---
-= Cluster werden entfernt
+= Cluster entfernen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

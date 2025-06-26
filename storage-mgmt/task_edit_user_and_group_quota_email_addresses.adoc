@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: edit, user, group, quota, email, addresses 
 summary: 'Sie können die E-Mail-Adressen basierend auf den mit Clustern verbundenen Benutzerkontingenten, Storage Virtual Machines (SVMs), Volumes, qtrees, Benutzern oder Benutzergruppen ändern. Sie können die E-Mail-Adresse ändern, wenn Sie die E-Mail-Adresse überschreiben möchten, die durch Regeln generiert wurde, die im Dialogfeld „Regeln zum Generieren von Benutzer- und Gruppenkontingente-E-Mail-Adresse“ angegeben sind.' 
 ---
-= Bearbeiten der E-Mail-Adressen für Benutzer- und Gruppenkontingente
+= Bearbeiten Sie die E-Mail-Adressen der Benutzer- und Gruppenkontingente
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

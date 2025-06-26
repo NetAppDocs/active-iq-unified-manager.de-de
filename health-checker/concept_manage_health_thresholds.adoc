@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, health, thresholds 
 summary: Sie können globale Statusschwellenwerte für alle Aggregate, Volumes und qtrees konfigurieren, um Verletzungen des Systemzustands zu verfolgen. 
 ---
-= Verwalten von Systemzustandsschwellenwerten
+= Verwalten von Integritätsschwellenwerten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

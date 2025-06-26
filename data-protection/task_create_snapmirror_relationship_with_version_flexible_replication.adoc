@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, snapmirror, relationship, version-flexible, replication 
 summary: Sie können eine SnapMirror Beziehung mit versionsflexibler Replizierung erstellen. Die versionsflexible Replizierung ermöglicht Ihnen die Implementierung der SnapMirror Sicherung, selbst wenn Quell- und Ziel-Volumes unter verschiedenen Versionen von ONTAP ausgeführt werden. 
 ---
-= Erstellen einer SnapMirror Beziehung mit versionsflexibler Replizierung
+= Erstellen einer SnapMirror-Beziehung mit versionsflexibler Replikation
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

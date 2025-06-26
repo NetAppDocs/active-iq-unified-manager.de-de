@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, scripts 
 summary: Sie können ein Skript aus Unified Manager löschen, wenn das Skript nicht mehr benötigt oder gültig ist. 
 ---
-= Skripte werden gelöscht
+= Skripte löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

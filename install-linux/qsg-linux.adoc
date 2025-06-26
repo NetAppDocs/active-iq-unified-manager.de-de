@@ -26,7 +26,7 @@ Detaillierte Systemanforderungen und Informationen zur Installation des Produkts
 
 
 
-== Active IQ Unified Manager wird installiert
+== Installation von Active IQ Unified Manager
 
 
 

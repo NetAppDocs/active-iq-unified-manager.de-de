@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: customize, aggregate, capacity, reports 
 summary: Anhand dieser individuellen Beispielberichte können Sie potenzielle Probleme im Zusammenhang mit der Aggregat-Storage-Kapazität identifizieren und darauf reagieren. 
 ---
-= Anpassung der Berichte zur Aggregatskapazität
+= Anpassen aggregierter Kapazitätsberichte
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

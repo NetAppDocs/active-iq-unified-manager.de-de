@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: select, performance, thresholds, counter, charts, zoom, view 
 summary: Das Anwenden von Schwellenwerten in der Zoom-Ansicht von Zählerdiagrammen bietet eine detaillierte Ansicht der Vorkommen von Performance-Schwellenwerten. Auf diese Weise können Sie Schwellenwerte anwenden oder entfernen und die Ergebnisse sofort anzeigen. Dies kann bei der Entscheidung hilfreich sein, ob die Fehlerbehebung Ihr nächster Schritt sein sollte. 
 ---
-= Auswählen von Leistungsschwellenwerten in der Zoom-Ansicht der Zählerdiagramme
+= Leistungsschwellenwerte in der Zoomansicht der Zählerdiagramme auswählen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

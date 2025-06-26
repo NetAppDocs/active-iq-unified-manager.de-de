@@ -2,7 +2,7 @@
 section: events
 title: Verwalten von Ereignissen und Meldungen
 entries:
-- title: Verwalten von Ereignissen
+- title: Ereignisse verwalten
   url: "/events/concept_manage_events.html"
   entries:
   - title: Was sind die Active IQ Plattform-Ereignisse
@@ -16,41 +16,43 @@ entries:
       url: "/events/task_subscribe_to_ontap_ems_events.html"
   - title: Was passiert, wenn ein Ereignis empfangen wird
     url: "/events/concept_what_happens_when_an_event_is_received.html"
-  - title: Anzeigen von Ereignissen und Ereignisdetails
+  - title: Ereignisse und Ereignisdetails anzeigen
     url: "/events/task_view_event_details.html"
-  - title: Anzeigen nicht zugewiesener Ereignisse
+  - title: Nicht zugewiesene Ereignisse anzeigen
     url: "/events/task_view_unassigned_events.html"
-  - title: Bestätigen und Beheben von Ereignissen
+  - title: Ereignisse bestätigen und beheben
     url: "/events/task_acknowledge_and_resolve_events.html"
   - title: Zuweisen von Ereignissen zu bestimmten Benutzern
     url: "/events/task_assign_events_to_specific_users.html"
-  - title: Deaktivieren unerwünschter Ereignisse
+  - title: Deaktivieren Sie unerwünschte Ereignisse
     url: "/events/task_disable_unwanted_events.html"
-  - title: Behebung von Problemen durch automatische Problembehebung mit Unified Manager
+  - title: Beheben Sie Probleme mithilfe der automatischen Korrekturen von Unified
+      Manager
     url: "/events/task_fix_issues_using_um_automatic_remediations.html"
-  - title: Aktivieren und Deaktivieren der Active IQ-Ereignisberichterstellung
+  - title: Aktivieren und Deaktivieren der Active IQ-Ereignisberichterstattung
     url: "/events/task_enable_and_disable_active_iq_event_reporting.html"
-  - title: Eine neue Datei für Active IQ-Regeln wird hochgeladen
+  - title: Laden Sie eine neue Active IQ-Regeldatei hoch
     url: "/events/task_upload_new_active_iq_rules_file.html"
   - title: Generieren von Active IQ-Plattformereignissen
     url: "/events/concept_how_active_iq_platform_events_are_generated.html"
-  - title: Ereignisse auf der Active IQ Plattform werden aufgelöst
+  - title: Beheben Sie Active IQ-Plattformereignisse
     url: "/events/concept_resolve_active_iq_platform_events.html"
-  - title: Konfigurieren von Einstellungen für die Ereignisaufbewahrung
+  - title: Konfigurieren der Ereignisaufbewahrungseinstellungen
     url: "/events/task_configure_event_retention_settings.html"
   - title: Was für ein Unified Manager-Wartungsfenster ist
     url: "/events/concept_what_um_maintenance_window_is.html"
     entries:
-    - title: Planen eines Wartungsfensters zum Deaktivieren der Cluster-Ereignisbenachrichtigungen
+    - title: Planen Sie ein Wartungsfenster, um Cluster-Ereignisbenachrichtigungen
+        zu deaktivieren
       url: "/events/task_schedule_maintenance_window_to_disable_cluster_notifications.html"
     - title: Ändern oder Abbrechen eines geplanten Wartungsfensters
       url: "/events/task_change_or_cancel_scheduled_maintenance_window.html"
     - title: Anzeigen von Ereignissen, die während eines Wartungsfensters aufgetreten
         sind
       url: "/events/task_view_events_that_occurred_during_maintenance_window.html"
-  - title: Verwalten von Ressourcenereignissen des Host-Systems
+  - title: Verwalten von Hostsystemressourcenereignissen
     url: "/events/task_manage_host_system_resource_events.html"
-  - title: Allgemeines zu Ereignissen
+  - title: Erfahren Sie mehr über Ereignisse
     url: "/events/concept_understand_more_about_events.html"
     entries:
     - title: Definition des Ereignisstatus
@@ -161,25 +163,25 @@ entries:
     url: "/events/concept_what_alerts_are.html"
   - title: Welche Informationen sind in einer Alarm-E-Mail enthalten
     url: "/events/concept_what_information_is_contained_in_an_alert_email.html"
-  - title: Hinzufügen von Meldungen
+  - title: Warnmeldungen hinzufügen
     url: "/events/task_add_alerts.html"
     entries:
     - title: Richtlinien zum Hinzufügen von Warnmeldungen
       url: "/events/concept_guidelines_for_adding_alerts.html"
-  - title: Hinzufügen von Meldungen für Performance-Ereignisse
+  - title: Hinzufügen von Warnungen für Leistungsereignisse
     url: "/events/task_add_alerts_for_performance_events.html"
-  - title: Warnungen werden getestet
+  - title: Testalarme
     url: "/events/task_test_alerts.html"
-  - title: Aktivieren und Deaktivieren von Warnmeldungen für gelöste und veraltete
-      Ereignisse
+  - title: Aktivieren und Deaktivieren von Warnungen für behobene und veraltete Ereignisse
     url: "/events/task_disable_alerts_for_resolved_and_obsolete_events.html"
-  - title: Ausschließen von Ziel-Volumes für Disaster Recovery von Alarmmeldungen
+  - title: Ausschließen von Disaster Recovery-Zielvolumes von der Generierung von
+      Warnungen
     url: "/events/task_exclude_disaster_recovery_destination_volumes_from_alerts.html"
   - title: Anzeigen von Meldungen
     url: "/events/task_view_alerts.html"
-  - title: Bearbeiten von Warnungen
+  - title: Benachrichtigungen bearbeiten
     url: "/events/task_edit_alerts.html"
-  - title: Löschen von Meldungen
+  - title: Warnungen löschen
     url: "/events/task_delete_alerts.html"
   - title: Beschreibung der Warnfenster und Dialogfelder
     url: "/events/reference_description_of_health_alert_windows_and_dialog_boxes.html"
@@ -190,16 +192,16 @@ entries:
       url: "/events/reference_add_alert_dialog_box.html"
     - title: Dialogfeld „Warnung bearbeiten“
       url: "/events/reference_edit_alert_dialog_box.html"
-- title: Verwalten von Skripten
+- title: Skripte verwalten
   url: "/events/concept_manage_scripts.html"
   entries:
   - title: Funktionsweise von Skripten mit Warnmeldungen
     url: "/events/concept_how_scripts_work_with_alerts.html"
-  - title: Skripte werden hinzugefügt
+  - title: Skripts hinzufügen
     url: "/events/task_add_scripts.html"
-  - title: Skripte werden gelöscht
+  - title: Skripte löschen
     url: "/events/task_delete_scripts.html"
-  - title: Skriptausführung wird getestet
+  - title: Testskriptausführung
     url: "/events/task_test_script_execution.html"
   - title: Unterstützte CLI-Befehle von Unified Manager
     url: "/events/reference_supported_unified_manager_cli_commands.html"

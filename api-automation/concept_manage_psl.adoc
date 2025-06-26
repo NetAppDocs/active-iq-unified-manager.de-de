@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, performance, service, level 
 summary: Sie können Performance-Service-Level mithilfe der Storage-Provider-APIs für auf Ihrer Active IQ Unified Manager anzeigen, erstellen, ändern und löschen. 
 ---
-= Management von Performance Service Levels mithilfe von APIs
+= Verwalten von Leistungsserviceleveln mithilfe von APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -93,7 +93,7 @@ PATCH
 |===
 
 
-== Anzeigen von Aggregatfunktionen auf Basis von Performance-Service-Leveln
+== Anzeigen aggregierter Funktionen basierend auf Performance Service Levels
 
 Sie können die folgende Methode verwenden, um die Aggregatfunktionen auf Basis der Performance-Service-Level abzufragen. Diese API gibt die Liste der in Ihrem Datacenter verfügbaren Aggregate zurück und weist die Funktionen in Bezug auf die Performance-Service-Level an, die in diesen Aggregaten unterstützt werden können. Während Sie Workloads auf einem Volume bereitstellen, können Sie die Funktionen eines Aggregats anzeigen, um ein bestimmtes Performance Service Level zu unterstützen. Zudem können Sie Workloads basierend auf dieser Funktion bereitstellen. Die Angabe des Aggregats ist nur verfügbar, wenn Sie einen Workload mithilfe von APIs bereitstellen. Diese Funktion steht in der Web-Benutzeroberfläche von Unified Manager nicht zur Verfügung.
 

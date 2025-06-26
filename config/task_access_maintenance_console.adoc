@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: access, maintenance console 
 summary: Wenn die Benutzeroberfläche von Unified Manager nicht ausgeführt wird oder Sie Funktionen ausführen müssen, die in der Benutzeroberfläche nicht verfügbar sind, können Sie auf die Wartungskonsole zugreifen, um Ihr Unified Manager System zu verwalten. 
 ---
-= Zugriff auf die Wartungskonsole
+= Öffnen Sie die Wartungskonsole
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

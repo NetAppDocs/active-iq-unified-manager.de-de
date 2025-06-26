@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: netapp, snapshot copy, copies windows, configure, windows host machine 
 summary: Sie müssen Ihren Windows Host Machine konfigurieren, bevor Sie Active IQ Unified Manager mit NetApp Snapshot sichern und wiederherstellen können. Um den Microsoft iSCSI-Initiator auf einem Windows-Hostcomputer zu starten, geben Sie in der Suchleiste „iscsi“ ein und klicken Sie auf iSCSI-Initiator. 
 ---
-= Windows-Hostcomputer wird konfiguriert
+= Konfigurieren Sie den Windows-Hostcomputer
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

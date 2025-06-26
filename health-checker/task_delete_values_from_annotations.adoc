@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, values, annotations 
 summary: Sie können Werte löschen, die mit benutzerdefinierten Anmerkungen verknüpft sind, wenn dieser Wert nicht mehr für die Anmerkung gilt. 
 ---
-= Löschen von Werten aus Anmerkungen
+= Werte aus Anmerkungen löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: customize, volume, capacity reports 
 summary: Anhand dieser individuellen Berichte können Sie potenzielle Probleme im Zusammenhang mit Volume-Kapazität und Performance identifizieren und beheben. 
 ---
-= Anpassen der Berichte zur Volume-Kapazität
+= Anpassen von Volume-Kapazitätsberichten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: edit, groups 
 summary: Sie können den Namen und die Beschreibung einer Gruppe bearbeiten, die Sie in Unified Manager erstellt haben. 
 ---
-= Gruppen werden bearbeitet
+= Gruppen bearbeiten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

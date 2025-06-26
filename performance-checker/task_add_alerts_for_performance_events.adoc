@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, alerts, performance, events 
 summary: Sie können Benachrichtigungen für einzelne Performance-Ereignisse wie alle anderen Ereignisse, die Unified Manager empfangen hat, konfigurieren. Außerdem können Sie eine einzelne Benachrichtigung erstellen, wenn alle Performance-Ereignisse gleich behandelt werden sollen und E-Mails an dieselbe Person gesendet werden sollen, wenn kritische bzw. Warnereignisse ausgelöst werden. 
 ---
-= Hinzufügen von Meldungen für Performance-Ereignisse
+= Hinzufügen von Warnungen für Leistungsereignisse
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

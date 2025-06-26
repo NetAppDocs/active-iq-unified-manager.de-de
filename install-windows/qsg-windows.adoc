@@ -38,7 +38,7 @@ Detaillierte Systemanforderungen finden Sie im link:../install-windows/concept_r
 
 
 
-== Active IQ Unified Manager wird installiert
+== Installation von Active IQ Unified Manager
 
 
 

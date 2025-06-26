@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: support bundle, technical support 
 summary: Wenn ein Problem detailliertere Diagnose- und Fehlerbehebungsinformationen erfordert als eine AutoSupport Meldung, können Sie ein Support Bundle an den technischen Support senden. 
 ---
-= Senden eines Support Bundle an den technischen Support
+= Senden Sie ein Support-Paket an den technischen Support
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

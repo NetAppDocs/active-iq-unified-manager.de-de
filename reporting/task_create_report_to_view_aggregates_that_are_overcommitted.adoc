@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, aggregates, overcommitted 
 summary: Sie können einen Bericht erstellen, um die Storage-Kapazität und die Verwendung von Aggregaten zu analysieren und überzugesetzte Aggregate anzuzeigen. 
 ---
-= Erstellen eines Berichts, um überzugesetzte Aggregate anzuzeigen
+= Erstellen Sie einen Bericht, um überbelegte Aggregate anzuzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

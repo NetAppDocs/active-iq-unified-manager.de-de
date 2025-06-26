@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: volume, provision, disk, volume, thin-provisioning 
 summary: Ist kein Thin Provisioning auf einem Volume möglich, nimmt dies den gesamten Speicherplatz auf der Festplatte ein, wie zum Zeitpunkt der Erstellung des Volume definiert. Wenn Sie Volumes mit deaktiviertem Thin Provisioning festlegen, können Sie entscheiden, ob Sie Thin Provisioning auf bestimmten Volumes aktivieren möchten. 
 ---
-= Erstellen eines Berichts zur Ermittlung des von Volumes mit deaktiviertem Thin Provisioning genutzten Speicherplatzes
+= Erstellen Sie einen Bericht, um den Speicherplatz zu ermitteln, der von Volumes mit deaktiviertem Thin Provisioning verwendet wird
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

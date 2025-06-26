@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, active, events, notification, bell 
 summary: Die Benachrichtigungs-Bell in der Menüleiste bietet eine schnelle Möglichkeit, die wichtigsten aktiven Ereignisse, die Unified Manager verfolgt, anzuzeigen. 
 ---
-= Anzeigen aktiver Ereignisse über die Benachrichtigunglocke
+= Zeigen Sie aktive Ereignisse über die Benachrichtigungsglocke an
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

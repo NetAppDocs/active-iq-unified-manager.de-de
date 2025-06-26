@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: schedule, maintenance, window, disable, cluster, event, notifications 
 summary: Wenn Sie z. B. vor einer geplanten Ausfallzeit für ein Cluster stehen, um ein Cluster zu aktualisieren oder einen der Nodes zu verschieben, können Sie die Ereignisse und Warnungen unterdrücken, die normalerweise während dieses Zeitfensters generiert werden würden, indem Sie ein Unified Manager Wartungsfenster planen. 
 ---
-= Planen eines Wartungsfensters zum Deaktivieren der Cluster-Ereignisbenachrichtigungen
+= Planen Sie ein Wartungsfenster, um Cluster-Ereignisbenachrichtigungen zu deaktivieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

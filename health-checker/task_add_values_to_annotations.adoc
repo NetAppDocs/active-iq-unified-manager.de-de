@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, values, annotations 
 summary: Sie können Annotationen Werte hinzufügen und Speicherobjekte anschließend einem bestimmten Namenwertpaar der Anmerkung zuordnen. Durch das Hinzufügen von Werten zu Annotationen können Sie Storage-Objekte effizienter managen. 
 ---
-= Hinzufügen von Werten zu Beschriftungen
+= Hinzufügen von Werten zu Anmerkungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: provision, file, share, volumes 
 summary: 'Sie können Dateifreigabe-Volumes erstellen, die CIFS/SMB- und NFS-Protokolle unterstützen, auf einem vorhandenen Cluster und auf der Seite Storage Virtual Machine (Storage VM) für Bereitstellungs-Workloads.' 
 ---
-= Bereitstellen von Dateifreigabe-Volumes
+= Bereitstellen von Dateifreigabevolumes
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

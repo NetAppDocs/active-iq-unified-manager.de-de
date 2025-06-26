@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: defining, list, correlated, objects, comparison, graphing 
 summary: 'Im Bereich Zählerdiagramm können Sie eine Liste der korrelierten Objekte für Daten- und Leistungsvergleich definieren. Wenn beispielsweise bei Ihrer Storage Virtual Machine (SVM) ein Performance-Problem auftritt, können Sie alle Volumes in der SVM vergleichen, um das mögliche Problem zu identifizieren.' 
 ---
-= Definieren der Liste der korrelierten Objekte für die Vergleichgrafiken
+= Definieren Sie die Liste der korrelierten Objekte für die grafische Vergleichsdarstellung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

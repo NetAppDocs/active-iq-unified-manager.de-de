@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, volumes, inaccessible, mount, path 
 summary: Sie können einen Bericht erstellen, um nach Volumes zu suchen, die über einen nicht zugänglichen Bereitstellungspfad verfügen. 
 ---
-= Erstellen eines Berichts zum Anzeigen von Volumes mit einem nicht zugänglichen Bereitstellungspfad
+= Erstellen Sie einen Bericht, um Volumes anzuzeigen, deren Mount-Pfad nicht zugänglich ist
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

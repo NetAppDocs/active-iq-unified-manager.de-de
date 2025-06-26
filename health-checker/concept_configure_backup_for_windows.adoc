@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: backup, restore, windows, netapp, snapshot copy, copies, configure, backup 
 summary: Active IQ Unified Manager unterstützt Backup und Restore mithilfe von NetApp Snapshots auf dem Windows Betriebssystem mithilfe von LUN über das iSCSI-Protokoll. 
 ---
-= Backup wird unter Windows konfiguriert
+= Konfigurieren der Sicherung unter Windows
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

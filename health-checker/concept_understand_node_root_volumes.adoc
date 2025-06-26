@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, node, root, volumes 
 summary: Sie können das Root-Volume des Nodes mithilfe von Unified Manager überwachen. Als Best Practice wird empfohlen, dass das Node-Root-Volume über ausreichende Kapazitäten verfügen sollte, um zu verhindern, dass der Node ausfällt. 
 ---
-= Allgemeines zu Root-Volumes von Nodes
+= Grundlegendes zu Knotenstammvolumes
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

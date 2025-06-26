@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: resolve, volume, offline issues 
 summary: Dieser Workflow bietet ein Beispiel dafür, wie Sie ein Offline-Ereignis eines Volumes bewerten und beheben können, das Unified Manager auf der Seite „Ereignismanagement-Bestand“ anzeigen kann. In diesem Szenario dienen Sie als Administrator, der Unified Manager zum Beheben von Fehlern bei einem oder mehreren Offline-Ereignissen des Volumes verwendet. 
 ---
-= Lösung von Offline-Problemen des Volumes
+= Beheben von Volume-Offlineproblemen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

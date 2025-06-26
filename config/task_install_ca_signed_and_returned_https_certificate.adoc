@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: install, ca signed, returned, https, certificate 
 summary: Sie können ein Sicherheitszertifikat hochladen und installieren, nachdem eine Zertifizierungsstelle unterschrieben und zurückgesendet wurde. Die Datei, die Sie hochladen und installieren, muss eine signierte Version des vorhandenen selbstsignierten Zertifikats sein. Ein CA-signiertes Zertifikat hilft bei der Verhinderung von man-in-the-Middle-Angriffen und bietet besseren Schutz als ein selbstsigniertes Zertifikat. 
 ---
-= Installieren einer Zertifizierungsstelle, die signiert ist und ein HTTPS-Zertifikat zurückgegeben hat
+= Installieren Sie ein von einer Zertifizierungsstelle signiertes und zurückgegebenes HTTPS-Zertifikat
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

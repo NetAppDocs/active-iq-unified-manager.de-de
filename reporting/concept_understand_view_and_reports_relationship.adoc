@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, view, report, relationship 
 summary: Ansichten und Bestandsseiten werden zu Berichten, wenn Sie sie herunterladen oder planen. 
 ---
-= Verständnis der Ansichten und der Berichtsbeziehung
+= Verstehen der Ansichts- und Berichtsbeziehung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

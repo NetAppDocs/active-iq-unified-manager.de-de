@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: generate, upload, support bundle 
 summary: Sie können ein Support-Paket mit Diagnoseinformationen erstellen, damit Sie es an den technischen Support senden können, um Hilfe zur Fehlerbehebung zu erhalten. Sie können das Support-Paket auch von der Wartungskonsole auf NetApp hochladen. 
 ---
-= Erstellen und Hochladen eines Supportpakets
+= Generieren und Hochladen eines Support-Pakets
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

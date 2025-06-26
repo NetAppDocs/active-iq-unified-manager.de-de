@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: provisioning, performance service levels, storage management, enable, disable, policy-based 
 summary: 'Ab Unified Manager 9.7 können Sie Storage-Workloads (Volumes und LUNs) auf Ihren ONTAP Clustern bereitstellen und diese Workloads auf Basis zugewiesener Performance-Service-Level managen. Diese Funktion ähnelt dem Erstellen von Workloads in ONTAP System Manager und dem Anbinden von QoS-Richtlinien. Bei Anwendung mit Unified Manager können Sie Workloads jedoch über alle Cluster bereitstellen und managen, von denen Ihre Unified Manager Instanz überwacht wird.' 
 ---
-= Aktivieren und Deaktivieren des richtlinienbasierten Storage-Managements
+= Aktivieren und Deaktivieren der richtlinienbasierten Speicherverwaltung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

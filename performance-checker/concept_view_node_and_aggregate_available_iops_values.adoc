@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, node, aggregate, available, iops, values 
 summary: Sie können die verfügbaren IOPS-Werte für alle Nodes und alle Aggregate in einem Cluster überwachen. Alternativ können Sie Details zu einem einzelnen Node oder Aggregat anzeigen. 
 ---
-= Anzeigen der verfügbaren IOPS-Werte für Node und Aggregat
+= Knoten anzeigen und verfügbare IOPS-Werte aggregieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -17,7 +17,7 @@ Verfügbare IOPS-Werte werden auf den Seiten „Performance Inventory“ und in 
 
 image::../media/available_iops_zoom.gif[Ein UI-Screenshot, der zeigt, wie Sie einen Node auf der Seite Node/Performance Explorer anzeigen und in der Liste die „Available IOPS“ auswählen können.]
 
-Durch das Monitoring des verfügbaren IOPS-Zählers können Sie Folgendes identifizieren:
+Durch die Überwachung des verfügbaren IOPS-Zählers können Sie Folgendes ermitteln:
 
 * Die Nodes oder Aggregate mit den höchsten verfügbaren IOPS-Werten unterstützen Sie bei der Entscheidung, wo zukünftige Workloads implementiert werden können.
 * Die Nodes oder Aggregate mit den kleinsten verfügbaren IOPS-Werten, um die zu überwachenden Ressourcen auf potenzielle künftige Performance-Probleme zu identifizieren.

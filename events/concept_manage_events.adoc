@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, events 
 summary: Ereignisse unterstützen Sie bei der Erkennung von Problemen in den überwachten Clustern. 
 ---
-= Verwalten von Ereignissen
+= Ereignisse verwalten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

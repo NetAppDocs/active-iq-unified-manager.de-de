@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, capacity, counter, manage, performance 
 summary: In der Regel möchten Unternehmen mit einer Performance-Kapazität von unter 100 Prozent betreiben, um die Ressourcen effizient zu nutzen und gleichzeitig zusätzliche Performance-Kapazitäten zu reservieren, um Spitzenlasten zu erzielen. Anhand von Schwellenwertrichtlinien kann angepasst werden, wenn Warnmeldungen gesendet werden, um hohe Werte für die verwendete Kapazität zu erreichen. 
 ---
-= Verwenden der Performance-Kapazität, die zum Managen der Performance verwendet wird
+= Verwenden Sie den Leistungskapazitätsindikator, um die Leistung zu verwalten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

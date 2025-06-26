@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, all san array, health and capacity, clusters 
 summary: Mithilfe der Cluster-Bestandsseiten können Sie den Zustand und den Kapazitätsstatus Ihrer All-SAN-Array-Cluster anzeigen. 
 ---
-= Anzeigen des Funktionszustands und Kapazitätsstatus aller SAN-Array-Cluster
+= Anzeigen des Integritäts- und Kapazitätsstatus aller SAN-Array-Cluster
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

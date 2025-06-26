@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords:  
 summary: Sie können Ihre Berichtspläne auf der Seite Berichtspläne verwalten. Sie können vorhandene Zeitpläne anzeigen, ändern oder löschen. 
 ---
-= Verwalten von Berichtzeitplänen
+= Berichtszeitpläne verwalten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

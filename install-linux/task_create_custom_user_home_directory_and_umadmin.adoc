@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, custom, user, home, directory, umadmin, password, prior, installation 
 summary: Sie können ein benutzerdefiniertes Home-Verzeichnis erstellen und Ihr eigenes umadmin-Benutzerpasswort vor der Installation von Unified Manager definieren. Diese Aufgabe ist optional, aber einige Standorte benötigen möglicherweise die Flexibilität, die Standardeinstellungen für die Unified Manager-Installation zu überschreiben. 
 ---
-= Erstellen eines benutzerdefinierten Home-Verzeichnisses für Benutzer und eines umadmin-Passworts vor der Installation
+= Erstellen Sie vor der Installation ein benutzerdefiniertes Benutzer-Home-Verzeichnis und ein Umadmin-Passwort
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

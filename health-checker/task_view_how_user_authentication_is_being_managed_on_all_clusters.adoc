@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, cluster authentication status, user authentication, manage, clusters 
 summary: Auf der Seite Sicherheit werden die Authentifizierungstypen angezeigt, die zur Authentifizierung von Benutzern in jedem Cluster verwendet werden, sowie die Anzahl der Benutzer, die mit jedem Typ auf das Cluster zugreifen. So können Sie überprüfen, ob die Benutzerauthentifizierung gemäß den Anforderungen Ihres Unternehmens sicher durchgeführt wird. 
 ---
-= Anzeige des Managements der Benutzerauthentifizierung auf allen Clustern
+= Anzeigen, wie die Benutzerauthentifizierung auf allen Clustern verwaltet wird
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, rules, generate, email, addresses 
 summary: 'Sie können Regeln erstellen, um die E-Mail-Adresse auf der Grundlage des mit Clustern, Storage Virtual Machines (SVMs), Volumes, qtrees, Benutzern oder Benutzergruppen verbundenen Benutzerkontingente anzugeben. Bei einer Quota-Verletzung wird eine Benachrichtigung an die angegebene E-Mail-Adresse gesendet.' 
 ---
-= Erstellen von Regeln zum Generieren von E-Mail-Adressen
+= Erstellen Sie Regeln zum Generieren von E-Mail-Adressen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

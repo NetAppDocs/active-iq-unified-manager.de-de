@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: resolve, lag, issues 
 summary: Dieser Workflow bietet ein Beispiel dafür, wie Sie ein lag-Problem lösen können. In diesem Szenario greifen Sie als Administrator oder Operator auf die Seite Unified Manager Dashboard zu, um zu ermitteln, ob Probleme mit Ihren Sicherungsbeziehungen auftreten und, falls diese vorhanden sind, Lösungen zu finden. 
 ---
-= Behebung von lag-Problemen
+= Beheben von Verzögerungsproblemen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

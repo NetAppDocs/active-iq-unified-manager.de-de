@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, performance, thresholds 
 summary: Mithilfe von Performance-Schwellenwertrichtlinien können Sie den Zeitpunkt bestimmen, an dem Unified Manager ein Ereignis generiert, um Systemadministratoren über Probleme zu informieren, die sich auf die Workload-Performance auswirken könnten. Diese Schwellenwertrichtlinien werden als benutzerdefinierte Performance-Schwellenwerte bezeichnet. 
 ---
-= Management von Performance-Schwellenwerten
+= Leistungsschwellenwerte verwalten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, snapmirror, policy, maximize, transfer, efficiency 
 summary: Sie können eine SnapMirror-Richtlinie erstellen, um die SnapMirror Übertragungspriorität für Sicherungsbeziehungen festzulegen. Mithilfe der SnapMirror Richtlinien lässt sich die Übertragungseffizienz von der Quelle zum Ziel maximieren, indem Prioritäten zugewiesen werden, sodass Transfers mit niedriger Priorität nach Transfers mit normaler Priorität geplant werden. 
 ---
-= Erstellen einer SnapMirror-Richtlinie zur Maximierung der Übertragungseffizienz
+= Erstellen Sie eine SnapMirror-Richtlinie, um die Übertragungseffizienz zu maximieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

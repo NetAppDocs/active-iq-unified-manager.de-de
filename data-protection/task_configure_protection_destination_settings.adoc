@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, destination, efficiency, settings 
 summary: Mithilfe des Dialogfelds „Advanced Destination Settings“ können Sie die Effizienzeinstellungen des Ziels, wie Deduplizierung, Komprimierung, Autogrow und Speicherplatzzusage für ein Schutzziel, konfigurieren. Sie verwenden diese Einstellungen, um die Speicherauslastung auf einem Ziel oder einem sekundären Volume zu maximieren. 
 ---
-= Konfigurieren von Ziel-Effizienzeinstellungen
+= Konfigurieren der Zieleffizienzeinstellungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

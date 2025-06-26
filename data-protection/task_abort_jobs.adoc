@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: abort, jobs 
 summary: Sie können die Seite Jobs verwenden, um einen Job abzubrechen, wenn er zu lange dauert, zu viele Fehler auftritt oder nicht mehr benötigt wird. Sie können einen Job nur dann abbrechen, wenn ihm Status und Typ erlauben. Sie können jeden laufenden Job abbrechen. 
 ---
-= Abbrechen von Jobs
+= Jobs abbrechen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

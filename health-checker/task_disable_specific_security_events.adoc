@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: disable, specific, security events 
 summary: Standardmäßig sind alle Ereignisse aktiviert. Sie können bestimmte Ereignisse deaktivieren, um die Generierung von Benachrichtigungen für Ereignisse zu verhindern, die in Ihrer Umgebung nicht wichtig sind. Sie können Ereignisse aktivieren, die deaktiviert sind, wenn Sie den Empfang von Benachrichtigungen für sie fortsetzen möchten. 
 ---
-= Bestimmte Sicherheitsereignisse deaktivieren
+= Deaktivieren bestimmter Sicherheitsereignisse
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

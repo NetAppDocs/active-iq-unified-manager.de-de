@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, workload, qos, minimum, maximum, settings, performance, explorer 
 summary: 'In den Performance Explorer-Diagrammen können Sie die durch ONTAP definierten Quality of Service (QoS)-Richtlinieneinstellungen auf einem Volume oder einer LUN anzeigen. Die Einstellung für den maximalen Durchsatz begrenzt die Auswirkungen konkurrierender Workloads auf die Systemressourcen. Eine Einstellung für den Durchsatz stellt sicher, dass ein wichtiger Workload das Mindestdurchsatz erfüllt, unabhängig von der Nachfrage durch konkurrierende Workloads.' 
 ---
-= Anzeige der minimalen und maximalen Einstellungen für Workload-QoS im Performance Explorer
+= Anzeigen der minimalen und maximalen QoS-Einstellungen für die Arbeitslast im Performance Explorer
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

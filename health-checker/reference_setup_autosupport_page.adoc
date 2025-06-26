@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: autosupport, messages, support bundles, technical support 
 summary: Auf der Seite AutoSupport können Sie vordefinierte und On-Demand AutoSupport Meldungen an Ihr technisches Support-Team senden, um einen ordnungsgemäßen Betrieb Ihrer Umgebung zu gewährleisten und die Integrität Ihrer Umgebung zu wahren. AutoSupport ist standardmäßig aktiviert und sollte nicht deaktiviert werden, damit Sie die Vorteile von NetAppActive IQ nutzen können. 
 ---
-= Senden von AutoSupport Meldungen und Support Bundles an den technischen Support
+= Senden Sie AutoSupport-Nachrichten und Support-Pakete an den technischen Support
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -22,7 +22,7 @@ Ein Benutzer mit einer Storage-Administratorrolle kann AutoSupport Meldungen und
 ====
 
 
-== Senden von On-Demand AutoSupport Nachrichten
+== Senden Sie AutoSupport-Nachrichten auf Abruf
 
 Sie können eine On-Demand-Nachricht an den technischen Support, an einen bestimmten E-Mail-Empfänger oder an beide senden.
 
@@ -36,7 +36,7 @@ Sie können eine On-Demand-Nachricht an den technischen Support, an einen bestim
 
 
 
-== Aktivieren von regelmäßigen AutoSupport
+== Aktivieren Sie den regelmäßigen AutoSupport
 
 Sie können dem technischen Support spezifische, vordefinierte Meldungen zur Fehlerbehebung in regelmäßigen Abständen senden. Diese Funktion ist standardmäßig aktiviert. Wenn diese Option deaktiviert ist, kann ein Administrator oder Wartungsbenutzer die Einstellungen aktivieren.
 
@@ -49,7 +49,7 @@ Sie können dem technischen Support spezifische, vordefinierte Meldungen zur Feh
 
 
 
-== Supportpaket nach Bedarf hochladen
+== Laden Sie ein On-Demand-Supportpaket hoch
 
 Je nach Anforderung zur Fehlerbehebung können Sie ein Support Bundle an den technischen Support generieren und senden. Unified Manager speichert nur die zwei zuletzt erstellten Support Bundles. Ältere Supportpakete werden aus dem System gelöscht.
 
@@ -72,7 +72,7 @@ Auch wenn Sie keine Datentypen auswählen, wird das Support-Paket immer noch mit
 
 
 
-== Einrichten des HTTP-Proxyservers
+== Einrichten eines HTTP-Proxyservers
 
 Sie können einen Proxy für den Internetzugriff festlegen, um AutoSupport-Inhalte zu unterstützen, falls Ihre Umgebung keinen direkten Zugriff vom Unified Manager-Server bietet. Dieser Abschnitt ist nur für Administrator- und Wartungsbenutzer verfügbar.
 

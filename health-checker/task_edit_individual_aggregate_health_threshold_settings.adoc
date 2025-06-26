@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: edit, individual, aggregate, health, threshold, settings 
 summary: Sie können die Statusschwellenwerte für Aggregatskapazität, Wachstum und Snapshot Kopien eines oder mehrerer Aggregate bearbeiten. Wenn ein Schwellenwert überschritten wird, werden Warnungen erzeugt und Sie erhalten Benachrichtigungen. Diese Benachrichtigungen helfen Ihnen, auf Basis des generierten Ereignisses vorbeugende Maßnahmen zu ergreifen. 
 ---
-= Bearbeiten einzelner Zustandsschwellenwerte für das Aggregat
+= Bearbeiten Sie die einzelnen Schwellenwerteinstellungen für die Gesamtintegrität
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

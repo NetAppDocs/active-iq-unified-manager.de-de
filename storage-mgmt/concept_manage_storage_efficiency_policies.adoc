@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, storage, efficiency, policies, guidelines, create, custom 
 summary: 'Mit einer Storage-Effizienz-Richtlinie (SEP) können Sie die Storage-Effizienz-Merkmale eines Workloads definieren. Sie können einem Workload bei der ersten Erstellung des Workloads einen SEP zuweisen oder anschließend den Workload bearbeiten.' 
 ---
-= Management Von Richtlinien Zur Storage-Effizienz
+= Verwalten von Speichereffizienzrichtlinien
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

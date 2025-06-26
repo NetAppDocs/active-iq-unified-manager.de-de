@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: access, unified manager, web ui 
 summary: Nach der Installation von Unified Manager können Sie auf die Web-Benutzeroberfläche zugreifen, um Unified Manager einzurichten, damit Sie mit der Überwachung Ihrer ONTAP-Systeme beginnen können. 
 ---
-= Zugriff auf die Web-Benutzeroberfläche von Unified Manager
+= Zugriff auf die Unified Manager-Web-Benutzeroberfläche
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: calculate, reclaimable space, snapshot copies 
 summary: Sie können den Speicherplatz berechnen, den zurückgewonnen werden kann, wenn eine oder mehrere Snapshot-Kopien gelöscht werden. 
 ---
-= Berechnung des nicht anforderbaren Speicherplatzes für Snapshot Kopien
+= Berechnen Sie den freigebbaren Speicherplatz für Snapshot-Kopien
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

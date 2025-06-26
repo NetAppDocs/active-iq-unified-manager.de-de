@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: fix, issues, use, unified manager, automatic, remediations 
 summary: Es gibt bestimmte Ereignisse, die Unified Manager ausführlich diagnostizieren und über die Schaltfläche „Fix it“ eine einzige Lösung anbieten kann. Wenn verfügbar, werden diese Auflösungen im Dashboard, auf der Seite Ereignisdetails und aus der Auswahl Workload Analysis im linken Navigationsmenü angezeigt. 
 ---
-= Behebung von Problemen mithilfe der automatischen Problembehebung in Unified Manager
+= Beheben Sie Probleme mit der automatischen Korrektur durch Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

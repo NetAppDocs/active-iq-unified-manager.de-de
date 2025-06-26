@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: remove, aggregates, resource pools 
 summary: Sie können Aggregate aus einem vorhandenen Ressourcen-Pool entfernen, wenn Sie beispielsweise ein Aggregat für einen anderen Zweck verwenden möchten. 
 ---
-= Entfernen von Aggregaten aus Ressourcen-Pools
+= Entfernen von Aggregaten aus Ressourcenpools
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

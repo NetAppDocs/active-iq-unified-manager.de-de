@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: object, inventory, performance, pages 
 summary: Sie können Zeichenfolgen auf den Seiten „Objektbestandsleistung“ suchen. Verwenden Sie das Suchfeld oben rechts auf der Seite, um Daten auf der Grundlage von Objektnamen oder Richtliniennamen schnell zu finden. So lassen sich entweder spezifische Objekte und zugehörige Daten schnell finden oder Richtlinien schnell finden und zugehörige Richtlinienobjektdaten anzeigen. 
 ---
-= Suchen auf den Seiten „Objektbestandsleistung“
+= Suche auf den Seiten zur Objektinventarleistung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

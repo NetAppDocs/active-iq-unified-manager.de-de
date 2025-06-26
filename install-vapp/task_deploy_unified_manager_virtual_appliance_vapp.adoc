@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: deploy, unified manager, virtual appliance 
 summary: Nach dem Herunterladen der Installationsdatei stellen Sie Unified Manager als virtuelle Appliance bereit. Verwenden Sie den vSphere Web Client, um die virtuelle Appliance auf einem ESXi-Server bereitzustellen. Wenn Sie die virtuelle Appliance bereitstellen, wird eine virtuelle Maschine erstellt. 
 ---
-= Implementieren der virtuellen Unified Manager Appliance
+= Implementieren Sie die virtuelle Unified Manager Appliance
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

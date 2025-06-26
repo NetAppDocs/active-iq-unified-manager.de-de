@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: edit, clusters 
 summary: Sie können die Einstellungen eines vorhandenen Clusters, z. B. Host-Name oder IP-Adresse, Benutzername, Passwort und Port, über das Dialogfeld Cluster bearbeiten ändern. 
 ---
-= Cluster werden bearbeitet
+= Cluster bearbeiten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

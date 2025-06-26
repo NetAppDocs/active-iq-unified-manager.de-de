@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: all san, array, performance, clusters 
 summary: 'Sie können die Ansicht Performance: All Clusters verwenden, um den Leistungsstatus Ihrer All-SAN-Array-Cluster anzuzeigen.' 
 ---
-= Anzeigen der Performance für All-SAN-Array-Cluster
+= Leistung aller SAN-Array-Cluster anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, volume, transfer, trends, specific, time intervals 
 summary: Sie können einen Bericht erstellen, in dem die Trends der Volume-Übertragung in bestimmten Zeitintervallen angezeigt werden. 
 ---
-= Erstellen eines Berichts zur Anzeige von Trends der Volume-Übertragung in bestimmten Zeitintervallen
+= Erstellen Sie einen Bericht, um Volumenübertragungstrends in bestimmten Zeitintervallen anzuzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

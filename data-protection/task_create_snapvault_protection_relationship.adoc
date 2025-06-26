@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, snapvault, protection, relationship, health, volumes view 
 summary: 'Sie können die Ansicht Systemzustand: Alle Volumes verwenden, um SnapVault-Beziehungen für ein oder mehrere Volumes auf derselben Storage-VM zu erstellen, um Daten-Backups zu Sicherungszwecken zu ermöglichen.' 
 ---
-= Erstellen einer SnapVault-Schutzbeziehung aus der Ansicht „Systemzustand: Alle Volumes“
+= Erstellen Sie eine SnapVault-Schutzbeziehung aus der Ansicht „Health: All Volumes“
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

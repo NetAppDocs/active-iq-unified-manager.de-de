@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: install, HTTPS, certificate, generated from external tools 
 summary: Sie können Zertifikate installieren, die selbst signiert sind oder CA-signiert sind und mit einem externen Tool wie OpenSSL, BoringSSL, LetsEncrt generiert werden. 
 ---
-= Installieren eines HTTPS-Zertifikats, das mit externen Tools generiert wurde
+= Installieren Sie ein mit externen Tools generiertes HTTPS-Zertifikat
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

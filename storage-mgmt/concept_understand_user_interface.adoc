@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, user, interface 
 summary: Die Benutzeroberfläche von Unified Manager besteht hauptsächlich aus einem Dashboard, das einen Überblick über die überwachten Objekte bietet. Über die Benutzeroberfläche können auch alle Cluster-Objekte angezeigt werden. 
 ---
-= Allgemeines zur Benutzeroberfläche
+= Verstehen Sie die Benutzeroberfläche
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

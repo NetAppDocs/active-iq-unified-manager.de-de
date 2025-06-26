@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: retry, failed, protection job 
 summary: Nachdem Sie Maßnahmen zur Behebung eines fehlgeschlagenen Schutzjobs ergriffen haben, können Sie den Job mit „Wiederholen“ erneut ausführen. Durch Wiederversuchen eines Jobs wird mithilfe der ursprünglichen Job-ID ein neuer Job erstellt. 
 ---
-= Erneutes Versuch eines fehlgeschlagenen Schutzjobs
+= Wiederholen Sie einen fehlgeschlagenen Schutzauftrag
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

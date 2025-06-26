@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: provision, manage, workloads 
 summary: Die aktive Managementfunktion von Active IQ Unified Manager bietet Performance-Service-Level, Richtlinien für Storage-Effizienz und APIs von Storage-Providern für Provisionierung, Monitoring und Management von Storage-Workloads in einem Datacenter. 
 ---
-= Bereitstellung und Management von Workloads
+= Bereitstellen und Verwalten von Workloads
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

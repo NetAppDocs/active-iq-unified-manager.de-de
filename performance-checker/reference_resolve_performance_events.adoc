@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: resolving, performance, events 
 summary: Sie können die vorgeschlagenen Aktionen verwenden, um selbst Leistungsereignisse zu lösen. Die ersten drei Vorschläge werden immer angezeigt, und die Aktionen unter dem vierten Vorschlag sind spezifisch für die Art des angezeigten Ereignisses. 
 ---
-= Lösen von Leistungsereignissen
+= Beheben von Leistungsereignissen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

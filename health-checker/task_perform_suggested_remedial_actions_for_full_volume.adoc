@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: perform, suggested, remedial actions, volume 
 summary: Nachdem Sie ein „Volume Space Full“-Fehlerereignis erhalten haben, überprüfen Sie die vorgeschlagenen Abhilfemaßnahmen auf der Seite „Event Details“ und entscheiden, eine der vorgeschlagenen Maßnahmen durchzuführen. 
 ---
-= Durchführung von vorgeschlagenen Abhilfemaßnahmen für ein vollständiges Volumen
+= Führen Sie die vorgeschlagenen Abhilfemaßnahmen für ein vollständiges Volumen durch
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

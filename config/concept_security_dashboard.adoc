@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: security compliance settings, security feature settings, ONTAP hardening guide, AutoSupport settings, authentication settings 
 summary: Sie können die Sicherheitsparameter für die Compliance-Überwachung in Unified Manager aktivieren oder deaktivieren. 
 ---
-= Aktivieren und Deaktivieren von Sicherheitseinstellungen zur Einhaltung der Compliance
+= Aktivieren und Deaktivieren von Sicherheitseinstellungen zur Einhaltung der Vorschriften
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -24,7 +24,7 @@ Die Sicherheitskriterien für ONTAP Cluster, Storage-VMs und Volumes werden anha
 
 
 
-== Anpassen der Sicherheitseinstellungen
+== Sicherheitseinstellungen anpassen
 
 Gehen Sie wie folgt vor, um die Einstellungen für das Compliance-Monitoring nach Bedarf für Ihre ONTAP-Umgebung anzupassen:
 
@@ -42,7 +42,7 @@ Die von Ihnen aktivieren oder deaktivieren Sicherheitsparameter können sich dir
 
 
 
-== AutoSupport- und Authentifizierungseinstellungen werden angepasst
+== Passen Sie AutoSupport und Authentifizierungseinstellungen an
 
 Im Abschnitt *AutoSupport-Einstellungen* können Sie angeben, ob HTTPS-Transport zum Senden von AutoSupport-Nachrichten von ONTAP verwendet werden soll.
 

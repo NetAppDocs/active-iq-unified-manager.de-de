@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: contract, renewal, cluster, inventory report, hardware, generate 
 summary: 'Sie können einen Bericht generieren, der eine vollständige Liste von Cluster- und Node-Informationen enthält, wie z. B. Hardware-Modellnummern, Seriennummern, Festplattentypen und -Anzahl, installierte Lizenzen usw. Dieser Bericht ist hilfreich bei der Vertragsverlängerung innerhalb sicherer Websites („Dark“-Sites), die nicht mit der NetAppActive IQ Plattform verbunden sind.' 
 ---
-= Erstellen eines Hardware-Bestandsberichts zur Vertragsverlängerung
+= Erstellen Sie einen Hardware-Inventarbericht für die Vertragsverlängerung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

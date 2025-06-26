@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, scripts 
 summary: Im Unified Manager können Skripts hinzugefügt und die Skripte mit Warnmeldungen verknüpft werden. Diese Skripte werden automatisch ausgeführt, wenn eine Warnmeldung generiert wird, und ermöglichen es Ihnen, Informationen über Speicherobjekte zu erhalten, für die das Ereignis generiert wird. 
 ---
-= Skripte werden hinzugefügt
+= Skripts hinzufügen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

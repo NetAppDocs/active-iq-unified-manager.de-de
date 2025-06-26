@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, storage vm list, details 
 summary: 'Aus der Ansicht „Systemzustand“: Alle Storage VMs können Sie Ihr Inventar an Storage Virtual Machines (SVMs) überwachen. Mithilfe der Seite Storage VM/Health Details können Sie detaillierte Informationen zu überwachten SVMs anzeigen.' 
 ---
-= Anzeigen der Liste und Details der Speicher-VM
+= Anzeigen der Storage-VM-Liste und Details
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

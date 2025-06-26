@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: display, information, performance, events 
 summary: Sie können auf der Seite „Inventar des Event Managements“ eine Liste aller Performance-Ereignisse auf den von Unified Manager zu überwachenden Clustern anzeigen. Durch die Anzeige dieser Informationen können Sie die kritischsten Ereignisse bestimmen und anschließend detaillierte Informationen abrufen, um die Ursache des Ereignisses zu bestimmen. 
 ---
-= Anzeigen von Informationen zu Performance-Ereignissen
+= Informationen zu Leistungsereignissen anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

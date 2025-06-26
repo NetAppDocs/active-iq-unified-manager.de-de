@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: login banner, feature settings 
 summary: Mit dieser Funktion kann Ihr Unternehmen alle Informationen anzeigen, z. B. die Personen, die Zugriff auf das System haben, und die Nutzungsbedingungen während der Anmeldung und beim Abmelden. 
 ---
-= Anmeldebanner hinzufügen
+= Login-Banner hinzufügen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

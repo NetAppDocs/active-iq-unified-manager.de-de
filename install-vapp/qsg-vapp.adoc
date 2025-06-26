@@ -27,7 +27,7 @@ Detaillierte Systemanforderungen finden Sie im link:../install-vapp/concept_requ
 
 
 
-== Active IQ Unified Manager wird installiert
+== Installation von Active IQ Unified Manager
 
 
 

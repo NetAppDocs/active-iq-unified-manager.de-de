@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: initialize, update, protection, relationships, volume, health details page 
 summary: Sie können eine erste Basistransfer für eine neue Schutzbeziehung durchführen oder eine Beziehung aktualisieren, wenn sie bereits initialisiert ist und Sie eine manuelle, außerplanmäßige inkrementelle Aktualisierung durchführen möchten, um Daten sofort zu übertragen. 
 ---
-= Initialisierung oder Aktualisierung von Schutzbeziehungen auf der Seite Volume / Health Details
+= Initialisieren oder aktualisieren Sie Schutzbeziehungen auf der Seite „Volume-/Integritätsdetails“.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

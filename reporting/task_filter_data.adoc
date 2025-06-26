@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: filtering, data 
 summary: Filtern Sie die Daten, um sicherzustellen, dass die Ergebnisse Ihren Berichtsanforderungen entsprechen. Durch Filtern können Sie nur die Daten anzeigen, für die Sie sich interessieren. 
 ---
-= Filtern von Daten
+= Daten filtern
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

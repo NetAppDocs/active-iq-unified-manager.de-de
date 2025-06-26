@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: subscribe, ontap, ems events 
 summary: 'Sie können EMS-Ereignisse (Event Management System) abonnieren, die von Systemen generiert werden, die mit ONTAP Software installiert sind. Eine Untermenge von EMS-Ereignissen wird automatisch an Unified Manager gemeldet. Weitere EMS-Ereignisse werden jedoch nur gemeldet, wenn Sie sich für diese Ereignisse angemeldet haben.' 
 ---
-= Abonnieren von ONTAP EMS-Veranstaltungen
+= Abonnieren Sie ONTAP EMS-Events
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

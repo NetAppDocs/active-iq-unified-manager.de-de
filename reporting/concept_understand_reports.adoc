@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understanding, reports 
 summary: In Berichten werden detaillierte Informationen zu Storage, Netzwerk, Servicequalität und Sicherungsbeziehungen angezeigt, sodass Sie potenzielle Probleme erkennen und beheben können, bevor sie auftreten. 
 ---
-= Allgemeines zu Berichten
+= Berichte verstehen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

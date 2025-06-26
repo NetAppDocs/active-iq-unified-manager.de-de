@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: test, configuration, authentication servers 
 summary: Sie können die Konfiguration Ihrer Authentifizierungsserver überprüfen, um sicherzustellen, dass der Verwaltungsserver mit diesen Servern kommunizieren kann. Sie können die Konfiguration validieren, indem Sie von Ihren Authentifizierungsservern nach einem Remote-Benutzer oder einer Remotegruppe suchen und diese unter Verwendung der konfigurierten Einstellungen authentifizieren. 
 ---
-= Die Konfiguration der Authentifizierungsserver wird getestet
+= Testen Sie die Konfiguration der Authentifizierungsserver
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

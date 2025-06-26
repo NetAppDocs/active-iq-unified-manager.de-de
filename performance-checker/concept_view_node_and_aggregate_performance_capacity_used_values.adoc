@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, node, aggregate, performance, capacity, used, values 
 summary: Sie können die verwendeten Werte für die Performance-Kapazität für alle Nodes oder für alle Aggregate in einem Cluster überwachen oder Details für einen einzelnen Node oder Aggregat anzeigen. 
 ---
-= Anzeigen der verwendeten Werte für die Node- und Aggregat-Performance
+= Anzeigen der verwendeten Knoten- und aggregierten Leistungskapazitätswerte
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -17,7 +17,7 @@ Die verwendeten Werte für die Performance-Kapazität werden auf der Seite Dashb
 
 image::../media/node_inventory_used_headroom.gif[Ein UI-Screenshot der Seite „Performance: Alle Aggregate“]
 
-Durch das Monitoring des verwendeten Zählers für die Performance-Kapazität können Sie Folgendes identifizieren:
+Durch die Überwachung des Leistungskapazitätsverbrauchs können Sie Folgendes ermitteln:
 
 * Unabhängig davon, ob Nodes oder Aggregate auf jedem Cluster einen hohen Wert an Performance-Kapazität aufweisen
 * Gibt an, ob Nodes oder Aggregate auf beliebigen Clustern über Ereignisse mit aktiver Performance-Kapazität verfügen

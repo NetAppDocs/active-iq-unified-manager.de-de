@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: test, script, execution 
 summary: Sie können überprüfen, ob Ihr Skript korrekt ausgeführt wird, wenn eine Warnung für ein Speicherobjekt generiert wird. 
 ---
-= Skriptausführung wird getestet
+= Testskriptausführung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

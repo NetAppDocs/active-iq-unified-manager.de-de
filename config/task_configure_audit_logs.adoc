@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, audit logs 
 summary: Mit der Schaltfläche Konfigurieren im Bereich „Audit Logs“ können Sie die rollende Richtlinie für Audit-Log-Dateien konfigurieren und die Remote-Protokollierung für die Audit-Protokolle aktivieren. 
 ---
-= Audit-Protokolle werden konfiguriert
+= Konfigurieren von Überwachungsprotokollen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -19,6 +19,6 @@ Sie können die Werte in den AUFBEWAHRUNGSTAGEN *MAX-DATEIGRÖSSE* und *AUDIT-LO
 . Klicken Sie Auf *Prüfprotokolle* > *Konfigurieren*.
 . Geben Sie die Werte in den * MAX-DATEIGRÖSSEN*, *GESAMT-AUDIT-LOG-GRÖSSE* und *AUDIT-LOG-AUFBEWAHRUNGSTAGE* ein.
 +
-Wenn Sie die Fernprotokollierung aktivieren möchten, wählen Sie die Option *Remote Logging aktivieren*.
+Wenn Sie die Fernprotokollierung aktivieren möchten, wählen Sie die Option *Remote Logging aktivieren*. /// 11.06.2025, OTHERDOC-133
 
 

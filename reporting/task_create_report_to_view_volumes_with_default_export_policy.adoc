@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, volumes, default, export, policy 
 summary: Sie können einen Bericht erstellen, um nach Volumes zu suchen, die die Standard-Exportrichtlinie verwenden. 
 ---
-= Erstellen eines Berichts, um Volumes anzuzeigen, die die Standard-Exportrichtlinie verwenden
+= Erstellen Sie einen Bericht, um Volumes anzuzeigen, die die Standardexportrichtlinie verwenden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

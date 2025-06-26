@@ -33,7 +33,7 @@ Unified Manager bietet außerdem drei Performance-Service-Level für Datenbankap
 ** Extreme für Datenbankdaten
 
 
-* *Benutzerdefiniert*: Wenn die vordefinierten Leistungsservicelevel Ihren Anforderungen nicht entsprechen, können Sie neue PSLs erstellen, die Ihren Anforderungen entsprechen. Weitere Informationen finden Sie unter link:../storage-mgmt/task_create_and_edit_psls.html["Erstellen und Bearbeiten von Performance Service Levels"].
+* *Benutzerdefiniert*: Wenn die vordefinierten Leistungsservicelevel Ihren Anforderungen nicht entsprechen, können Sie neue PSLs erstellen, die Ihren Anforderungen entsprechen. Weitere Informationen finden Sie unter link:../storage-mgmt/task_create_and_edit_psls.html["Erstellen und Bearbeiten von Performance-Service-Levels"].
 * *Beyond Extreme*: Die Beyond Extreme PSLs sind die vom System empfohlenen PSLs, die für Workloads empfohlen werden, die IOPS höher als Extreme erfordern. Die Workloads werden intern auf Basis ihrer IOPS, Kapazität und Latenz analysiert. Für jede dieser Workloads wird auf dem Bildschirm *Storage > Workloads > Alle Workloads* ein Wert über die extreme PSL hinaus empfohlen. Sie können die PSLs auf die Workloads anwenden, um eine optimale Leistung zu gewährleisten.
 +
 Die IOPS-Parameter für die Workloads werden abhängig vom Workload-Verhalten dynamisch generiert und dem Namen des Beyond Extreme PSL im Format angehängt `Beyond Extreme <number-(peak IOPS/TB)> <number(expected IOPS/TB)>`. Wenn das System beispielsweise einen Workload feststellt, dass der Spitzenwert und die erwarteten IOPS erreicht werden sollen `106345` Und `37929` Die für den Workload generierte Beyond Extreme PSL wird als benannt `Beyond Extreme 106345 37929`. Obwohl diese PSLs vom System empfohlen werden, werden diese PSLs beim Zuweisen zu Workloads als gekennzeichnet `User-defined` Typ.
@@ -42,11 +42,11 @@ Die IOPS-Parameter für die Workloads werden abhängig vom Workload-Verhalten dy
 
 
 
-== Verwalten von Workloads durch Zuweisen von PSLs
+== Verwalten Sie Arbeitslasten durch die Zuweisung von PSLs
 
 Sie können über die Seite *Richtlinien* > *Performance Service Levels* und über die APIs des Speicheranbieters auf PSLs zugreifen. Das Management von Storage-Workloads durch die Zuweisung von PSLs ist praktisch, da Storage-Workloads nicht individuell gemanagt werden müssen. Alle Änderungen können auch verwaltet werden, indem eine andere PSL neu zugewiesen wird, anstatt sie einzeln zu verwalten. Mit Unified Manager lassen sich PSLs auf Basis interner Bewertungen und Empfehlungen auf Basis der Workloads zuweisen.
 
-Informationen zum Zuweisen von systemempfohlenen PSLs zu Workloads finden Sie unter link:..//storage-mgmt/concept_assign_policies_on_workloads.html#assigning-system-recommended-psls-to-workloads["Zuweisen von systemempfohlenen PSLs zu Workloads"]
+Informationen zum Zuweisen von vom System empfohlenen PSLs zu Workloads finden Sie unter link:..//storage-mgmt/concept_assign_policies_on_workloads.html#assign-system-recommended-psls-to-workloads["Zuweisen systemempfohlener PSLs zu Workloads"]
 
 Auf der Seite Leistungsstufen werden die verfügbaren PSL-Richtlinien aufgelistet und Sie können sie hinzufügen, bearbeiten und löschen.
 

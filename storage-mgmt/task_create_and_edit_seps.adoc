@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, edit, storage, efficiency, policies 
 summary: Wenn die System-definierten Storage-Effizienzrichtlinien nicht Ihren Workload-Anforderungen entsprechen, können Sie Ihre eigenen Storage-Effizienzrichtlinien erstellen, die für Ihre Workloads optimiert sind. 
 ---
-= Erstellung und Bearbeitung von Storage-Effizienz-Richtlinien
+= Erstellen und Bearbeiten von Speichereffizienzrichtlinien
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

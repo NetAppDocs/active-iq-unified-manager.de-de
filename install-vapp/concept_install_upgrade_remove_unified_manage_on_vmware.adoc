@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: install, upgrade, remove, unified manager, software 
 summary: Auf VMware vSphere Systemen können Sie die Unified Manager Software installieren, ein Upgrade auf eine neuere Softwareversion durchführen oder die virtuelle Unified Manager Appliance entfernen. 
 ---
-= Installieren, Aktualisieren und Entfernen der Unified Manager Software
+= Installieren, Aktualisieren und Entfernen der Unified Manager-Software
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

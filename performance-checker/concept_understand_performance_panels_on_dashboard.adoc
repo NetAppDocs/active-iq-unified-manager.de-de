@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, performance, panels, dashboard 
 summary: Das Unified Manager Dashboard bietet einige Bereiche mit hohem Performance-Status für alle Cluster, die in Ihrer Umgebung überwacht werden. Sie können den Status aller Cluster oder für einzelne Cluster anzeigen. 
 ---
-= Allgemeines zu den Performance-Fenstern auf dem Dashboard
+= Verstehen Sie die Leistungsbereiche auf dem Dashboard
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

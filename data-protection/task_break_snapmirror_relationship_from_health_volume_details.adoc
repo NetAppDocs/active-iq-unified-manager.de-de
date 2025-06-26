@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: break, snapmirror, relationship, volume, health details 
 summary: Sie können eine Sicherungsbeziehung von der Seite Volume / Health Details brechen und die Datentransfers zwischen einem Quell- und Ziel-Volume in einer SnapMirror Beziehung stoppen. Wenn Sie Daten migrieren, für Disaster Recovery-Zwecke oder zum Testen von Applikationen nutzen möchten, können Sie eine Beziehung unterbrechen. Das Zielvolume wird in ein Lese- und Schreib-Volume geändert. Man kann keine SnapVault Beziehung durchbrechen. 
 ---
-= Eine SnapMirror Beziehung von der Seite „Volume/Health Details“ abbrechen
+= Unterbrechen Sie eine SnapMirror-Beziehung von der Seite mit den Volume-/Integritätsdetails
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

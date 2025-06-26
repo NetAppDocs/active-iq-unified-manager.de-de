@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, identify, volumes, FabricPool, aggregates, data, cloud tier 
 summary: 'Sie können einen Bericht mit einer Liste der Volumes erstellen, die sich derzeit in FabricPool Aggregaten befinden, über eine Cloud-Empfehlung von Tiers verfügen und über eine große Menge an kalten Daten. Dieser Bericht kann Ihnen bei der Entscheidung helfen, ob Sie die Tiering-Richtlinie für bestimmte Volumes in „Auto“ oder „alle“ ändern sollten, um mehr kalte (inaktive) Daten auf die Cloud-Tier zu verlagern.' 
 ---
-= Erstellen eines Berichts zur Ermittlung von Volumes in FabricPool Aggregaten, die Daten in das Cloud-Tier verschieben sollten
+= Erstellen Sie einen Bericht, um Volumes auf FabricPool-Aggregaten zu identifizieren, die Daten in die Cloud-Ebene verschieben sollen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

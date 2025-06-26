@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, show, aggregate, total, available, capacity, charts 
 summary: Sie können einen Bericht erstellen, um die Gesamtspeicherkapazität und die Kapazität in einem Excel-Diagrammformat zu analysieren. 
 ---
-= Erstellen eines Berichts zur Anzeige der insgesamt im Vergleich zu den verfügbaren Kapazitätsdiagrammen
+= Erstellen Sie einen Bericht, um Diagramme mit der Gesamtsumme und der verfügbaren Kapazität anzuzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

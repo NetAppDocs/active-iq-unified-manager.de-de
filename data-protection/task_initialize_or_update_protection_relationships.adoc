@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: initialize, update, protection, relationships, volume, page 
 summary: Auf der Seite Volume Relationships können Sie eine erste Baseline-Übertragung für eine neue Schutzbeziehung durchführen oder eine Beziehung aktualisieren, wenn sie bereits initialisiert ist und Sie eine manuelle, außerplanmäßige inkrementelle Aktualisierung durchführen möchten, um sie sofort zu übertragen. 
 ---
-= Schutzbeziehungen werden auf der Seite Volume-Beziehungen initialisiert oder aktualisiert
+= Initialisieren oder aktualisieren Sie Schutzbeziehungen auf der Seite „Volume-Beziehungen“.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

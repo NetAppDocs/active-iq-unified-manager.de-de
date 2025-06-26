@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, stopped, storage VMs 
 summary: Sie können einen Bericht erstellen, um eine Liste aller angehalten SVMs anzuzeigen. 
 ---
-= Erstellen eines Berichts, um angehalten Storage-VMs anzuzeigen
+= Erstellen Sie einen Bericht zum Anzeigen gestoppter Speicher-VMs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

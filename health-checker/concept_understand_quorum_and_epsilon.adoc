@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, quorum, epsilon 
 summary: Quorum und Epsilon sind wichtige Kennzahlen für den Clusterzustand und die Funktion, die gemeinsam zeigen, wie Cluster potenzielle Herausforderungen bei Kommunikation und Konnektivität bewältigen. 
 ---
-= Verständnis von Quorum und Epsilon
+= Quorum und Epsilon verstehen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

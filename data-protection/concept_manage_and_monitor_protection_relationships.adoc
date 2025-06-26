@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, monitor, protection, relationships 
 summary: Mit Active IQ Unified Manager können Sie Sicherungsbeziehungen erstellen, SnapMirror und SnapVault Beziehungen auf gemanagten Clustern überwachen und Fehler beheben und Daten beim Überschreiben oder Verlust wiederherstellen. 
 ---
-= Managen und Überwachen von Sicherungsbeziehungen
+= Verwalten und Überwachen von Schutzbeziehungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

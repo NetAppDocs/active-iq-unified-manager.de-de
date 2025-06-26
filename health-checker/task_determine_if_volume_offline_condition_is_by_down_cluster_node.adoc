@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: determine, volume, offline, host, node 
 summary: Mit der Unified Manager Web-UI lässt sich die Möglichkeit bestätigen oder ganz ausschließen, dass ein Volume offline ist, da der Host-Node ausfällt und das Storage Failover auf seinen HA-Paar-Partner nicht erfolgreich ist. 
 ---
-= Ermitteln, ob ein Volume offline ist, da sein Host-Node ausfällt
+= Ermitteln, ob ein Volume offline ist, weil sein Hostknoten ausgefallen ist
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

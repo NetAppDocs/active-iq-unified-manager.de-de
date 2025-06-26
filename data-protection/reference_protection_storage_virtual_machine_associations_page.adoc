@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: svm, association, page 
 summary: Auf der Seite Storage VM Association können Sie vorhandene Speicher-VM-Zuordnungen zwischen Quell- und Ziel-Speicher-VMs anzeigen. 
 ---
-= Allgemeines zu Storage VM-Zuordnungen
+= Grundlegendes zu Storage-VM-Zuordnungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

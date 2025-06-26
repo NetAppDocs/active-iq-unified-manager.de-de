@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: smb, cifs, view, shares, details 
 summary: 'Sie können Details zu allen SMB-/CIFS-Freigaben anzeigen, z. B. Freigabename, Verbindungspfad, mit Objekten, Sicherheitseinstellungen und für die Freigabe definierten Exportrichtlinien. Nutzung der Ansicht „Systemzustand“: Alle SMB-Freigaben anzeigen, um alle SMB-Freigaben auf allen überwachten Clustern anzuzeigen. Auf der Seite Storage VM/Health Details können Sie alle SMB-Freigaben auf einer bestimmten Storage Virtual Machine (SVM) anzeigen.' 
 ---
-= Anzeigen von Details zu SMB/CIFS-Freigaben
+= Details zu SMB/CIFS-Freigaben anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

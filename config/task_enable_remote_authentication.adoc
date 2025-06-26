@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: enable, remote, authentication 
 summary: Sie können die Remote-Authentifizierung aktivieren, damit der Unified Manager-Server mit Ihren Authentifizierungsservern kommunizieren kann. Die Benutzer des Authentifizierungsservers können auf die grafische Schnittstelle von Unified Manager zugreifen, um Storage-Objekte und Daten zu managen. 
 ---
-= Aktivieren der Remote-Authentifizierung
+= Aktivieren Sie die Remote-Authentifizierung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: override, management, actions, scripts 
 summary: Sie können benutzerdefinierte Skripts erstellen und sie zu Warnungen zuordnen, um bestimmte Aktionen für bestimmte Ereignisse durchzuführen. Sie können nicht die Standardverwaltungsaktionen auswählen, die ihnen auf der Seite „Managementaktionen“ oder auf dem Unified Manager-Dashboard zur Verfügung stehen. 
 ---
-= Management-Aktionen über Skripte überschreiben
+= Überschreiben von Verwaltungsaktionen durch Skripte
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, volume, transfers, day 
 summary: Sie können einen Bericht erstellen, um Volume-Transfers nach Tagen gruppiert anzuzeigen. 
 ---
-= Erstellen eines Berichts zur Anzeige von Volume-Transfers nach Tag gruppiert
+= Erstellen Sie einen Bericht, um Volumenübertragungen gruppiert nach Tag anzuzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

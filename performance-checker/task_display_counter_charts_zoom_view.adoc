@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: display, counter charts, zoom, view 
 summary: Die Zoom-Ansicht der Zählerdiagramme bietet eine feinere Detailebene für das ausgewählte Zählerdiagramm und die zugehörige Zeitleiste. Dadurch werden die Daten der Zählerdiagramme vergrößert, sodass Sie einen schärfereren Überblick über Performanceereignisse und deren zugrunde liegende Ursachen haben können. 
 ---
-= Anzeigen der Zoom-Ansicht der Zählerdiagramme
+= Anzeigen der Zoomansicht der Zählerdiagramme
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

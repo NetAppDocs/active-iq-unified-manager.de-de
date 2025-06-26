@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, more, quotas 
 summary: Wenn Sie die Konzepte zu Kontingenten verstehen, können Sie Ihre Benutzerquoten und Benutzergruppenkontingente effizient managen. 
 ---
-= Allgemeines zu Kontingenten
+= Erfahren Sie mehr über Quoten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

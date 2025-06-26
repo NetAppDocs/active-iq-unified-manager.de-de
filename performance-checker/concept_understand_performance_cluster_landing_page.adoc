@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, performance, cluster, landing page 
 summary: Die Seite „Performance Cluster Landing“ bietet eine grundlegende Performance-Übersicht über ein ausgewähltes Cluster und legt den Performance-Status der 10 wichtigsten Objekte im Cluster fest. Leistungsprobleme werden oben auf der Seite im Bereich „Alle Ereignisse auf diesem Cluster“ angezeigt. 
 ---
-= Informationen zur Landing Page des Performance Cluster
+= Die Zielseite des Performance-Clusters verstehen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

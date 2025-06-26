@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: openjdk, jre, linux, upgrade 
 summary: Sie können auf eine neuere Version von OpenJDK auf dem Linux-Server, auf dem Unified Manager installiert ist, aktualisieren, um Fehlerbehebungen für Sicherheitslücken zu erhalten. 
 ---
-= Aktualisieren von OpenJDK unter Linux
+= Aktualisieren Sie OpenJDK unter Linux
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

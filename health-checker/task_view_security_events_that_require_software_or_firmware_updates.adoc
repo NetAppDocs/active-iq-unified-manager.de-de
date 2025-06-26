@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: upgrade events, view, security events, software, firmware updates 
 summary: 'Es gibt bestimmte Sicherheitsereignisse, die einen Wirkungsbereich von „Upgrade“ haben. Diese Ereignisse werden von der Active IQ Plattform gemeldet. Sie erkennen Probleme, wenn für die Lösung ein Upgrade der ONTAP Software, der Node-Firmware oder der Betriebssystemsoftware (für Sicherheitsempfehlungen) erforderlich ist.' 
 ---
-= Anzeigen von Sicherheitsereignissen, für die möglicherweise Software- oder Firmware-Updates erforderlich sind
+= Zeigen Sie Sicherheitsereignisse an, die möglicherweise Software- oder Firmware-Updates erfordern
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

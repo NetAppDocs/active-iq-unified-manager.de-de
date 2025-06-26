@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: specify, destination location, snapshot copies, copy 
 summary: Sie sollten den Zielspeicherort für Active IQ Unified Manager Snapshot Kopien auf einem Volume konfigurieren, das Sie bereits in einem der ONTAP Cluster konfiguriert haben. Sie sollten die Wartungskonsole verwenden, um die Position zu definieren. 
 ---
-= Angeben des Zielorts für Snapshot Kopien
+= Geben Sie den Zielspeicherort für Snapshot-Kopien an
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

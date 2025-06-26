@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: feature settings, active iq, portal, events 
 summary: Sie können angeben, ob Sie Active IQ-Portalereignisse aktivieren oder deaktivieren möchten. Mit dieser Einstellung kann das Active IQ-Portal zusätzliche Ereignisse über die Systemkonfiguration, die Verkabelung usw. erkennen und anzeigen. Diese Option ist standardmäßig aktiviert. 
 ---
-= Aktivieren von Active IQ Portal-Ereignissen
+= Aktivieren von Active IQ-Portalereignissen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

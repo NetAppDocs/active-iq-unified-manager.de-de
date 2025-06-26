@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: enable, disable, active iq, event, report 
 summary: Ereignisse auf der Active IQ-Plattform werden standardmäßig in der Benutzeroberfläche von Unified Manager generiert und angezeigt. Wenn Sie feststellen, dass diese Ereignisse zu „laut“ sind oder dass Sie diese Ereignisse nicht in Unified Manager anzeigen möchten, können Sie die Erzeugung dieser Ereignisse deaktivieren. Sie können sie zu einem späteren Zeitpunkt aktivieren, wenn Sie den Empfang dieser Benachrichtigungen fortsetzen möchten. 
 ---
-= Aktivieren und Deaktivieren der Active IQ-Ereignisberichterstellung
+= Aktivieren und Deaktivieren der Active IQ-Ereignisberichterstattung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

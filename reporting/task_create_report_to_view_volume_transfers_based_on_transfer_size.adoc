@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, volume, transfers, transfer size 
 summary: Sie können einen Bericht erstellen, um Volume-Transfers basierend auf der Übertragungsgröße anzuzeigen. 
 ---
-= Erstellen eines Berichts zur Anzeige von Volume-Transfers basierend auf der Übertragungsgröße
+= Erstellen Sie einen Bericht, um Volumenübertragungen basierend auf der Übertragungsgröße anzuzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

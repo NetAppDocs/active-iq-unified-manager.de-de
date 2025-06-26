@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: excel, customize, report 
 summary: 'Nachdem Sie die Ansicht gespeichert haben, können Sie sie im Excel-Workbook-Format (.xlsx) herunterladen. Wenn Sie die Excel-Datei öffnen, können Sie den Bericht mithilfe erweiterter Excel-Funktionen anpassen.' 
 ---
-= Verwenden von Excel zum Anpassen des Berichts
+= Verwenden Sie Excel, um Ihren Bericht anzupassen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

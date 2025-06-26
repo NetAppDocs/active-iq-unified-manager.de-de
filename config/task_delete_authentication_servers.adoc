@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, authentication, servers 
 summary: Sie können einen Authentifizierungsserver löschen, wenn Sie verhindern möchten, dass der Unified Manager-Server mit dem Authentifizierungsserver kommuniziert. Wenn Sie beispielsweise einen Authentifizierungsserver ändern möchten, mit dem der Verwaltungsserver kommuniziert, können Sie den Authentifizierungsserver löschen und einen neuen Authentifizierungsserver hinzufügen. 
 ---
-= Authentifizierungsserver werden gelöscht
+= Authentifizierungsserver löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

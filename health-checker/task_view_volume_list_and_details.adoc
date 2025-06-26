@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, volume list, details 
 summary: 'In der Ansicht „Systemzustand: Alle Volumes“ können Sie Ihr Inventar von Volumes überwachen. Die Kapazität: Die Ansicht aller Volumes ermöglicht die Anzeige von Informationen zur Kapazität und Auslastung von Volumes in einem Cluster.' 
 ---
-= Anzeigen der Volume-Liste und der Details
+= Anzeigen der Volumeliste und Details
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

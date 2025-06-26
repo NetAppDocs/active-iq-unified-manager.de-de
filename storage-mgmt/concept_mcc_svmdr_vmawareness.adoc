@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, virtual, infrastructure, disaster, recovery, setup, datastores, metrocluster configuration 
 summary: 'Sie können die Konfigurations- und Performance-Kennzahlen der Datastores anzeigen, die in einer MetroCluster Konfiguration oder in einer Storage Virtual Machine (Storage VM) Disaster Recovery (SVM DR)-Einrichtung gehostet werden.' 
 ---
-= Anzeige virtueller Infrastrukturen in Disaster-Recovery-Setups
+= Anzeigen der virtuellen Infrastruktur in einem Disaster Recovery-Setup
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -19,7 +19,7 @@ Sie können auch die NAS-Volumes oder LUNs in einer Storage-VM-Disaster-Recovery
 
 
 
-== Anzeigen von Datastores in der MetroCluster-Konfiguration
+== Anzeigen von Datenspeichern in der MetroCluster-Konfiguration
 
 Beachten Sie die folgenden Voraussetzungen vor dem Anzeigen von Datastores in einer MetroCluster Konfiguration:
 
@@ -40,7 +40,7 @@ Führen Sie die folgenden Schritte zum Anzeigen von Datastores aus:
 
 
 
-== Anzeigen von Datenspeichern in der Konfiguration der Disaster Recovery von Storage-VM
+== Anzeigen von Datenspeichern in der Konfiguration zur Notfallwiederherstellung von Speicher-VMs
 
 Beachten Sie die folgenden Voraussetzungen, bevor Sie Datastores in einer Disaster-Recovery-Konfiguration einer Storage-VM anzeigen:
 

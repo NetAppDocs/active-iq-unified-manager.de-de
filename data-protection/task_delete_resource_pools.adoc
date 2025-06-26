@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, resource, pools 
 summary: Sie können Ressourcenpools löschen, wenn sie nicht mehr benötigt werden. Beispielsweise möchten Sie die Mitgliedslegierung von einem Ressourcenpool auf mehrere andere Ressourcenpools verteilen, sodass der ursprüngliche Ressourcenpool überflüssig wird. 
 ---
-= Löschen von Ressourcenpools
+= Ressourcenpools löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

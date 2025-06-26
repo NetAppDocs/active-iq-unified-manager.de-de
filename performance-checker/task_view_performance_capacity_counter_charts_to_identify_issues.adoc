@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, performance, capacity, counter charts, identify, issues 
 summary: Auf der Seite „Performance Explorer“ können Sie die verwendeten Performance-Kapazitäten für Nodes und Aggregate anzeigen. Damit können Sie detaillierte Performance-Kapazitätsdaten für die ausgewählten Nodes und Aggregate für einen bestimmten Zeitraum anzeigen. 
 ---
-= Anzeigen von Zählerdiagrammen zur Performance-Kapazität zur Erkennung von Problemen
+= Zeigen Sie Leistungskapazitätsindikatordiagramme an, um Probleme zu identifizieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: edit, individual, qtree, health, threshold, settings 
 summary: Sie können die Statusschwellenwerte für qtree-Kapazität für eine oder mehrere qtrees bearbeiten. Wenn ein Schwellenwert überschritten wird, werden Warnungen erzeugt und Sie erhalten Benachrichtigungen. Diese Benachrichtigungen helfen Ihnen, auf Basis des generierten Ereignisses vorbeugende Maßnahmen zu ergreifen. 
 ---
-= Bearbeiten einzelner qtree-Statusschwellenwerte
+= Bearbeiten Sie die individuellen Qtree-Integritätsschwellenwerteinstellungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

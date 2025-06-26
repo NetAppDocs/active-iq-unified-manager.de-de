@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, reports 
 summary: Nach der Planung von Berichten können Sie diese auf der Seite „Berichtszeitpläne“ löschen. 
 ---
-= Löschen geplanter Berichte
+= Geplante Berichte löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

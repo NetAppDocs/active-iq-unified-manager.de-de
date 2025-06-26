@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: customize, reports 
 summary: Sie können Ansichten auf verschiedene Weise anpassen, um einen Bericht zu erstellen, der alle für das Management Ihrer ONTAP Cluster erforderlichen Informationen enthält. 
 ---
-= Anpassen von Berichten
+= Berichte anpassen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

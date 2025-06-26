@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, destination, schedule, database dump, backups, snapshot copy, copies 
 summary: Sie können die Backup-Einstellungen für die Backup-Dump-Datenbank von Unified Manager konfigurieren, um den Datenbank-Backup-Pfad, die Aufbewahrungsanzahl und den Backup-Zeitplan festzulegen. Sie können tägliche oder wöchentliche geplante Backups aktivieren. Standardmäßig werden geplante Backups deaktiviert, Sie sollten jedoch einen Backup-Zeitplan festlegen. 
 ---
-= Konfigurieren des Ziels und Planen für Datenbank-Dump-Backups
+= Konfigurieren Sie das Ziel und den Zeitplan für Datenbank-Dump-Backups
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

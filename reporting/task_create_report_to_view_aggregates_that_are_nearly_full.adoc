@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, aggregates, full 
 summary: 'Sie können einen Bericht erstellen, um die Aggregate zu markieren, die zu 80 % oder mehr voll sind.' 
 ---
-= Erstellen eines Berichts, um Aggregate zu sehen, die zu 80 % oder mehr voll sind
+= Erstellen Sie einen Bericht, um Aggregate anzuzeigen, die zu 80 % oder mehr gefüllt sind
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

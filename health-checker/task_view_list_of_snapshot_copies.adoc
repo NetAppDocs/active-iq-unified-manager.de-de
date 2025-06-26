@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, list, Snapshot copies 
 summary: Sie können die Liste der Snapshot Kopien für ein ausgewähltes Volume anzeigen. Mithilfe der Liste der Snapshot Kopien lässt sich die Menge an Festplattenspeicher berechnen, die zurückgewonnen werden kann, wenn eine oder mehrere Snapshot Kopien gelöscht werden. Außerdem können Sie die Snapshot Kopien bei Bedarf löschen. 
 ---
-= Anzeigen der Liste der Snapshot Kopien
+= Liste der Snapshot-Kopien anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

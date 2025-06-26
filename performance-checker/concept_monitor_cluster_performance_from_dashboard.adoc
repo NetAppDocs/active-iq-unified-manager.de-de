@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: monitor, cluster, performance, dashboard 
 summary: Das Unified Manager Dashboard bietet einige Felder, die den Performance-Status aller Cluster anzeigen, die von dieser Instanz von Unified Manager überwacht werden. So können Sie die allgemeine Performance der gemanagten Cluster beurteilen und alle erkannten Ereignisse schnell erfassen, lokalisieren oder zur Lösung zuweisen. 
 ---
-= Monitoring der Cluster-Performance über das Dashboard
+= Überwachen Sie die Clusterleistung vom Dashboard aus
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

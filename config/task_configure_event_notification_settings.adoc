@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, event, notification, settings 
 summary: Sie können Unified Manager so konfigurieren, dass Benachrichtigungen gesendet werden, wenn ein Ereignis generiert wird oder ein Ereignis einem Benutzer zugewiesen ist. Sie können den SMTP-Server konfigurieren, der zum Senden der Warnmeldung verwendet wird, und Sie können verschiedene Benachrichtigungsmechanismen festlegen. So können beispielsweise Warnmeldungen als E-Mails oder SNMP-Traps gesendet werden. 
 ---
-= Konfigurieren von Einstellungen für Ereignisbenachrichtigungen
+= Konfigurieren Sie die Einstellungen für Ereignisbenachrichtigungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

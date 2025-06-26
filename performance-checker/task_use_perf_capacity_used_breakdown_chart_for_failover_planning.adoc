@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, capacity, used, breakdown, chart, failover, planning 
 summary: Das Diagramm „Detailed Performance Capacity Used – Breakdown“ zeigt die für den primären Knoten und den Partner-Knoten verwendete Performance-Kapazität an. Er zeigt außerdem die Menge der freien Performance-Kapazität auf dem geschätzten Takeover-Node an. Anhand dieser Informationen können Sie ermitteln, ob bei einem Ausfall des Partner-Node möglicherweise ein Performance-Problem auftritt. 
 ---
-= Verwenden des Leistungsdiagramms zur verwendeten Kapazität zur Failover-Planung
+= Verwenden Sie das Diagramm „Aufschlüsselung der genutzten Leistungskapazität“ für die Failover-Planung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

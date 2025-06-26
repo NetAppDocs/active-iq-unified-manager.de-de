@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: edit, annotation rules 
 summary: Sie können Anmerkungsregeln bearbeiten, um die Bedingungsgruppen und -Bedingungen innerhalb der Bedingungsgruppe zu ändern, um Anmerkungen zu Speicherobjekten hinzuzufügen oder sie aus ihnen zu entfernen. 
 ---
-= Anmerkungsregeln werden bearbeitet
+= Bearbeiten von Anmerkungsregeln
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

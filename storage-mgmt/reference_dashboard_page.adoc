@@ -26,7 +26,7 @@ Einige der unten aufgeführten Felder werden basierend auf Ihrer Konfiguration a
 
 == Bereich „Verwaltungsaktionen“
 
-Es gibt bestimmte Probleme, die Unified Manager sorgfältig analysieren und eine singuläre Lösung anbieten kann. Wenn verfügbar, werden diese Auflösungen in diesem Fenster mit der Schaltfläche *Fix IT* oder *Fix All* angezeigt. Diese Probleme können Sie sofort von Unified Manager beheben, anstatt ONTAP System Manager oder die ONTAP CLI zu verwenden. Um alle Probleme anzuzeigen, klicken Sie auf Siehe link:concept_fix_ontap_issues_directly_from_unified_manager.html["Behebung von ONTAP Problemen direkt über Unified Manager"] Finden Sie weitere Informationen.
+Es gibt bestimmte Probleme, die Unified Manager sorgfältig analysieren und eine singuläre Lösung anbieten kann. Wenn verfügbar, werden diese Auflösungen in diesem Fenster mit der Schaltfläche *Fix IT* oder *Fix All* angezeigt. Diese Probleme können Sie sofort von Unified Manager beheben, anstatt ONTAP System Manager oder die ONTAP CLI zu verwenden. Um alle Probleme anzuzeigen, klicken Sie auf unterlink:concept_fix_ontap_issues_directly_from_unified_manager.html["Beheben Sie ONTAP-Probleme direkt vom Unified Manager aus"], um weitere Informationen zu erhalten.
 
 
 
@@ -118,8 +118,8 @@ link:../events/reference_description_of_event_severity_types.html["Beschreibung 
 
 link:../performance-checker/concept_sources_of_performance_events.html["Quellen von Leistungsereignissen"]
 
-link:../health-checker/concept_manage_cluster_security_objectives.html["Verwalten von Zielen für die Cluster-Sicherheit"]
+link:../health-checker/concept_manage_cluster_security_objectives.html["Verwalten von Cluster-Sicherheitszielen"]
 
-link:../performance-checker/concept_monitor_cluster_performance_from_cluster_landing_page.html["Monitoring der Cluster-Performance über die Startseite des Performance Cluster"]
+link:../performance-checker/concept_monitor_cluster_performance_from_cluster_landing_page.html["Überwachen Sie die Clusterleistung von der Zielseite des Leistungsclusters aus."]
 
-link:../performance-checker/concept_monitor_performance_using_object_performance.html["Überwachung der Performance mithilfe der Seiten „Performance Inventory“ (Performance-Bestandsaufnahme"]
+link:../performance-checker/concept_monitor_performance_using_object_performance.html["Überwachen Sie die Leistung mithilfe der Performance Inventory-Seiten"]

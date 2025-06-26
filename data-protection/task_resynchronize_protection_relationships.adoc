@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: resynchronize, protection, relationships, volume, relationships page 
 summary: Auf der Seite Volume Relationships können Sie eine Beziehung neu synchronisieren, um sie von einem Ereignis wiederherzustellen, bei dem das Quell-Volume deaktiviert wurde, oder wenn Sie die aktuelle Quelle auf ein anderes Volume ändern möchten. 
 ---
-= Sicherungsbeziehungen von der Seite Volume Relationships neu synchronisieren
+= Synchronisieren Sie Schutzbeziehungen über die Seite „Volume-Beziehungen“ erneut.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

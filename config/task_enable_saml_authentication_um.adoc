@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: enable, saml, authentication 
 summary: 'Sie können die SAML-Authentifizierung (Security Assertion Markup Language) aktivieren, sodass Remote-Benutzer von einem Secure Identity Provider (IdP) authentifiziert werden, bevor sie auf die Web-UI von Unified Manager zugreifen können.' 
 ---
-= Aktivieren der SAML-Authentifizierung
+= Aktivieren Sie die SAML-Authentifizierung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

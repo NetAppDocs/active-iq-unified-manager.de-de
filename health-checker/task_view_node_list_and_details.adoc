@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, node list, details 
 summary: 'Sie können die Ansicht Systemzustand: Alle Knoten verwenden, um die Liste der Knoten in Ihren Clustern anzuzeigen. Mit der Seite „Cluster/Systemzustand“ werden ausführliche Informationen zu Nodes angezeigt, die Teil des überwachten Clusters sind.' 
 ---
-= Anzeigen der Node-Liste und der Details
+= Anzeigen der Knotenliste und Details
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

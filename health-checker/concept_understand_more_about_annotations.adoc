@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, annotations 
 summary: Wenn Sie die Konzepte über Annotationen verstehen, können Sie Ereignisse aus dem Zusammenhang mit den Storage-Objekten in Ihrer Umgebung managen. 
 ---
-= Weitere Informationen zu Annotationen
+= Erfahren Sie mehr über Anmerkungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

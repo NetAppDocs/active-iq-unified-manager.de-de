@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: filter, data, object, inventory, performance, pages 
 summary: Sie können Daten auf den Seiten „Objektbestandsleistung“ filtern, um Daten anhand bestimmter Kriterien schnell zu finden. Mithilfe der Filterung können Sie den Inhalt der Seiten „Objektbestandsleistung“ eingrenzen, um nur die von Ihnen angegebenen Ergebnisse anzuzeigen. Dies bietet eine sehr effiziente Methode, nur die Leistungsdaten anzuzeigen, an denen Sie interessiert sind. 
 ---
-= Filtern von Daten auf den Seiten „Objektbestandsleistung“
+= Filtern Sie Daten auf den Seiten zur Objektbestandsleistung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

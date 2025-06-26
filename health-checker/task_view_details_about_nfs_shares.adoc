@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, details, nfs shares 
 summary: 'Sie können Details zu allen NFS-Freigaben anzeigen, z. B. ihren Status, den dem Volume zugeordneten Pfad (FlexGroup Volumes oder FlexVol Volumes), die Zugriffsebenen von Clients auf die NFS-Shares und die für die exportierten Volumes definierte Exportrichtlinie. Nutzung der Ansicht „Systemzustand“: Alle NFS-Freigaben anzeigen, um alle NFS-Freigaben auf allen überwachten Clustern zu sehen, und über die Seite „Storage VM/Health Details“ können Sie alle NFS-Freigaben auf einer bestimmten Storage Virtual Machine (SVM) anzeigen.' 
 ---
-= Anzeigen von Details zu NFS-Freigaben
+= Details zu NFS-Freigaben anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

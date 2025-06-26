@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: identify, shark workloads, involved, dynamic, performance, event 
 summary: In Unified Manager können Sie ermitteln, welche Workloads die höchste Nutzungsabweichung einer Storage-Komponente aufweisen. Anhand der Identifizierung dieser Workloads können Sie ermitteln, ob diese Workloads in ein weniger ausgelasttes Cluster verschoben werden sollen. 
 ---
-= Erkennen von Haifischlasten, die an einem dynamischen Performance-Ereignis beteiligt sind
+= Identifizieren Sie die Shark-Workloads, die an einem dynamischen Leistungsereignis beteiligt sind
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: troubleshoot, ontap, volumes, gateway, api 
 summary: Die Gateway-APIs dienen als Gateway zum Aufrufen von ONTAP APIs, mit denen Informationen über Ihre ONTAP Storage-Objekte abgefragt und Korrekturmaßnahmen ergriffen werden, um die gemeldeten Probleme anzugehen. 
 ---
-= Fehlerbehebung bei ONTAP Volumes mithilfe von Gateway-APIs
+= Fehlerbehebung bei ONTAP-Volumes mithilfe von Gateway-APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

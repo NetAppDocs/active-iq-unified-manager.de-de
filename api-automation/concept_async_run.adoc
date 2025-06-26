@@ -23,7 +23,7 @@ Nach einem API-Aufruf, der asynchron ausgeführt wird, weist der HTTP-Antwortcod
 
 
 
-== Abfragen des mit einer API-Anforderung verknüpften Jobobjekts
+== Abfrage des Job-Objekts, das einer API-Anforderung zugeordnet ist
 
 Das in der HTTP-Antwort zurückgegebene Job-Objekt enthält mehrere Eigenschaften. Sie können die Statuseigenschaft abfragen, um festzustellen, ob die Anfrage erfolgreich abgeschlossen wurde. Ein Job-Objekt kann einen der folgenden Status haben:
 

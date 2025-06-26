@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: monitoring, performance, explorer, pages 
 summary: Auf den Seiten des Performance-Explorers werden ausführliche Informationen über die Performance jedes Objekts in einem Cluster angezeigt. Die Seite bietet eine detaillierte Ansicht der Performance aller Cluster-Objekte, sodass Sie die Performance-Daten bestimmter Objekte über verschiedene Zeiträume auswählen und vergleichen können. 
 ---
-= Überwachung der Leistung mit den Seiten des Performance Explorers
+= Überwachen der Leistung mithilfe der Performance Explorer-Seiten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

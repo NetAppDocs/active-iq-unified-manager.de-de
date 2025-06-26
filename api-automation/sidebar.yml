@@ -31,15 +31,15 @@ entries:
 - title: Unified Manager REST-APIs
   url: "/api-automation/concept_um_apis_list_intro.html"
   entries:
-  - title: Managen von Storage-Objekten in einem Datacenter
+  - title: Verwalten von Speicherobjekten in einem Rechenzentrum
     url: "/api-automation/concept_data_center_apis.html"
   - title: Zugriff auf ONTAP-APIs über Proxy-Zugriff
     url: "/api-automation/concept_gateway_apis.html"
-  - title: Durchführen administrativer Aufgaben
+  - title: Ausführung administrativer Aufgaben
     url: "/api-automation/concept_administration_apis.html"
-  - title: Managen von Benutzern
+  - title: Benutzer managen
     url: "/api-automation/concept_security_apis.html"
-  - title: Anzeigen von Performance-Metriken
+  - title: Performance-Metriken anzeigen
     url: "/api-automation/concept_metrics_apis.html"
   - title: Anzeigen von Jobs und Systemdetails
     url: "/api-automation/concept_job_api.html"
@@ -48,39 +48,39 @@ entries:
   - title: Management von Workloads
     url: "/api-automation/concept_manage_storage_workloads.html"
     entries:
-    - title: Anzeigen von Storage-Workloads
+    - title: Anzeige von Storage-Workloads
       url: "/api-automation/concept_view_workloads.html"
-    - title: Management von Zugriffendpunkten
+    - title: Verwalten von Zugriffsendpunkten
       url: "/api-automation/concept_manage_access_endpoint.html"
     - title: Verwalten der Active Directory-Zuordnung
       url: "/api-automation/concept_manage_active_directory.html"
-    - title: Verwalten von Dateifreigaben
+    - title: Dateifreigaben verwalten
       url: "/api-automation/concept_manage_fileshares_api.html"
-    - title: Verwalten von LUNs
+    - title: LUNs managen
       url: "/api-automation/concept_manage_lun.html"
-    - title: Managen Von Performance Service Levels
+    - title: Verwalten von Leistungsserviceleveln
       url: "/api-automation/concept_manage_psl.html"
-    - title: Management Von Richtlinien Zur Storage-Effizienz
+    - title: Verwalten von Speichereffizienzrichtlinien
       url: "/api-automation/concept_manage_sep.html"
 - title: Typische Workflows für das Storage-Management
   url: "/api-automation/concept_workflow_intro.html"
   entries:
-  - title: Bestimmen von Platzproblemen in Aggregaten
+  - title: Ermitteln von Platzproblemen in Aggregaten
     url: "/api-automation/concept_workflow_space_issue.html"
-  - title: Bestimmen von Problemen in Speicherobjekten mithilfe von Ereignissen
+  - title: Ermitteln von Problemen in Speicherobjekten mithilfe von Ereignissen
     url: "/api-automation/concept_events_workflows.html"
-  - title: Fehlerbehebung bei ONTAP Volumes mithilfe von Gateway-APIs
+  - title: Fehlerbehebung bei ONTAP-Volumes mithilfe von Gateway-APIs
     url: "/api-automation/concept_ontap_troubleshooting_workflow.html"
   - title: Workflows für das Workload-Management
     url: "/api-automation/concept_provision_workflow.html"
     entries:
-    - title: Überprüfung von SVMs auf Clustern
+    - title: Überprüfen Sie SVMs auf Clustern
       url: "/api-automation/concept_verify_svm_workflow.html"
     - title: Provisionierung von CIFS- und NFS-Dateifreigaben
       url: "/api-automation/concept_provision_file_share.html"
     - title: Bereitstellung von LUNs
       url: "/api-automation/concept_provision_luns.html"
-    - title: Änderung von Storage-Workloads
+    - title: Speicher-Workloads ändern
       url: "/api-automation/concept_modify_workloads_workflow.html"
       entries:
       - title: Ändern einer NFS-Dateifreigabe zur Unterstützung von CIFS

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: workload analyzer, troubleshoot 
 summary: Die Workload-Analyse bietet eine Möglichkeit, wichtige Gesundheits- und Performancekriterien für einen einzelnen Workload auf einer einzelnen Seite anzuzeigen, um die Fehlerbehebung zu unterstützen. Durch die Anzeige aller aktuellen und bisherigen Ereignisse für einen Workload erhalten Sie eine bessere Vorstellung davon, warum der Workload jetzt ein Performance- oder Kapazitätsproblem haben könnte. 
 ---
-= Fehlersuche bei Workloads mithilfe der Workload Analyzer
+= Beheben von Workload-Problemen mit dem Workload-Analyzer
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

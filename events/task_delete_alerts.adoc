@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, alerts 
 summary: Sie können eine Meldung löschen, wenn sie nicht mehr benötigt wird. Beispielsweise können Sie eine Warnmeldung löschen, die für eine bestimmte Ressource erstellt wurde, wenn diese Ressource nicht mehr von Unified Manager überwacht wird. 
 ---
-= Löschen von Meldungen
+= Warnungen löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

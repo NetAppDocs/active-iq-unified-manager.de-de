@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: determine, space, issue, aggregate 
 summary: Mit den Datacenter-APIs in Active IQ Unified Manager können Sie die Verfügbarkeit und Auslastung von Speicherplatz in Ihren Volumes überwachen. Sie können Platzprobleme in Ihrem Volume ermitteln und überlastete oder nicht ausgelastete Storage-Ressourcen identifizieren. 
 ---
-= Bestimmen von Platzproblemen in Aggregaten mithilfe von APIs
+= Ermitteln von Platzproblemen in Aggregaten mithilfe von APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, storage, workloads 
 summary: 'Mit den hier aufgeführten APIs können Sie eine konsolidierte Liste von Storage-Workloads für alle ONTAP Cluster im Datacenter anzeigen. Die APIs bieten auch eine Übersicht über die Anzahl der in Ihrer Active IQ Unified Manager Umgebung bereitgestellten Storage Workloads und ihre Kapazitäts- und IOPS-Statistiken (Performance).' 
 ---
-= Anzeigen von Storage-Workloads mithilfe von APIs
+= Anzeigen von Speicherworkloads mithilfe von APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: perform, diagnostic actions, volume, offline, conditions 
 summary: Nachdem Sie zur Seite Volume / Health Details eines gemeldeten Volumes navigieren, das offline sein soll, können Sie nach zusätzlichen Informationen suchen, die hilfreich sind, um die Offline-Bedingung des Volumens zu diagnostizieren. 
 ---
-= Durchführung von Diagnoseaktionen für Offline-Bedingungen des Volumes
+= Durchführen von Diagnoseaktionen für Volume-Offline-Zustände
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, performance, threshold, policies 
 summary: Sie können alle derzeit definierten Performance-Schwellenwertrichtlinien auf der Seite Performance-Schwellenwerte anzeigen. 
 ---
-= Anzeigen von Richtlinien für Performance-Schwellenwerte
+= Richtlinien für Leistungsschwellenwerte anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: enable, remote, logging, audit, logs 
 summary: Sie können das Kontrollkästchen Remote-Protokollierung aktivieren im Dialogfeld Überwachungsprotokolle konfigurieren aktivieren aktivieren, um die Remote-Audit-Protokollierung zu aktivieren. Mit dieser Funktion können Sie Überwachungsprotokolle an einen Remote Syslog-Server übertragen. Auf diese Weise können Sie Ihre Audit-Protokolle verwalten, wenn es Platzbeschränkungen gibt. 
 ---
-= Aktivieren der Fernprotokollierung von Audit-Protokollen
+= Aktivieren der Remote-Protokollierung von Überwachungsprotokollen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

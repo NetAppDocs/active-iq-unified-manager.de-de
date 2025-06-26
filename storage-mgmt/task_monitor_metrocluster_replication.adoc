@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: monitor, metrocluster, replication 
 summary: Sie können den allgemeinen Zustand der logischen Verbindungen überwachen und diagnostizieren, während Sie gleichzeitig die Daten spiegeln. Sie können die Probleme oder Risiken identifizieren, die die Spiegelung von Cluster-Komponenten wie Aggregaten, Nodes und Storage Virtual Machines unterbrechen. 
 ---
-= Monitoring der MetroCluster Replizierung
+= Überwachen der MetroCluster-Replikation
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -20,7 +20,7 @@ Der lokale und der Remote-Cluster in der MetroCluster Konfiguration müssen Unif
 
 
 
-== Anzeigen der Replikation für MetroCluster-über-IP-Konfigurationen
+== Replikation für MetroCluster über IP-Konfigurationen anzeigen
 
 Bei MetroCluster-over-IP-Konfigurationen wird der Datenreplizierungsstatus in der Topologieansicht für einen durch MetroCluster over IP geschützten Cluster aus den folgenden Ansichten im linken Navigationsbereich von Unified Manager angezeigt:
 
@@ -28,11 +28,11 @@ Bei MetroCluster-over-IP-Konfigurationen wird der Datenreplizierungsstatus in de
 * *Schutz* > *Beziehungen* > *Beziehung: MetroCluster* Ansicht
 
 
-Weitere Informationen finden Sie unter link:../storage-mgmt/task_monitor_metrocluster_configurations.html#monitor-connectivity-issues-in-metrocluster-over-ip["Überwachen Sie Konnektivitätsprobleme in MetroCluster über IP"].
+Weitere Informationen finden Sie unter link:../storage-mgmt/task_monitor_metrocluster_configurations.html#monitor-connectivity-issues-in-metrocluster-over-ip-configuration["Überwachen Sie Konnektivitätsprobleme in MetroCluster über IP"].
 
 
 
-== Anzeigen der Replizierung für MetroCluster über FC-Konfigurationen
+== Replikation für MetroCluster über FC-Konfigurationen anzeigen
 
 Befolgen Sie diese Schritte, um alle Probleme in der Datenreplizierung für die MetroCluster-over-FC-Konfiguration zu ermitteln.
 

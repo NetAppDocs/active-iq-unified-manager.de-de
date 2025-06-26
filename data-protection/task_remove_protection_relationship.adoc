@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: remove, protection, relationship, volume, relationships page 
 summary: 'Auf der Seite Volume Relationships können Sie eine Schutzbeziehung entfernen, um eine vorhandene Beziehung zwischen der ausgewählten Quelle und dem ausgewählten Ziel dauerhaft zu löschen: Zum Beispiel, wenn Sie eine Beziehung unter Verwendung eines anderen Ziels erstellen möchten. Durch diesen Vorgang werden alle Metadaten entfernt und können nicht rückgängig gemacht werden.' 
 ---
-= Entfernen einer Schutzbeziehung von der Seite Volume Relationships
+= Entfernen einer Schutzbeziehung von der Seite „Volume-Beziehungen“
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

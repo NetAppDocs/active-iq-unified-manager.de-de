@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: threshold, policy, node, failover, planning page 
 summary: Sie können eine Node-Schwellenwertrichtlinie erstellen, sodass Sie auf der Seite „Performance/Node Failover Planning“ eine Benachrichtigung erhalten können, wenn ein potenzieller Failover die Performance des Takeover-Node auf ein inakzeptables Maß verschlechtert. 
 ---
-= Verwenden einer Schwellenwertrichtlinie auf der Seite Knoten-Failover-Planung
+= Verwenden einer Schwellenwertrichtlinie mit der Seite „Knoten-Failover-Planung“
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

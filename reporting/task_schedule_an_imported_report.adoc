@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: schedule, imported, reports 
 summary: Sie können vorhandene Berichte planen, die in einer früheren Version von Unified Manager erstellt und importiert wurden. 
 ---
-= Planen importierter .rptdesign-Berichte
+= Planen Sie importierte .rptdesign-Berichte
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

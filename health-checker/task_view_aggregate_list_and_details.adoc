@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, aggregate list, details 
 summary: 'Aus der Ansicht „Systemzustand“: Alle Aggregate können Sie Ihr Inventar an Aggregaten überwachen. Die Kapazität: Alle Aggregatansicht ermöglicht es Ihnen, Informationen über Kapazität und Auslastung von Aggregaten in allen Clustern anzuzeigen.' 
 ---
-= Anzeigen der Aggregatliste und der Details
+= Gesamtliste und Details anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

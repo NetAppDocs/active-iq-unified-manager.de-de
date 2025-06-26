@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, available, volume, capacity, charts 
 summary: Sie können einen Bericht erstellen, um die verfügbare Volume-Kapazität in einem Excel-Diagramm zu analysieren. 
 ---
-= Erstellen eines Berichts, um verfügbare Volume-Kapazitätsdiagramme anzuzeigen
+= Erstellen Sie einen Bericht, um Diagramme zur verfügbaren Datenträgerkapazität anzuzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

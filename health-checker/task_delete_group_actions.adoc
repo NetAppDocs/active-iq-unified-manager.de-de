@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, group actions 
 summary: Sie können eine Gruppenaktion aus Unified Manager löschen, wenn die Gruppenaktion nicht mehr erforderlich ist. 
 ---
-= Gruppenaktionen werden gelöscht
+= Gruppenaktionen löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

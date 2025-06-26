@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, file, share 
 summary: Mithilfe der /Storage-Provider/File-Shares API können Sie die CIFS- und NFS-DateifreigabVolumes in Ihrer Datacenter-Umgebung anzeigen, hinzufügen, ändern und löschen. 
 ---
-= Verwalten von Dateifreigaben mit APIs
+= Verwalten von Dateifreigaben mithilfe von APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

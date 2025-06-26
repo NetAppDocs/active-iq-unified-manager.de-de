@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add space, data, disk, vmware, virtual, machine 
 summary: Wenn Sie die Menge an Speicherplatz auf der Datenfestplatte für die Unified Manager-Datenbank vergrößern müssen, können Sie nach der Installation Kapazität hinzufügen, indem Sie über die Unified Manager-Wartungskonsole Festplattenspeicher erweitern. 
 ---
-= Hinzufügen von Speicherplatz zur Datenfestplatte der virtuellen VMware-Maschine
+= Fügen Sie Speicherplatz zur Datenfestplatte der virtuellen VMware-Maschine hinzu
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

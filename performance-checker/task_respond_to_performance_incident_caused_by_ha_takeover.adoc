@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: dynamic, performance, event, ha, takeover 
 summary: 'Mit Unified Manager können Sie ein Performance-Ereignis anhand hoher Datenverarbeitung auf einem Cluster Node in einem Hochverfügbarkeitspaar (HA-Paar) untersuchen. Sie können auch Unified Manager verwenden, um den Systemzustand der Nodes zu überprüfen, ob kürzlich entdeckte Systemzustandsereignisse auf den Nodes, die zum Performance-Ereignis beigetragen haben.' 
 ---
-= Er reagiert auf ein dynamisches Performance-Ereignis, das durch HA Takeover verursacht wird
+= Reagieren Sie auf ein dynamisches Leistungsereignis, das durch die HA-Übernahme verursacht wurde
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

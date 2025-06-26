@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: clusters, unallocated, LUN, capacity, indentify, additional, workloads 
 summary: Sie können einen Bericht erstellen, um die Cluster mit der am meisten nicht zugewiesenen LUN-Kapazität zu finden. Dieser Wert liegt bei über 0,5 TB. Damit können Sie ermitteln, wo Sie zusätzliche Workloads hinzufügen können. 
 ---
-= Erstellen eines Berichts, um Cluster mit der am meisten nicht zugewiesenen LUN-Kapazität zu identifizieren
+= Erstellen Sie einen Bericht, um Cluster mit der größten nicht zugewiesenen LUN-Kapazität zu identifizieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

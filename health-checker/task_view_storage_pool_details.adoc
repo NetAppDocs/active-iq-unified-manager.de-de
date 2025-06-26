@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, storage pool, details 
 summary: Sie können Details zum Speicherpool anzeigen, um den Zustand des Speicherpools, den gesamten und verfügbaren Cache sowie die verwendeten und verfügbaren Zuweisungen zu überwachen. 
 ---
-= Anzeigen von Details zum Speicherpool
+= Zeigen Sie Details zum Speicherpool an
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, job, details 
 summary: Nachdem Sie einen Job gestartet haben, können Sie den Fortschritt auf der Seite Jobdetails verfolgen und die zugehörigen Aufgaben auf mögliche Fehler überwachen. 
 ---
-= Anzeigen von Jobdetails
+= Zeigt die Jobdetails an
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

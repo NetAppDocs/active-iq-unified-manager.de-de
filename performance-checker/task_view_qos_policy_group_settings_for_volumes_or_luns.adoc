@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, qos, policy, group, settings, applied, specific, volumes, luns 
 summary: Sie können die QoS-Richtliniengruppen anzeigen, die auf Ihre Volumes und LUNs angewendet wurden, und Sie können einen Link zur Ansicht „Performance/QoS-Richtliniengruppen“ erstellen, um die detaillierten Konfigurationseinstellungen für jede QoS-Richtlinie anzuzeigen. 
 ---
-= Anzeigen der QoS-Richtliniengruppeneinstellungen, die auf bestimmte Volumes oder LUNs angewendet wurden
+= Anzeigen der QoS-Richtliniengruppeneinstellungen, die auf bestimmte Volumes oder LUNs angewendet werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: dynamic, performance, event, disk, failure 
 summary: Mit Unified Manager können Sie ein Performance-Ereignis untersuchen, das durch die Überprovisionierung eines Aggregats verursacht wird. Sie können auch Unified Manager verwenden, um den Systemzustand des Aggregats zu überprüfen, um zu ermitteln, ob kürzlich auf dem Aggregat erkannte Systemzustandsereignisse zum Performance-Ereignis beigetragen haben. 
 ---
-= Reaktion auf ein dynamisches Performance-Ereignis aufgrund eines Festplattenausfalls
+= Reagieren auf ein dynamisches Leistungsereignis, das durch einen Datenträgerfehler verursacht wurde
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

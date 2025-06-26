@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, storage VMs, volume, limit 
 summary: Sie können einen Bericht erstellen, um SVMs zu finden, die die maximale Volume-Obergrenze erreichen. 
 ---
-= Erstellen eines Berichts, um Storage-VMs anzuzeigen, die die maximale Volume-Grenze erreichen
+= Erstellen Sie einen Bericht, um Speicher-VMs anzuzeigen, die das maximale Volumenlimit erreichen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

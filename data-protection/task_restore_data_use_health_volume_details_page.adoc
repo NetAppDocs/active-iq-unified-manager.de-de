@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: restore, data, volume, health details page 
 summary: Mit der Wiederherstellungsfunktion auf der Seite „Volume/Health Details“ können Sie überschreibte oder gelöschte Dateien, Verzeichnisse oder ein gesamtes Volume anhand einer Snapshot Kopie wiederherstellen. 
 ---
-= Wiederherstellen von Daten mithilfe der Seiten Volume- und Volume-/Health-Details
+= Stellen Sie Daten mithilfe der Detailseiten „Volume“ und „Volume/Integrität“ wieder her
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

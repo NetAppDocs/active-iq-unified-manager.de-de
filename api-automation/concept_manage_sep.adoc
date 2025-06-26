@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, storage, efficiency, policy 
 summary: Sie können Richtlinien zur Storage-Effizienz mithilfe der Storage-Provider-APIs anzeigen, erstellen, ändern und löschen. 
 ---
-= Management von Richtlinien zur Storage-Effizienz mithilfe von APIs
+= Verwalten von Speichereffizienzrichtlinien mithilfe von APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

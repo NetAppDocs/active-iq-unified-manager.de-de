@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, qtrees, full 
 summary: Sie können einen Bericht erstellen, um die Storage-Kapazität und -Auslastung von qtrees zu analysieren und nahezu volle qtrees anzuzeigen. 
 ---
-= Erstellung eines Berichts zur Anzeige von fast vollen qtrees
+= Erstellen Sie einen Bericht, um fast volle Qtrees anzuzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: assign, policies, workloads, single, multiple, storage, system-recommended, psls 
 summary: 'Sie können Storage-Workloads auf der Seite Alle Workloads mit verschiedenen Navigationsoptionen Storage Efficiency Policies (SEPs) und Performance Service Levels (PSLs) zuweisen.' 
 ---
-= Zuweisung von Richtlinien zu Workloads
+= Zuweisen von Richtlinien zu Workloads
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -15,7 +15,7 @@ Sie können Storage-Workloads auf der Seite Alle Workloads mit verschiedenen Nav
 
 
 
-== Zuweisen von Richtlinien zu einem einzelnen Workload
+== Zuweisen von Richtlinien zu einer einzelnen Arbeitslast
 
 Sie können eine PSL oder eine SEP oder beide für einen einzelnen Workload zuweisen. Führen Sie hierzu folgende Schritte aus:
 
@@ -35,7 +35,7 @@ Sie können auch einen Workload auswählen und auf *Mehr Aktionen* klicken, um d
 ====
 
 
-== Zuweisung von Richtlinien zu mehreren Storage Workloads
+== Zuweisen von Richtlinien zu mehreren Speicher-Workloads
 
 Sie können eine PSL oder eine SEP mehreren Storage Workloads zuweisen. Führen Sie hierzu folgende Schritte aus:
 
@@ -53,7 +53,7 @@ Das Anwenden von Richtlinien auf große Workloads kann je nach Anzahl der ausgew
 
 
 
-== Zuweisen von systemempfohlenen PSLs zu Workloads
+== Zuweisen systemempfohlener PSLs zu Workloads
 
 Sie können den Speicher-Workloads in einem Rechenzentrum, das keine PSLs zugewiesen hat, systemempfohlene PSLs zuweisen, oder die zugewiesenen PSLs stimmen nicht mit der Systemempfehlung überein. Um diese Funktionalität zu nutzen, klicken Sie auf die Schaltfläche *System Empfohlene PSLs*. Es müssen keine spezifischen Workloads ausgewählt werden.
 

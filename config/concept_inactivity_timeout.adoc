@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: inactivity timeout, feature settings 
 summary: Sie können den Wert für die Inaktivität-Zeitüberschreitung für Active IQ Unified Manager angeben. Nach einer Inaktivität der angegebenen Zeit wird die Anwendung automatisch abgemeldet. Diese Option ist standardmäßig aktiviert. 
 ---
-= Festlegen des Inaktivitätszeitlimits
+= Inaktivitäts-Timeout angeben
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

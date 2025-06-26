@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, resource, pool, members 
 summary: Ein Ressourcen-Pool besteht aus einer Reihe von Mitglied-Aggregaten. Sie können zu vorhandenen Ressourcen-Pools Aggregate hinzufügen, um den für die Provisionierung des sekundären Volumes verfügbaren Speicherplatz zu erhöhen. 
 ---
-= Hinzufügen von Mitgliedern des Ressourcenpool
+= Hinzufügen von Ressourcenpoolmitgliedern
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

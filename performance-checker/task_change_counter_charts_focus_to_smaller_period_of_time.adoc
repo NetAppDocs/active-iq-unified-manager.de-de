@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: change, counter, charts, focus, shorter, period, time 
 summary: Mit der Maus können Sie den Zeitbereich reduzieren, um sich auf einen bestimmten Zeitraum im Bereich Zählerdiagramm oder im Fenster Zoomansicht der Zählerdiagramme zu konzentrieren. So sehen Sie eine granularere und mikroskopische Ansicht aller Teile der Zeitachse von Performance-Daten, Ereignissen und Schwellenwerten. 
 ---
-= Ändern des Fokus der Zählerdiagramme auf einen kürzeren Zeitraum
+= Ändern Sie den Fokus der Counter Charts auf einen kürzeren Zeitraum
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

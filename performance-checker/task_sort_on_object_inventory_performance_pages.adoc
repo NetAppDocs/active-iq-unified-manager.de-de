@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: sort, object, inventory, performance, pages 
 summary: Sie können alle Daten auf den Seiten „Objektbestandsleistung“ nach jeder Spalte in aufsteigender oder absteigender Reihenfolge sortieren. So können Sie schnell Objektbestandsdaten finden, was bei der Überprüfung der Leistung oder beim Beginn eines Fehlerbehebungsprozesses hilfreich ist. 
 ---
-= Sortieren auf den Seiten „Objektbestandsleistung“
+= Sortieren auf den Seiten zur Objektinventarleistung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

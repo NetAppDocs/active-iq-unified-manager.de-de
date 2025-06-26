@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: expand, counter, charts, pane 
 summary: Sie können das Fenster Zählerdiagramme so erweitern, dass die Diagramme größer und lesbarer sind. 
 ---
-= Erweitern des Fensterbereichs Counter Charts
+= Erweitern Sie den Bereich „Zählerdiagramme“
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

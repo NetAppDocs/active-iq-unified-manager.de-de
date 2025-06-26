@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: identify, bully workloads, dynamic, performance, event 
 summary: 'In Unified Manager können Sie ermitteln, welche Workloads die höchste Nutzungsabweichung einer Clusterkomponente aufweisen. Anhand der Ermittlung dieser Workloads können Sie nachvollziehen, warum bestimmte Volumes des Clusters über langsame Reaktionszeiten (Latenz) verfügen.' 
 ---
-= Identifizierung problematischer Workloads, die an einem dynamischen Performance-Ereignis beteiligt sind
+= Identifizieren Sie die Arbeitsbelastung, die bei einem dynamischen Leistungsereignis auftritt.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

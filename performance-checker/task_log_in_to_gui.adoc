@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: log in, ui, unified manager 
 summary: Sie können sich über einen unterstützten Webbrowser bei der Benutzeroberfläche von Unified Manager anmelden. 
 ---
-= Melden Sie sich bei der UI an
+= Melden Sie sich bei der Benutzeroberfläche an
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

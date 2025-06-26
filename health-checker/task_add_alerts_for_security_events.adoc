@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, alerts, security events 
 summary: Sie können Benachrichtigungen für einzelne Sicherheitsereignisse so konfigurieren, wie es auch bei allen anderen Ereignissen, die Unified Manager empfangen hat. Wenn Sie außerdem alle Sicherheitsereignisse gleich behandeln und E-Mails an dieselbe Person senden möchten, können Sie eine einzelne Benachrichtigung erstellen, um Sie darüber zu informieren, wenn Sicherheitsereignisse ausgelöst werden. 
 ---
-= Hinzufügen von Warnmeldungen für Sicherheitsereignisse
+= Hinzufügen von Warnungen für Sicherheitsereignisse
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: export, storage, data, reports 
 summary: Sie können Storage-Daten in verschiedenen Ausgabeformaten exportieren und dann die exportierten Daten verwenden, um Berichte zu erstellen. Wenn z. B. 10 kritische Ereignisse nicht behoben wurden, können Sie die Daten von der Seite „Ereignismanagement-Bestand“ exportieren, um einen Bericht zu erstellen, und den Bericht anschließend an Administratoren senden, die die Probleme beheben können. 
 ---
-= Exportieren von Speicherdaten als Berichte
+= Speicherdaten als Berichte exportieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: select, performance, charts, display 
 summary: In der Dropdown-Liste Diagramme auswählen können Sie die Arten von Performance-Zählerdiagrammen auswählen, die im Bereich Counter Charts angezeigt werden sollen. So können Sie basierend auf Ihren Performance-Anforderungen bestimmte Daten und Zähler anzeigen. 
 ---
-= Auswählen der anzuzeigenden Leistungsdiagramme
+= Wählen Sie die anzuzeigenden Leistungsdiagramme aus
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

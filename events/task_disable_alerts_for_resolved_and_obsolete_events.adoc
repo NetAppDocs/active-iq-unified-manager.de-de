@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: enable, disable, alerts, resolved, obsolete, events 
 summary: 'Für alle Ereignisse, die Sie für das Senden von Warnungen konfiguriert haben, wird eine Warnmeldung gesendet, wenn diese Ereignisse alle verfügbaren Status durchlaufen: Neu, bestätigt, behoben und veraltet. Wenn Sie keine Benachrichtigungen für Ereignisse erhalten möchten, während diese in den Status „aufgelöst“ und „veraltet“ verschoben werden, können Sie eine globale Einstellung konfigurieren, um diese Warnmeldungen zu unterdrücken.' 
 ---
-= Aktivieren und Deaktivieren von Warnmeldungen für gelöste und veraltete Ereignisse
+= Aktivieren und Deaktivieren von Warnungen für behobene und veraltete Ereignisse
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

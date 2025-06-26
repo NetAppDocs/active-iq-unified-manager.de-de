@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: monitor, virtual, machines, view, summary, topology, expand 
 summary: 'Um Latenzproblem der Virtual Machine (VM)-Applikationen zu beheben, müssen Sie möglicherweise die VMs überwachen, um die Ursache zu analysieren und zu beheben. Die VMs sind verfügbar, wenn ihr vCenter Server und die ONTAP Cluster, die den VM Storage hosten, zu Unified Manager hinzugefügt werden.' 
 ---
-= Monitoring von Virtual Machines
+= Überwachen virtueller Maschinen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -26,7 +26,7 @@ Ermitteln Sie den I/O-Pfad und die Latenzen auf Komponentenebene anhand eines to
 
 
 
-== Anzeigen der zusammenfassenden Topologie
+== Anzeigen der Übersichtstopologie
 
 Zur Ermittlung von Performance-Problemen durch Anzeige der VMs in einer zusammengefassten Topologie:
 
@@ -53,7 +53,7 @@ VCenter Server ermöglichen Sonderzeichen (z. B. %, &, *, €, #, @, !, \, /, :,
 
 
 
-== Anzeigen der erweiterten Topologie
+== Erweiterte Topologie anzeigen
 
 Sie können die einzelnen Komponenten separat anzeigen, indem Sie die erweiterte Topologie der VM anzeigen.
 

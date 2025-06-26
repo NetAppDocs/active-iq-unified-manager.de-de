@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, node, iops, workloads, reside, only, local node 
 summary: 'Das Node-IOPS-Zählerdiagramm kann hervorheben, wo die Vorgänge nur den lokalen Node durchlaufen, indem eine Netzwerk-LIF zum Ausführen von Lese-/Schreibvorgängen auf Volumes auf einem Remote-Node verwendet wird. Die Diagramme IOPS - „Total (Local)“ und „Breakdown (Local)“ zeigen die IOPS für Daten an, die sich nur auf dem aktuellen Knoten in lokalen Volumes befinden.' 
 ---
-= Anzeigen von Node-IOPS auf Basis von Workloads, die sich nur auf dem lokalen Node befinden
+= Anzeigen der Knoten-IOPS basierend auf Workloads, die sich nur auf dem lokalen Knoten befinden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

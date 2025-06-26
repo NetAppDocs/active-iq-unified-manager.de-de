@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: bookmark, favorite, help topics 
 summary: Auf der Registerkarte „Hilfe-Favoriten“ können Sie häufig verwendete Hilfethemen als Lesezeichen hinzufügen. Hilfe-Lesezeichen ermöglichen den schnellen Zugriff auf Ihre bevorzugten Themen. 
 ---
-= Lesezeichen für Ihre bevorzugten Hilfethemen
+= Setzen Sie ein Lesezeichen für Ihre bevorzugten Hilfethemen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

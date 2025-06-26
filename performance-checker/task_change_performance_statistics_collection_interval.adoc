@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, change, performance, statistics, collection, interval 
 summary: Das Standard-Erfassungsintervall für Performance-Statistiken beträgt 5 Minuten. Sie können dieses Intervall auf 10 oder 15 Minuten ändern, wenn Sie feststellen, dass Sammlungen von großen Clustern nicht innerhalb der Standardzeit abgeschlossen werden. Diese Einstellung wirkt sich auf die Erfassung der Statistiken aus allen Clustern aus, die diese Instanz von Unified Manager überwacht. 
 ---
-= Ändern des Erfassungsintervalls der Performance-Statistiken
+= Ändern des Erfassungsintervalls für Leistungsstatistiken
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

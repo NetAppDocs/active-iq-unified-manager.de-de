@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, users, groups 
 summary: Sie können einen oder mehrere Benutzer aus der Management-Server-Datenbank löschen, um den Zugriff bestimmter Benutzer auf Unified Manager zu verhindern. Sie können auch Gruppen löschen, sodass alle Benutzer der Gruppe nicht mehr auf den Verwaltungsserver zugreifen können. 
 ---
-= Benutzer oder Gruppen werden gelöscht
+= Löschen von Benutzern oder Gruppen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

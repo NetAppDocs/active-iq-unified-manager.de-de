@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: change, unified manager, host, name 
 summary: Irgendwann möchten Sie möglicherweise den Host-Namen des Systems ändern, auf dem Unified Manager installiert ist. Beispielsweise möchten Sie den Host umbenennen, um Ihre Unified Manager-Server nach Typ, Arbeitsgruppe oder überwachten Cluster-Gruppen einfacher zu identifizieren. 
 ---
-= Ändern des Unified Manager-Host-Namens
+= Ändern des Unified Manager-Hostnamens
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

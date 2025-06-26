@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: managing, performance, qos, policy, group, information 
 summary: 'Mit Unified Manager können Sie die QoS-Richtliniengruppen (Quality of Service) anzeigen, die auf allen von Ihnen überwachten Clustern verfügbar sind. Die Richtlinien können mithilfe der ONTAP Software (System Manager oder die ONTAP CLI) oder durch Richtlinien auf Unified Manager Performance Service Level definiert wurden. Unified Manager zeigt außerdem an, welchen Volumes und LUNs eine QoS-Richtliniengruppe zugewiesen ist.' 
 ---
-= Management der Performance mithilfe von QoS-Richtliniengruppeninformationen
+= Verwalten der Leistung mithilfe von QoS-Richtliniengruppeninformationen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

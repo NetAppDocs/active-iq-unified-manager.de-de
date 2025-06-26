@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: storage vm, viewing protection relationships 
 summary: Mithilfe der Seite Storage VMs können Sie den Status der Disaster-Recovery-Beziehungen von vorhandenen Storage-VMs anzeigen. 
 ---
-= Anzeigen von Sicherungsbeziehungen von der Seite Storage VMs
+= Schutzbeziehungen auf der Seite „Storage-VMs“ anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

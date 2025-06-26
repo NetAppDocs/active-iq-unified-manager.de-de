@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, performance, charts, compare, volumes, luns, same, qos, policy, group 
 summary: Sie können die Volumes und LUNs in denselben QoS-Richtliniengruppen anzeigen und anschließend die Performance in einem einzelnen Diagramm mit IOPS, MB/s oder IOPS/TB vergleichen, um Probleme zu identifizieren. 
 ---
-= Anzeigen von Performance-Diagrammen zum Vergleich von Volumes oder LUNs in derselben QoS-Richtliniengruppe
+= Zeigen Sie Leistungsdiagramme an, um Volumes oder LUNs zu vergleichen, die sich in derselben QoS-Richtliniengruppe befinden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, cascade fanout, relationships, extend protection, existing protection relationship 
 summary: Sie können den Schutz vor einer bestehenden Beziehung erweitern, indem Sie entweder einen Fanout vom Quell-Volume oder eine Kaskade vom Zielvolumen einer bestehenden Beziehung erstellen. Dies kann der Fall sein, wenn Sie Daten von einem Standort auf mehrere Standorte kopieren oder durch das Erstellen weiterer Backups zusätzlichen Schutz bieten müssen. 
 ---
-= Erstellen von Kaskadierungs- oder Fanout-Beziehungen, um den Schutz vor einer bestehenden Schutzbeziehung zu erweitern
+= Erstellen Sie Kaskaden- oder Fanout-Beziehungen, um den Schutz einer bestehenden Schutzbeziehung zu erweitern.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

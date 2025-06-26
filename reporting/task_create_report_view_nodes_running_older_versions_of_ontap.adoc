@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, nodes, running, older versions, ONTAP 
 summary: Sie können einen Bericht erstellen, um die Version der ONTAP Software anzuzeigen, die auf allen Cluster-Nodes installiert ist. So können Sie sehen, welche Nodes Sie aktualisieren sollten. 
 ---
-= Erstellen eines Berichts zum Anzeigen von Nodes, auf denen ältere Versionen von ONTAP ausgeführt werden
+= Erstellen Sie einen Bericht, um Knoten anzuzeigen, auf denen ältere Versionen von ONTAP ausgeführt werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

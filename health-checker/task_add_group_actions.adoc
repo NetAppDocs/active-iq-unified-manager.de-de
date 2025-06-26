@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, group, actions 
 summary: Sie können Gruppenaktionen konfigurieren, die Sie auf Speicherobjekte in einer Gruppe anwenden möchten. Durch das Konfigurieren von Aktionen für eine Gruppe sparen Sie Zeit, da Sie diese Aktionen nicht einzeln zu jedem Objekt hinzufügen müssen. 
 ---
-= Gruppenaktionen werden hinzugefügt
+= Gruppenaktionen hinzufügen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

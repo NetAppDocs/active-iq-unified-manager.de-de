@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: verify, unified manager, data source, cache, workflow automation 
 summary: Sie können feststellen, ob das Caching der Datenquelle von Unified Manager ordnungsgemäß funktioniert, indem Sie prüfen, ob die Datenerfassung in Workflow Automation erfolgreich ist. Dies kann Sie erreichen, wenn Sie Workflow Automation in Unified Manager integrieren, um sicherzustellen, dass Workflow-Automatisierung nach der Integration verfügbar ist. 
 ---
-= Überprüfen des Quellcaches von Unified Manager in Workflow Automation
+= Überprüfen des Unified Manager-Datenquellen-Cachings in der Workflow-Automatisierung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

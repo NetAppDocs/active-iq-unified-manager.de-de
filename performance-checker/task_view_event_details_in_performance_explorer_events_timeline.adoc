@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, event, details, timeline 
 summary: Sie können alle Ereignisse und ihre zugehörigen Details im Fenster „Zeitleiste für Ereignisse“ des Performance Explorers anzeigen. Dies ist eine schnelle und effiziente Methode zur Anzeige aller Zustand- und Performance-Ereignisse, die sich während eines bestimmten Zeitbereichs auf dem Root-Objekt auftraten, die bei der Fehlerbehebung von Performance-Problemen hilfreich sein können. 
 ---
-= Anzeigen von Ereignisdetails in der Ereigniszeitleiste
+= Ereignisdetails in der Ereigniszeitleiste anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

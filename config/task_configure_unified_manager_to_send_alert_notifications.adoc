@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, unified manager, send, alert, notifications 
 summary: Sie können Unified Manager so konfigurieren, dass Sie Benachrichtigungen über Ereignisse in Ihrer Umgebung senden. Bevor Benachrichtigungen gesendet werden können, müssen Sie mehrere andere Unified Manager-Optionen konfigurieren. 
 ---
-= Konfigurieren von Unified Manager zum Senden von Warnmeldungen
+= Konfigurieren Sie Unified Manager zum Senden von Warnbenachrichtigungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

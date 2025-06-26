@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: understand, counter, charts 
 summary: Diagramme im Fensterbereich Zählerdiagramme ermöglichen das Anzeigen und Vergleichen von Performancedaten für das Root-Objekt und für Objekte, die Sie aus dem Raster der korrelierten Objekte hinzugefügt haben. Auf diese Weise können Sie Performance-Trends besser verstehen und Performance-Probleme isolieren und lösen. 
 ---
-= Allgemeines zu Zählerdiagrammen
+= Zählerdiagramme verstehen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

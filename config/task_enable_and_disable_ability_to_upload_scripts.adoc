@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: script upload, enable, disable 
 summary: Die Möglichkeit, Skripts in Unified Manager hochzuladen und sie auszuführen, ist standardmäßig aktiviert. Wenn Ihr Unternehmen diese Aktivität aus Sicherheitsgründen nicht zulassen möchte, können Sie diese Funktion deaktivieren. 
 ---
-= Aktivieren und Deaktivieren des Hochladen von Skripten
+= Aktivieren und Deaktivieren des Skript-Uploads
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, authentication servers 
 summary: Sie können Authentifizierungsserver hinzufügen und die Remote-Authentifizierung auf dem Verwaltungsserver aktivieren, sodass Remote-Benutzer innerhalb des Authentifizierungsservers auf Unified Manager zugreifen können. 
 ---
-= Hinzufügen von Authentifizierungsservern
+= Authentifizierungsserver hinzufügen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

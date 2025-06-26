@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: download, reports 
 summary: 'Sie können Berichte herunterladen und die Daten als CSV-Datei (Comma Separated Values), als Microsoft Excel (.XLSX)-Datei oder als PDF-Datei auf einem lokalen oder Netzwerklaufwerk speichern. Sie können CSV- und XLSX-Dateien mit Tabellenkalkulationsanwendungen wie Microsoft Excel und PDF-Dateien mit Lesern wie Adobe Acrobat öffnen.' 
 ---
-= Berichte werden heruntergeladen
+= Berichte herunterladen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

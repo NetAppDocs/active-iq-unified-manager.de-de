@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, group, volume, relationships, issue 
 summary: Sie können einen Bericht erstellen, der Volume-Beziehungen nach Problem gruppiert. 
 ---
-= Erstellen eines Berichts zur Gruppierung von Volume-Beziehungen nach Problem
+= Erstellen Sie einen Bericht, um Volumenbeziehungen nach Problem zu gruppieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

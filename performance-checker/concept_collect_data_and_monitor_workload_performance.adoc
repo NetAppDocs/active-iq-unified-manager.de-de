@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: collect, data, monitor, workload, performance 
 summary: Unified Manager erfasst und analysiert Workload-Aktivitäten alle 5 Minuten, um Performance-Ereignisse zu identifizieren und Konfigurationsänderungen alle 15 Minuten zu erkennen. Es werden maximal 30 Tage 5 vergangener Performance- und Ereignisdaten aufbewahrt. Anhand dieser Daten wird der erwartete Latenzbereich für alle überwachten Workloads prognostiziert. 
 ---
-= Erfassung von Daten und Monitoring der Workload-Performance
+= Sammeln Sie Daten und überwachen Sie die Workload-Leistung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

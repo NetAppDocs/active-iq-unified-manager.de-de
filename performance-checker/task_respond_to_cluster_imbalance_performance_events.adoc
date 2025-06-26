@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: cluster, imbalance, performance, events 
 summary: Unified Manager generiert Warnereignisse bei einem Cluster-Ungleichgewicht, wenn ein Node in einem Cluster mit einer deutlich höheren Auslastung arbeitet als andere Nodes, und dies beeinträchtigt möglicherweise die Workload-Latenzen. Diese systemdefinierten Ereignisse bieten die Möglichkeit, potenzielle Performance-Probleme zu beheben, bevor viele Workloads von der Latenz beeinträchtigt werden. 
 ---
-= Reaktion auf Unausgeglichenheit der Performance im Cluster
+= Reagieren auf Leistungsungleichgewichte im Cluster
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

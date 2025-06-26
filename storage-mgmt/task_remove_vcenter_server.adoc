@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: review, vcenter, server 
 summary: Sie können vCenter-Server aus Ihrer Active IQ Unified Manager-Instanz entfernen, wenn sie nicht mehr benötigt werden. 
 ---
-= VCenter Server wird entfernt
+= Entfernen von vCenter Server
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

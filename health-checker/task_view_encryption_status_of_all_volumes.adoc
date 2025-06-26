@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, encryption status, volumes 
 summary: Sie können eine Liste aller Volumes und ihren aktuellen Verschlüsselungsstatus anzeigen, um zu ermitteln, ob die Daten auf Ihren Volumes vor dem Zugriff durch nicht autorisierte Benutzer angemessen geschützt sind. 
 ---
-= Anzeigen des Verschlüsselungsstatus aller Volumes
+= Den Verschlüsselungsstatus aller Volumes anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

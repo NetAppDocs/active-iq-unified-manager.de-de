@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: exclude, disaster, recovery, destination, volumes, generate, alerts 
 summary: Bei der Konfiguration von Volume-Warnmeldungen können Sie im Dialogfeld Warnung eine Zeichenfolge angeben, die ein Volume oder eine Volume-Gruppe identifiziert. Wenn Sie Disaster Recovery für SVMs konfiguriert haben, jedoch haben die Quell- und Ziel-Volumes denselben Namen, sodass Sie Warnmeldungen für beide Volumes erhalten. 
 ---
-= Ausschließen von Ziel-Volumes für Disaster Recovery von Alarmmeldungen
+= Ausschließen von Disaster Recovery-Zielvolumes von der Generierung von Warnungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

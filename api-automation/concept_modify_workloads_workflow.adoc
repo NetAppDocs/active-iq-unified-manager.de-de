@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: modify, storage, workloads 
 summary: Das Ändern von Storage-Workloads besteht aus der Aktualisierung von LUNs oder File Shares mit fehlenden Parametern oder der Änderung der vorhandenen Parameter. 
 ---
-= Ändern von Storage-Workloads mithilfe von APIs
+= Ändern von Speicherworkloads mithilfe von APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -191,7 +191,7 @@ Zeigen Sie die Details der Dateifreigabe in der Ausgabe an.
 
 
 
-== LUNs werden aktualisiert
+== LUNs aktualisieren
 
 Während Sie eine LUN aktualisieren, können Sie die folgenden Parameter ändern:
 

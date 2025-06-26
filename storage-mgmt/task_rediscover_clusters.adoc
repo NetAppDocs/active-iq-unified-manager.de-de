@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: rediscover clusters, 
 summary: Sie können ein Cluster manuell auf der Seite Cluster Setup neu finden, um die neuesten Informationen über den Systemzustand, den Monitoring-Status und den Performance-Status des Clusters abzurufen. 
 ---
-= Cluster-Erkennung neu ermitteln
+= Cluster neu entdecken
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

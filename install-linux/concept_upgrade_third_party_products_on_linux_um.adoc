@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: data center manager, upgrade, third-party products 
 summary: Sie können Produkte von Drittanbietern wie JRE auf Unified Manager aktualisieren, wenn sie auf Linux-Systemen installiert sind. 
 ---
-= Upgrade von Drittanbieterprodukten nach der Installation von Unified Manager
+= Aktualisieren Sie Produkte von Drittanbietern nach der Installation von Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

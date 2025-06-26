@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: change, unified manager, host name, linux systems 
 summary: Irgendwann möchten Sie vielleicht den Hostnamen der Red hat Enterprise Linux-Maschine ändern, auf der Sie Unified Manager installiert haben. Sie möchten beispielsweise den Host umbenennen, um Ihre Unified Manager-Server nach Typ, Arbeitsgruppe oder überwachten Cluster-Gruppen einfacher zu identifizieren, wenn Sie Ihre Linux-Maschinen auflisten. 
 ---
-= Ändern des Unified Manager Host-Namens auf Linux-Systemen
+= Ändern des Unified Manager-Hostnamens auf Linux-Systemen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

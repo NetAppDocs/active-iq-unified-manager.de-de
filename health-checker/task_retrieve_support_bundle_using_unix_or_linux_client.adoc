@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: retrieve, support bundle, unix, linux, client 
 summary: 'Wenn Sie UNIX- oder Linux-Benutzer sind, können Sie das Support Bundle über Ihre vApp abrufen, indem Sie die Befehlszeilenschnittstelle (CLI) auf Ihrem Linux-Client-Server verwenden. Sie können das Supportpaket entweder mit SCP oder SFTP abrufen.' 
 ---
-= Abrufen des Support-Pakets über einen UNIX oder Linux Client
+= Abrufen des Support-Pakets mit einem UNIX- oder Linux-Client
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

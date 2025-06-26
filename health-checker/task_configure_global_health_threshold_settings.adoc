@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, global health, threshold settings 
 summary: Sie können globale Statusschwellenwerte für Kapazität, Wachstum, Snapshot-Reserve, Quoten und Inodes konfigurieren, um die Aggregat-, Volume- und qtree-Größe effektiv zu überwachen. Sie können auch die Einstellungen für das Generieren von Ereignissen für das Überschreiten der Schwellenwerte für Verzögerungen bearbeiten. 
 ---
-= Konfigurieren von globalen Schwellenwerteinstellungen für den Systemzustand
+= Konfigurieren der globalen Integritätsschwellenwerteinstellungen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

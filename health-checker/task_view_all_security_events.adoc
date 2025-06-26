@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, active, security events 
 summary: Sie können alle aktiven Sicherheitsereignisse anzeigen und sie anschließend einem Benutzer zuweisen, der das Problem lösen kann. Wenn bestimmte Sicherheitsereignisse vorliegen, die Sie nicht empfangen möchten, kann Ihnen diese Liste helfen, die Ereignisse zu identifizieren, die Sie deaktivieren möchten. 
 ---
-= Anzeigen aller aktiven Sicherheitsereignisse
+= Alle aktiven Sicherheitsereignisse anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

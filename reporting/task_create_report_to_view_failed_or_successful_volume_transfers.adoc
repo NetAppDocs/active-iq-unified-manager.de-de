@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, failed, successful, volume, transfer 
 summary: Sie können einen Bericht erstellen, in dem der Status der Volume-Transfers angezeigt wird. Sie können sowohl fehlgeschlagene als auch erfolgreiche Volume-Transfers in diesem Bericht anzeigen. 
 ---
-= Erstellen eines Berichts zur Anzeige eines fehlgeschlagenen oder erfolgreichen Volume-Transfers
+= Erstellen Sie einen Bericht, um fehlgeschlagene oder erfolgreiche Volumeübertragungen anzuzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

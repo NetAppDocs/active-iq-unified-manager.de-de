@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: slo, storage efficiency policy, storage workloads 
 summary: 'Die richtlinienbasierte Option für das Storage-Management ermöglicht Storage-Management auf der Basis von Service Level Objectives (SLOs). Diese Option ist standardmäßig aktiviert.' 
 ---
-= Aktivieren eines richtlinienbasierten Storage-Managements
+= Richtlinienbasiertes Storage-Management
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

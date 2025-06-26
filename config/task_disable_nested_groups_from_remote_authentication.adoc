@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: disable, nested groups, remote, authentication 
 summary: Wenn die Remote-Authentifizierung aktiviert ist, können Sie die verschachtelte Gruppenauthentifizierung deaktivieren, sodass sich nur einzelne Benutzer und nicht Gruppenmitglieder im Remote-Zugriff auf Unified Manager authentifizieren können. Sie können verschachtelte Gruppen deaktivieren, wenn Sie die Reaktionszeit der Active Directory-Authentifizierung verbessern möchten. 
 ---
-= Deaktivieren verschachtelter Gruppen von der Remote-Authentifizierung
+= Deaktivieren der Remote-Authentifizierung für verschachtelte Gruppen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

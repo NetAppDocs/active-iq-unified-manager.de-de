@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: specify, time range, zoom view 
 summary: Mit der Zeitbereichs-Steuerung im Fenster Zählerdiagramme Zoom-Ansicht können Sie ein Datum und einen Zeitbereich für das ausgewählte Diagramm festlegen. So können Sie bestimmte Daten schnell auf Basis eines voreingestellten Zeitbereichs oder eines eigenen benutzerdefinierten Zeitbereichs finden. 
 ---
-= Festlegen des Zeitbereichs in der Zoom-Ansicht
+= Geben Sie den Zeitbereich in der Zoomansicht an
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
