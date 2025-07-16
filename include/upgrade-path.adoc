@@ -22,6 +22,7 @@ Wenn die installierte Version beispielsweise Unified Manager 9.9 ist und Sie auf
 .Beispiel für ein Upgrade-Pfad:
 . Upgrade 9.11 -> 9.13
 . Upgrade 9.13 -> 9.14
+. Upgrade 9.13 -> 9.16
 . Upgrade 9.14 -> 9.16
 
 
