@@ -27,7 +27,7 @@ Bei Verwendung des Host-Namens muss dieser für die Cluster-Management-IP-Adress
 Für dieses Konto muss die Rolle _admin_ mit dem Anwendungszugriff auf _ontapi_, _Console_ und _http_ eingestellt sein.
 
 ** Sie müssen die Port-Nummer kennen, um eine Verbindung zum Cluster mithilfe des HTTPS-Protokolls (normalerweise Port 443) herzustellen.
-** Der Cluster muss die ONTAP Version 9.1 oder höher ausführen.
+** Auf dem Cluster muss die ONTAP Softwareversion 9.9 oder höher ausgeführt werden.
 ** Auf dem Unified Manager-Server muss ausreichend Speicherplatz vorhanden sein. Sie können dem Server kein Cluster hinzufügen, wenn bereits mehr als 90 % des Speicherplatzes belegt sind.
 ** Sie verfügen über die erforderlichen Zertifikate:
 +

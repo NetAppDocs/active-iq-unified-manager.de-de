@@ -17,7 +17,7 @@ Sie können die herunterladen `.tar` Datei, die ein Stammzertifikat enthält, a 
 
 == Systemanforderungen
 
-* Betriebssystem: VMware ESXi 7.0 und 8.0
+* Betriebssystem: VMware ESXi 8.0
 * RAM: 12 GB
 * CPU: Insgesamt 9572 MHz
 * Freier Speicherplatz: 5 GB (Thin Provisioning), 152 GB (Thick Provisioning)

@@ -18,13 +18,9 @@ Sie können die virtuelle Maschine (VM) von Unified Manager von der Wartungskons
 * Sie sollten als Wartungsbenutzer bei der Unified Manager Wartungskonsole angemeldet sein.
 
 
-Sie können die virtuelle Maschine auch von vSphere mit der Option VMware *Neustart Gast* neu starten.
+Sie können die virtuelle Maschine auch von vSphere aus neu starten, indem Sie die VMware-Option „Gast neu starten“ verwenden. Weitere Informationen finden Sie unter  https://developer.broadcom.com/powercli/latest/vmware.vimautomation.core/commands/restart-vmguest/["das Cmdlet „Restart-VMGuest“ in der VMware vSphere PowerCLI CMDLET-Referenz von Broadcom."^]
 
 .Schritte
 . Wählen Sie in der Wartungskonsole *Systemkonfiguration* > *virtuelle Maschine neu starten* aus.
 . Starten Sie die Web-UI von Unified Manager über Ihren Browser, und melden Sie sich an.
 
-
-*Verwandte Informationen*
-
-https://www.vmware.com/support/developer/PowerCLI/PowerCLI41/html/Restart-VMGuest.html["VMware vSphere PowerCLI cmdlets Referenz: Neustart-VMGuest"]
