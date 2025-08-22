@@ -78,7 +78,9 @@ Nachdem alle Objekte für ein neues Cluster erkannt wurden, sammelt Unified Mana
 
 [NOTE]
 ====
-Da die Sammlung von 15 Tagen Leistungsdaten CPU-intensiv ist, empfiehlt es sich, das Hinzufügen neuer Cluster zu staffeln, so dass Datenkontinuitätssammlung nicht auf zu vielen Clustern zur gleichen Zeit laufen. Wenn Sie Unified Manager während des Datenerfassungszeitraums neu starten, wird die Sammlung angehalten, und es werden für den fehlenden Zeitraum Lücken in den Leistungsdiagrammen angezeigt.
+* Die Erfassung von Leistungsdaten für 15 Tage ist CPU-intensiv.  NetApp empfiehlt, das Hinzufügen neuer Cluster zeitlich zu staffeln, damit die Abfragen zur Datenkontinuitätserfassung nicht auf zu vielen Clustern gleichzeitig ausgeführt werden.  Wenn Sie Unified Manager während des Datenkontinuitätserfassungszeitraums neu starten, wird die Erfassung angehalten und Sie sehen Lücken in den Leistungsdiagrammen für den fehlenden Zeitraum.
+* Wenn Sie einen ONTAP Cluster mit Version 9.14.1 oder höher hinzufügen, erfolgt die Kommunikation über die Cloud-Agent-Funktion.  ONTAP erstellt automatisch einen internen Servicekontobenutzer mit schreibgeschützten Berechtigungen (z. B. clus-agent-xxxx).  Unified Manager stoppt die Datenerfassung aus diesen Clustern, wenn `clus-agent` Benutzer wird gelöscht.
+
 
 ====
 [TIP]
