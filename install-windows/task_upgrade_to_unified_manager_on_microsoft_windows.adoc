@@ -11,7 +11,7 @@ summary: Sie können ein Upgrade von Unified Manager durchführen, indem Sie die
 
 
 [role="lead"]
-Sie können ein Upgrade von Unified Manager 9.13 oder 9.14 auf 9.16 durchführen, indem Sie die Installationsdatei auf die Windows-Plattform herunterladen und ausführen.
+Sie können Unified Manager 9.14 oder 9.16 auf 9.18 aktualisieren, indem Sie die Installationsdatei auf der Windows-Plattform herunterladen und ausführen.
 
 .Bevor Sie beginnen
 * Das System, auf dem Unified Manager aktualisiert wird, sollte die System- und Software-Anforderungen erfüllen.

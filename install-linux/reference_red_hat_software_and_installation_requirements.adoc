@@ -19,7 +19,7 @@ Das Linux-System, auf dem Unified Manager installiert wird, erfordert bestimmte 
 
 Das Linux-System muss die folgenden Versionen des Betriebssystems und die unterstützende Software installiert haben:
 
-* Red hat Enterprise Linux Versionen 8.x und 9.4, basierend auf x86_64-Architektur.
+* Red Hat Enterprise Linux Versionen 8.x und 9.6, basierend auf der x86_64-Architektur.
 
 
 In der Interoperabilitäts-Matrix finden Sie die vollständige und aktuelle Liste der unterstützten Red hat Enterprise Linux-Versionen.
@@ -40,8 +40,8 @@ Unified Manager wird auf einem WildFly Web-Server bereitgestellt. WildFly 26.1.3
 Die folgenden Drittanbieterpakete sind erforderlich, jedoch nicht in Unified Manager enthalten. Diese Pakete werden automatisch vom installiert `yum` Installationsprogramm während der Installation, vorausgesetzt, Sie haben die Repositories wie in den folgenden Abschnitten beschrieben konfiguriert.
 
 * MySQL Community Edition Version 8.4.4 (aus dem MySQL-Repository)
-* OpenJDK Version 11.0.25 (aus dem Red hat Extra Enterprise Linux Server-Repository)
-* Python 3.9.x (aus dem Repository von Red hat Extra Enterprise Linux Server)
+* OpenJDK Version 17.0.14+6 (aus dem Red Hat Extra Enterprise Linux Server-Repository)
+* Python 3.12 (aus dem Red Hat Extra Enterprise Linux Server-Repository)
 * P7zip Version 16.02 oder höher (aus dem Red hat Extra Packages for Enterprise Linux Repository)
 
 

@@ -5,9 +5,9 @@ indexpage:
   keywords: aiqum docs, um docs, unified manager, active iq, oncommand, storage, windows,
     linux,  vmware vsphere, vapp, configure
   lead: Mit Active IQ Unified Manager (Unified Manager und früher OnCommand Unified
-    Manager) können Sie den Zustand und die Performance Ihrer ONTAP Storage-Systeme
-    über eine einzige Benutzeroberfläche überwachen und managen. Diese Dokumentationsbibliothek
-    enthält Informationen zu Version 9.16.
+    Manager) können Sie den Zustand und die Leistung Ihrer ONTAP -Speichersysteme
+    über eine einzige Schnittstelle überwachen und verwalten. Diese Dokumentationsbibliothek
+    enthält Informationen zur Version 9.18.
   tiles:
   - title: Los geht's
     links:

@@ -21,6 +21,7 @@ Je nach Betriebssystem, auf dem Sie Unified Manager installiert haben, besteht d
 +
 .. Support/Diagnose
 .. Serverzertifikat Zurücksetzen
+.. Client-Zertifikat neu generieren
 .. Externer Daten-Provider
 .. Backup Restore
 .. Konfiguration Des Leistungsintervalls

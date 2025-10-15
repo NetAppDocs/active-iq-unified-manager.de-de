@@ -11,7 +11,7 @@ summary: Sie können ein Upgrade der virtuellen Unified Manager-Appliance durchf
 
 
 [role="lead"]
-Sie können die virtuelle Active IQ Unified Manager Appliance von Version 9.13 oder 9.14 auf Version 9.16 aktualisieren.
+Sie können die virtuelle Appliance Active IQ Unified Manager von den Versionen 9.14 oder 9.16 auf 9.18 aktualisieren.
 
 .Bevor Sie beginnen
 Stellen Sie Folgendes sicher:
