@@ -22,8 +22,8 @@ Je nach Betriebssystem, auf dem Sie Unified Manager installiert haben, besteht d
 .. Support/Diagnose
 .. Serverzertifikat Zurücksetzen
 .. Client-Zertifikat neu generieren
-.. Externer Daten-Provider
 .. Backup Restore
+.. Externer Daten-Provider
 .. Konfiguration Des Leistungsintervalls
 .. Deaktivieren Sie die SAML-Authentifizierung
 .. Anwendungsports Anzeigen/Ändern

@@ -26,7 +26,7 @@ Laden Sie beispielsweise die `jdk-17.0.15_windows-x64_bin.zip` Datei vonlink:htt
 
 +
 
-NOTE:  Zum Herunterladen der Datei ist ein Oracle-Konto erforderlich. Wenn Sie noch kein Oracle-Konto haben, gehen Sie zu link:https://login.oracle.com/mysso/signon.jsp?request_id=007["Anmeldung beim Oracle-Konto"] Zu erstelle eine Seite.
+NOTE: Zum Herunterladen der Datei ist ein Oracle-Konto erforderlich. Falls Sie kein Oracle-Konto besitzen, gehen Sie zu link:https://signon.oracle.com/signin["die Oracle-Konto-Anmeldeseite"] um einen zu erstellen.
 
 . Beenden Sie mithilfe der Windows Services-Konsole die folgenden Unified Manager-Services:
 +
