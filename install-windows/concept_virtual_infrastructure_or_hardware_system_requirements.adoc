@@ -23,7 +23,7 @@ In der folgenden Tabelle werden die Werte angezeigt, die für Speicher-, CPU- un
  a| 
 RAM
  a| 
-12 GB (Mindestanforderung 8 GB)
+12 GB
 
 
 
@@ -53,9 +53,7 @@ Freier Speicherplatz
 |===
 Unified Manager kann auf Systemen mit wenig Arbeitsspeicher installiert werden. Die empfohlenen 12 GB RAM sorgen jedoch dafür, dass genügend Arbeitsspeicher für eine optimale Leistung zur Verfügung steht und dass das System bei wachsender Konfiguration zusätzliche Cluster und Speicherobjekte aufnehmen kann. Sie sollten für die VM, wo Unified Manager eingesetzt wird, keine Arbeitsspeicherbeschränkungen festlegen und sollten keine Funktionen (z. B. Ballooning) aktivieren, die die Software daran hindern, den zugewiesenen Arbeitsspeicher im System zu nutzen.
 
-Darüber hinaus ist die Anzahl der Nodes begrenzt, die eine einzelne Instanz von Unified Manager überwachen kann, bevor Sie eine zweite Instanz von Unified Manager installieren. Weitere Informationen finden Sie im _Best Practices Guide_.
-
-https://www.netapp.com/pdf.html?item=/media/13504-tr4621pdf.pdf["Technischer Bericht 4621: Unified Manager Best Practices Guide"^]
+Darüber hinaus gibt es eine Begrenzung für die Anzahl der Knoten, die eine einzelne Instanz von Unified Manager überwachen kann, bevor Sie eine zweite Instanz von Unified Manager installieren. Informationen zu Knotenlimits, CPU- und Speicherempfehlungen finden Sie unter https://www.netapp.com/pdf.html?item=/media/13504-tr4621pdf.pdf["Leitfaden für bewährte Verfahren für Unified Manager"^]Die
 
 Das Speicher-Page-Swapping beeinträchtigt die Leistung des Systems und der Verwaltungsanwendung negativ. Konkurrenzfähigkeit gegenüber CPU-Ressourcen, die aufgrund der gesamten Host-Auslastung nicht verfügbar sind, kann die Performance beeinträchtigen.
 

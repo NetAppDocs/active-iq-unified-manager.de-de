@@ -18,6 +18,7 @@ Sie können Benachrichtigungen konfigurieren, um Sie über die Erzeugung eines b
 * Sie müssen die Ressourcen und Ereignisse kennen, für die Sie die Meldung auslösen möchten, sowie die Benutzernamen oder E-Mail-Adressen der Benutzer, die Sie benachrichtigen möchten.
 * Wenn Sie ein Skript auf der Grundlage des Ereignisses ausführen möchten, müssen Sie das Skript mithilfe der Seite „Skripte“ zu Unified Manager hinzugefügt haben.
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
+* Bitte beachten Sie, dass beim Hinzufügen einer Storage Virtual Machine (SVM) oder eines Clusters zu den Ressourcen einer Warnung keine untergeordneten Objekte automatisch hinzugefügt werden. Wenn Sie beispielsweise einen Cluster zu den Ressourcen einer Warnung hinzufügen, werden die Knoten oder LUNs nicht automatisch zur Warnung hinzugefügt.
 
 
 Sie können eine Warnmeldung direkt auf der Seite Ereignisdetails erstellen, nachdem Sie ein Ereignis empfangen haben. Zusätzlich können Sie eine Warnung auf der Seite „Alarmkonfiguration“ erstellen, wie hier beschrieben.
