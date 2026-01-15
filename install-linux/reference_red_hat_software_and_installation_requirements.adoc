@@ -39,10 +39,10 @@ Unified Manager wird auf einem WildFly Web-Server bereitgestellt. WildFly 26.1.3
 
 Die folgenden Drittanbieterpakete sind erforderlich, jedoch nicht in Unified Manager enthalten. Diese Pakete werden automatisch vom installiert `yum` Installationsprogramm während der Installation, vorausgesetzt, Sie haben die Repositories wie in den folgenden Abschnitten beschrieben konfiguriert.
 
-* MySQL Community Edition Version 8.4.4 (aus dem MySQL-Repository)
+* MySQL Community Edition Version 8.4.7 (aus dem MySQL-Repository)
 * OpenJDK Version 17.0.14+6 (aus dem Red Hat Extra Enterprise Linux Server-Repository)
-* Python 3.12 (aus dem Red Hat Extra Enterprise Linux Server-Repository)
-* P7zip Version 16.02 oder höher (aus dem Red hat Extra Packages for Enterprise Linux Repository)
+* Python 3.13.3 (aus dem Red Hat Extra Enterprise Linux Server-Repository)
+* 7zip Version 7z2301-linux-x64. Weitere Informationen finden Sie unter link:task_configure_7zip_package.html["Konfigurieren Sie das 7-Zip-Softwarepaket"]Die
 
 
 [NOTE]

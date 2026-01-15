@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: client certificate, regenerate, validity, maintenance console 
 summary: Sie können die Wartungskonsole verwenden, um Ihr Unified Manager-Client-Zertifikat neu zu generieren. 
 ---
-= Client-Zertifikat neu generieren
+= Regenerieren Sie das Unified Manager-Clientzertifikat.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -21,3 +21,5 @@ Sie können die Wartungskonsole verwenden, um Ihr Unified Manager-Client-Zertifi
 . Nachdem das Zertifikat neu generiert wurde, starten Sie den Unified Manager-Dienst neu, um die Änderungen anzuwenden.
 . Um das aktualisierte Zertifikat zu überprüfen, melden Sie sich bei ONTAP an.  Zeigen Sie den Status und den Gültigkeitsstatus des Client-Zertifikats an.
 
+
+*Verwandte Informationen*  https://docs.netapp.com/us-en/ontap/authentication/manage-certificates-sm-task.html["Verwalten Sie ONTAP -Zertifikate mit System Manager"^]

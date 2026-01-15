@@ -2,13 +2,13 @@
 permalink: install-linux/concept_set_up_required_software_repositories_um.html 
 sidebar: sidebar 
 keywords: set up, required, software, repositories 
-summary: Das System muss Zugriff auf bestimmte Repositories haben, damit das Installationsprogramm alle erforderlichen Softwareabhängigkeiten aufrufen und installieren kann. 
+summary: Das System muss Zugriff auf bestimmte Repositories und Pakete haben, damit das Installationsprogramm auf alle erforderlichen Softwareabhängigkeiten zugreifen und diese installieren kann. 
 ---
-= Einrichten der erforderlichen Software-Repositorys
+= Richten Sie die erforderliche Software für Unified Manager ein.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
 
 
 [role="lead"]
-Das System muss Zugriff auf bestimmte Repositories haben, damit das Installationsprogramm alle erforderlichen Softwareabhängigkeiten aufrufen und installieren kann.
+Das System muss Zugriff auf bestimmte Repositories und Pakete haben, damit das Installationsprogramm auf alle erforderlichen Softwareabhängigkeiten zugreifen und diese installieren kann.

@@ -26,10 +26,11 @@ Siehe link:reference_red_hat_software_and_installation_requirements.html["Linux-
 +
 Siehe link:task_upgrade_openjdk_on_linux_ocum.html["Aktualisieren von JRE auf Linux"].
 
+* Vor dem Upgrade von Unified Manager müssen Sie die korrekte Version von 7-Zip installieren oder aktualisieren. Sehen link:task_configure_7zip_package.html["Konfigurieren Sie das 7-Zip-Softwarepaket"]Die
 * Um Datenverlust zu vermeiden, müssen Sie ein Backup der Unified Manager-Datenbank erstellt haben, falls während des Upgrades ein Problem auftritt. NetApp empfiehlt, die Backup-Datei aus dem zu verschieben `/opt/netapp/data` Verzeichnis zu einem externen Speicherort.
 * Während des Upgrades werden Sie möglicherweise aufgefordert zu bestätigen, ob Sie die vorherigen Standardeinstellungen für die Aufbewahrung von Performancedaten für 13 Monate beibehalten oder in 6 Monate ändern möchten. Nach der Bestätigung werden die historischen Leistungsdaten nach 6 Monaten gelöscht.
 * Sie sollten alle laufenden Vorgänge abgeschlossen haben, da Unified Manager während des Upgrades nicht verfügbar ist.
-* MySQL Community Edition wird beim Unified Manager Upgrade automatisch aktualisiert. Wenn die auf Ihrem System installierte Version von MySQL älter als 8.4.4 ist, führt das Upgrade von MySQL durch Unified Manager automatisch ein Upgrade auf 8.4.4 durch.
+* MySQL Community Edition wird während des Unified Manager-Upgrades automatisch aktualisiert. Wenn die auf Ihrem System installierte MySQL-Version älter als 8.4.7 ist, aktualisiert der Upgrade-Prozess von Unified Manager MySQL automatisch auf 8.4.7.
 
 
 .Schritte

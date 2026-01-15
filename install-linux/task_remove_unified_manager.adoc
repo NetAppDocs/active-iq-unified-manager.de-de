@@ -27,11 +27,11 @@ Sie können Unified Manager mit einem einzigen Befehl vom Red hat Enterprise Lin
 `rpm -e netapp-um`
 
 +
-In diesem Schritt werden alle zugehörigen NetApp RPM Pakete entfernt. Die erforderlichen Softwaremodule wie Java, MySQL und p7zip werden nicht entfernt.
+Dieser Schritt entfernt alle zugehörigen NetApp RPM-Pakete. Die erforderlichen Softwaremodule wie Java, MySQL und 7zip werden nicht entfernt.
 
-. *Optional:* Entfernen Sie gegebenenfalls die unterstützenden Softwaremodule wie Java, MySQL und p7zip:
+. *Optional:* Entfernen Sie gegebenenfalls die unterstützenden Softwaremodule wie Java, MySQL und 7zip:
 +
-`rpm -e p7zip mysql-community-client mysql-community-server mysql-community-common mysql-community-libs java-x.y`
+`rpm -e mysql-community-client mysql-community-server mysql-community-common mysql-community-libs java-x.y`
 
 
 
