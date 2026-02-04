@@ -19,7 +19,19 @@ Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradmini
 
 NOTE: Beachten Sie folgende Punkte:
 
-* NTFS-Dateiströme können nicht wiederhergestellt werden.
+* Sie können ein Verzeichnis oder ein Volume in keiner der folgenden Szenarien aus einem Snapshot wiederherstellen:
++
+** Die Option *Yes, preserve all snapshot copies* ist ausgewählt.
+** Sie verwenden ein LDAP-Konto zur Überwachung des Clusters.
+** Sie sind als Domänenbenutzer angemeldet.
+** Ihr Konto ist für die SAML-Authentifizierung konfiguriert.
+** Sie verwenden das NDMP-Protokoll.
++
+Weitere Einzelheiten finden Sie im Knowledge Base Artikel https://kb.netapp.com/on-prem/ontap/DP/NDMP/NDMP-KBs/How_to_configure_NDMP_authentication_in_the_SVM-scope_previously_known_as_Vserver-scope_mode["So konfigurieren Sie die NDMP Authentifizierung im 'SVM-scope'-Modus"^].
+
+
+
+* Sie können NTFS-Dateistreams nicht wiederherstellen.
 * Die Wiederherstellungsoption ist nicht verfügbar, wenn:
 +
 ** Die Volume-ID ist unbekannt, z. B. wenn Sie eine Intercluster-Beziehung haben und der Ziel-Cluster noch nicht erkannt wurde.
