@@ -91,7 +91,7 @@ Die folgenden wichtigen Bereiche der Performance: Ansicht aller Aggregate.
 ** Festplatte (FabricPool): Kombiniert HDDs und ein Cloud-Tier
 ** VMDisk (SDS): Virtuelle Laufwerke innerhalb einer virtuellen Maschine
 ** VMDisk (FabricPool): Kombiniert virtuelle Festplatten mit einer Cloud-Tier
-** LUN (FlexArray)
+** LUN
 
 
 * Inaktive Datenberichterstellung: Gibt an, ob die Funktion zur Berichterstellung inaktiver Daten auf diesem Aggregat aktiviert oder deaktiviert ist. Wenn die Funktion aktiviert ist, zeigen Volumes auf diesem Aggregat im Bild „Performance: Alle Volumes“ den Umfang der „kalten“ Daten an. Der Wert in diesem Feld lautet „N/A“, wenn die Version von ONTAP keine inaktive Datenberichterstattung unterstützt.
