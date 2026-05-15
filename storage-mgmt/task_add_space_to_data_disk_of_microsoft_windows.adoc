@@ -31,7 +31,7 @@ Fügen Sie auf einem physischen Server die Kapazität des logischen Laufwerks hi
  a| 
 Folgen Sie den Schritten im Microsoft Thema:
 
-https://technet.microsoft.com/en-us/library/cc771473(v=ws.11).aspx["Erweitern Sie ein Basisvolume"]
+https://technet.microsoft.com/en-us/library/cc771473(v=ws.11).aspx["Erweitern Sie ein Basisvolume"^]
 
 
 
@@ -40,7 +40,7 @@ Fügen Sie auf einem physischen Server ein Festplattenlaufwerk hinzu.
  a| 
 Folgen Sie den Schritten im Microsoft Thema:
 
-https://msdn.microsoft.com/en-us/library/dd163551.aspx["Hinzufügen Von Festplattenlaufwerken"]
+https://msdn.microsoft.com/en-us/library/dd163551.aspx["Hinzufügen Von Festplattenlaufwerken"^]
 
 
 
@@ -49,7 +49,7 @@ Erhöhen Sie auf einer virtuellen Maschine die Größe einer Laufwerkspartition.
  a| 
 Folgen Sie den Schritten im VMware Thema:
 
-https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1004071["Vergrößern einer Laufwerkspartition"]
+https://knowledge.broadcom.com/external/article/323136/increasing-the-size-of-a-virtual-disk-pa.html["Vergrößern einer Laufwerkspartition"^]
 
 |===
 

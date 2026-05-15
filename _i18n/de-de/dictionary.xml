@@ -1036,14 +1036,11 @@
   <block id="a3ec58cb7e9bf89ef726ec0d99330264" category="paragraph">Fügen Sie auf einem physischen Server die Kapazität des logischen Laufwerks hinzu, auf dem der Unified Manager-Server installiert ist.</block>
   <block id="58e7b60f294b271a4bc9c01cccff27e5" category="paragraph">Folgen Sie den Schritten im Microsoft Thema:</block>
   <block id="97424b0770e65ad13c37e9c4e0bf64e7" category="inline-link">Erweitern Sie ein Basisvolume</block>
-  <block id="3771c84b1045d5ccd8689f90b09f9ac1" category="paragraph"><block ref="3771c84b1045d5ccd8689f90b09f9ac1" category="inline-link-rx"></block></block>
   <block id="bc78f8459cc3f99966ec858559866c73" category="paragraph">Fügen Sie auf einem physischen Server ein Festplattenlaufwerk hinzu.</block>
   <block id="ccdf2f614d8c68d046e904c7e5c8f784" category="inline-link">Hinzufügen Von Festplattenlaufwerken</block>
-  <block id="6f7d162b9b4778023baeb8b3f6e0072c" category="paragraph"><block ref="6f7d162b9b4778023baeb8b3f6e0072c" category="inline-link-rx"></block></block>
   <block id="6c4f6491c1007de757c7587546b655d2" category="paragraph">Erhöhen Sie auf einer virtuellen Maschine die Größe einer Laufwerkspartition.</block>
   <block id="1c9690b8244451e91730c655ec71a542" category="paragraph">Folgen Sie den Schritten im VMware Thema:</block>
   <block id="5254296818aa13c00d8252c86b324630" category="inline-link">Vergrößern einer Laufwerkspartition</block>
-  <block id="301c0a1773cbd034466e002644e3ab94" category="paragraph"><block ref="7d192e27a5a594f0b284619bff944ea7" category="inline-link-rx"></block></block>
   <block id="b17da30636e58927197d11a5c3a69480" category="summary">Sie können den Port ändern, den der Unified Manager-Server für die Kommunikation mit Ihrem Authentifizierungsserver verwendet.</block>
   <block id="aef9d03229c060a54d825c2329ae1a16" category="list-text">Aktivieren Sie das Kontrollkästchen * Nested Group Lookup* deaktivieren.</block>
   <block id="570c42d696911b4054b41590b22a1756" category="list-text">Wählen Sie im Bereich *Authentifizierungsserver* den Authentifizierungsserver aus, den Sie bearbeiten möchten, und klicken Sie dann auf *Bearbeiten*.</block>
@@ -2915,9 +2912,6 @@
   <block id="076790dbfc4444ac90e62b970a3c9217" category="list-text">Anmerkungen für Speicherobjekte</block>
   <block id="53715e24fcf7438bf8bb2d96e3d34de8" category="list-text">Berichte für die Erstellung und das Management von Storage-Objektinformationen wie physische und logische Kapazität, Auslastung, Platzeinsparungen, Performance und zugehörige Ereignisse</block>
   <block id="42c75971e03568e6221b99dd63d98865" category="list-text">Integration in OnCommand Workflow Automation zur Ausführung von Workflows</block>
-  <block id="6750b5b2c975d66813d2ea8952f0bae1" category="paragraph">Der Storage Automation Store enthält von NetApp zertifizierte automatisierte Workflow-Pakete für die Verwendung mit OnCommand Workflow Automation (WFA). Sie können die Pakete herunterladen und anschließend in WFA importieren, um sie auszuführen. Hier sind die automatisierten Workflows verfügbar:</block>
-  <block id="0479c8cefca250b39d519545313f1b42" category="inline-link">Storage Automation Store</block>
-  <block id="63f4e00d9f003710efd37fe0fad569e9" category="paragraph"><block ref="63f4e00d9f003710efd37fe0fad569e9" category="inline-link-rx"></block></block>
   <block id="38bf356bc057c1b138ed0aadbc422129" category="summary">Die Sicherheitsseite zeigt den allgemeinen Sicherheitsstatus aller Cluster und Storage VMs an. Der detaillierte Cluster-Status umfasst Cluster-Compliance, SVM-Compliance und Volume-Verschlüsselung.</block>
   <block id="363bd7c65ddeb743b3e567f3bb86d1f0" category="paragraph">Active IQ Unified Manager ermöglicht Ihnen, den Sicherheitsstatus der Storage-Objekte in Ihrer Umgebung von verschiedenen Punkten der Schnittstelle aus anzuzeigen. Sie können Informationen und Berichte auf der Basis definierter Parameter erfassen und analysieren und verdächtige Verhaltensweisen oder nicht autorisierte Systemänderungen auf den überwachten Clustern und Storage-VMs erkennen.</block>
   <block id="468b211c23c8f85e2679c3384b195d38" category="section-title">Anzeigen des Sicherheitsstatus auf Objektebene auf der Sicherheitsseite</block>
@@ -10669,7 +10663,6 @@
   <block id="67385832e8a89f3a3f46793fe56e6bf4" category="list-text">Klicken Sie Auf *Wiederholen*.</block>
   <block id="d53edf09286c4c1939c3f775600819ea" category="paragraph">Der Job wird neu gestartet.</block>
   <block id="d1de0a7d7acb6c1e6d558f461b1c08b0" category="summary">Es besteht die Möglichkeit, eine sichere Verbindung zwischen OnCommand Workflow Automation (WFA) und Unified Manager zu konfigurieren. Durch die Verbindung zur Workflow-Automatisierung können Unternehmen Sicherungsfunktionen wie SnapMirror und SnapVault Konfigurations-Workflows sowie Befehle zum Management von SnapMirror Beziehungen nutzen.</block>
-  <block id="0c6e4a96f43d5868275a60909a3a24fc" category="inline-link">WFA Pack zum Management von ONTAP</block>
   <block id="5b7d25b9e226028347921818ce714ea3" category="list-text">Sie müssen den Namen des in Unified Manager erstellten Datenbankbenutzers haben, um WFA- und Unified Manager-Verbindungen zu unterstützen.</block>
   <block id="0baffa2d6dab374e8ae870aa23680370" category="paragraph">Diesem Datenbankbenutzer muss die Rolle „Integration Schema“ zugewiesen worden sein.</block>
   <block id="209a170f4735b61e63946462f4cc839b" category="list-text">In Workflow Automation müssen Sie entweder die Administratorrolle oder die Rolle „Architekt“ zuweisen.</block>
@@ -11417,7 +11410,6 @@ Schützen Sie Applikationen mit LUNs, und Sie können diese LUNs auf der Active 
   <block id="135b308ed83c53f1516b7c754566d1c4" category="list-title">Bevor Sie beginnen</block>
   <block id="403384bc7be1a7f4e22bd05d0f8b3ec8" category="paragraph">*Was .bevor Sie beginnen</block>
   <block id="1b377a56a4ae0b95c40511aa64336c41" category="list-text">Die installierte Version von Workflow Automation muss 5.1.1P6 oder höher sein.</block>
-  <block id="9e24238c9686e244d38d02ad1f557aca" category="paragraph">Das „`WFA Pack for Management Clustered Data ONTAP`“ ist in WFA 5.1.1P6 enthalten, damit Sie dieses Paket nicht aus dem NetApp Storage Automation Store herunterladen und es je nach Anforderung separat auf Ihrem WFA Server installieren müssen.<block ref="33bb079f56da49206dfe05941d30882d" category="inline-link-rx"></block></block>
   <block id="c8fd24815f6093e46c1cb75855be5d43" category="list-text">Sie müssen Unified Manager auf einem Linux-Server gemäß den Anweisungen in installiert haben<block ref="55b3ec865696a24c30e5b2e799e3e5eb" category="inline-link-macro-rx"></block>.</block>
   <block id="eb0a89add4cd78412c29a6c06287ca71" category="paragraph">Unified Manager verwendet das<block ref="1de0b4f0d139f781b3b4de87edb4de70" prefix=" " category="inline-code"></block> Dienstprogramm zur Installation der Software und jeglicher abhängiger Software. Da es unterschiedliche Images von Red hat Enterprise Linux gibt, hängen die installierten Pakete von der in den Images vorhandenen Software ab. Das<block ref="1de0b4f0d139f781b3b4de87edb4de70" prefix=" " category="inline-code"></block> Dienstprogramm bestimmt die abhängigen Softwarepakete für die Installation. Weitere Informationen zu den abhängigen Softwarepaketen finden Sie im <block ref="f1a81936de546e8d25edd5d0aa76c791" category="inline-link-macro-rx"></block>.</block>
   <block id="8ed8853f67b146f3f04807d3865ef602" category="list-text">Stellen Sie sicher, dass Sie die korrekte Version der Installationsdatei für Ihr Red hat Enterprise Linux-System herunterladen. Je nachdem, ob Sie Red hat Enterprise Linux 8 oder 9 installiert haben, stellen Sie sicher, dass Sie die entsprechende Version der Unified Manager-Datei herunterladen<block ref="daf4de58883c030f033f07e61debf025" prefix=" " category="inline-code"></block>.</block>
@@ -12114,4 +12106,10 @@ Schützen Sie Applikationen mit LUNs, und Sie können diese LUNs auf der Active 
   <block id="10c63a870bc95c46a742e43842ec8048" category="paragraph">Weitere Einzelheiten finden Sie im Knowledge Base Artikel<block ref="b3c8348c93a87962cb210001996297e2" category="inline-link-rx"></block>.</block>
   <block id="8da4b54a11c14f3b7f3fc9138371f1c0" category="list-text">Sie können NTFS-Dateistreams nicht wiederherstellen.</block>
   <block id="c6655c77ef7f9737d998381c1db5e05b" category="paragraph">Für alle Ereignisse, für die Sie Benachrichtigungen konfiguriert haben, wird eine Benachrichtigung versendet, wenn diese Ereignisse alle verfügbaren Status durchlaufen: Neu, Erledigt und Veraltet. Wenn Sie keine Benachrichtigungen für Ereignisse erhalten möchten, die in die Status Erledigt und Veraltet wechseln, können Sie eine globale Einstellung konfigurieren, um diese Benachrichtigungen zu unterdrücken.</block>
+  <block id="42429633f87d83134a274916f6a034c2" category="paragraph"><block ref="42429633f87d83134a274916f6a034c2" category="inline-link-rx"></block></block>
+  <block id="7735c39e24fb37c1d079ba9e3a91c264" category="paragraph"><block ref="7735c39e24fb37c1d079ba9e3a91c264" category="inline-link-rx"></block></block>
+  <block id="7c84ac4946087f09b4a17998f1e830e8" category="paragraph"><block ref="7c84ac4946087f09b4a17998f1e830e8" category="inline-link-rx"></block></block>
+  <block id="af050e52c447cd52b4b2f1ffdc032f19" category="inline-link">WFA-Download</block>
+  <block id="94d13f29f9fba88b1b0d477b50fbcb23" category="paragraph">Das „WFA-Paket zur Verwaltung von Clustered Data ONTAP“ ist in WFA 5.1.1P6 enthalten, sodass es nicht mehr erforderlich ist, dieses Paket aus dem NetAppStorage Automation Store herunterzuladen und separat auf Ihrem WFA-Server zu installieren, wie es in der Vergangenheit notwendig war.<block ref="205df40c4c09810da80912824982d64d" category="inline-link-rx"></block></block>
+  <block id="b51ca7d8abeeddcb10f579ebf26d482d" category="paragraph"><block ref="b51ca7d8abeeddcb10f579ebf26d482d" category="inline-link-rx"></block></block>
 </blocks>
