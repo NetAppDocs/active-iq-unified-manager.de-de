@@ -28,7 +28,7 @@ Die Cluster-Management-IP-Adresse muss die Cluster-Management-LIF der administra
 ** Der Cluster muss die ONTAP Version 9.1 oder höher ausführen.
 ** Benutzername und Passwort für den ONTAP-Administrator
 +
-Für dieses Konto muss die Rolle _admin_ mit dem Anwendungszugriff auf _ontapi_, _Console_ und _http_ eingestellt sein.
+Dieses Konto muss die Rolle _admin_ besitzen, wobei der Anwendungszugriff auf _ontapi_, _amqp_, _console_ und _http_ festgelegt sein muss.
 
 ** Die Port-Nummer für die Verbindung zum Cluster mithilfe des HTTPS-Protokolls (normalerweise Port 443)
 ** Sie verfügen über die erforderlichen Zertifikate:

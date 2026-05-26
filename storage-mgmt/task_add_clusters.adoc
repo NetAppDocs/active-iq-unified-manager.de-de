@@ -24,7 +24,7 @@ Bei Verwendung des Host-Namens muss dieser für die Cluster-Management-IP-Adress
 
 ** Sie müssen Benutzername und Passwort besitzen, um auf das Cluster zugreifen zu können.
 +
-Für dieses Konto muss die Rolle _admin_ mit dem Anwendungszugriff auf _ontapi_, _Console_ und _http_ eingestellt sein.
+Dieses Konto muss die Rolle _admin_ besitzen, wobei der Anwendungszugriff auf _ontapi_, _amqp_, _console_ und _http_ festgelegt sein muss.
 
 ** Sie müssen die Port-Nummer kennen, um eine Verbindung zum Cluster mithilfe des HTTPS-Protokolls (normalerweise Port 443) herzustellen.
 ** Auf dem Cluster muss die ONTAP Softwareversion 9.9 oder höher ausgeführt werden.
