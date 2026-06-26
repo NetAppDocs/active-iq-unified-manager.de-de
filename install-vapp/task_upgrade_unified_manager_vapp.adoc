@@ -17,6 +17,11 @@ Während des Upgrades ist Unified Manager nicht verfügbar. Vor dem Upgrade von 
 
 Wenn Unified Manager mit einer Instanz von OnCommand Workflow Automation gekoppelt ist und für beide Produkte neue Versionen der Software zur Verfügung stehen, müssen Sie die beiden Produkte trennen und anschließend eine neue Workflow-Automatisierungsverbindung einrichten, nachdem Sie die Upgrades durchgeführt haben. Wenn Sie ein Upgrade auf nur eines der Produkte durchführen, müssen Sie sich nach dem Upgrade bei Workflow Automation anmelden und überprüfen, ob noch Daten von Unified Manager erfasst werden.
 
+[NOTE]
+====
+Wenn Ihr System von Unified Manager 9.7 aktualisiert wurde, ist ein direktes Upgrade von 9.14 auf 9.18 aufgrund von Dateisystemänderungen in den Debian-Versionen nicht möglich. Empfohlen wird stattdessen folgender Upgrade-Pfad: 9.14 → 9.16P2 → 9.18.
+
+====
 .Schritte
 . Befolgen Sie die Schritte unter link:task_download_unified_manager_iso_image_vapp.html["Laden Sie das ISO-Image von Unified Manager herunter"].
 . Führen Sie außerdem die in beschriebenen Schritte aus link:task_upgrade_unified_manager_virtual_appliance_vapp.html["Upgrade Von Unified Manager"].
