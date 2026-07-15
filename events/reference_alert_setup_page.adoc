@@ -17,6 +17,7 @@ Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradmini
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Hinzufügen*
@@ -51,6 +52,7 @@ Ermöglicht das Aktivieren oder Deaktivieren des Sendens von Warnungen, wenn Ere
 
 
 
+[[list-view]]
 == Listenansicht
 
 Die Listenansicht zeigt in tabellarischer Form Informationen zu den erstellten Warnmeldungen an. Mit den Spaltenfiltern können Sie die angezeigten Daten anpassen. Sie können auch eine Warnung auswählen, um weitere Informationen darüber im Detailbereich anzuzeigen.
@@ -79,6 +81,7 @@ Gibt die Häufigkeit (in Minuten) an, mit der der Verwaltungsserver weiterhin Be
 
 
 
+[[details-area]]
 == Detailbereich
 
 Im Detailbereich finden Sie weitere Informationen zur ausgewählten Warnmeldung.

@@ -57,6 +57,7 @@ Eine Bedingungsgruppe
 
 
 
+[[example-for-creating-a-group-rule]]
 == Beispiel für das Erstellen einer Gruppenregel
 
 Führen Sie im Dialogfeld Gruppenregel hinzufügen die folgenden Schritte aus, um eine Gruppenregel zu erstellen, einschließlich der Konfiguration einer Bedingung und dem Hinzufügen einer Bedingungsgruppe:

@@ -15,6 +15,7 @@ Nach dem Upgrade von Unified Manager können Sie Produkte von Drittanbietern wie
 
 
 
+[[uninstall-python]]
 == Deinstallieren Sie Python
 
 .Schritte
@@ -25,6 +26,7 @@ Nach dem Upgrade von Unified Manager können Sie Produkte von Drittanbietern wie
 
 
 
+[[uninstall-microsoft-visual-c-2013]]
 == Deinstallieren Sie Microsoft Visual C++ 2013
 
 .Schritte

@@ -28,6 +28,7 @@ Die Seite Workloads enthält die folgenden zwei Abschnitte:
 
 
 
+[[workloads-overview-section]]
 == Übersicht über Workloads
 
 Der Abschnitt Workloads im Überblick bietet einen Überblick über alle gesammelten Informationen zu den Storage Workloads. Der Status der Storage-Workloads wird auf Grundlage von zugewiesenen und nicht zugewiesenen Performance-Service-Leveln angezeigt.
@@ -54,6 +55,7 @@ Im Unterabschnitt Performance by Performance Service Levels wird die Gesamtzahl 
 
 
 
+[[data-center-overview-section]]
 == Bereich „Datacenter Overview“
 
 Der Abschnitt mit der Übersicht des Datacenters stellt die verfügbare und genutzte Kapazität sowie die IOPS für alle Cluster im Datacenter grafisch dar. Mithilfe dieser Daten sollten Sie die Kapazität und IOPS der Storage Workloads managen. Im Abschnitt werden auch die folgenden Informationen für Storage-Workloads in allen Clustern angezeigt:

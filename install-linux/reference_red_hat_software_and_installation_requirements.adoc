@@ -15,6 +15,7 @@ Das Linux-System, auf dem Unified Manager installiert wird, erfordert bestimmte 
 
 
 
+[[operating-system-software]]
 == Betriebssystem-Software
 
 Das Linux-System muss die folgenden Versionen des Betriebssystems und die unterstützende Software installiert haben:
@@ -33,6 +34,7 @@ NOTE: Schwachstellenscanner (wie Qualys) können zu einer hohen CPU-Auslastung f
 
 
 
+[[third-party-software]]
 == Software von anderen Anbietern
 
 Unified Manager wird auf einem WildFly Web-Server bereitgestellt. WildFly 26.1.3 ist gebündelt und mit Unified Manager konfiguriert.
@@ -52,6 +54,7 @@ Vor dem Upgrade von Software anderer Anbieter müssen Sie eine laufende Instanz 
 ====
 
 
+[[user-authorization-requirements]]
 == Anforderungen an die Benutzerautorisierung
 
 Die Installation von Unified Manager auf einem Linux-System kann vom Root-Benutzer oder von nicht-Root-Benutzern mit dem durchgeführt werden `sudo` Befehl.
@@ -60,6 +63,7 @@ Zusätzlich umfasst die Standard-Unified Manager-Installation den umadmin-Benutz
 
 
 
+[[installation-requirements]]
 == Installationsvoraussetzungen
 
 Die Best Practices für die Installation von Red hat Enterprise Linux und den zugehörigen Repositorys auf Ihrem System sind unten aufgeführt. Systeme, die unterschiedlich installiert oder konfiguriert sind oder extern bereitgestellt werden (in der Cloud), erfordern möglicherweise weitere Schritte und Unified Manager kann in solchen Implementierungen nicht ordnungsgemäß ausgeführt werden.
@@ -96,6 +100,7 @@ Sie dürfen die erforderliche Drittanbietersoftware nicht aus anderen als den hi
 ====
 
 
+[[port-443-requirement]]
 == Port 443 erforderlich
 
 Allgemeine Images von Red hat Enterprise Linux blockieren möglicherweise den externen Zugriff auf Port 443. Aufgrund dieser Einschränkung können Sie nach der Installation von Unified Manager möglicherweise keine Verbindung zur Administrator-Web-UI herstellen. Mit dem folgenden Befehl können alle externen Benutzer und Anwendungen auf einem allgemeinen Red hat Enterprise Linux auf Port 443 zugreifen.

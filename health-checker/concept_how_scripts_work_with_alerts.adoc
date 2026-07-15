@@ -36,6 +36,7 @@ Sie können die Argumente in Ihren Skripten verwenden, um verwandte Ereignisinfo
 
 
 
+[[example-for-obtaining-arguments-from-scripts]]
 == Beispiel zum Abrufen von Argumenten aus Skripts
 
 [listing]

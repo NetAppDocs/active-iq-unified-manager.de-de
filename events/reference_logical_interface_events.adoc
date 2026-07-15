@@ -15,6 +15,7 @@ Ereignisse an der Netzwerkschnittstelle liefern Informationen zum Status Ihrer N
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===
@@ -66,6 +67,7 @@ Warnung
 |===
 
 
+[[impact-area-configuration]]
 == Impact Area: Konfiguration
 
 |===
@@ -84,6 +86,7 @@ Informationsdaten
 |===
 
 
+[[impact-area-performance]]
 == Impact Area: Performance
 
 |===

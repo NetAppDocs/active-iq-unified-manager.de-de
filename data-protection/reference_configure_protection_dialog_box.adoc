@@ -15,6 +15,7 @@ Im Dialogfeld „Sicherung konfigurieren“ können Sie SnapMirror und SnapVault
 
 
 
+[[source-tab]]
 == Registerkarte „Quelle“
 
 * *Topologieansicht*
@@ -65,6 +66,7 @@ Zeigt die Snapshot Kopie an, die für den Basistransfer verwendet wird. Wenn das
 
 
 
+[[snapmirror-tab]]
 == Registerkarte „SnapMirror“
 
 Ermöglicht Ihnen die Angabe eines Ziel-Clusters, einer Storage Virtual Machine (SVM) und eines Aggregats für eine Sicherungsbeziehung sowie eine Namenskonvention für Ziele bei der Erstellung einer SnapMirror Beziehung. Sie können auch eine SnapMirror-Richtlinie und einen Zeitplan angeben.
@@ -157,6 +159,7 @@ Startet das Dialogfeld „Zeitplan erstellen“, in dem Sie einen neuen SnapMirr
 
 
 
+[[snapvault-tab]]
 == Registerkarte „SnapVault“
 
 Ermöglicht Ihnen die Angabe eines sekundären Clusters, einer SVM und eines Aggregats für eine Sicherungsbeziehung sowie eine Namenskonvention für sekundäre Volumes während der Erstellung einer SnapVault-Beziehung. Sie können auch eine SnapVault-Richtlinie und einen Zeitplan angeben.
@@ -249,6 +252,7 @@ Gibt den ONTAP SnapVault-Zeitplan für die Beziehung an. Verfügbare Zeitpläne 
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:

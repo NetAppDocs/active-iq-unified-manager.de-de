@@ -15,6 +15,7 @@ Einige allgemeine Performance-Zähler wie IOPS und MB/s können Schwellenwerte f
 
 
 
+[[available-performance-counters]]
 == Verfügbare Performance-Zähler
 
 |===

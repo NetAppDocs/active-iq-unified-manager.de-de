@@ -15,6 +15,7 @@ Storage Shelf-Ereignisse geben an, ob Ihr Storage Shelf anormal ist, sodass Sie 
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

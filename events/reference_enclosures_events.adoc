@@ -15,6 +15,7 @@ Gehäuse-Events liefern Ihnen Informationen zum Status der Festplatten-Shelf-Geh
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===
@@ -72,6 +73,7 @@ Warnung
 |===
 
 
+[[impact-area-configuration]]
 == Impact Area: Konfiguration
 
 |===

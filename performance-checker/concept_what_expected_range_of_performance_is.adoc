@@ -21,6 +21,7 @@ Während der Mittagspause zwischen 12:00 Uhr Und 13:00 Uhr Und am Ende des Arbei
 
 
 
+[[how-the-latency-forecast-is-formed]]
 == Bildung der Latenzprognose
 
 Unified Manager muss die Workload-Aktivität mindestens 3 Tage lang sammeln, bevor sie mit der Analyse beginnen kann und bevor die Latenzprognose für die I/O-Reaktionszeit auf der GUI angezeigt werden kann. Die erforderliche Mindesterfassung berücksichtigt nicht alle Änderungen, die von der Workload-Aktivität durchgeführt werden. Nach Erfassung der ersten 3 Tage Aktivität passt Unified Manager die Latenzprognose alle 24 Stunden um 12:00 Uhr an Um Änderungen der Workload-Aktivität widerzuspiegeln und einen präziseren dynamischen Performance-Schwellenwert festzulegen.

@@ -15,6 +15,7 @@ Auf der Seite „Ressourcenpools“ werden vorhandene Ressourcen-Pools und ihre 
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:
@@ -35,6 +36,7 @@ Ermöglicht Ihnen das Löschen eines oder mehrerer Ressourcenpools.
 
 
 
+[[resource-pools-list]]
 == Liste der Ressourcenpools
 
 Die Liste „Ressourcen-Pools“ zeigt (tabellarisch) die Eigenschaften vorhandener Ressourcen-Pools an.
@@ -71,6 +73,7 @@ Zeigt den Prozentsatz des Speicherplatzes an, der im Ressourcenpool verwendet wi
 
 
 
+[[members-list-command-buttons]]
 == Schaltflächen der Mitgliederliste
 
 Mit den Schaltflächen der Mitgliederliste können Sie die folgenden Aufgaben ausführen:
@@ -87,6 +90,7 @@ Ermöglicht Ihnen, einen oder mehrere Mitglieder aus dem Ressourcenpool zu lösc
 
 
 
+[[members-list]]
 == Mitgliederliste
 
 Die Mitgliederliste zeigt (tabellarisch) die Mitglieder des Ressourcenpool und ihre Eigenschaften an, wenn ein Ressourcenpool ausgewählt ist.

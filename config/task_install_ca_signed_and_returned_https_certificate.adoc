@@ -41,6 +41,7 @@ Weitere Informationen finden Sie unter link:concept_install_https_certificate_ge
 
 
 
+[[example-certificate-chain]]
 == Beispiel für eine Zertifikatskette
 
 Das folgende Beispiel zeigt, wie die Zertifikatkettendatei angezeigt werden kann:

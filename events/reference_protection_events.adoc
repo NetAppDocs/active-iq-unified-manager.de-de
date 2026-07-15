@@ -15,6 +15,7 @@ Schutzereignisse geben an, ob ein Job ausgefallen ist oder abgebrochen wurde, da
 
 
 
+[[impact-area-protection]]
 == Aufprallbereich: Schutz
 
 |===

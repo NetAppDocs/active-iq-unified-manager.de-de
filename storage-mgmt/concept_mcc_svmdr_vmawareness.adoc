@@ -19,6 +19,7 @@ Sie können auch die NAS-Volumes oder LUNs in einer Storage-VM-Disaster-Recovery
 
 
 
+[[view-datastores-in-metrocluster-configuration]]
 == Anzeigen von Datenspeichern in der MetroCluster-Konfiguration
 
 Beachten Sie die folgenden Voraussetzungen vor dem Anzeigen von Datastores in einer MetroCluster Konfiguration:
@@ -40,6 +41,7 @@ Führen Sie die folgenden Schritte zum Anzeigen von Datastores aus:
 
 
 
+[[view-datastores-in-storage-vm-disaster-recovery-configuration]]
 == Anzeigen von Datenspeichern in der Konfiguration zur Notfallwiederherstellung von Speicher-VMs
 
 Beachten Sie die folgenden Voraussetzungen, bevor Sie Datastores in einer Disaster-Recovery-Konfiguration einer Storage-VM anzeigen:
@@ -75,6 +77,7 @@ Führen Sie die folgenden Schritte zum Anzeigen von Datastores aus:
 
 
 
+[[unsupported-scenarios]]
 == Nicht unterstützte Szenarien
 
 * Beachten Sie bei einer MetroCluster-Konfiguration die folgenden Einschränkungen:

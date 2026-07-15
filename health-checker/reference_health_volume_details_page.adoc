@@ -17,6 +17,7 @@ Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradmini
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Befehlsschaltflächen können Sie die folgenden Aufgaben für das ausgewählte Volume ausführen:
@@ -106,6 +107,7 @@ Ermöglicht Ihnen die Navigation zur Ansicht „Systemzustand: Alle Volumes“.
 
 
 
+[[capacity-tab]]
 == Registerkarte „Kapazität“
 
 Auf der Registerkarte Kapazität werden Details zum ausgewählten Volume angezeigt, z. B. seine physische Kapazität, logische Kapazität, Schwellwerte, Kontingentkapazität und Informationen über jede beliebige Volume-Verschiebung:
@@ -308,6 +310,7 @@ Zeigt außerdem die Anzahl der Vorgänge zum Verschieben von Volumes an, die auf
 
 
 
+[[configuration-tab]]
 == Registerkarte Konfiguration
 
 Auf der Registerkarte Konfiguration werden Details zum ausgewählten Volume angezeigt, z. B. Richtlinie für den Export, RAID-Typ, Kapazität und Storage-Effizienz-Funktionen des Volumes:
@@ -422,6 +425,7 @@ Gibt an, ob die automatischen Snapshot Kopien aktiviert oder deaktiviert sind.
 
 
 
+[[protection-tab]]
 == Registerkarte „Schutz“
 
 Auf der Registerkarte Schutz werden Sicherungsdetails zum ausgewählten Volume angezeigt, z. B. Verzögerungsinformationen, Beziehungstyp und Topologie der Beziehung.
@@ -659,6 +663,7 @@ Dieses Diagramm ist nicht für Volumes verfügbar, die sich in synchronen Sicher
 
 
 
+[[history-area]]
 == Historienbereich
 
 Im Bereich Verlauf werden Diagramme angezeigt, die Informationen über die Kapazität und die Platzreservierungen des ausgewählten Volumes enthalten. Außerdem können Sie auf die Schaltfläche *Exportieren* klicken, um einen Bericht im CSV-Format für das Diagramm zu erstellen, das Sie anzeigen.
@@ -689,6 +694,7 @@ Zeigt den Schwellenwert für die Snapshot-Reserve und die Snapshot-Warnung als L
 
 
 
+[[events-list]]
 == Ereignisliste
 
 In der Ereignisliste werden Details zu neuen und bestätigten Ereignissen angezeigt:
@@ -709,12 +715,14 @@ Zeigt die Zeit an, die seit der Erzeugung des Ereignisses verstrichen ist. Wenn 
 
 
 
+[[related-annotations-pane]]
 == Bereich „Verwandte Anmerkungen“
 
 Im Bereich Verwandte Anmerkungen können Sie Anmerkungsdetails anzeigen, die mit dem ausgewählten Volume verknüpft sind. Die Details umfassen den Anmerkungsnamen und die Anmerkungswerte, die auf das Volumen angewendet werden. Sie können auch manuelle Anmerkungen aus dem Bereich Verwandte Anmerkungen entfernen.
 
 
 
+[[related-devices-pane]]
 == Bereich „Verwandte Geräte“
 
 Im Bereich „Verwandte Geräte“ können Sie SVMs, Aggregate, qtrees, LUNs und Snapshot Kopien anzeigen und navigieren, die mit dem Volume zusammenhängen:
@@ -763,12 +771,14 @@ Zeigt den Namen und die Kapazität des übergeordneten Volume eines ausgewählte
 
 
 
+[[related-groups-pane]]
 == Bereich „Verwandte Gruppen“
 
 Im Bereich „Verwandte Gruppen“ können Sie die Liste der Gruppen anzeigen, die dem ausgewählten Volume zugeordnet sind.
 
 
 
+[[related-alerts-pane]]
 == Bereich „Verwandte Warnungen“
 
 Im Bereich „Verwandte Warnungen“ können Sie die Liste der Warnmeldungen anzeigen, die für das ausgewählte Volume erstellt wurden. Sie können auch eine Warnung hinzufügen, indem Sie auf den Link Warnung hinzufügen klicken oder eine vorhandene Warnung bearbeiten, indem Sie auf den Alarmnamen klicken.

@@ -15,6 +15,7 @@ Netzteile liefern Ihnen Informationen über den Status Ihrer Hardware, sodass Si
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

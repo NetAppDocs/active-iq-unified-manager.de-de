@@ -15,6 +15,7 @@ Der `events`, `alerts`, und `scripts` APIs unter `management-server` Mithilfe de
 
 
 
+[[view-and-modify-events]]
 == Anzeigen und Ändern von Ereignissen
 
 Unified Manager erhält die Ereignisse, die auf ONTAP für die durch Unified Manager überwachten und verwalteten Cluster generiert werden. Mit diesen APIs können Sie die für Ihre Cluster generierten Ereignisse anzeigen und sie lösen und aktualisieren.
@@ -54,6 +55,7 @@ Führen Sie diese API aus, um ein Ereignis zuzuweisen oder den Status auf „bes
 |===
 
 
+[[manage-alerts]]
 == Verwalten von Meldungen
 
 Ereignisse werden automatisch und kontinuierlich generiert. Unified Manager generiert eine Meldung nur, wenn ein Ereignis bestimmte Filterkriterien erfüllt. Sie können die Ereignisse auswählen, für die Warnmeldungen generiert werden sollen. Durch Verwendung des `/management-server/alerts` API: Sie können Benachrichtigungen so konfigurieren, dass Benachrichtigungen automatisch gesendet werden, wenn bestimmte Ereignisse oder Ereignisse bestimmter Schweregrade auftreten.
@@ -103,6 +105,7 @@ NOTE: Beachten Sie beim Auswählen einer Ressource zum Hinzufügen einer Meldung
 
 
 
+[[manage-scripts]]
 == Skripte verwalten
 
 Durch Verwendung des `/management-server/scripts` API. Sie können auch eine Warnung einem Skript zuordnen, das bei Auslösung einer Warnmeldung ausgeführt wird. Mithilfe von Skripten können mehrere Storage-Objekte in Unified Manager automatisch geändert oder aktualisiert werden. Das Skript ist einer Warnung zugeordnet. Wenn ein Ereignis eine Warnung auslöst, wird das Skript ausgeführt. Sie können benutzerdefinierte Skripts hochladen und deren Ausführung testen, wenn eine Warnung erzeugt wird. Sie können eine Warnung mit Ihrem Skript verknüpfen, damit das Skript ausgeführt wird, wenn eine Warnung für ein Ereignis in Unified Manager ausgegeben wird.

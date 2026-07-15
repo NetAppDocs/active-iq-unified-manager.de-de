@@ -20,6 +20,7 @@ Der lokale und der Remote-Cluster in der MetroCluster Konfiguration müssen Unif
 
 
 
+[[view-replication-for-metrocluster-over-ip-configurations]]
 == Replikation für MetroCluster über IP-Konfigurationen anzeigen
 
 Bei MetroCluster-over-IP-Konfigurationen wird der Datenreplizierungsstatus in der Topologieansicht für einen durch MetroCluster over IP geschützten Cluster aus den folgenden Ansichten im linken Navigationsbereich von Unified Manager angezeigt:
@@ -32,6 +33,7 @@ Weitere Informationen finden Sie unter link:../storage-mgmt/task_monitor_metrocl
 
 
 
+[[view-replication-for-metrocluster-over-fc-configurations]]
 == Replikation für MetroCluster über FC-Konfigurationen anzeigen
 
 Befolgen Sie diese Schritte, um alle Probleme in der Datenreplizierung für die MetroCluster-over-FC-Konfiguration zu ermitteln.

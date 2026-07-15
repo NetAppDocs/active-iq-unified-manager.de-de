@@ -106,6 +106,7 @@ Um HTTP-Anfragen von einem Webbrowser zu stellen, müssen Sie REST API Browser-P
 
 
 
+[[authentication]]
 == Authentifizierung
 
 Unified Manager unterstützt das grundlegende HTTP-Authentifizierungsschema für APIs. Für einen sicheren Informationsfluss (Anfrage und Antwort) sind die REST-APIs nur über HTTPS zugänglich. Der API-Server stellt allen Clients ein selbstsigniertes SSL-Zertifikat zur Server-Überprüfung zur Verfügung. Dieses Zertifikat kann durch ein benutzerdefiniertes Zertifikat (oder ein CA-Zertifikat) ersetzt werden.

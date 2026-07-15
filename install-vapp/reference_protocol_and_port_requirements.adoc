@@ -15,6 +15,7 @@ Die erforderlichen Ports und Protokolle ermöglichen die Kommunikation zwischen 
 
 
 
+[[connections-to-the-unified-manager-server]]
 == Verbindungen zum Unified Manager-Server
 
 In typischen Installationen müssen Sie bei der Verbindung zur Web-UI von Unified Manager keine Portnummern angeben, da immer Standardports verwendet werden. Da Unified Manager beispielsweise immer versucht, auf seinem Standardport ausgeführt zu werden, können Sie eingeben `+https://<host>+` Statt `+https://<host>:443+`.
@@ -142,6 +143,7 @@ Der Standardport für MySQL, 3306, ist auf localhost beschränkt, während Unifi
 ====
 
 
+[[connections-from-the-unified-manager-server]]
 == Verbindungen vom Unified Manager-Server
 
 Sie sollten Ihre Firewall so konfigurieren, dass sie Ports öffnen, die die Kommunikation zwischen dem Unified Manager-Server und verwalteten Speichersystemen, Servern und anderen Komponenten ermöglichen. Wenn ein Port nicht geöffnet ist, schlägt die Kommunikation fehl.

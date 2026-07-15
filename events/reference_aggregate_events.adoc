@@ -15,6 +15,7 @@ Aggregierte Ereignisse liefern Ihnen Informationen zum Status von Aggregaten, so
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 Ein Sternchen (*) identifiziert EMS-Ereignisse, die in Unified Manager-Ereignisse konvertiert wurden.
@@ -145,6 +146,7 @@ Fehler
 |===
 
 
+[[impact-area-capacity]]
 == Impact Area: Kapazität
 
 |===
@@ -229,6 +231,7 @@ Warnung
 |===
 
 
+[[impact-area-configuration]]
 == Impact Area: Konfiguration
 
 |===
@@ -269,6 +272,7 @@ Informationsdaten
 |===
 
 
+[[impact-area-performance]]
 == Impact Area: Performance
 
 |===

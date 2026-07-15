@@ -17,6 +17,7 @@ Auf der Seite Skripts können Sie Skripte aus Unified Manager hinzufügen oder l
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Hinzufügen*
@@ -31,6 +32,7 @@ Löscht das ausgewählte Skript.
 
 
 
+[[list-view]]
 == Listenansicht
 
 In der Listenansicht werden die Skripte in Tabellenformat angezeigt, die Sie Unified Manager hinzugefügt haben.

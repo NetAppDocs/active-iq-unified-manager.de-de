@@ -78,6 +78,7 @@ Anzahl an Storage Workloads, denen SEP zugewiesen wurde
 |===
 
 
+[[guidelines-for-creating-a-custom-storage-efficiency-policy]]
 == Richtlinien zum Erstellen einer individuellen Richtlinie zur Storage-Effizienz
 
 Wenn die vorhandenen SEPs die Richtlinienanforderungen für Ihre Storage-Workloads nicht erfüllen, können Sie ein benutzerdefiniertes SEP erstellen. Es wird jedoch empfohlen, die systemdefinierten SEPs für Ihre Speicher-Workloads zu verwenden und bei Bedarf nur benutzerdefinierte SEPs zu erstellen.

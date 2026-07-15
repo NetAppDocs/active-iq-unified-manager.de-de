@@ -17,6 +17,7 @@ Der Status neben dem Cluster-Namen, z. B. (gut), stellt den Kommunikationsstatus
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen des Befehls können Sie die folgenden Aufgaben für das ausgewählte Cluster ausführen:
@@ -46,6 +47,7 @@ Ermöglicht die Navigation in der Ansicht „Health: All Clusters“.
 
 
 
+[[health-tab]]
 == Registerkarte Systemzustand
 
 Zeigt detaillierte Informationen zur Datenverfügbarkeit und zu Kapazitätsproblemen der verschiedenen Cluster-Objekte wie Nodes, SVMs und Aggregate an. Verfügbarkeitsprobleme hängen von der Datenserverfunktion der Cluster-Objekte ab. Kapazitätsprobleme stehen im Zusammenhang mit der Datenspeicherfunktion der Cluster-Objekte.
@@ -54,6 +56,7 @@ Sie können auf das Diagramm eines Objekts klicken, um eine gefilterte Liste der
 
 
 
+[[availability-issues]]
 === Verfügbarkeitsprobleme
 
 Grafische Darstellung der Gesamtzahl an Objekten, einschließlich Objekten mit Verfügbarkeitsproblemen und Objekten, bei denen keine Probleme mit der Verfügbarkeit auftreten Die Farben im Diagramm stellen die verschiedenen Schweregrade für die Probleme dar. Die Informationen unten im Diagramm enthalten Details zu Verfügbarkeitsproblemen, die sich auf die Verfügbarkeit von Daten im Cluster auswirken oder bereits davon betroffen sein können. Beispielsweise werden Informationen über Festplatten-Shelfs angezeigt, die ausgefallen sind und Aggregate, die offline sind.
@@ -65,18 +68,21 @@ Die für das SFO-Balkendiagramm angezeigten Daten basieren auf dem HA-Status der
 ====
 
 
+[[capacity-issues]]
 === Kapazitätsprobleme
 
 Grafische Darstellung der Gesamtzahl an Objekten, einschließlich Objekten mit Kapazitätsproblemen und Objekten, die keine Kapazitätsprobleme haben. Die Farben im Diagramm stellen die verschiedenen Schweregrade für die Probleme dar. Die Informationen unten im Diagramm enthalten Details zu Kapazitätsproblemen, die sich auf die Kapazität von Daten im Cluster auswirken oder bereits sie beeinträchtigen können. Beispielsweise werden Informationen zu Aggregaten angezeigt, die mit hoher Wahrscheinlichkeit die festgelegten Schwellenwerte überschreiten.
 
 
 
+[[capacity-tab]]
 == Registerkarte „Kapazität“
 
 Zeigt detaillierte Informationen zur Kapazität des ausgewählten Clusters an.
 
 
 
+[[capacity]]
 === Kapazität
 
 Zeigt das Datenkapazitätsdiagramm zu der genutzten Kapazität und der verfügbaren Kapazität aus allen zugewiesenen Aggregaten an:
@@ -109,6 +115,7 @@ Zeigt die Kapazität an, die für alle zugrunde liegenden Volumes bereitgestellt
 
 
 
+[[details]]
 === Details
 
 Zeigt detaillierte Informationen zur verwendeten und verfügbaren Kapazität an. Die Berechnung schließt die Daten des Root-Aggregats aus.
@@ -137,12 +144,14 @@ Zeigt die verfügbare Speicherkapazität für die Speicherung aller freien Festp
 
 
 
+[[cloud-tier]]
 === Cloud-Tier
 
 Zeigt die insgesamt genutzte Cloud-Tier-Kapazität und die Kapazität der einzelnen verbundenen Cloud-Tiers für FabricPool-fähige Aggregate im Cluster an. Ein FabricPool kann entweder lizenziert oder nicht lizenziert sein.
 
 
 
+[[physical-capacity-breakout-by-disk-type]]
 === Physische Kapazität Breakout nach Festplattentyp
 
 Im Bereich physische Kapazität Breakout nach Festplattentyp werden ausführliche Informationen zur Festplattenkapazität der verschiedenen Festplattentypen im Cluster angezeigt. Durch Klicken auf den Festplattentyp werden weitere Informationen zum Festplattentyp auf der Registerkarte Laufwerke angezeigt.
@@ -179,6 +188,7 @@ Zeigt die Anzahl der nicht zugewiesenen Festplatten im Cluster an.
 
 
 
+[[aggregates-with-capacity-issues-list]]
 === Aggregate mit Kapazitätsproblemen
 
 Zeigt Details zur verwendeten Kapazität und zur verfügbaren Kapazität der Aggregate mit Kapazitätsproblemen in Tabellenform an.
@@ -218,12 +228,14 @@ Zeigt die geschätzte Anzahl der verbleibenden Tage an, bevor die volle Kapazit�
 
 
 
+[[configuration-tab]]
 == Registerkarte Konfiguration
 
 Zeigt Details zum ausgewählten Cluster an, z. B. IP-Adresse, Kontakt und Standort:
 
 
 
+[[cluster-overview]]
 === Cluster – Überblick
 
 * Managementoberfläche
@@ -258,6 +270,7 @@ Gibt an, ob es sich um ein für All-SAN-Arrays konfiguriertes Cluster handelt.
 
 
 
+[[remote-cluster-overview]]
 === Überblick Über Das Remote-Cluster
 
 Enthält Details zum Remote-Cluster in einer MetroCluster-Konfiguration. Diese Informationen werden nur für MetroCluster-Konfigurationen angezeigt.
@@ -278,6 +291,7 @@ Zeigt den Speicherort des Remote-Clusters an.
 
 
 
+[[metrocluster-overview]]
 === Übersicht über MetroCluster
 
 Details zum lokalen Cluster in MetroCluster over FC oder MetroCluster over IP Konfigurationen Diese Informationen werden nur für MetroCluster über FC- oder IP-Konfigurationen angezeigt.
@@ -323,6 +337,7 @@ Zeigt den Umschaltmodus für die MetroCluster-over-IP-Konfiguration an. Die verf
 
 
 
+[[nodes]]
 === Knoten
 
 * Gesteigerte
@@ -337,6 +352,7 @@ Zeigt die ONTAP-Versionen, die die Nodes ausführen, sowie die Anzahl der Nodes,
 
 
 
+[[storage-virtual-machines]]
 === Storage Virtual Machines
 
 * Gesteigerte
@@ -347,6 +363,7 @@ Zeigt die Anzahl der SVMs an, die aktiv sind (image:../media/availability_up_um6
 
 
 
+[[network-interfaces]]
 === Netzwerkschnittstellen
 
 * Gesteigerte
@@ -373,6 +390,7 @@ Zeigt die Anzahl der Intercluster-LIFs an.
 
 
 
+[[protocols]]
 === Protokolle
 
 * Datenprotokolle
@@ -383,6 +401,7 @@ Zeigt die Liste der lizenzierten Datenprotokolle an, die für den Cluster aktivi
 
 
 
+[[protection]]
 === Darstellt
 
 * Mediatoren
@@ -408,12 +427,14 @@ Zeigt an, wenn das Cluster Mediatoren unterstützt und der Mediator konfiguriert
 
 
 
+[[cloud-tiers]]
 === Cloud-Tiers
 
 In sind die Namen der Cloud-Tiers aufgeführt, mit denen dieses Cluster verbunden ist. Außerdem werden die Typen (Amazon S3, Microsoft Azure Cloud, IBM Cloud Object Storage, Google Cloud Storage, Alibaba Cloud Object Storage oder StorageGRID) und die Status der Cloud-Tiers (verfügbar oder nicht verfügbar) aufgelistet.
 
 
 
+[[metrocluster-connectivity-tab]]
 == Registerkarte MetroCluster-Konnektivität
 
 Zeigt die Probleme und den Konnektivitätsstatus der Cluster-Komponenten in der MetroCluster over FC-Konfiguration an. Ein Cluster wird in einem roten Feld angezeigt, wenn der Disaster-Recovery-Partner des Clusters Probleme hat.
@@ -438,6 +459,7 @@ Wenn der Status des Verbindungsproblem zwischen den Komponenten durch mehrere Er
 
 
 
+[[metrocluster-replication-tab]]
 == Registerkarte „MetroCluster-Replikation“
 
 Zeigt den Status der Daten an, die in einer MetroCluster over FC-Konfiguration repliziert werden. Sie können die Registerkarte MetroCluster-Replikation verwenden, um die Datensicherung durch synchrones Spiegeln der Daten mit den bereits Peering-Clustern zu gewährleisten. Ein Cluster wird in einem roten Feld angezeigt, wenn der Disaster-Recovery-Partner des Clusters Probleme hat.
@@ -453,60 +475,70 @@ Auf der Registerkarte MetroCluster-Replikation bietet das lokale Cluster eine de
 
 
 
+[[network-interfaces-tab]]
 == Registerkarte Netzwerkschnittstellen
 
 Zeigt Details zu allen nicht-Daten-LIFs an, die auf dem ausgewählten Cluster erstellt wurden.
 
 
 
+[[network-interface]]
 === Netzwerkschnittstelle
 
 Zeigt den Namen der logischen Schnittstelle an, die im ausgewählten Cluster erstellt wird.
 
 
 
+[[operational-status]]
 === Betriebsstatus
 
 Zeigt den Betriebsstatus der Schnittstelle an, die aktiv sein kann (image:../media/lif_status_up.gif["Symbol für den LIF-Status – up"]), Down (image:../media/lif_status_down.gif["Symbol für LIF-Status – Inaktiv"]Oder Unbekannt (image:../media/hastate_unknown.gif["Symbol für den HA-Status: Unbekannt"]). Der Betriebsstatus einer Netzwerkschnittstelle wird durch den Status ihrer physischen Ports bestimmt.
 
 
 
+[[administrative-status]]
 === Administrationsstatus
 
 Zeigt den Administrationsstatus der Schnittstelle an. Dieser kann aktiv sein (image:../media/lif_status_up.gif["Symbol für den LIF-Status – up"]), Down (image:../media/lif_status_down.gif["Symbol für LIF-Status – Inaktiv"]Oder Unbekannt (image:../media/hastate_unknown.gif["Symbol für den HA-Status: Unbekannt"]). Sie können den Administrationsstatus einer Schnittstelle steuern, wenn Sie Änderungen an der Konfiguration oder während der Wartung vornehmen. Der Administrationsstatus kann sich vom Betriebsstatus unterscheiden. Wenn jedoch der Administrationsstatus eines LIF „Inaktiv“ lautet, ist der Betriebsstatus standardmäßig „Inaktiv“.
 
 
 
+[[ip-address]]
 === IP-Adresse
 
 Zeigt die IP-Adresse der Schnittstelle an.
 
 
 
+[[role]]
 === Rolle
 
 Zeigt die Rolle der Schnittstelle an. Mögliche Rollen sind Cluster-Management-LIFs, Node-Management-LIFs, Cluster-LIFs und Intercluster-LIFs.
 
 
 
+[[home-port]]
 === Home Port
 
 Zeigt den physischen Port an, dem die Schnittstelle ursprünglich zugeordnet war.
 
 
 
+[[current-port]]
 === Aktueller Port
 
 Zeigt den physischen Port an, dem die Schnittstelle derzeit zugeordnet ist. Nach der LIF-Migration kann sich der aktuelle Port vom Home Port unterscheiden.
 
 
 
+[[failover-policy]]
 === Failover-Richtlinie
 
 Zeigt die Failover-Richtlinie an, die für die Schnittstelle konfiguriert ist.
 
 
 
+[[routing-groups]]
 === Routinggruppen
 
 Zeigt den Namen der Routinggruppe an. Sie können weitere Informationen zu den Routen und dem Ziel-Gateway anzeigen, indem Sie auf den Namen der Routinggruppe klicken.
@@ -515,18 +547,21 @@ Routinggruppen werden für ONTAP 8.3 oder höher nicht unterstützt. Daher wird 
 
 
 
+[[failover-group]]
 === Failover-Gruppe
 
 Zeigt den Namen der Failover-Gruppe an.
 
 
 
+[[nodes-tab]]
 == Registerkarte Knoten
 
 Zeigt Informationen zu Nodes im ausgewählten Cluster an. Sie können ausführliche Informationen zu HA-Paaren, Festplatten-Shelfs und Ports anzeigen:
 
 
 
+[[ha-details]]
 === HA-Details
 
 Stellt eine bildliche Darstellung des HA-Status und des Integritätsstatus der Nodes im HA-Paar bereit. Der Integritätsstatus des Node wird durch die folgenden Farben angezeigt:
@@ -555,6 +590,7 @@ Bei Single-Node-Clustern können Sie auch Details zu den Nodes anzeigen.
 
 
 
+[[disk-shelves]]
 === Platten-Shelfs
 
 Zeigt Informationen über die Festplatten-Shelfs im HA-Paar an.
@@ -608,6 +644,7 @@ Zeigt die Firmware-Version des Festplatten-Shelf an.
 
 
 
+[[ports]]
 === Ports
 
 Zeigt Informationen zu den zugehörigen FC-, FCoE- und Ethernet-Ports an. Sie können Details zu den Ports und den zugehörigen LIFs anzeigen, indem Sie auf die Port-Symbole klicken.
@@ -647,54 +684,63 @@ Sie können die portbezogenen Ereignisse in der Ereignisliste anzeigen. Sie kön
 
 
 
+[[disks-tab]]
 == Registerkarte „Festplatten“
 
 Zeigt Details zu den Festplatten im ausgewählten Cluster an. Sie können Festplatten-bezogene Informationen wie die Anzahl der verwendeten Festplatten, Ersatzfestplatten, fehlerhafte Festplatten und nicht zugewiesene Laufwerke anzeigen. Sie können auch weitere Details anzeigen, z. B. den Festplattennamen, den Festplattentyp und den Besitzer-Node der Festplatte.
 
 
 
+[[disk-pool-summary]]
 === Disk-Pool: Zusammenfassung
 
 Zeigt die Anzahl der Laufwerke an, die nach effektiven Typen (FCAL, SAS, SATA, MSATA, SSD, NVMe SSD, SSD CAP, Array LUN und VMDISK) und der Zustand der Festplatten. Sie können auch andere Details anzeigen, wie z. B. die Anzahl der Aggregate, gemeinsam genutzte Festplatten, Ersatzfestplatten, fehlerhafte Festplatten, nicht zugewiesene Festplatten, Und nicht unterstützten Festplatten. Wenn Sie auf den Link zur Anzahl der effektiven Festplattentypen klicken, werden Festplatten mit dem ausgewählten Status und dem effektiven Typ angezeigt. Wenn Sie beispielsweise auf den Zähllink für den Festplattenstatus „beschädigt“ und „effektiver Typ SAS“ klicken, werden alle Festplatten mit dem Festplattenstatus „beschädigt“ und „effektiver Typ „SAS“ angezeigt.
 
 
 
+[[disk]]
 === Festplatte
 
 Zeigt den Namen der Festplatte an.
 
 
 
+[[raid-groups]]
 === RAID-Gruppen
 
 Zeigt den Namen der RAID-Gruppe an.
 
 
 
+[[owner-node]]
 === Owner-Node
 
 Zeigt den Namen des Node an, zu dem die Festplatte gehört. Wenn die Festplatte nicht zugewiesen ist, wird in dieser Spalte kein Wert angezeigt.
 
 
 
+[[state]]
 === Bundesland
 
 Zeigt den Status der Festplatte an: Aggregate, Shared, Spare, broken, Unassigned, Nicht unterstützt oder Unbekannt. Standardmäßig wird diese Spalte sortiert, um die Status in der folgenden Reihenfolge anzuzeigen: Gebrochen, nicht zugewiesen, nicht unterstützt, Spare, Aggregat, Und Shared IT.
 
 
 
+[[local-disk]]
 === Lokale Festplatte
 
 Zeigt entweder Ja oder Nein an, um anzugeben, ob sich das Laufwerk im lokalen Cluster oder im Remote-Cluster befindet. Diese Spalte wird nur für Cluster in einer MetroCluster-Konfiguration angezeigt.
 
 
 
+[[position]]
 === Position
 
 Zeigt die Position des Laufwerks basierend auf seinem Container-Typ an, z. B. Kopieren, Daten oder Parität. Standardmäßig ist diese Spalte ausgeblendet.
 
 
 
+[[impacted-aggregates]]
 === Betroffene Aggregate
 
 Zeigt die Anzahl der Aggregate an, die aufgrund der ausgefallenen Festplatte betroffen sind. Sie können den Mauszeiger über den Zähllink verschieben, um die betroffenen Aggregate anzuzeigen. Klicken Sie dann auf den Aggregatnamen, um Details zum Aggregat anzuzeigen. Sie können auch auf die Aggregatanzahl klicken, um die Liste der betroffenen Aggregate in der Ansicht „Systemzustand: Alle Aggregate“ anzuzeigen.
@@ -707,30 +753,35 @@ In dieser Spalte wird für die folgenden Fälle kein Wert angezeigt:
 
 
 
+[[storage-pool]]
 === Storage-Pool
 
 Zeigt den Namen des Speicherpools an, zu dem die SSD gehört. Sie können den Zeiger über den Speicherpool verschieben, um Details des Speicherpools anzuzeigen.
 
 
 
+[[storable-capacity]]
 === Speicherbare Kapazität
 
 Zeigt die verfügbare Festplattenkapazität an.
 
 
 
+[[raw-capacity]]
 === Bruttokapazität
 
 Zeigt die Kapazität der unformatierten RAW-Festplatte vor der richtigen Dimensionierung und RAID-Konfiguration an. Standardmäßig ist diese Spalte ausgeblendet.
 
 
 
+[[type]]
 === Typ
 
 Zeigt die Festplattentypen an, z. B. ATA, SATA, FCAL oder VMDISK.
 
 
 
+[[effective-type]]
 === Effektiver Typ
 
 Zeigt den von ONTAP zugewiesenen Festplattentyp an.
@@ -739,60 +790,70 @@ Bestimmte ONTAP-Festplattentypen werden als gleichbedeutend mit dem Erstellen un
 
 
 
+[[spare-blocks-consumed]]
 === Spare-Blöcke Verbrauchen %
 
 Zeigt in Prozent die Spare-Blöcke an, die in der SSD-Festplatte verbraucht werden. Diese Spalte ist bei anderen Festplatten als SSD-Festplatten leer.
 
 
 
+[[rated-life-used]]
 === Bewertete Lebensdauer %
 
 Zeigt prozentual eine Schätzung der verwendeten SSD-Lebensdauer an, basierend auf der tatsächlichen SSD-Nutzung und der Vorhersage der SSD-Lebensdauer des Herstellers. Ein Wert größer als 99 zeigt an, dass die geschätzte Haltbarkeit verbraucht wurde, weist aber möglicherweise nicht auf einen SSD-Ausfall hin. Wenn der Wert unbekannt ist, wird die Platte weggelassen.
 
 
 
+[[firmware]]
 === Firmware
 
 Zeigt die Firmware-Version der Festplatte an.
 
 
 
+[[rpm]]
 === U/MIN
 
 Zeigt die Umdrehungen pro Minute (U/min) der Festplatte an. Standardmäßig ist diese Spalte ausgeblendet.
 
 
 
+[[model]]
 === Modell
 
 Zeigt die Modellnummer der Festplatte an. Standardmäßig ist diese Spalte ausgeblendet.
 
 
 
+[[vendor]]
 === Anbieter
 
 Zeigt den Namen des Festplattenanbieters an. Standardmäßig ist diese Spalte ausgeblendet.
 
 
 
+[[shelf-id]]
 === Shelf-ID
 
 Zeigt die ID des Shelf an, in dem sich die Festplatte befindet.
 
 
 
+[[bay]]
 === Bucht
 
 Zeigt die ID des Einschubschachts an, in dem sich die Festplatte befindet.
 
 
 
+[[related-annotations-pane]]
 == Bereich „Verwandte Anmerkungen“
 
 Hiermit können Sie die mit dem ausgewählten Cluster verknüpften Anmerkungsdetails anzeigen. Die Details umfassen den Anmerkungsnamen und die auf das Cluster angewandten Anmerkungswerte. Sie können auch manuelle Anmerkungen aus dem Bereich Verwandte Anmerkungen entfernen.
 
 
 
+[[related-devices-pane]]
 == Bereich „Verwandte Geräte“
 
 Mit dieser Option können Sie Gerätedetails anzeigen, die mit dem ausgewählten Cluster verknüpft sind.
@@ -805,36 +866,42 @@ Im Bereich „Verwandte Geräte“ können Sie die Nodes, SVMs und Aggregate anz
 
 
 
+[[metrocluster-partner]]
 === MetroCluster Partner
 
 Zeigt den Integritätsstatus des MetroCluster Partners an. Über den Link „count“ können Sie weitere Informationen über Zustand und Kapazität der Cluster-Komponenten abrufen.
 
 
 
+[[nodes]]
 === Knoten
 
 Zeigt die Anzahl, die Kapazität und den Systemzustand der Nodes an, die zum ausgewählten Cluster gehören. Kapazität gibt die nutzbare Gesamtkapazität über die verfügbare Kapazität an.
 
 
 
+[[storage-virtual-machines]]
 === Storage Virtual Machines
 
 Zeigt die Anzahl der SVMs an, die zum ausgewählten Cluster gehören.
 
 
 
+[[aggregates]]
 === Aggregate
 
 Zeigt die Anzahl, Kapazität und den Systemzustand der Aggregate an, die zum ausgewählten Cluster gehören.
 
 
 
+[[related-groups-pane]]
 == Bereich „Verwandte Gruppen“
 
 Mit können Sie die Liste der Gruppen anzeigen, die den ausgewählten Cluster enthalten.
 
 
 
+[[related-alerts-pane]]
 == Bereich „Verwandte Warnungen“
 
 Im Teilfenster „Related Alerts“ können Sie die Liste der Meldungen für das ausgewählte Cluster anzeigen. Sie können auch eine Warnung hinzufügen, indem Sie auf den Link Warnung hinzufügen klicken oder eine vorhandene Warnung bearbeiten, indem Sie auf den Alarmnamen klicken.

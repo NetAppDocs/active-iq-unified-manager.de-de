@@ -17,12 +17,14 @@ Einige der API-Aufrufe, insbesondere solche, die zum Hinzufügen oder Ändern vo
 
 
 
+[[asynchronous-requests-described-using-job-object]]
 == Asynchrone Anforderungen, die mit Job Object beschrieben werden
 
 Nach einem API-Aufruf, der asynchron ausgeführt wird, weist der HTTP-Antwortcode 202 darauf hin, dass die Anforderung erfolgreich validiert und akzeptiert, aber noch nicht abgeschlossen wurde. Die Anforderung wird als Hintergrundaufgabe verarbeitet, die nach der ersten HTTP-Antwort auf den Client weiter ausgeführt wird. Die Antwort umfasst das Job-Objekt, das die Anfrage einschließlich der eindeutigen Kennung anverankert.
 
 
 
+[[query-the-job-object-associated-with-an-api-request]]
 == Abfrage des Job-Objekts, das einer API-Anforderung zugeordnet ist
 
 Das in der HTTP-Antwort zurückgegebene Job-Objekt enthält mehrere Eigenschaften. Sie können die Statuseigenschaft abfragen, um festzustellen, ob die Anfrage erfolgreich abgeschlossen wurde. Ein Job-Objekt kann einen der folgenden Status haben:
@@ -41,6 +43,7 @@ Es gibt zwei Verfahren, die Sie beim Abfragen eines Jobobjekts verwenden können
 
 
 
+[[steps-in-an-asynchronous-request]]
 == Schritte in einer asynchronen Anforderung
 
 Sie können den folgenden grundlegenden Vorgang verwenden, um einen asynchronen API-Aufruf abzuschließen:

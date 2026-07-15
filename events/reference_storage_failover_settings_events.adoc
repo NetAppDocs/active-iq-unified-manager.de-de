@@ -15,6 +15,7 @@ Ereignisse im Rahmen der Storage-Failover-Einstellungen (SFO) informieren Sie da
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

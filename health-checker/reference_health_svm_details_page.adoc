@@ -20,6 +20,7 @@ Sie können nur Storage VM überwachen.
 ====
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Befehlsschaltflächen können Sie die folgenden Aufgaben für die ausgewählte Storage-VM ausführen:
@@ -48,6 +49,7 @@ Ermöglicht Ihnen die Navigation zur Ansicht „Systemzustand: Alle Storage VMs�
 
 
 
+[[health-tab]]
 == Registerkarte Systemzustand
 
 Auf der Registerkarte Systemzustand werden detaillierte Informationen zur Datenverfügbarkeit, Datenkapazität und Sicherung verschiedener Objekte wie Volumes, Aggregate, NAS LIFs, SAN LIFs, LUNs, angezeigt. Protokolle, Services, NFS-Freigaben und CIFS-Freigaben.
@@ -73,6 +75,7 @@ Bietet eine schnelle Übersicht über den Schutz von Storage-VMs, indem die Gesa
 
 
 
+[[capacity-tab]]
 == Registerkarte „Kapazität“
 
 Auf der Registerkarte Kapazität werden ausführliche Informationen zur Datenkapazität der ausgewählten SVM angezeigt.
@@ -152,6 +155,7 @@ Zeigt für FlexVol Volumes den Namen des Aggregats an, das das Volume enthält. 
 
 
 
+[[configuration-tab]]
 == Registerkarte Konfiguration
 
 Auf der Registerkarte Konfiguration werden Konfigurationsdetails zur ausgewählten Storage-VM angezeigt, z. B. Cluster, Root-Volume, der zugehörige Volume-Typ (FlexVol-Volumes), Richtlinien und Sicherung, die auf der Storage-VM erstellt wurden:
@@ -252,6 +256,7 @@ Zeigt die IP-Adressen des DNS- oder NIS-Servers an. Wenn der NIS-Server aktivier
 
 
 
+[[network-interfaces-tab]]
 == Registerkarte Netzwerkschnittstellen
 
 Auf der Registerkarte Netzwerkschnittstellen werden Details zu den Datennetzwerkschnittstellen (LIFs) angezeigt, die auf der ausgewählten Storage-VM erstellt wurden:
@@ -311,6 +316,7 @@ Zeigt den Namen der Failover-Gruppe an.
 
 
 
+[[qtrees-tab]]
 == Registerkarte „qtrees“
 
 Auf der Registerkarte qtrees werden Details zu qtrees und ihren Kontingenten angezeigt. Sie können auf die Schaltfläche *Schwellenwerte bearbeiten* klicken, wenn Sie die gesundheitlichen Schwellenwerte für qtree-Kapazität für eine oder mehrere qtrees bearbeiten möchten.
@@ -399,6 +405,7 @@ Zeigt den Softlimit für die Anzahl der Dateien an, die auf qtrees zulässig sin
 
 
 
+[[user-and-group-quotas-tab]]
 == Registerkarte „Benutzer- und Gruppenkontingente“
 
 Zeigt Details zu den Quoten für Benutzer und Benutzergruppen für die ausgewählte Storage-VM an. Sie können Informationen wie den Status des Kontingents, den Namen des Benutzers oder der Benutzergruppe, die auf den Festplatten und Dateien festgelegten Soft- und Hard-Limits, den Speicherplatz und die Anzahl der verwendeten Dateien sowie den Schwellenwert für die Festplatte anzeigen. Sie können auch die E-Mail-Adresse ändern, die einem Benutzer oder einer Benutzergruppe zugeordnet ist.
@@ -487,6 +494,7 @@ Zeigt die E-Mail-Adresse des Benutzers oder der Benutzergruppe an, an die Benach
 
 
 
+[[nfs-shares-tab]]
 == Registerkarte NFS Shares
 
 Auf der Registerkarte NFS-Shares werden Informationen über NFS Shares angezeigt, z. B. sein Status, der dem Volume zugeordnete Pfad (FlexGroup Volumes oder FlexVol Volumes), die Zugriffsebenen von Clients auf die NFS-Shares und die für die exportierten Volumes definierte Exportrichtlinie. NFS-Freigaben werden unter folgenden Bedingungen nicht angezeigt: Wenn das Volume nicht gemountet wurde oder wenn die mit der Exportrichtlinie für das Volume verknüpften Protokolle keine NFS-Freigaben enthalten.
@@ -568,6 +576,7 @@ Zeigt die Regeln an, die die Zugriffsberechtigung für exportierte Volumes defin
 
 
 
+[[smb-shares-tab]]
 == Registerkarte „SMB-Freigaben“
 
 Zeigt Informationen zu den SMB-Freigaben auf der ausgewählten Storage-VM an. Sie können Informationen anzeigen, wie z. B. den Status der SMB-Freigabe, den Freigabennamen, den mit der Storage-VM verknüpften Pfad, den Status des Verbindungspfads der Freigabe, das Objekt, den Status des enthaltenden Volumes, die Sicherheitsdaten der Freigabe und die für die Freigabe definierten Exportrichtlinien. Sie können auch festlegen, ob ein äquivalenter NFS-Pfad für die SMB-Freigabe vorhanden ist.
@@ -675,6 +684,7 @@ Gibt an, ob ein Äquivalent zu NFS für die Freigabe vorhanden ist.
 
 
 
+[[san-tab]]
 == REGISTERKARTE „SAN“
 
 Zeigt Details zu LUNs, Initiatorgruppen und Initiatoren für die ausgewählte Storage-VM an. Standardmäßig wird die Ansicht LUNs angezeigt. Sie können Details zu den Initiatorgruppen auf der Registerkarte Initiatorgruppen und Details zu Initiatoren auf der Registerkarte Initiatoren anzeigen.
@@ -721,12 +731,14 @@ Zeigt den Namen und Typ des Initiators und die Gesamtzahl der Initiatorgruppen a
 
 
 
+[[related-annotations-pane]]
 == Bereich „Verwandte Anmerkungen“
 
 Im Fensterbereich Verwandte Anmerkungen können Sie die mit der ausgewählten Speicher-VM verknüpften Anmerkungsdetails anzeigen. Details umfassen den Anmerkungsnamen und die Anmerkungswerte, die auf die Storage-VM angewendet werden. Sie können auch manuelle Anmerkungen aus dem Bereich Verwandte Anmerkungen entfernen.
 
 
 
+[[related-devices-pane]]
 == Bereich „Verwandte Geräte“
 
 Im Bereich „Verwandte Geräte“ können Sie Cluster, Aggregate und Volumes anzeigen, die mit der Storage-VM in Verbindung stehen:
@@ -751,12 +763,14 @@ Zeigt die Anzahl und Kapazität der Volumes an, die zur ausgewählten Speicher-V
 
 
 
+[[related-groups-pane]]
 == Bereich „Verwandte Gruppen“
 
 Im Fensterbereich Verwandte Gruppen können Sie die Liste der Gruppen anzeigen, die der ausgewählten Speicher-VM zugeordnet sind.
 
 
 
+[[related-alerts-pane]]
 == Bereich „Verwandte Warnungen“
 
 Im Bereich „Verwandte Warnungen“ können Sie die Liste der Warnmeldungen anzeigen, die für die ausgewählte Storage-VM erstellt wurden. Sie können auch eine Warnung hinzufügen, indem Sie auf den Link *Alarm hinzufügen* klicken oder eine vorhandene Warnung bearbeiten, indem Sie auf den Namen der Warnmeldung klicken.

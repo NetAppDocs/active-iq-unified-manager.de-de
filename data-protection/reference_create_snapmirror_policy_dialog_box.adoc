@@ -52,6 +52,7 @@ Gibt an, dass unterbrochene Transfers nie neu gestartet werden.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:

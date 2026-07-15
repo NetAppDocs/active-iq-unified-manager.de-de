@@ -15,6 +15,7 @@ summary: Über das Dialogfeld „Ressourcen-Pool bearbeiten“ können Sie den N
 
 
 
+[[text-boxes]]
 == Textfelder
 
 Mit den Textfeldern können Sie die folgenden Informationen für den ausgewählten Ressourcenpool ändern:
@@ -31,6 +32,7 @@ Ermöglicht die Eingabe einer neuen Beschreibung.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:

@@ -15,6 +15,7 @@ MetroCluster Switch-Ereignisse für MetroCluster-over-FC-Konfigurationen bieten 
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

@@ -15,6 +15,7 @@ NVRAM-Batterieereignisse geben Ihnen Informationen zum Status Ihrer Akkus, sodas
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

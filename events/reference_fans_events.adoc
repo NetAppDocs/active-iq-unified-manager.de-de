@@ -15,6 +15,7 @@ Lüfterereignisse versorgen Sie mit Informationen zu den Statusventilatoren auf 
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

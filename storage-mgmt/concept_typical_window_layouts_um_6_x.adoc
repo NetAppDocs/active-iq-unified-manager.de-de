@@ -17,12 +17,14 @@ Nicht jedes Fenster enthält jedes Element in den folgenden Diagrammen.
 
 
 
+[[object-list-window-layout]]
 == Layout des Fensters Objektliste
 
 image::../media/object_list.png[Objektliste]
 
 
 
+[[object-details-window-layout]]
 == Layout des Fensters „Objektdetails“
 
 image::../media/object_details.gif[Objektdetails]

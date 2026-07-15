@@ -27,6 +27,7 @@ Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradmini
 
 
 
+[[example-of-configuring-a-condition-for-an-annotation-rule]]
 == Beispiel für die Konfiguration einer Bedingung für eine Anmerkungsregel
 
 Es empfiehlt sich eine Bedingung für den Objekttyp „SVM“, bei der der Objektname „`svm_Data`“ enthält.

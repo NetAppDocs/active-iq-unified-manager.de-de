@@ -15,6 +15,7 @@ Festplatten-Events liefern Ihnen Informationen zum Status von Festplatten, sodas
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

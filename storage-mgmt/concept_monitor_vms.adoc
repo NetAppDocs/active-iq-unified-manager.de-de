@@ -26,6 +26,7 @@ Ermitteln Sie den I/O-Pfad und die Latenzen auf Komponentenebene anhand eines to
 
 
 
+[[view-summary-topology]]
 == Anzeigen der Übersichtstopologie
 
 Zur Ermittlung von Performance-Problemen durch Anzeige der VMs in einer zusammengefassten Topologie:
@@ -53,6 +54,7 @@ VCenter Server ermöglichen Sonderzeichen (z. B. %, &, *, €, #, @, !, \, /, :,
 
 
 
+[[view-expanded-topology]]
 == Erweiterte Topologie anzeigen
 
 Sie können die einzelnen Komponenten separat anzeigen, indem Sie die erweiterte Topologie der VM anzeigen.

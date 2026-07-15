@@ -15,6 +15,7 @@ Sie können Storage-Workloads auf der Seite Alle Workloads mit verschiedenen Nav
 
 
 
+[[assign-policies-to-a-single-workload]]
 == Zuweisen von Richtlinien zu einer einzelnen Arbeitslast
 
 Sie können eine PSL oder eine SEP oder beide für einen einzelnen Workload zuweisen. Führen Sie hierzu folgende Schritte aus:
@@ -35,6 +36,7 @@ Sie können auch einen Workload auswählen und auf *Mehr Aktionen* klicken, um d
 ====
 
 
+[[assign-policies-to-multiple-storage-workloads]]
 == Zuweisen von Richtlinien zu mehreren Speicher-Workloads
 
 Sie können eine PSL oder eine SEP mehreren Storage Workloads zuweisen. Führen Sie hierzu folgende Schritte aus:
@@ -53,6 +55,7 @@ Das Anwenden von Richtlinien auf große Workloads kann je nach Anzahl der ausgew
 
 
 
+[[assign-system-recommended-psls-to-workloads]]
 == Zuweisen systemempfohlener PSLs zu Workloads
 
 Sie können den Speicher-Workloads in einem Rechenzentrum, das keine PSLs zugewiesen hat, systemempfohlene PSLs zuweisen, oder die zugewiesenen PSLs stimmen nicht mit der Systemempfehlung überein. Um diese Funktionalität zu nutzen, klicken Sie auf die Schaltfläche *System Empfohlene PSLs*. Es müssen keine spezifischen Workloads ausgewählt werden.

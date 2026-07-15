@@ -15,6 +15,7 @@ Sie können das Dialogfeld Erweiterte Zieleinstellungen verwenden, um die Einste
 
 
 
+[[space-guarantee]]
 == Speicherplatzgarantie
 
 Stellt sicher, dass auf dem Ziel-Volume genügend Speicherplatz zugewiesen wird, damit Datentransfers immer erfolgreich durchgeführt werden. Die Einstellung für die Speicherplatzgarantie kann eine der folgenden sein:

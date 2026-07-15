@@ -15,6 +15,7 @@ Bei Service-Prozessor-Ereignissen erhalten Sie Informationen über den Status Ih
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

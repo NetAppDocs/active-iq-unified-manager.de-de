@@ -68,6 +68,7 @@ Gibt den Benutzer- oder Benutzergruppennamen an.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Befehlsschaltflächen können Sie die Änderungen im Benachrichtigungsformat für E-Mail-Nachrichten anzeigen, speichern oder abbrechen:

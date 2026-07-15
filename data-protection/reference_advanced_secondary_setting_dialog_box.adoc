@@ -72,6 +72,7 @@ Die Speicherplatzzusage ist standardmäßig auf das Volume festgelegt.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:

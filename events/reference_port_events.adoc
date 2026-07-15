@@ -15,6 +15,7 @@ Port-Ereignisse bieten Ihnen den Status zu Cluster-Ports, sodass Sie Änderungen
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===
@@ -33,6 +34,7 @@ Kritisch
 |===
 
 
+[[impact-area-performance]]
 == Impact Area: Performance
 
 |===

@@ -15,6 +15,7 @@ Die Komponenten der Seite Performance/Node Failover Planning werden in einem Ras
 
 
 
+[[performance-statistics-grid]]
 == Das Raster der Performance-Statistiken
 
 Auf der Seite „Performance/Node-Failover-Planung“ wird ein Raster mit Statistiken zu Latenz, IOPS, Auslastung und Performance-Kapazität angezeigt.
@@ -49,6 +50,7 @@ Sie können auf den Namen des Partner-Knotens klicken, wenn er das Root-Objekt w
 
 
 
+[[comparing-pane]]
 == Teilfenster „Vergleichen“
 
 In der folgenden Liste werden die im Teilfenster „Vergleich“ angezeigten Komponenten standardmäßig beschrieben:

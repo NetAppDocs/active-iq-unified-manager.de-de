@@ -49,6 +49,7 @@ Der Name des Support-Pakets wird Ihnen bereitgestellt, wenn Sie es mit der Wartu
 
 
 
+[[examples]]
 == Beispiele
 
 Im folgenden Beispiel wird SCP verwendet, um das Supportpaket abzurufen:

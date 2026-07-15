@@ -41,6 +41,7 @@ Sie können ein überholetes Ereignis nicht bestätigen oder beheben.
 
 
 
+[[example-of-different-states-of-an-event]]
 == Beispiel für unterschiedliche Zustände eines Ereignisses
 
 Die folgenden Beispiele veranschaulichen manuelle und automatische Änderungen des Ereignisstatus.

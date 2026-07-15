@@ -15,6 +15,7 @@ Mithilfe der hier aufgeführten APIs können Sie die Active Directory-Zuordnunge
 
 
 
+[[view-active-directory-mappings]]
 == Anzeigen von Active Directory-Zuordnungen
 
 Sie können die Konfigurationsdetails der Active Directory-Zuordnungen für eine SVM über die folgende Methode anzeigen. Um die Active Directory-Zuordnungen auf einer SVM anzuzeigen, müssen Sie den SVM-Schlüssel eingeben. Um die Details einer bestimmten Zuordnung abfragen zu können, müssen Sie den Zuordnungsschlüssel eingeben.
@@ -36,6 +37,7 @@ GET
 |===
 
 
+[[add-active-directory-mapping]]
 == Fügen Sie die Active Directory-Zuordnung hinzu
 
 Sie können Active Directory-Zuordnungen auf einer SVM mit der folgenden Methode erstellen. Sie müssen die Zuordnungsdetails als Eingabeparameter eingeben.

@@ -20,12 +20,14 @@ Alternativ können Sie 7-Zip vorinstallieren.
 
 
 
+[[pre-install-the-7-zip-package]]
 == Installieren Sie das 7-Zip-Paket vorab.
 
 Sie können 7-Zip vorinstallieren, indem Sie es manuell herunterladen oder ein mitgeliefertes Skript verwenden. Wählen Sie eine der folgenden beiden Methoden:
 
 
 
+[[download-using-a-bundled-script]]
 === Herunterladen mithilfe eines mitgelieferten Skripts
 
 .Schritt
@@ -34,6 +36,7 @@ Sie können 7-Zip vorinstallieren, indem Sie es manuell herunterladen oder ein m
 
 
 
+[[download-manually]]
 === Manuelles Herunterladen
 
 Laden Sie das 7-Zip-Paket unbedingt nur von der offiziellen Website herunter.
@@ -71,6 +74,7 @@ sudo chmod 755 /usr/bin/7zz
 
 
 
+[[verify-the-installation]]
 == Überprüfen Sie die Installation
 
 Überprüfen Sie, ob das 7-Zip-Paket erfolgreich auf Ihrem System installiert wurde:

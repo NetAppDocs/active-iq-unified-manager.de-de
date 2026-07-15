@@ -17,6 +17,7 @@ Um die Sicherungsfunktionen in Unified Manager nutzen zu können, müssen auch O
 
 
 
+[[unified-manager-web-ui]]
 == Unified Manager Web-UI
 
 Die Unified Manager Web-UI ermöglicht einem Administrator, Cluster-Probleme in Bezug auf Kapazität, Verfügbarkeit und Sicherung der Daten zu überwachen und zu beheben.
@@ -25,6 +26,7 @@ In diesen Abschnitten werden einige gängige Workflows beschrieben, die ein Admi
 
 
 
+[[maintenance-console]]
 == Wartungskonsole
 
 Die Unified Manager-Wartungskonsole ermöglicht Administratoren das Überwachen, Diagnostizieren und behandeln von Betriebssystemproblemen, Problemen mit dem Versionsaktualisierung, Problemen mit dem Benutzerzugriff und Netzwerkproblemen im Zusammenhang mit dem Unified Manager-Server selbst. Wenn die Web-UI von Unified Manager nicht verfügbar ist, stellt die Wartungskonsole die einzige Zugriffsmöglichkeit auf Unified Manager dar.

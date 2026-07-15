@@ -15,6 +15,7 @@ Flash-Karten-Events informieren Sie über den Status der auf Nodes in Ihrem Data
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

@@ -90,6 +90,7 @@ Geben Sie die angegebene IP-Adresse oder URL in ein neues Fenster eines unterst�
 
 
 
+[[additional-steps-to-perform-for-missing-packages]]
 == Weitere Schritte, die bei fehlenden Paketen ausgeführt werden müssen
 
 Wenn während des Upgrades an Ihrer Site fehlende Pakete erkannt wurden, oder wenn Ihr System nicht mit dem Internet verbunden ist oder Sie die Red hat Enterprise Linux-Repositories nicht verwenden, führen Sie die folgenden Schritte aus, um festzustellen, ob erforderliche Pakete fehlen und diese Pakete heruntergeladen werden.

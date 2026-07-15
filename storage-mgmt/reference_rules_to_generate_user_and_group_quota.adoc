@@ -15,12 +15,14 @@ Auf der Seite „Regeln zum Generieren von E-Mail-Adressen für Benutzer- und Gr
 
 
 
+[[rules-area]]
 == Regelbereich
 
 Sie müssen die Regeln für eine Quota-E-Mail-Adresse definieren. Sie können auch Kommentare hinzufügen, um die Regeln zu erklären.
 
 
 
+[[how-you-define-rules]]
 == Wie Sie Regeln definieren
 
 Sie müssen die Regeln in der Reihenfolge eingeben, in der Sie sie ausführen möchten. Wenn das Kriterium der ersten Regel erfüllt ist, wird die E-Mail-Adresse basierend auf dieser Regel generiert. Wenn das Kriterium nicht erfüllt ist, wird das Kriterium für die nächste Regel berücksichtigt und so weiter. Jede Zeile enthält eine separate Regel. Die Standardregel ist die letzte Regel in der Liste. Sie können die Prioritätenreihenfolge von Regeln ändern. Sie können jedoch die Reihenfolge der Standardregel nicht ändern.
@@ -39,12 +41,14 @@ Wenn mehrere Benutzer dieselbe Quote haben, werden die Namen der Benutzer als ko
 
 
 
+[[how-you-add-comments]]
 == So fügen Sie Kommentare hinzu
 
 Sie können Kommentare hinzufügen, um die Regeln zu erläutern. Sie sollten # am Anfang jedes Kommentars verwenden und jede Zeile einen separaten Kommentar auflistet.
 
 
 
+[[rules-syntax]]
 == Regelsyntax
 
 Die Syntax der Regel muss eine der folgenden sein:
@@ -61,6 +65,7 @@ Wenn es sich um ein Schlüsselwort handelt und klein geschrieben wird. Der Opera
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Befehlsschaltflächen können Sie die erstellten Regeln speichern, überprüfen oder abbrechen:

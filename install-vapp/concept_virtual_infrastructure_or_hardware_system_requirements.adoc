@@ -51,24 +51,27 @@ Freier Speicherplatz
 |===
 Unified Manager kann auf Systemen mit wenig Arbeitsspeicher installiert werden. Die empfohlenen 12 GB RAM sorgen jedoch dafür, dass genügend Arbeitsspeicher für eine optimale Leistung zur Verfügung steht und dass das System bei wachsender Konfiguration zusätzliche Cluster und Speicherobjekte aufnehmen kann. Sie sollten für die VM, wo Unified Manager eingesetzt wird, keine Arbeitsspeicherbeschränkungen festlegen und sollten keine Funktionen (z. B. Ballooning) aktivieren, die die Software daran hindern, den zugewiesenen Arbeitsspeicher im System zu nutzen.
 
-Darüber hinaus gibt es eine Begrenzung für die Anzahl der Knoten, die eine einzelne Instanz von Unified Manager überwachen kann, bevor Sie eine zweite Instanz von Unified Manager installieren. Informationen zu Knotenlimits, CPU- und Speicherempfehlungen finden Sie unter link:https://www.netapp.com/pdf.html?item=/media/13504-tr4621pdf.pdf["Leitfaden für bewährte Verfahren für Unified Manager"^]Die
+Darüber hinaus gibt es eine Begrenzung für die Anzahl der Knoten, die eine einzelne Instanz von Unified Manager überwachen kann, bevor eine zweite Instanz von Unified Manager installiert wird. Empfehlungen zu Knotenlimits, CPU und Arbeitsspeicher finden sich unter link:https://www.netapp.com/pdf.html?item=/media/13504-tr4621.pdf["Leitfaden für bewährte Verfahren für Unified Manager"^].
 
 Das Speicher-Page-Swapping beeinträchtigt die Leistung des Systems und der Verwaltungsanwendung negativ. Konkurrenzfähigkeit gegenüber CPU-Ressourcen, die aufgrund der gesamten Host-Auslastung nicht verfügbar sind, kann die Performance beeinträchtigen.
 
 
 
+[[requirement-for-dedicated-use]]
 == Voraussetzung für dedizierten Einsatz
 
 Das physische oder virtuelle System, auf dem Unified Manager installiert wird, sollte ausschließlich für Unified Manager verwendet werden und darf nicht mit anderen Applikationen gemeinsam genutzt werden. Andere Applikationen nutzen unter Umständen Systemressourcen und können die Performance von Unified Manager deutlich verringern.
 
 
 
+[[space-requirements-for-backups]]
 == Speicherplatzanforderungen für Backups
 
 Wenn Sie planen, die Unified Manager Backup- und Restore-Funktion zu verwenden, weisen Sie zusätzliche Kapazität zu, sodass das Verzeichnis „`data`“ oder die Festplatte 150 GB Speicherplatz hat. Ein Backup kann auf ein lokales Ziel oder ein Remote-Ziel geschrieben werden. Als Best Practice empfiehlt es sich, einen Remote-Standort außerhalb des Unified Manager-Hostsystems zu identifizieren, der über mindestens 150 GB Speicherplatz verfügt.
 
 
 
+[[requirements-for-host-connectivity]]
 == Anforderungen für die Host-Konnektivität
 
 Das physische System oder das virtuelle System, auf dem Sie Unified Manager installieren, sollten so konfiguriert werden, dass es erfolgreich sein kann `ping` Der Hostname des Hosts selbst. Bei einer IPv6-Konfiguration sollten Sie dies überprüfen `ping6` Für den Host-Namen ist erfolgreich, um sicherzustellen, dass die Unified Manager-Installation erfolgreich ist.

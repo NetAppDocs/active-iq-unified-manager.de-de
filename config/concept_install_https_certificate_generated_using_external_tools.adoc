@@ -22,6 +22,7 @@ Sie sollten den privaten Schlüssel zusammen mit der Zertifikatskette laden, da 
 
 
 
+[[format-for-loading-a-certificate-with-an-ec-key-pair]]
 == Format zum Laden eines Zertifikats mit einem EC-Schlüsselpaar
 
 Die zulässigen Kurven sind „`prime256v1`“ und „`secp384r1`“. Beispiel eines Zertifikats mit einem extern generierten EC-Paar:
@@ -49,6 +50,7 @@ Die zulässigen Kurven sind „`prime256v1`“ und „`secp384r1`“. Beispiel e
 ----
 
 
+[[format-for-loading-a-certificate-with-an-rsa-key-pair]]
 == Format zum Laden eines Zertifikats mit einem RSA-Schlüsselpaar
 
 Die zulässigen Schlüsselgrößen für das RSA-Schlüsselpaar, das zum Host-Zertifikat gehört, sind 2048, 3072 und 4096. Zertifikat mit einem extern generierten * RSA-Schlüsselpaar*:
@@ -75,6 +77,7 @@ Nachdem das Zertifikat hochgeladen wurde, sollten Sie die Active IQ Unified Mana
 
 
 
+[[checks-while-uploading-externally-generated-certificates]]
 == Überprüft beim Hochladen extern generierter Zertifikate
 
 Das System führt Prüfungen beim Hochladen eines Zertifikats durch, das mit externen Tools erstellt wurde. Wenn eine der Prüfungen fehlschlägt, wird das Zertifikat abgelehnt. Es gibt auch eine Validierung für die Zertifikate, die aus der CSR innerhalb des Produkts erzeugt werden, und für Zertifikate, die mit externen Tools generiert werden.

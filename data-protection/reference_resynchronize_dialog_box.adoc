@@ -15,6 +15,7 @@ Das Dialogfeld „Resynchronisieren“ ermöglicht Ihnen die erneuten Synchronis
 
 
 
+[[resynchronization-options-tab]]
 == Registerkarte Resynchronisierung Optionen
 
 Auf der Registerkarte „Resynchronisierungsoptionen“ können Sie die Übertragungspriorität und die maximale Übertragungsrate für die Sicherungsbeziehung festlegen, die neu synchronisiert wird.
@@ -31,6 +32,7 @@ Gibt die maximale Rate an, mit der Daten zwischen Clustern über das Netzwerk ü
 
 
 
+[[source-snapshot-copies-tab]]
 == Registerkarte „Snapshot Kopien der Quelle“
 
 Auf der Registerkarte Snapshot Kopien der Quelle werden die folgenden Informationen über die Snapshot Kopie der Quelle angezeigt, die für den Basistransfer verwendet wird:
@@ -55,6 +57,7 @@ Zeigt die Snapshot Kopie an, die für den Datentransfer verwendet wird. Durch Kl
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Senden*

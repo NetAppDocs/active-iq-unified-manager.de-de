@@ -19,6 +19,7 @@ FlexGroup Volumes und zugehörige Komponenten sind nicht enthalten.
 
 
 
+[[workloads-overview]]
 == Workload-Überblick
 
 Auf der Seite „Workload Overview“ wird eine Übersicht über die Workloads im Datacenter sowie eine Übersicht über Speicherplatz und Performance im Datacenter angezeigt.
@@ -29,6 +30,7 @@ Auf der Seite „Workload Overview“ wird eine Übersicht über die Workloads i
 
 
 
+[[all-workloads-view]]
 == Ansicht aller Workloads
 
 Auf der Seite *Storage > Workloads > Alle Workloads* werden die Speicher-Workloads aufgelistet, die mit den ONTAP-Clustern verbunden sind, die von Unified Manager verwaltet werden.
@@ -46,6 +48,7 @@ Auf dieser Seite können Sie Storage Efficiency Policies (SEPs) und Performance 
 
 
 
+[[adding-or-provisioning-storage-workloads]]
 === Hinzufügen oder Bereitstellen von Storage Workloads
 
 Sie können die Storage-Workloads zu unterstützten LUNs (unterstützt sowohl iSCSI- als auch FCP-Protokolle), NFS-Dateifreigaben und SMB-Freigaben hinzufügen oder bereitstellen.
@@ -57,6 +60,7 @@ Sie können die Storage-Workloads zu unterstützten LUNs (unterstützt sowohl iS
 
 
 
+[[viewing-and-filtering-workloads]]
 === Anzeigen und Filtern von Workloads
 
 Im Bildschirm Alle Workloads können Sie alle Workloads in Ihrem Datacenter anzeigen oder anhand der zugehörigen PSLs oder Namen nach bestimmten Storage Workloads suchen. Über das Filtersymbol können Sie spezifische Bedingungen für Ihre Suche eingeben. Sie können unterschiedliche Filterbedingungen suchen, z. B. nach dem Host-Cluster oder der Storage-VM. Die Option *Capacity Total* ermöglicht das Filtern nach der Gesamtkapazität der Workloads (nach MB). In diesem Fall kann jedoch die Anzahl der zurückgegebenen Workloads variieren, da die Gesamtkapazität auf Byte-Ebene verglichen wird.
@@ -67,6 +71,7 @@ Auf der Seite können Sie auch die Performance-Details eines Workloads anzeigen.
 
 
 
+[[analyzing-performance-and-capacity-criteria-for-a-workload]]
 === Analyse der Performance- und Kapazitätskriterien für einen Workload
 
 Die Schaltfläche *Analyse Workload* im Pop-up * IOPS-Analyse* führt Sie zur Seite Workload-Analyse, auf der Sie einen Zeitbereich auswählen und die Latenz-, Durchsatz- und Kapazitätstrends für den ausgewählten Workload anzeigen können. Weitere Informationen zur Workload-Analyse finden Sie unter link:..//performance-checker/concept_troubleshooting_workloads_using_workload_analyzer.html["Fehlersuche bei Workloads mithilfe der Workload Analyzer"].

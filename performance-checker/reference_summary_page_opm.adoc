@@ -15,6 +15,7 @@ Auf der Seite Zusammenfassung werden Zählerdiagramme angezeigt, die Details zu 
 
 
 
+[[charts-and-counter-statistics]]
 == Diagramme und Zählerstatistiken
 
 Die Übersichtsdiagramme bieten einen schnellen, umfassenden Überblick über die letzten 72 Stunden und helfen Ihnen, mögliche Probleme zu identifizieren, für die weitere Untersuchungen erforderlich sind.
@@ -135,6 +136,7 @@ Das Zählerdiagramm mit der Auslastung zeigt den Prozentsatz der Objektauslastun
 
 
 
+[[events]]
 == Veranstaltungen
 
 In der Ereignishistorie-Tabelle werden, sofern zutreffend, die letzten Ereignisse aufgelistet, die auf diesem Objekt aufgetreten sind. Durch Klicken auf den Ereignisnamen werden Details des Ereignisses auf der Seite Ereignisdetails angezeigt.

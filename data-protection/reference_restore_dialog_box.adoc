@@ -15,6 +15,7 @@ Im Dialogfeld Wiederherstellen können Sie Daten aus einer bestimmten Snapshot K
 
 
 
+[[restore-from]]
 == Wiederherstellen von
 
 Im Bereich Wiederherstellen von können Sie angeben, von wo aus Sie Daten wiederherstellen möchten.
@@ -35,6 +36,7 @@ In der Liste werden standardmäßig maximal 995 Objekte angezeigt. Sie können d
 
 
 
+[[select-items-to-restore]]
 == Elemente zum Wiederherstellen auswählen
 
 Im Bereich Elemente auswählen, die wiederhergestellt werden sollen, können Sie entweder das gesamte Volume oder bestimmte Dateien und Ordner auswählen, die wiederhergestellt werden sollen. Sie können maximal 10 Dateien, Ordner oder eine Kombination aus beiden Dateien auswählen. Wenn die maximale Anzahl von Elementen ausgewählt ist, werden die Kontrollkästchen Elementauswahl deaktiviert.
@@ -65,6 +67,7 @@ NTFS-Dateiströme können nicht wiederhergestellt werden.
 ====
 
 
+[[restore-to]]
 == Wiederherstellen auf
 
 Im Bereich Wiederherstellen können Sie angeben, wo Sie die Daten wiederherstellen möchten.
@@ -92,6 +95,7 @@ Wenn diese Option aktiviert ist, wird die Struktur der ursprünglichen Datei ode
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:

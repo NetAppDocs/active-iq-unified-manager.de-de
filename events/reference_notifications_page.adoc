@@ -17,6 +17,7 @@ Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradmini
 
 
 
+[[email]]
 == E-Mail
 
 In diesem Bereich können Sie die folgenden E-Mail-Einstellungen für die Benachrichtigung von Warnmeldungen konfigurieren:
@@ -29,6 +30,7 @@ Gibt die E-Mail-Adresse an, von der die Benachrichtigung gesendet wird. Dieser W
 
 
 
+[[smtp-server]]
 == SMTP-Server
 
 In diesem Bereich können Sie die folgenden SMTP-Servereinstellungen konfigurieren:
@@ -64,6 +66,7 @@ Durch Aktivieren dieses Kontrollkästchens wird eine sichere Kommunikation zwisc
 
 
 
+[[snmp]]
 == SNMP
 
 In diesem Bereich können Sie die folgenden SNMP-Trap-Einstellungen konfigurieren:

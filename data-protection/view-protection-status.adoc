@@ -31,6 +31,7 @@ Wenn Sie auf dieser Seite auf die Ereignisse klicken, gelangen Sie zur Seite mit
 
 
 
+[[view-protection-status-of-volumes-protected-by-snapshot-copies]]
 == Anzeige des Sicherungsstatus von durch Snapshot Kopien geschützten Volumes
 
 *Snapshot Kopien Übersicht*: Eine Übersicht über die durch Snapshot Kopien geschützten Volumes, wie z. B.:
@@ -49,6 +50,7 @@ Wenn Sie auf dieser Seite auf die Ereignisse klicken, gelangen Sie zur Seite mit
 
 
 
+[[points-to-note-for-snapshot-copies]]
 === Verweist auf die Anmerkung für Snapshot-Kopien
 
 * Zur Zählung der durch Snapshot Kopien geschützten Volumes werden sowohl Quell- als auch Ziel-Volumes berücksichtigt.
@@ -60,6 +62,7 @@ Wenn Sie auf dieser Seite auf die Ereignisse klicken, gelangen Sie zur Seite mit
 
 
 
+[[view-protection-status-for-snapmirror-relationships]]
 == Anzeige des Sicherungsstatus von SnapMirror Beziehungen
 
 *SnapMirror Overview*: Eine Übersicht über die durch SnapMirror-Richtlinien geschützten Volumes, wie z. B.:
@@ -80,6 +83,7 @@ Wenn Sie auf dieser Seite auf die Ereignisse klicken, gelangen Sie zur Seite mit
 
 
 
+[[points-to-note-for-snapmirror-relationships]]
 === Punkte, die für SnapMirror Beziehungen zu beachten sind
 
 * Beim Zählen von SnapMirror Beziehungen werden die Quell-Volumes gezählt, die zum Lesen und Schreiben aktiviert sind. Ziel- und Root-Volumes werden nicht berücksichtigt.
@@ -92,6 +96,7 @@ Wenn Sie auf dieser Seite auf die Ereignisse klicken, gelangen Sie zur Seite mit
 
 
 
+[[view-clusters-protected-by-metrocluster-configuration]]
 == Zeigen Sie durch die MetroCluster-Konfiguration geschützte Cluster an
 
 Im Fenster *MetroCluster-Schutz* auf der Seite *Datenschutz* wird die Anzahl der durch MetroCluster über FC oder IP geschützten Cluster an Ihrem Standort angezeigt. Wenn Sie auf die Balkendiagramme in diesem Bereich klicken, gelangen Sie zur Seite Cluster, auf der die Cluster-Details basierend auf den geschützten oder ungeschützten Clustern gefiltert werden. Informationen zum Monitoring der MetroCluster-Konfiguration finden Sie unter link:../storage-mgmt/task_monitor_metrocluster_configurations.html["Monitoring der MetroCluster Konfigurationen"].

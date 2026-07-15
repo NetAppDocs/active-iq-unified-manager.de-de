@@ -22,6 +22,7 @@ Eine Anmerkungsregel ist ein Kriterium, das definiert wird, um Storage-Objekte (
 
 
 
+[[conditions]]
 == Bestimmten Bedingungen
 
 Sie können mehrere Bedingungsgruppen erstellen, und jede Bedingungsgruppe kann eine oder mehrere Bedingungen haben. Sie können alle definierten Bedingungsgruppen in einer Anmerkungsregel einer Anmerkung anwenden, um Speicherobjekte zu beschriften.
@@ -72,6 +73,7 @@ Wenn Sie Anmerkung als Operand für ein beliebiges Speicherobjekt auswählen, st
 
 
 
+[[example-of-an-annotation-rule-with-conditions]]
 == Beispiel einer Anmerkungsregel mit Bedingungen
 
 Betrachten Sie eine Anmerkungsregel mit einer Bedingungsgruppe für ein Volumen mit den folgenden beiden Bedingungen:
@@ -84,12 +86,14 @@ Diese Anmerkungsregel bezeichnet alle Volumes, die „`vol`“ in ihren Namen en
 
 
 
+[[condition-groups]]
 == Bedingungsgruppen
 
 Bedingungsgruppen werden mit logischem ODER ausgeführt und anschließend auf Speicherobjekte angewendet. Die Speicherobjekte müssen die Anforderungen einer der Bedingungsgruppen erfüllen, die mit Anmerkungen versehen werden sollen. Die Speicherobjekte, die den Bedingungen aller Bedingungsgruppen entsprechen, werden mit Anmerkungen versehen. Mithilfe von Bedingungsgruppen kann der Umfang der zu kommendenden Speicherobjekte erhöht werden.
 
 
 
+[[example-of-an-annotation-rule-with-condition-groups]]
 == Beispiel einer Anmerkungsregel mit Bedingungsgruppen
 
 Berücksichtigen Sie eine Anmerkungsregel mit zwei Bedingungsgruppen für ein Volume; jede Gruppe enthält die folgenden zwei Bedingungen:

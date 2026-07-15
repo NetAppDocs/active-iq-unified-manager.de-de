@@ -15,6 +15,7 @@ Im Dialogfeld Aggregate können Sie die Aggregate auswählen, die Sie Ihrem Ress
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:
@@ -31,6 +32,7 @@ Sperrt die Änderungen und schließt das Dialogfeld Aggregate.
 
 
 
+[[aggregates-list]]
 == Aggregatliste
 
 In der Liste Aggregate werden die Namen und Eigenschaften der überwachten Aggregate (tabellarisch) angezeigt.

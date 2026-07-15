@@ -15,6 +15,7 @@ Sie können Eigenschaften von Warnmeldungen bearbeiten, z. B. die Ressource, mit
 
 
 
+[[name]]
 == Name
 
 In diesem Bereich können Sie den Namen und die Beschreibung der Warnmeldung bearbeiten.
@@ -35,6 +36,7 @@ Ermöglicht Ihnen, die Meldung zu aktivieren oder zu deaktivieren.
 
 
 
+[[resources]]
 == Ressourcen
 
 In diesem Bereich können Sie eine einzelne Ressource auswählen oder die Ressourcen anhand einer dynamischen Regel gruppieren, für die Sie die Warnung auslösen möchten. Sie können nach Ressourcen suchen, indem Sie einen Ressourcentyp aus der Dropdown-Liste auswählen oder den genauen Ressourcennamen angeben, um eine bestimmte Ressource anzuzeigen.
@@ -57,6 +59,7 @@ Die Registerkarte Exclude wird nur angezeigt, wenn Sie alle Ressourcen eines bes
 
 
 
+[[events]]
 == Veranstaltungen
 
 In diesem Bereich können Sie die Ereignisse auswählen, für die Sie die Warnungen auslösen möchten. Sie können eine Meldung für Ereignisse auf der Grundlage eines bestimmten Schweregrads oder für eine Reihe von Ereignissen auslösen.
@@ -73,6 +76,7 @@ Ermöglicht Ihnen die Auswahl von Ereignissen, deren Name die angegebenen Zeiche
 
 
 
+[[actions]]
 == Aktionen
 
 In diesem Bereich können Sie die Benachrichtigungsmethode und die Benachrichtigungshäufigkeit angeben.
@@ -106,6 +110,7 @@ Hiermit können Sie ein Skript mit der Warnmeldung verknüpfen. Dieses Skript wi
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Speichern*

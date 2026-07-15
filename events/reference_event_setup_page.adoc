@@ -17,6 +17,7 @@ Sie können diese Seite nur aufrufen, wenn Sie die Rolle „Anwendungsadministra
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Befehlsschaltflächen können Sie die folgenden Aufgaben für ausgewählte Ereignisse ausführen:
@@ -41,6 +42,7 @@ Startet das Dialogfeld „Regeln hochladen“, in dem Sites ohne externen Netzwe
 
 
 
+[[list-view]]
 == Listenansicht
 
 In der Listenansicht werden Informationen zu deaktivierten Ereignissen (im Tabellenformat) angezeigt. Mit den Spaltenfiltern können Sie die angezeigten Daten anpassen.

@@ -17,6 +17,7 @@ Ein Sternchen (*) identifiziert EMS-Ereignisse, die in Unified Manager-Ereigniss
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===
@@ -255,6 +256,7 @@ Fehler
 |===
 
 
+[[impact-area-configuration]]
 == Impact Area: Konfiguration
 
 |===
@@ -295,6 +297,7 @@ Informationsdaten
 |===
 
 
+[[impact-area-performance]]
 == Impact Area: Performance
 
 |===
@@ -368,6 +371,7 @@ Warnung
 |===
 
 
+[[impact-area-security]]
 == Impact Area: Security
 
 |===

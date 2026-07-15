@@ -15,6 +15,7 @@ SnapVault Beziehungsveranstaltungen enthalten Informationen zum Status Ihrer Sna
 
 
 
+[[impact-area-protection]]
 == Aufprallbereich: Schutz
 
 |===

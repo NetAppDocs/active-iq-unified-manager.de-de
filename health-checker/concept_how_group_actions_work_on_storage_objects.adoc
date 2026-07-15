@@ -17,6 +17,7 @@ Gruppen unterstützen eindeutige Gruppen-Aktionstypen. Sie können eine Gruppe m
 
 
 
+[[example-of-unique-group-actions]]
 == Beispiel für Aktionen eindeutiger Gruppen
 
 Nehmen Sie sich ein Volume A an, das zu den Gruppen G1 und G2 gehört, und die folgenden Volume-Systemzustandsschwellenwerte werden für diese Gruppen konfiguriert:

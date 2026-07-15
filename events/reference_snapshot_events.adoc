@@ -15,6 +15,7 @@ Snapshot Ereignisse liefern Informationen zum Status von Snapshots, mit denen Si
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

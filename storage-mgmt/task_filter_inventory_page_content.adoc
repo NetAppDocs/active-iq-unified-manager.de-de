@@ -57,6 +57,7 @@ Sie können Filter über das Filterfenster hinzufügen.
 
 
 
+[[filtering-example]]
 == Beispiel für die Filterung
 
 Die Abbildung zeigt das Filterfeld mit drei Filtern. Die Schaltfläche *+Filter hinzufügen* wird angezeigt, wenn Sie weniger als vier Filter haben.

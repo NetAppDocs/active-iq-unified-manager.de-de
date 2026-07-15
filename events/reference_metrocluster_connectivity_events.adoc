@@ -15,12 +15,14 @@ Konnektivitätsereignisse bieten Informationen über die Konnektivität zwischen
 
 
 
+[[events-common-in-both-configurations]]
 == In beiden Konfigurationen übliche Ereignisse
 
 Diese Konnektivitätsereignisse sind sowohl für MetroCluster über FC als auch für MetroCluster über IP-Konfigurationen üblich.
 
 
 
+[[impact-area-availability]]
 === Impact Area: Verfügbarkeit
 
 |===
@@ -72,12 +74,14 @@ Warnung
 |===
 
 
+[[metrocluster-over-fc-configuration]]
 == Konfiguration von MetroCluster over FC
 
 Diese Veranstaltungen beziehen sich auf MetroCluster über FC-Konfigurationen.
 
 
 
+[[impact-area-availability]]
 === Impact Area: Verfügbarkeit
 
 |===
@@ -217,12 +221,14 @@ Warnung
 |===
 
 
+[[metrocluster-over-ip-configuration]]
 == Konfiguration von MetroCluster over IP
 
 Diese Ereignisse betreffen MetroCluster über IP-Konfigurationen.
 
 
 
+[[impact-area-availability]]
 === Impact Area: Verfügbarkeit
 
 |===

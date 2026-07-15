@@ -15,6 +15,7 @@ Es gibt einige Einschränkungen bei der neuen Active IQ Unified Manager-Berichts
 
 
 
+[[existing-reports-from-previous-versions-of-unified-manager]]
 == Vorhandene Berichte aus früheren Versionen von Unified Manager
 
 Sie können den Zeitplan und die Empfänger nur für vorhandene Berichte bearbeiten, die in Unified Manager 9.5 und früheren Versionen erstellt und importiert wurden (als .rptdesign-Dateien). Wenn Sie einen der Standardberichte, die mit Unified Manager 9.5 oder früher bereitgestellt wurden, angepasst haben, werden diese benutzerdefinierten Berichte nicht in das neue Reporting-Tool importiert.
@@ -29,24 +30,28 @@ Die Standardansichten können als Berichte erstellt werden, ohne dass eine Anpas
 
 
 
+[[schedule-and-report-relationship]]
 == Planen und berichten von Beziehungen
 
 Sie können für jeden gespeicherten Bericht viele verschiedene Zeitpläne mit einer beliebigen Kombination von Empfängern erstellen. Sie können den Zeitplan jedoch nicht für mehrere Berichte wiederverwenden.
 
 
 
+[[report-protection]]
 == Berichtsschutz
 
 Jeder Benutzer mit den entsprechenden Berechtigungen kann Berichte bearbeiten oder löschen. Es gibt keine Möglichkeit, andere Benutzer daran zu hindern, gespeicherte Ansichten oder Zeitpläne zu entfernen oder zu ändern.
 
 
 
+[[event-reports]]
 == Ereignisberichte
 
 Sie können die Ereignisansicht anpassen und den resultierenden Bericht im CSV-Format herunterladen, jedoch können Sie keine wiederkehrenden Ereignisberichte für die Erstellung und Verteilung planen.
 
 
 
+[[report-attachments]]
 == Berichtsanhänge
 
 Berichte können nicht im Text einer E-Mail gesendet werden. Stattdessen werden Berichte nur als PDF-, Excel- oder CSV-Anlagen versendet.

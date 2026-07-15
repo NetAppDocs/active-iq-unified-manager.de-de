@@ -17,6 +17,7 @@ Wenn ein Notfall das Quellvolume in Ihrer Schutzbeziehung deaktiviert, können S
 
 
 
+[[before-reverse-resync]]
 == Vor der Neusynchronisierung
 
 Zeigt die Quelle und das Ziel einer Beziehung an, bevor eine umgekehrte Resynchronisierung durchgeführt wird.
@@ -33,6 +34,7 @@ Name und Standort des Ziel-Volumes vor einer Resynchronisierung
 
 
 
+[[after-reverse-resync]]
 == Nach umgekehrter Resynchronisierung
 
 Zeigt an, was Quelle und Ziel einer Beziehung nach einer Reserve-Resynchronisierung ist.
@@ -49,6 +51,7 @@ Name und Standort des Ziel-Volumes nach einer umgekehrten Resync-Operation.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Befehlsschaltflächen können Sie die folgenden Aktionen ausführen:

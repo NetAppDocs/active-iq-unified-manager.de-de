@@ -21,6 +21,7 @@ Alle Felder auf diesen Seiten können in benutzerdefinierten Ansichten und in Be
 
 
 
+[[performance-all-clusters-view]]
 == Performance: Ansicht aller Cluster
 
 Die Ansicht „Performance: Alle Cluster“ zeigt für jeden Cluster einen Überblick über die Performance-Ereignisse, Daten und Konfigurationsinformationen, die durch eine Instanz von Unified Manager überwacht werden. Auf dieser Seite können Sie die Performance des Clusters überwachen sowie Performance-Probleme und Schwellenwertereignisse beheben.
@@ -44,6 +45,7 @@ NOTE: Wenn unterschiedliche Versionen der ONTAP Software auf den Nodes im Cluste
 
 
 
+[[performance-all-volumes-view]]
 == Performance: Ansicht aller Volumes
 
 Die Ansicht „Performance: Alle Volumes“ zeigt eine Übersicht über die Performance-Ereignisse, Zählerdaten und Konfigurationsinformationen für jedes FlexVol Volume und jedes FlexGroup Volume, die durch eine Instanz von Unified Manager überwacht werden. So können Sie die Performance Ihrer Volumes schnell überwachen und Performance-Probleme sowie Schwellenwertereignisse beheben.
@@ -75,6 +77,7 @@ Weitere Informationen finden Sie unter den folgenden Links:
 
 
 
+[[performance-all-aggregates-view]]
 == Performance: Ansicht aller Aggregate
 
 Die Ansicht „Performance: Alle Aggregate“ zeigt für jedes Aggregat eine Übersicht über die Performance-Ereignisse, Daten und Konfigurationsinformationen, die durch eine Instanz von Unified Manager überwacht werden. Auf dieser Seite können Sie die Performance Ihrer Aggregate überwachen und Fehler bei Performance-Problemen und Schwellenwerten beheben.
@@ -102,6 +105,7 @@ Die folgenden wichtigen Bereiche der Performance: Ansicht aller Aggregate.
 
 
 
+[[performance-all-nodes-view]]
 == Performance: Alle Nodes anzeigen
 
 Die Ansicht Performance: Alle Nodes zeigt für jeden Node, der von einer Instanz von Unified Manager überwacht wird, eine Übersicht über die Performance-Ereignisse, Daten und Konfigurationsinformationen an. So können Sie die Performance Ihrer Nodes schnell überwachen und Performance-Probleme und Schwellwerte beheben.
@@ -120,6 +124,7 @@ Weitere Informationen finden Sie unter den folgenden Links:
 
 
 
+[[performance-all-storage-vms-view]]
 == Performance: Ansicht aller Storage VMs
 
 Die Ansicht „Performance: Alle Storage VMs“ gibt einen Überblick über die Performance-Ereignisse, Daten und Konfigurationsinformationen für jede Storage Virtual Machine (SVM), die durch eine Instanz von Unified Manager überwacht wird. So können Sie die Performance Ihrer SVMs schnell überwachen und Performance-Probleme sowie Schwellwerte beheben. Das Latenzfeld auf dieser Seite meldet die durchschnittliche Antwortzeit für alle I/O-Anfragen, die in Millisekunden pro Vorgang ausgedrückt wird.
@@ -135,6 +140,7 @@ Weitere Informationen finden Sie unter den folgenden Links:
 
 
 
+[[performance-all-luns-view]]
 == Performance: Ansicht aller LUNs
 
 Die Ansicht „Performance: Alle LUNs“ zeigt eine Übersicht über die Performance-Ereignisse, Daten und Konfigurationsinformationen für jede LUN an, die durch eine Instanz von Unified Manager überwacht wird. So können Sie die Performance Ihrer LUNs schnell überwachen und Performance-Probleme sowie Schwellenwertereignisse beheben.
@@ -154,6 +160,7 @@ Weitere Informationen finden Sie unter den folgenden Links:
 
 
 
+[[performance-all-nvme-namespaces-view]]
 == Performance: Alle NVMe Namesaces Ansicht
 
 Die Ansicht „Performance: Alle NVMe Namesaces“ gibt einen Überblick über die Performance-Ereignisse, Daten und Konfigurationsinformationen für jeden NVMe Namespace, der von einer Instanz von Unified Manager überwacht wird. So können Sie die Performance und den Zustand Ihrer Namespaces schnell überwachen und Probleme sowie Schwellenwertereignisse beheben.
@@ -168,6 +175,7 @@ Weitere Informationen finden Sie unter den folgenden Links:
 
 
 
+[[performance-all-network-interfaces-view]]
 == Performance: Ansicht aller Netzwerkschnittstellen
 
 Die Ansicht Performance: Alle Netzwerkschnittstellen zeigt eine Übersicht über die Performance-Ereignisse, Daten und Konfigurationsinformationen für jede Netzwerkschnittstelle (LIF) an, die von dieser Instanz von Unified Manager überwacht wird. Auf dieser Seite können Sie die Leistung Ihrer Schnittstellen schnell überwachen und Leistungsprobleme und Schwellenwertereignisse beheben. Im Folgenden sind einige wichtige Felder in der Ansicht Leistung: Alle Netzwerkschnittstellen aufgeführt.
@@ -184,6 +192,7 @@ NOTE: Die auf dieser Seite aufgeführten Schnittstellen umfassen Daten-LIFs, Clu
 
 
 
+[[performance-all-ports-view]]
 == Performance: Alle Ports anzeigen
 
 Die Ansicht „Performance: Alle Ports“ zeigt für jeden Port, der von einer Instanz von Unified Manager überwacht wird, eine Übersicht über die Performance-Ereignisse, Daten und Konfigurationsinformationen an. So können Sie die Performance Ihrer Ports schnell überwachen und Performance-Probleme sowie Schwellenwertereignisse beheben. Für eine Port-Rolle wird die Netzwerk-Port-Funktion angezeigt, entweder Daten oder Cluster. FCP-Ports können keine Rolle enthalten, und die Rolle wird als „N/A“ angezeigt
@@ -199,6 +208,7 @@ Weitere Informationen finden Sie unter den folgenden Links:
 
 
 
+[[performance-qos-policy-groups-view]]
 == Performance: Ansicht QoS-Richtliniengruppen
 
 In der Ansicht QoS Policy Groups werden die QoS-Richtliniengruppen angezeigt, die auf den Clustern verfügbar sind, die von Unified Manager überwacht werden. Dazu gehören herkömmliche QoS-Richtlinien, anpassungsfähige QoS-Richtlinien und QoS-Richtlinien, die durch Performance-Service-Level zugewiesen werden.

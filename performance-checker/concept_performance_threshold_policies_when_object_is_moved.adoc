@@ -26,6 +26,7 @@ Wenn Sie ein Objekt in ein anderes Cluster verschieben, wird die benutzerdefinie
 ====
 
 
+[[threshold-policy-functionality-during-ha-takeover-and-giveback]]
 == Schwellenwertrichtlinien-Funktionalität während HA Takeover und Giveback
 
 Wenn ein Takeover- oder Giveback-Vorgang in einer Hochverfügbarkeits-(HA-)Konfiguration durchgeführt werden, behalten Objekte, die von einem Node auf den anderen Node verschoben werden, ihre Schwellenwertrichtlinien auf dieselbe Weise wie bei der manuellen Verschiebung bei. Da Unified Manager alle 15 Minuten nach Änderungen der Cluster-Konfiguration sucht, werden die Auswirkungen der Umschaltung auf den neuen Node erst nach der nächsten Abfrage der Cluster-Konfiguration identifiziert.
@@ -37,12 +38,14 @@ Wenn sowohl ein Takeover- als auch ein Giveback-Vorgang innerhalb des Erfassungs
 ====
 
 
+[[threshold-policy-functionality-during-aggregate-relocation]]
 == Schwellenwertrichtlinien während der Aggregatverschiebung
 
 Wenn Sie ein Aggregat mithilfe von von von einem Node zu einem anderen Node verschieben `aggregate relocation start` Der Befehl wird sowohl für alle Objekte als auch für kombinierte Schwellwerte beibehalten und der Node-Teil der Schwellenwertrichtlinie wird auf den neuen Node angewendet.
 
 
 
+[[threshold-policy-functionality-during-metrocluster-switchover]]
 == Schwellenwertrichtlinien während der MetroCluster Umschaltung
 
 Objekte, die in einer MetroCluster-Konfiguration von einem Cluster zu einem anderen Cluster verschoben werden, behalten ihre benutzerdefinierten Richtlinieneinstellungen nicht bei. Bei Bedarf können Sie Schwellenwertrichtlinien für die Volumes und LUNs anwenden, die zum Partner-Cluster verschoben wurden. Nachdem ein Objekt zurück in das ursprüngliche Cluster verschoben wurde, wird die benutzerdefinierte Schwellenwertrichtlinie automatisch neu angewendet.

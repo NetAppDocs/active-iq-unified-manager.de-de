@@ -57,6 +57,7 @@ Eine Bedingungsgruppe
 
 
 
+[[example-of-creating-an-annotation-rule]]
 == Beispiel für das Erstellen einer Anmerkungsregel
 
 Führen Sie im Dialogfeld Anmerkungsregel hinzufügen die folgenden Schritte aus, um eine Anmerkungsregel zu erstellen, einschließlich der Konfiguration einer Bedingung und des Hinzufügens einer Bedingungsgruppe:

@@ -42,6 +42,7 @@ Die IOPS-Parameter für die Workloads werden abhängig vom Workload-Verhalten dy
 
 
 
+[[manage-workloads-by-assigning-psls]]
 == Verwalten Sie Arbeitslasten durch die Zuweisung von PSLs
 
 Sie können über die Seite *Richtlinien* > *Performance Service Levels* und über die APIs des Speicheranbieters auf PSLs zugreifen. Das Management von Storage-Workloads durch die Zuweisung von PSLs ist praktisch, da Storage-Workloads nicht individuell gemanagt werden müssen. Alle Änderungen können auch verwaltet werden, indem eine andere PSL neu zugewiesen wird, anstatt sie einzeln zu verwalten. Mit Unified Manager lassen sich PSLs auf Basis interner Bewertungen und Empfehlungen auf Basis der Workloads zuweisen.
@@ -136,6 +137,7 @@ Informationen darüber, wie die IOPS-Spitzenwerte und die erwarteten IOPS beim E
 
 
 
+[[events-generated-for-workloads-breaching-the-threshold-defined-by-psls]]
 === Ereignisse, die für Workloads generiert werden und die den durch PSLs definierten Schwellenwert überschreiten
 
 Beachten Sie, dass wenn Workloads den erwarteten Latenzwert für 30 % der Zeit während der vorherigen Stunde überschreiten, generiert Unified Manager eines der folgenden Ereignisse, um Sie über ein potenzielles Performance-Problem zu benachrichtigen:
@@ -156,6 +158,7 @@ Weitere Informationen finden Sie unter den folgenden Links:
 
 
 
+[[system-defined-psls]]
 === Systemdefinierte PSLs
 
 Die folgende Tabelle enthält Informationen zu den systemdefinierten PSLs:

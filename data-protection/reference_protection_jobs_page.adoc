@@ -15,6 +15,7 @@ Auf der Seite „Jobs“ können Sie den aktuellen Status und weitere Informatio
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:
@@ -35,6 +36,7 @@ Aktualisiert die Liste der Jobs und die ihnen zugeordneten Informationen.
 
 
 
+[[jobs-list]]
 == Auftragsliste
 
 Die Liste Jobs zeigt im Tabellenformat eine Liste der laufenden Jobs an. Standardmäßig werden in der Liste nur die Jobs angezeigt, die innerhalb der letzten Woche generiert wurden. Sie können die Spaltensortierung und -Filterung verwenden, um die angezeigten Jobs anzupassen.

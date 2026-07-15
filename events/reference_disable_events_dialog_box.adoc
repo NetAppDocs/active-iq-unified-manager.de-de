@@ -17,6 +17,7 @@ Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradmini
 
 
 
+[[event-properties-area]]
 == Bereich Ereigniseigenschaften
 
 Im Bereich Ereigniseigenschaften werden die folgenden Ereigniseigenschaften angegeben:
@@ -44,6 +45,7 @@ Der Schweregrad des Ereignisses wird auch zusammen mit dem Event-Namen angezeigt
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen des Befehls können Sie die folgenden Aufgaben für die ausgewählten Ereignisse ausführen:

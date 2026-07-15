@@ -15,6 +15,7 @@ Sie können im Dialogfeld Ressourcen-Pool erstellen einen neuen Ressourcen-Pool 
 
 
 
+[[resource-pool-name]]
 == Name Des Ressourcenpool
 
 Mit den Textfeldern können Sie die folgenden Informationen hinzufügen, um einen Ressourcenpool zu erstellen:
@@ -23,18 +24,21 @@ Ermöglicht die Angabe eines Ressourcenpoolnamens.
 
 
 
+[[description]]
 == Beschreibung
 
 Ermöglicht Ihnen, einen Ressourcenpool zu beschreiben.
 
 
 
+[[members]]
 == Mitglieder
 
 Zeigt die Mitglieder des Ressourcen-Pools an. Sie können auch Mitglieder hinzufügen und löschen.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:

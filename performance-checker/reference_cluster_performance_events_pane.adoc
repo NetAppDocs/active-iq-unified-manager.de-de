@@ -15,6 +15,7 @@ Im Teilfenster Cluster Performance-Ereignisse werden Performance-Statistiken und
 
 
 
+[[all-events-on-this-cluster-pane]]
 == Alle Ereignisse in diesem Clusterfenster
 
 Im Teilfenster „Alle Ereignisse“ in diesem Teilfenster „Cluster“ werden alle aktiven Cluster-Performance-Ereignisse der letzten 72 Stunden angezeigt. Die Gesamtzahl der aktiven Ereignisse wird ganz links angezeigt. Diese Zahl stellt die Summe aller neuen und bestätigten Ereignisse für alle Speicherobjekte in diesem Cluster dar. Sie können auf den Link „Aktive Ereignisse insgesamt“ klicken, um zur Seite „Ereignisbestand“ zu navigieren, die gefiltert wird, um diese Ereignisse anzuzeigen.
@@ -37,6 +38,7 @@ Sie können kritische Ereignisse und Warnereignisse im Leistungsdiagramm für ak
 
 
 
+[[counter-panels]]
 == Thekenabdeckungen
 
 Die Zählerfelder zeigen Cluster-Aktivitäten und Performance-Ereignisse der letzten 72 Stunden an und umfassen die folgenden Zähler:

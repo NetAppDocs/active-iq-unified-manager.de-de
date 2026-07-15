@@ -15,6 +15,7 @@ Sie können eine bestehende Schutzbeziehung bearbeiten, um die maximale Übertra
 
 
 
+[[destination-information]]
 == Zielinformationen
 
 * *Zielcluster*
@@ -56,6 +57,7 @@ Startet das Dialogfeld „Zeitplan erstellen“, in dem Sie einen neuen SnapMirr
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:

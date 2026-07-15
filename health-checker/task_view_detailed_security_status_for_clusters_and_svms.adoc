@@ -17,6 +17,7 @@ Die Sicherheitsempfehlungen finden Sie im https://www.netapp.com/pdf.html?item=/
 
 
 
+[[view-object-level-security-status-on-security-page]]
 == Anzeigen des Sicherheitsstatus auf Objektebene auf der Sicherheitsseite
 
 Als Systemadministrator können Sie die Seite *Sicherheit* verwenden, um einen Überblick über die Sicherheitskraft Ihrer ONTAP Cluster und Storage VMs auf Datacenter- und Standortebene zu erhalten. Die unterstützten Objekte sind Cluster, Storage VMs und Volumes. Führen Sie hierzu folgende Schritte aus:
@@ -40,6 +41,7 @@ Auf der Seite Sicherheit werden die folgenden Felder angezeigt:
 
 
 
+[[view-security-details-of-all-clusters-on-the-clusters-page]]
 == Zeigen Sie auf der Seite Cluster die Sicherheitsdetails aller Cluster an
 
 Auf der Seite *Cluster / Security* Details können Sie den Sicherheits-Compliance-Status auf Clusterebene anzeigen.
@@ -58,6 +60,7 @@ NOTE: Wenn ein Cluster ein abgelaufenes Zertifikat besitzt, können Sie auf klic
 
 
 
+[[view-security-details-of-all-clusters-from-the-storage-vms-page]]
 == Details zur Sicherheit aller Cluster finden Sie auf der Seite Storage-VMs
 
 Auf der Seite *Storage VMs / Security* Details können Sie den Sicherheits-Compliance-Status auf Storage VM-Ebene anzeigen.

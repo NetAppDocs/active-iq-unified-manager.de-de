@@ -24,6 +24,7 @@ Die Sicherheitskriterien für ONTAP Cluster, Storage-VMs und Volumes werden anha
 
 
 
+[[customize-security-settings]]
 == Sicherheitseinstellungen anpassen
 
 Gehen Sie wie folgt vor, um die Einstellungen für das Compliance-Monitoring nach Bedarf für Ihre ONTAP-Umgebung anzupassen:
@@ -42,6 +43,7 @@ Die von Ihnen aktivieren oder deaktivieren Sicherheitsparameter können sich dir
 
 
 
+[[customize-autosupport-and-authentication-settings]]
 == Passen Sie AutoSupport und Authentifizierungseinstellungen an
 
 Im Abschnitt *AutoSupport-Einstellungen* können Sie angeben, ob HTTPS-Transport zum Senden von AutoSupport-Nachrichten von ONTAP verwendet werden soll.

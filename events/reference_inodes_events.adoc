@@ -15,6 +15,7 @@ Inode-Ereignisse liefern Informationen, wenn die Inode voll oder fast voll ist, 
 
 
 
+[[impact-area-capacity]]
 == Impact Area: Kapazität
 
 |===
