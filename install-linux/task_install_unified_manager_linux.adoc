@@ -46,7 +46,7 @@ OpenJDK Version 17.0.14+6
 
 
  a| 
-MySQL 8.4.7 Community Edition
+MySQL 8.4.10 Community Edition
  a| 
 `rpm -qa | grep -i mysql`
 
@@ -58,7 +58,7 @@ MySQL 8.4.7 Community Edition
 `7zz -version`
 
 |===
-. Wenn die installierte MySQL-Version älter als MySQL 8.4.7 Community Edition ist, geben Sie den folgenden Befehl ein, um sie zu deinstallieren:
+. Falls die installierte Version von MySQL älter als MySQL 8.4.10 Community Edition ist, muss folgender Befehl eingegeben werden, um sie zu deinstallieren:
 +
 `rpm -e <mysql_package_name>`
 
