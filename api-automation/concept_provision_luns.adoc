@@ -15,7 +15,7 @@ Sie können LUNs auf Ihren Storage Virtual Machines (SVMs) bereitstellen, indem 
 
 Im folgenden Diagramm sind die Schritte in einem Workflow zur Bereitstellung von LUNs dargestellt.
 
-image::../media/create_luns.gif[erstellen von luns]
+image::../media/create_luns.gif[Ein Diagramm, das den Workflow für die Erstellung einer LUN darstellt, einschließlich Storage-VM, Serviceebene und Initiatorgruppe-Schritten]
 
 [NOTE]
 ====

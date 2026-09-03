@@ -15,7 +15,7 @@ Wenn ein Storage-Objekt im Datacenter einen Schwellenwert überschreitet, erhalt
 
 Dieser Workflow nimmt das Beispiel eines Volumes als Ressourcenobjekt ein. Sie können das verwenden `events` APIs zum Abrufen der Liste der mit einem Volume verbundenen Ereignisse, zur Analyse kritischer Probleme für das Volume und zur Behebung des Problems
 
-image::../media/handling_event_related_issues_of_a_storage_object_flowchart.gif[Umgang mit Ereignis-bezogenen Problemen eines Storage-Objekt-Ablaufdiagramms]
+image::../media/handling_event_related_issues_of_a_storage_object_flowchart.gif[Ein Flussdiagramm, das die Analyse von Volumenereignissen von der Auflistung der Ereignisse über Korrekturmaßnahme bis zum Ende darstellt.]
 
 Führen Sie diese Schritte aus, um die Probleme in Ihrem Volumen zu ermitteln, bevor Sie Schritte zur Problembehebung Unternehmen.
 

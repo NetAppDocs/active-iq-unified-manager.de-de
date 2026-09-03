@@ -33,13 +33,13 @@ Diese Objekte werden in einer VM-Topologieansicht dargestellt.
 
 *VMware Virtualisierung auf ONTAP*
 
-image::../media/vm_deployment.gif[vm-Implementierung]
+image::../media/vm_deployment.gif[Ein Diagramm, das VMware Hosts, VMs, Datenspeicher, VMDKs, IP-Netzwerk und Speicherverbindungen zeigt]
 
 *Benutzer-Workflow*
 
 Das folgende Diagramm zeigt einen typischen Anwendungsfall der VM-Topologieansicht:
 
-image::../media/vm_workflow.gif[vm-Workflow]
+image::../media/vm_workflow.gif[Ein Diagramm, das einen Workflow zur Ermittlung der Latenz von VM-Anwendungen in den Schichten Compute, Netzwerk und Storage zeigt]
 
 
 

@@ -19,7 +19,7 @@ Eine Methode zur Bestimmung eines Speicherplatzmangels in Ihren Aggregaten ist e
 
 Das folgende Flussdiagramm zeigt den Prozess zum Abrufen von Informationen zu Volumes mit aktiviertem Autosize-Modus:
 
-image::../media/space_utilization.gif[Und Storage-Auslastung]
+image::../media/space_utilization.gif[Ein Flussdiagramm zur Identifizierung überlasteter Volumes mit aktiviertem Autosize-Modus in Clusteraggregaten]
 
 Es wird vorausgesetzt, dass die Cluster bereits im ONTAP erstellt und zu Unified Manager hinzugefügt wurden.
 

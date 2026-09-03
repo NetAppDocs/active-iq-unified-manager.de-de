@@ -13,4 +13,4 @@ summary: Der Konfigurations-Workflow beschreibt die Aufgaben, die Sie ausführen
 [role="lead"]
 Der Konfigurations-Workflow beschreibt die Aufgaben, die Sie ausführen müssen, bevor Sie Unified Manager verwenden können.
 
-image::../media/post_install_flow.png[Ablauf nach der Installation]
+image::../media/post_install_flow.png[Ein Diagramm, das den Workflow für die Erstkonfiguration von Unified Manager und die Aufgaben für die administrativen Einstellungen zeigt]

@@ -15,7 +15,7 @@ Sie können CIFS-Freigaben und NFS-Dateifreigaben auf Ihren Storage Virtual Mach
 
 Das folgende Diagramm veranschaulicht die einzelnen Schritte eines Workflows zur Dateifreigabe. Das System umfasst die Bereitstellung von CIFS-Freigaben und NFS-Dateifreigaben.
 
-image::../media/create_fileshares.gif[Dateihares erstellen]
+image::../media/create_fileshares.gif[Ein Diagramm, das einen Workflow für die Bereitstellung von CIFS- und NFS-Dateifreigaben von der SVM-Einrichtung bis zur Freigabeerstellung zeigt]
 
 [NOTE]
 ====

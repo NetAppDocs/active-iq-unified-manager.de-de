@@ -28,7 +28,7 @@ Bevor Sie die Workflow-Schritte ausführen, stellen Sie Folgendes sicher:
 ====
 Das folgende Diagramm zeigt jeden Schritt im Workflow zur Fehlerbehebung bei der Verwendung von ONTAP Volume-Kapazität.
 
-image::../media/api_gateway_ontap_workflow.gif[ONTAP-Workflow des api-Gateways]
+image::../media/api_gateway_ontap_workflow.gif[Ein Diagramm, das die Schritte von Unified Manager und der ONTAP API zur Fehlerbehebung bei Warnungen zur Volume-Kapazität zeigt]
 
 Der Workflow umfasst die Anrufinungspunkte sowohl von Unified Manager als auch von ONTAP REST-APIs.
 

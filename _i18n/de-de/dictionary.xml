@@ -733,7 +733,6 @@
   <block id="081aad09b163af228b77c97e10a98363" category="paragraph">Informationen zur Aktivierung der Fernauthentifizierung, zum Einrichten von Authentifizierungsdiensten und zum Hinzufügen von Authentifizierungsseviern finden Sie im vorherigen Abschnitt unter *Konfigurieren von Unified Manager zum Senden von Benachrichtigungen*.</block>
   <block id="17468e66f6f6fa8f16ad4f7b18e16de5" category="summary">Der Konfigurations-Workflow beschreibt die Aufgaben, die Sie ausführen müssen, bevor Sie Unified Manager verwenden können.</block>
   <block id="4803eca8e03e70fa406180caf3f66361" category="doc">Überblick über die Konfigurationssequenz</block>
-  <block id="ca4d378a679606b42fbb1eeeb71eb25e" category="image-alt">Ablauf nach der Installation</block>
   <block id="2a5c0aeb22bbcef983b1dd897e94e3c5" category="summary">Über das Menü „Support and Diagnostics“ können Sie ein Support Bundle erstellen, das Sie zur Fehlerbehebung an den technischen Support senden können.</block>
   <block id="1505fd5c5ba595d013a0a7abb0a11870" category="doc">Menü „Support und Diagnose“</block>
   <block id="d2a24aa739630484e5ce89437ec158dc" category="paragraph">Folgende Menüoptionen stehen zur Verfügung:</block>
@@ -1342,7 +1341,6 @@
   <block id="9e0ca761831fb0f0dabbfe885a87d055" category="doc">Sichern und Wiederherstellen mithilfe eines MySQL Datenbank-Dump</block>
   <block id="33fc247e555720879316017b076f2029" category="paragraph">Ein Datenbank-Dump-Backup besteht aus einer einzelnen Datei im Sicherungsverzeichnis und einer oder mehreren Dateien im Datenbank-Repository-Verzeichnis. Die Datei im Backup-Verzeichnis ist sehr klein, da sie nur einen Zeiger auf die Dateien enthält, die sich im Datenbank-Repository-Verzeichnis befinden und für die Wiederherstellung des Backups benötigt werden.</block>
   <block id="2f3b4c9172b561f3e884b4272c129fb6" category="paragraph">Beim ersten Generieren einer Datenbanksicherung wird im Backup-Verzeichnis eine einzelne Datei erstellt und im Datenbank-Repository-Verzeichnis eine vollständige Sicherungsdatei erstellt. Wenn Sie das nächste Mal ein Backup erstellen, wird im Backup-Verzeichnis eine einzelne Datei erstellt und im Datenbank-Repository-Verzeichnis eine inkrementelle Sicherungsdatei erstellt, die die Unterschiede zur vollständigen Backup-Datei enthält. Dieser Prozess wird bei der Erstellung zusätzlicher Backups bis zur Einstellung für maximale Aufbewahrung fortgesetzt, wie in der folgenden Abbildung dargestellt.</block>
-  <block id="e7fbcbeb2e1e5f4c9bede03c1fbb8e41" category="image-alt">Datenbank-Backup</block>
   <block id="efbe49949ffa2f8a16f02f4ea7adc56a" category="paragraph">Benennen Sie die Sicherungsdateien in diesen beiden Verzeichnissen nicht um, oder entfernen Sie sie nicht. Bei einem späteren Wiederherstellungsvorgang schlägt dies fehl.</block>
   <block id="cb923ec5ab7e1a642e7b3ba98abfc4f1" category="paragraph">Wenn Sie Ihre Sicherungsdateien in das lokale System schreiben, sollten Sie einen Prozess starten, um die Backup-Dateien an einen Remote-Standort zu kopieren, damit sie verfügbar sind, falls Sie ein Systemproblem haben, das eine vollständige Wiederherstellung erfordert.</block>
   <block id="c48f8fd51b32d584ba11d9662e34349b" category="paragraph">Vor Beginn eines Backup-Vorgangs führt Active IQ Unified Manager eine Integritätsprüfung durch, um zu überprüfen, ob alle erforderlichen Backup-Dateien und Backup-Verzeichnisse vorhanden sind und beschreibbar sind. Außerdem wird überprüft, ob genügend Speicherplatz auf dem System vorhanden ist, um die Backup-Datei zu erstellen.</block>
@@ -3642,7 +3640,6 @@
   <block id="c943a262bbd007abe1f46a9c1678bd50" category="paragraph">Auf der Grundlage der im Bericht angezeigten Ergebnisse können Sie den Transferstatus untersuchen.</block>
   <block id="ed48b981e2bb947abc52be3e3b172706" category="summary">Entscheidungsbaum, in dem der Berichtworkflow beschrieben wird.</block>
   <block id="784fca41cf2612fc0bc6eb124a244bd2" category="doc">Berichtsworkflow zu erstellen</block>
-  <block id="78c9a95829a3975e642126c077b652b2" category="image-alt">Berichtsansicht Workflow</block>
   <block id="1549a1c2034c7d13cf0e8802d31e328c" category="summary">Nach der Planung von Berichten können Sie diese auf der Seite „Berichtszeitpläne“ löschen.</block>
   <block id="d57aa4c410a0dabbe6107b64eadb8670" category="paragraph">Wenn Sie über die entsprechenden Berechtigungen verfügen, können Sie alle Berichte und deren Zeitplan im System entfernen.</block>
   <block id="874db297b2254479eeb702a2d7fa8dab" category="list-text">Klicken Sie Auf *Löschen*.</block>
@@ -4173,7 +4170,6 @@
   <block id="8c9d08852e8e1febedc693013a4f0f93" category="summary">Im Installations-Workflow werden die Aufgaben beschrieben, die Sie vor der Verwendung von Unified Manager ausführen müssen.</block>
   <block id="bed7b91a2df8076097fedfb7b87f92e7" category="doc">Überblick über die Installationsreihenfolge</block>
   <block id="677bb67b43e56c44269810a302788b34" category="paragraph">In diesen Abschnitten werden die im folgenden Workflow gezeigten Elemente beschrieben.</block>
-  <block id="322f88fdb47136f0505af3e29d2c5649" category="image-alt">Gesamtmenge für die Installation</block>
   <block id="157ba1f1b8e70eebd1ce3a2232b6221b" category="summary">Die Unified Manager Server-Infrastruktur besteht aus einer Datenerfassungseinheit, einer Datenbank und einem Applikationsserver. Die Lösung bietet Infrastrukturservices wie beispielsweise Discovery, Monitoring, rollenbasierte Zugriffssteuerung (RBAC), Audits und Protokollierungsfunktionen.</block>
   <block id="6b0076a44c24cd6bc3f61901ad0b96fa" category="doc">Was macht der Unified Manager Server</block>
   <block id="e9b70b01b68936d5229a5051e4a06db4" category="paragraph">Unified Manager sammelt Cluster-Informationen, speichert die Daten in der Datenbank und analysiert die Daten, um zu prüfen, ob es Cluster-Probleme gibt.</block>
@@ -4247,7 +4243,6 @@
   <block id="eb0da5e33b06f2372691dd17aed45832" category="list-text">Führen Sie außerdem die in beschriebenen Schritte aus <block ref="d894e497eeda3fe35b85b8235a68e493" category="inline-link-macro-rx"></block>.</block>
   <block id="2216048a705ad9a52409473a75b4d6ad" category="summary">Der Bereitstellungs-Workflow beschreibt die Aufgaben, die Sie ausführen müssen, bevor Sie Unified Manager verwenden können.</block>
   <block id="aa6d1a2e27b6e5456d746d62b1002336" category="doc">Überblick über den Implementierungsprozess</block>
-  <block id="726763bf5aecf665420de6eeab308805" category="image-alt">Bereitstellungsreihenfolge oc 6 0</block>
   <block id="01859b1072aa4d00f9a827528ca7608a" category="summary">Sie können eine Meldung löschen, wenn sie nicht mehr benötigt wird. Beispielsweise können Sie eine Warnmeldung löschen, die für eine bestimmte Ressource erstellt wurde, wenn diese Ressource nicht mehr von Unified Manager überwacht wird.</block>
   <block id="f426632512893db12b7b94c8561eb1b5" category="list-text">Wählen Sie auf der Seite *Warnmeldungseinstellungen* die zu löschenden Warnmeldungen aus und klicken Sie auf *Löschen*.</block>
   <block id="b6d7b3d374f0eb0f8bc28abda4c13835" category="summary">Für alle Ereignisse, die Sie für das Senden von Warnungen konfiguriert haben, wird eine Warnmeldung gesendet, wenn diese Ereignisse alle verfügbaren Status durchlaufen: Neu, bestätigt, behoben und veraltet. Wenn Sie keine Benachrichtigungen für Ereignisse erhalten möchten, während diese in den Status „aufgelöst“ und „veraltet“ verschoben werden, können Sie eine globale Einstellung konfigurieren, um diese Warnmeldungen zu unterdrücken.</block>
@@ -5356,7 +5351,6 @@
   <block id="cdf293ee43f03915a3f7f1de53213e71" category="list-text">Ein SNMP-Trap kann an den Trap-Empfänger gesendet werden.</block>
   <block id="2c19ee2f43897bbfea72b8dc73f92e0c" category="list-text">Ein benutzerdefiniertes Skript kann ausgeführt werden, um eine Aktion auszuführen.</block>
   <block id="330d4432442808d2f6e07aef3daa80da" category="paragraph">Dieser Workflow wird im folgenden Diagramm dargestellt.</block>
-  <block id="bc4368d495f9c35aae14c797a81d5c9e" category="image-alt">Um perf Schwellwert Ereignisfluss</block>
   <block id="b8d76bec2946f880d80ff52773725b7c" category="summary">Die Warnmeldungen von Unified Manager liefern die Art des Ereignisses, den Schweregrad des Ereignisses, den Namen der Richtlinie oder den Schwellenwert, der gegen das Ereignis verstoßen wurde, sowie eine Beschreibung des Ereignisses. Die E-Mail-Nachricht enthält auch einen Hyperlink für jedes Ereignis, mit dem Sie die Detailseite für das Ereignis in der Benutzeroberfläche anzeigen können.</block>
   <block id="aaeaaf2ed0a5ceb801a4685d5e83eacf" category="doc">Welche Informationen sind in einer Alarm-E-Mail enthalten</block>
   <block id="e6fc07fb0e600b193f93fbcd7ea620d5" category="paragraph">Alle Benutzer, die sich für den Erhalt von Benachrichtigungen angemeldet haben, erhalten Warnmeldungen per E-Mail.</block>
@@ -5779,7 +5773,6 @@
   <block id="0f95c121d7dad838526a7f651b857814" category="list-text">Sie sind ein Anwendungsadministrator.</block>
   <block id="82860026803af0cdcc831f5f5030ae00" category="list-text">Das Cluster, auf dem Sie die REST-API-Vorgänge ausführen möchten, wird von ONTAP 9.5 oder höher unterstützt, und das Cluster wird Unified Manager über HTTPS hinzugefügt.</block>
   <block id="98c896958cb9f708964fcc3c7173e78d" category="paragraph">Das folgende Diagramm zeigt jeden Schritt im Workflow zur Fehlerbehebung bei der Verwendung von ONTAP Volume-Kapazität.</block>
-  <block id="3a4d571f6dbcd3bcf57d5650a8d35570" category="image-alt">ONTAP-Workflow des api-Gateways</block>
   <block id="76b26371e1f301a312db4d2d46c9befe" category="paragraph">Der Workflow umfasst die Anrufinungspunkte sowohl von Unified Manager als auch von ONTAP REST-APIs.</block>
   <block id="015fada14012e66a3870b9ed0e2d6370" category="list-text">Notieren Sie den Volume-Namen aus dem Ereignis, um die Kapazitätsauslastung des Volume zu benachrichtigen.</block>
   <block id="2217533b12d59ed2edfb6646b767c321" category="list-text">Abfragen Sie das Volume durch Ausführen der folgenden Unified Manager-API, indem Sie den Volume-Namen als Wert im Name-Parameter verwenden.</block>
@@ -5902,7 +5895,6 @@
   <block id="c20a54ace8febd13915bab7ed9c22b2b" category="summary">Sie können LUNs auf Ihren Storage Virtual Machines (SVMs) bereitstellen, indem Sie die BereitstellungsAPIs verwenden, die als Teil von Active IQ Unified Manager zur Verfügung gestellt werden. Dieser Workflow zur Bereitstellung umfasst die Schritte zum Abrufen der Schlüssel der SVMs, Performance Service Levels und Storage-Effizienz-Richtlinien, bevor die LUN erstellt wird.</block>
   <block id="686de7649ff29618b2533b83f236c1f9" category="doc">Bereitstellung von LUNs mithilfe von APIs</block>
   <block id="95ce53c30b31cee49bc8d6de45470e16" category="paragraph">Im folgenden Diagramm sind die Schritte in einem Workflow zur Bereitstellung von LUNs dargestellt.</block>
-  <block id="eb6c9e70579153da1799b8b5852bc08a" category="image-alt">erstellen von luns</block>
   <block id="ef1400db90d4de5f78f6366f581fba2a" category="paragraph">Bei diesem Workflow wird vorausgesetzt, dass die ONTAP Cluster zu Unified Manager hinzugefügt wurden und der Clusterschlüssel abgerufen wurde. Beim Workflow wird auch davon ausgegangen, dass die SVMs bereits auf den Clustern erstellt wurden.</block>
   <block id="f51de5616e6ee7f9e60c306178f36de1" category="list-text">Den SVM-Schlüssel für die SVM erhalten, auf der Sie die LUN erstellen möchten, wie im Workflow-Thema „_Verifying SVMs on Cluster_“ beschrieben.</block>
   <block id="9a29b5aa4459164aac58ae41bc9859d5" category="list-text">Erhalten Sie den Schlüssel für den Performance Service Level, indem Sie die folgende API ausführen und den Schlüssel aus der Antwort abrufen.</block>
@@ -6027,7 +6019,6 @@
   <block id="3e0d371dd6a28821e66400a80ae3293e" category="paragraph">Die Datacenter-APIs für Aggregate rufen die relevanten Informationen über verfügbaren und belegten Speicherplatz sowie Einstellungen zur Speicherplatzersparnis ab. Sie können die abgerufenen Informationen auch anhand bestimmter Attribute filtern.</block>
   <block id="b9264bc886fe551515446d6838f25b9a" category="paragraph">Eine Methode zur Bestimmung eines Speicherplatzmangels in Ihren Aggregaten ist es, festzustellen, ob in Ihrer Umgebung Volumes mit aktiviertem Autosize-Modus vorhanden sind. Anschließend sollten Sie ermitteln, welche Volumes zu viel genutzt werden, und Sie können Korrekturmaßnahmen vornehmen.</block>
   <block id="cc41b5742653a83710790622472b075b" category="paragraph">Das folgende Flussdiagramm zeigt den Prozess zum Abrufen von Informationen zu Volumes mit aktiviertem Autosize-Modus:</block>
-  <block id="ad39018ca13824e28f2f9a2cce72cc67" category="image-alt">Und Storage-Auslastung</block>
   <block id="4813b0ff95088b1a2c693a9318f0938d" category="paragraph">Es wird vorausgesetzt, dass die Cluster bereits im ONTAP erstellt und zu Unified Manager hinzugefügt wurden.</block>
   <block id="fc534cd4a3c07959344fdc4231e736c7" category="list-text">Beziehen Sie den Cluster-Schlüssel, es sei denn, Sie kennen den Wert:</block>
   <block id="ae5c880b0329ee8b59031ec6a7a9e6af" category="paragraph"><block ref="7e97a2d041006ae754c9aafcc8e1d5cd" prefix="" category="inline-code"></block></block>
@@ -6171,7 +6162,6 @@
   <block id="9f59891ed7805b3befef9ff1ec1a490c" category="summary">Wenn ein Storage-Objekt im Datacenter einen Schwellenwert überschreitet, erhalten Sie eine Benachrichtigung über dieses Ereignis. Mithilfe dieser Benachrichtigung können Sie das Problem analysieren und mithilfe der Ereignis-APIs Korrekturmaßnahmen ergreifen.</block>
   <block id="841c51f97743193567036063bf854b04" category="paragraph">Wenn ein Storage-Objekt im Datacenter einen Schwellenwert überschreitet, erhalten Sie eine Benachrichtigung über dieses Ereignis. Mithilfe dieser Benachrichtigung können Sie das Problem analysieren und mithilfe von Korrekturmaßnahmen ergreifen<block ref="16908b0605f2645dfcb4c3a8d248cef3" prefix=" " category="inline-code"></block> APIs:</block>
   <block id="97018b0a09f5dff8883bbaab1edaacde" category="paragraph">Dieser Workflow nimmt das Beispiel eines Volumes als Ressourcenobjekt ein. Sie können das verwenden<block ref="16908b0605f2645dfcb4c3a8d248cef3" prefix=" " category="inline-code"></block> APIs zum Abrufen der Liste der mit einem Volume verbundenen Ereignisse, zur Analyse kritischer Probleme für das Volume und zur Behebung des Problems</block>
-  <block id="48d9352b608ff2804faa4c081f2c725c" category="image-alt">Umgang mit Ereignis-bezogenen Problemen eines Storage-Objekt-Ablaufdiagramms</block>
   <block id="730bf6325271b1c0c231fa74b6b0fe8a" category="paragraph">Führen Sie diese Schritte aus, um die Probleme in Ihrem Volumen zu ermitteln, bevor Sie Schritte zur Problembehebung Unternehmen.</block>
   <block id="ba7662ee18a758af81108e87e6f415fd" category="list-text">Analyse der kritischen Active IQ Unified Manager-Ereignisbenachrichtigungen für die Volumes in Ihrem Datacenter</block>
   <block id="83ca799bd3583d43b47bea0c99beee9a" category="list-text">Abfrage aller Ereignisse für die Volumes mit den folgenden Parametern in der /Management-Server/Event-API:<block ref="0f29ce039be8ee84014e6576505f8150" prefix=" " category="inline-code"></block><block ref="57105b117b8b770a917bc9a32dc76fcf" prefix=" " category="inline-code"></block></block>
@@ -6369,7 +6359,6 @@
   <block id="4abe9885c5bcac03cb04aad02b687e44" category="paragraph">Diese Kategorie enthält APIs zum Verwalten von Unified Manager Benutzern.</block>
   <block id="a724824e30a799c8ab8ad6d07591372f" category="summary">Sie können CIFS-Freigaben und NFS-Dateifreigaben auf Ihren Storage Virtual Machines (SVMs) mithilfe der BereitstellungsAPIs, die als Teil von Active IQ Unified Manager bereitgestellt werden, bereitstellen. Dieser Bereitstellungs-Workflow zeigt die Schritte zum Abrufen der Schlüssel der SVMs, Performance Service Levels und Storage-Effizienz-Richtlinien, bevor die Dateifreigaben erstellt werden.</block>
   <block id="3e1dc833276a15580a0b71db58bdd106" category="paragraph">Das folgende Diagramm veranschaulicht die einzelnen Schritte eines Workflows zur Dateifreigabe. Das System umfasst die Bereitstellung von CIFS-Freigaben und NFS-Dateifreigaben.</block>
-  <block id="a05f62bb5424e0dbdce8b06a07661d97" category="image-alt">Dateihares erstellen</block>
   <block id="0ee7a846dbd3fbb321e0498c8fec35e0" category="list-text">Dem Unified Manager wurden ONTAP Cluster hinzugefügt, und der Clusterschlüssel ist abgerufen.</block>
   <block id="8e7dd4aa06ca40063b5d0e3de192e4d5" category="list-text">Auf den Clustern wurden SVMs erstellt.</block>
   <block id="f66e00fc3aa4ab94defa328373e381e8" category="list-text">Die SVMs unterstützen CIFS- und NFS-Services. Dateifreigaben können möglicherweise fehlschlagen, wenn die SVMs die erforderlichen Services nicht unterstützen.</block>
@@ -8411,9 +8400,7 @@
   <block id="998b0f0721a85f1887ad21211d13755d" category="doc">Typische Fensterlayouts</block>
   <block id="f5d0d6012440752411c07b7aee29cd3d" category="paragraph">Nicht jedes Fenster enthält jedes Element in den folgenden Diagrammen.</block>
   <block id="16faa1bfdfc3c23fd9c85afc8d128775" category="section-title">Layout des Fensters Objektliste</block>
-  <block id="6eaa6c9903ef182946f5bf66eee73304" category="image-alt">Objektliste</block>
   <block id="4138fb3a63b46db04d955eab74245d6d" category="section-title">Layout des Fensters „Objektdetails“</block>
-  <block id="7ce88d49c4ef0cb2d159967d47029a6e" category="image-alt">Objektdetails</block>
   <block id="2b729d5899d6017924af0e5ac408f85a" category="summary">Sie können Regeln erstellen, um die E-Mail-Adresse auf der Grundlage des mit Clustern, Storage Virtual Machines (SVMs), Volumes, qtrees, Benutzern oder Benutzergruppen verbundenen Benutzerkontingente anzugeben. Bei einer Quota-Verletzung wird eine Benachrichtigung an die angegebene E-Mail-Adresse gesendet.</block>
   <block id="0923e152db77e630e8dec71521fd79cd" category="list-text">Sie müssen die Richtlinien auf der Seite Regeln zur Erstellung von Benutzer- und Gruppenkontingente-E-Mail-Adresse geprüft haben.</block>
   <block id="a67a9563dcd763610c4e441169e0eec5" category="list-text">Klicken Sie im linken Navigationsbereich auf *Allgemein* &gt; *Quota Email Rules*.</block>
@@ -8852,10 +8839,8 @@
   <block id="c513bb45e58fc45e3ec83dab5da7da36" category="list-text">VMDK: Eine virtuelle Maschine im Datenspeicher, die Speicherplatz für virtuelle Laufwerke bereitstellt. Für jedes virtuelle Laufwerk gibt es eine entsprechende VMDK.</block>
   <block id="56ebd08e1cbf3f9df816c1f70ba60dff" category="paragraph">Diese Objekte werden in einer VM-Topologieansicht dargestellt.</block>
   <block id="8a07986e324a4a34c7cfeb47a2736741" category="paragraph">*VMware Virtualisierung auf ONTAP*</block>
-  <block id="e8509cc177acaa157f47a7b0164d3a1f" category="image-alt">vm-Implementierung</block>
   <block id="375aae8872c43ab2f8538114dccc92c7" category="paragraph">*Benutzer-Workflow*</block>
   <block id="f85ada8d3fc041341df44b187b48d4f1" category="paragraph">Das folgende Diagramm zeigt einen typischen Anwendungsfall der VM-Topologieansicht:</block>
-  <block id="33e759e1731579239486744935dbb489" category="image-alt">vm-Workflow</block>
   <block id="ab54009fea66778938a808305a2f0e4d" category="section-title">Was nicht unterstützt wird</block>
   <block id="71ea79c55d09192e3c60b68484e514d5" category="list-text">Datastores, die sich außerhalb von ONTAP befinden und den vCenter Server Instanzen zugeordnet sind, werden auf Unified Manager nicht unterstützt. Alle VMs mit virtuellen Festplatten auf diesen Datenspeichern werden ebenfalls nicht unterstützt.</block>
   <block id="56036578c66036279dbd8f75e9437dc3" category="list-text">Ein Datastore, der sich über mehrere LUNs erstreckt, wird nicht unterstützt.</block>
@@ -9326,7 +9311,6 @@
   <block id="7cfb575010f96829faa8e7754ca644d2" category="list-text">Starten Sie nach Abschluss des Skripts die Unified Manager-Dienste über die Windows-Dienstkonsole:</block>
   <block id="4b2d6bdd09894705f80f553dc9dd1a61" category="list-text">Nachdem alle Services gestartet wurden, können Sie sich in der UI von Unified Manager einloggen.</block>
   <block id="d8b2824dd58b8684d7afebae57a9ec15" category="doc">Überblick über den Installationsprozess</block>
-  <block id="3c5dd4e02fb7c5614c57b78a81e01819" category="image-alt">Installieren Sie den Fluss auf den Fenstern</block>
   <block id="c3aaa3d5e1c6e7542a12d69e8624f700" category="summary">Sie können ein Upgrade von Unified Manager durchführen, indem Sie die Installationsdatei auf der Windows-Plattform herunterladen und ausführen.</block>
   <block id="433edfcc5f5751863b077c654c315d95" category="list-text">Das System, auf dem Unified Manager aktualisiert wird, sollte die System- und Software-Anforderungen erfüllen.</block>
   <block id="0ebe162817a0beff48242b1dc3ac7f2d" category="inline-link-macro">Hardwaresystemanforderungen</block>
@@ -12047,7 +12031,6 @@ Schützen Sie Applikationen mit LUNs, und Sie können diese LUNs auf der Active 
   <block id="7d2851cca28635a1e83630f7d2e3fc63" category="inline-link">Verwalten Sie ONTAP -Zertifikate mit System Manager</block>
   <block id="86df35e9b1dffd9ed39a46a4d7ffe7a1" category="paragraph">*Verwandte Informationen* <block ref="c4ecef6f58bc214b3174de3e354d0911" category="inline-link-rx"></block></block>
   <block id="3e4eb743748e538f59a50a73d5f8b602" category="doc">Legen Sie das Timeout für die Inaktivität der Unified Manager-Sitzung fest.</block>
-  <block id="e8c80cc36155ada87dc563a78796b92f" category="image-alt">Flow auf RHEL 2026 installieren</block>
   <block id="8645dca85b8ac5fc844aa6c266477f4d" category="summary">Das System muss Zugriff auf bestimmte Repositories und Pakete haben, damit das Installationsprogramm auf alle erforderlichen Softwareabhängigkeiten zugreifen und diese installieren kann.</block>
   <block id="f0041b2df6c7d0abc50865b06c257260" category="doc">Richten Sie die erforderliche Software für Unified Manager ein.</block>
   <block id="2ddfe6c502a2b94b370ca3c37f5b35cc" category="list-text">Python 3.13.3 (aus dem Red Hat Extra Enterprise Linux Server-Repository)</block>
@@ -12114,4 +12097,21 @@ Schützen Sie Applikationen mit LUNs, und Sie können diese LUNs auf der Active 
   <block id="6c400d4faf41f7de8a4c911b51918555" category="list-text">OpenJDK Version 17.0.15+6</block>
   <block id="d99d6f4a4a2deff3d04c76cf2a1ab80a" category="list-text">7-zip Version 25.01 oder höher</block>
   <block id="0906e47b7d8a1a05c090ca9c48a976c3" category="list-text">Die MySQL Community Edition wird während des Unified Manager Upgrades automatisch aktualisiert. Wenn die auf Ihrem System installierte MySQL-Version älter als 8.4.10 ist, wird MySQL durch den Unified Manager Upgrade-Prozess automatisch auf 8.4.10 aktualisiert. Ein eigenständiges Upgrade einer älteren MySQL-Version auf 8.4.10 darf nicht durchgeführt werden.</block>
+  <block id="1cc30bff2b84e7dbb26c93008946368f" category="image-alt">Ein Flussdiagramm, das die Analyse von Volumenereignissen von der Auflistung der Ereignisse über Korrekturmaßnahme bis zum Ende darstellt.</block>
+  <block id="d98ce8622bc7c722fcaa50d67a9cc960" category="image-alt">Ein Diagramm, das die Schritte von Unified Manager und der ONTAP API zur Fehlerbehebung bei Warnungen zur Volume-Kapazität zeigt</block>
+  <block id="7ac0c5f50fb7cdf3dbaf55523a74903e" category="image-alt">Ein Diagramm, das einen Workflow für die Bereitstellung von CIFS- und NFS-Dateifreigaben von der SVM-Einrichtung bis zur Freigabeerstellung zeigt</block>
+  <block id="b9754edcea8e7458a4fc4b43059bdbef" category="image-alt">Ein Diagramm, das den Workflow für die Erstellung einer LUN darstellt, einschließlich Storage-VM, Serviceebene und Initiatorgruppe-Schritten</block>
+  <block id="f62942f0e6b5f47ad12ab0f0a5f5a152" category="image-alt">Ein Flussdiagramm zur Identifizierung überlasteter Volumes mit aktiviertem Autosize-Modus in Clusteraggregaten</block>
+  <block id="94d1891c253fd9543379f72f98b66db2" category="image-alt">Ein Diagramm, das den Workflow für die Erstkonfiguration von Unified Manager und die Aufgaben für die administrativen Einstellungen zeigt</block>
+  <block id="164f08e4aee5d801ac4725f2a6956d02" category="image-alt">Ein Diagramm, das die Verarbeitung von Schwellenwertereignissen von der Zählererfassung bis zur E-Mail-Benachrichtigung zeigt</block>
+  <block id="2300be0d474b8db24490f2217835c7d6" category="image-alt">Ein Diagramm, das drei Sicherungsverzeichnisdateien zeigt, die auf vollständige und inkrementelle Dateien im Datenbank-Repository verweisen.</block>
+  <block id="124e47082818e619d401d9bdfe8d24ff" category="image-alt">Ein Diagramm, das die Voraussetzungen, die Installation von Unified Manager und die Arbeitsabläufe für die Erstkonfiguration unter Red Hat Linux darstellt.</block>
+  <block id="ef63b242e03a7363693688e53654ba1a" category="image-alt">Ein Diagramm, das die Arbeitsabläufe für die Installation, die Ersteinrichtung und die administrativen Einstellungen von Unified Manager veranschaulicht</block>
+  <block id="9e937dd680d7be51e4bfb7fcebb49a52" category="image-alt">Ein Diagramm, das die Voraussetzungen für die Bereitstellung von Unified Manager, die Appliance-Bereitstellung und die ersten Konfigurationsschritte zeigt</block>
+  <block id="611e3261f759280b352d61fb660a297c" category="image-alt">Ein Diagramm, das die Voraussetzungen, die Installation von Unified Manager und die Schritte des Workflows für die Erstkonfiguration darstellt</block>
+  <block id="a4f4483ccd93f8d27cc242331a618d06" category="image-alt">Ein Diagramm, das einen Entscheidungsbaum-Workflow für das Anzeigen, Anpassen, Hochladen und Herunterladen von Berichten zeigt</block>
+  <block id="76bf2fdea1570becb5b97b7df5f76c5a" category="image-alt">Ein Diagramm, das VMware Hosts, VMs, Datenspeicher, VMDKs, IP-Netzwerk und Speicherverbindungen zeigt</block>
+  <block id="e1f09e41d18a2f354b0f54a78d35a0c0" category="image-alt">Ein Diagramm, das einen Workflow zur Ermittlung der Latenz von VM-Anwendungen in den Schichten Compute, Netzwerk und Storage zeigt</block>
+  <block id="090c8104c89a24e16b32214c066c6f21" category="image-alt">Ein Screenshot des Active IQ Unified Manager Objektlistenfensters mit beschrifteten Navigations-, Such-, Filter- und Berichtssteuerelementen</block>
+  <block id="fd5189ced6c908af40fee28d211b4c0a" category="image-alt">Ein Screenshot, der ein Active IQ Unified Manager Volumendetails-Fenster mit Registerkarten, Kapazitätsdetails, zugehörigen Objekten, Verlauf und Ereignissen zeigt</block>
 </blocks>

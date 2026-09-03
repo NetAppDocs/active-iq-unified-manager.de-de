@@ -13,4 +13,4 @@ summary: Entscheidungsbaum, in dem der Berichtworkflow beschrieben wird.
 [role="lead"]
 Entscheidungsbaum, in dem der Berichtworkflow beschrieben wird.
 
-image::../media/reports_view_workflow.png[Berichtsansicht Workflow]
+image::../media/reports_view_workflow.png[Ein Diagramm, das einen Entscheidungsbaum-Workflow für das Anzeigen, Anpassen, Hochladen und Herunterladen von Berichten zeigt]

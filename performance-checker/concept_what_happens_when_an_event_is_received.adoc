@@ -25,4 +25,4 @@ Je nachdem, wie Sie Einstellungen auf der Seite Alarmkonfiguration konfigurieren
 
 Dieser Workflow wird im folgenden Diagramm dargestellt.
 
-image::../media/um_perf_threshold_event_flow.gif[Um perf Schwellwert Ereignisfluss]
+image::../media/um_perf_threshold_event_flow.gif[Ein Diagramm, das die Verarbeitung von Schwellenwertereignissen von der Zählererfassung bis zur E-Mail-Benachrichtigung zeigt]

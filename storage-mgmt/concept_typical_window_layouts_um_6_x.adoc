@@ -20,11 +20,11 @@ Nicht jedes Fenster enthält jedes Element in den folgenden Diagrammen.
 [[object-list-window-layout]]
 == Layout des Fensters Objektliste
 
-image::../media/object_list.png[Objektliste]
+image::../media/object_list.png[Ein Screenshot des Active IQ Unified Manager Objektlistenfensters mit beschrifteten Navigations-, Such-, Filter- und Berichtssteuerelementen]
 
 
 
 [[object-details-window-layout]]
 == Layout des Fensters „Objektdetails“
 
-image::../media/object_details.gif[Objektdetails]
+image::../media/object_details.gif[Ein Screenshot, der ein Active IQ Unified Manager Volumendetails-Fenster mit Registerkarten, Kapazitätsdetails, zugehörigen Objekten, Verlauf und Ereignissen zeigt]

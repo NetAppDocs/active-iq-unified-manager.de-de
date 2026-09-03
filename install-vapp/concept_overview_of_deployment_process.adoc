@@ -13,4 +13,4 @@ summary: Der Bereitstellungs-Workflow beschreibt die Aufgaben, die Sie ausführe
 [role="lead"]
 Der Bereitstellungs-Workflow beschreibt die Aufgaben, die Sie ausführen müssen, bevor Sie Unified Manager verwenden können.
 
-image::../media/deployment_sequence_oc_6_0.gif[Bereitstellungsreihenfolge oc 6 0]
+image::../media/deployment_sequence_oc_6_0.gif[Ein Diagramm, das die Voraussetzungen für die Bereitstellung von Unified Manager, die Appliance-Bereitstellung und die ersten Konfigurationsschritte zeigt]
