@@ -20,6 +20,11 @@ Durch diese Aufgabe wird das ausgewählte Cluster aus Unified Manager entfernt. 
 
 Durch das Entfernen eines Clusters werden auch alle seine Storage-Objekte, historischen Daten, Storage-Services und alle zugehörigen Ereignisse aus Unified Manager gelöscht. Diese Änderungen werden auf den Bestandsseiten und den Detailseiten nach dem nächsten Datenerfassungszyklus angezeigt.
 
+[NOTE]
+====
+Sie müssen einen Cluster aus Unified Manager entfernen, bevor Sie ihn außer Betrieb nehmen. Wenn der Cluster bereits offline oder nicht erreichbar ist, wenn Sie versuchen, ihn zu entfernen, kann Unified Manager nicht mit dem Cluster kommunizieren, um den Anwendungsdatensatz und die konfigurierten Event Management System (EMS) Abonnements zu entfernen. Dies kann dazu führen, dass der Entfernungsprozess fehlschlägt oder nicht mehr reagiert, bevor er abgeschlossen ist.
+
+====
 .Schritte
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Cluster-Setup*.
 . Wählen Sie auf der Seite Cluster Setup den Cluster aus, den Sie entfernen möchten, und klicken Sie auf *Entfernen*.
