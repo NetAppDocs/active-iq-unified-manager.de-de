@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, events, system, details 
 summary: Mithilfe der Events-API können Sie die Ereignisse abrufen, die für die überwachten Cluster in Ihrem Datacenter generiert werden. 
 ---
-= Verwalten von Ereignissen und Warnungen mithilfe von APIs
+= Verwaltung von Ereignissen und Warnmeldungen mithilfe von APIs in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, workload, latency, identify, performance, issues 
 summary: 'Die Workload-Latenz (Reaktionszeit) ist die Zeit, die ein Volume auf einem Cluster benötigt, um auf I/O-Anforderungen von Client-Applikationen zu reagieren. Unified Manager verwendet die Latenz, um Performance-Ereignisse zu erkennen und zu benachrichtigen.' 
 ---
-= Unified Manager verwendet Workload-Latenz zur Identifizierung von Performance-Problemen
+= Verwenden der Workload-Latenz zur Identifizierung von Leistungsproblemen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: workload analyzer 
 summary: Es gibt viele Möglichkeiten, die Workload-Analyse von der Benutzeroberfläche aus zu starten. Hier beschreiben wir das Starten des Tools aus dem linken Navigationsbereich. 
 ---
-= Verwenden des Workload-Analyzers
+= Verwendung des Workload Analyzer in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, user, roles, capabilities 
 summary: Anhand der Ihnen zugewiesenen Benutzerrolle können Sie festlegen, welche Vorgänge Sie in Unified Manager ausführen können. 
 ---
-= Unified Manager Benutzer-Rollen und -Funktionen
+= Informationen zu Benutzerrollen und Berechtigungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

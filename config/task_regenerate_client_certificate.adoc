@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: client certificate, regenerate, validity, maintenance console 
 summary: Sie können die Wartungskonsole verwenden, um Ihr Unified Manager-Client-Zertifikat neu zu generieren. 
 ---
-= Regenerieren Sie das Unified Manager-Clientzertifikat.
+= Das Clientzertifikat in Active IQ Unified Manager neu generieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

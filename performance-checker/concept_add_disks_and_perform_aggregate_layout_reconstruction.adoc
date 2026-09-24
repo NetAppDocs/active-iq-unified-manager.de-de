@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, disks, perform, aggregate, layout, reconstruction 
 summary: Sie können einem Aggregat Festplatten hinzufügen, um die Storage-Kapazität und Performance dieses Aggregats zu erhöhen. Nach dem Hinzufügen der Platten sehen Sie nur eine Verbesserung der Performance nach dem Rekonstruieren des Aggregats. 
 ---
-= Fügen Sie Festplatten hinzu und führen Sie die Rekonstruktion des Aggregat-Layouts durch
+= Grundlegende Informationen dazu, wie sich das Hinzufügen von Datenträgern auf das Aggregatlayout in Active IQ Unified Manager auswirkt
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

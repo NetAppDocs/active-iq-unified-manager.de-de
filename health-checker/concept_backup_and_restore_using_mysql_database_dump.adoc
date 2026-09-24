@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: backup, restore, using, mysql, database, dump, snapshot copy, copies 
 summary: Ein MySQL Datenbank Dump Backup ist eine Kopie der Active IQ Unified Manager-Datenbank und Konfigurationsdateien, die Sie im Falle eines Systemausfalls oder Datenverlust verwenden können. Sie können ein Backup so planen, dass es auf ein lokales Ziel oder auf ein Remote-Ziel geschrieben wird. Es wird dringend empfohlen, einen Remote-Standort außerhalb des Active IQ Unified Manager Host-Systems zu definieren. 
 ---
-= Sichern und Wiederherstellen mithilfe eines MySQL Datenbank-Dump
+= Sicherung und Wiederherstellung mithilfe eines MySQL Datenbank-Dumps in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

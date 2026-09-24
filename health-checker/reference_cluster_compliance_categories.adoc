@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: cluster compliance, categories 
 summary: In dieser Tabelle werden die Parameter für die Einhaltung der Cluster-Sicherheits-Compliance beschrieben, die von Unified Manager bewertet werden, die Empfehlung von NetApp und ob der Parameter sich auf die allgemeine Bestimmung des Clusters auswirkt, das eine Beschwerde ist oder nicht. 
 ---
-= Cluster-Compliance-Kategorien
+= Cluster Compliance Kategorien in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

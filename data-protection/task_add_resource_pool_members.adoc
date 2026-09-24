@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, resource, pool, members 
 summary: Ein Ressourcen-Pool besteht aus einer Reihe von Mitglied-Aggregaten. Sie können zu vorhandenen Ressourcen-Pools Aggregate hinzufügen, um den für die Provisionierung des sekundären Volumes verfügbaren Speicherplatz zu erhöhen. 
 ---
-= Hinzufügen von Ressourcenpoolmitgliedern
+= Hinzufügen von Ressourcenpoolmitgliedern in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: definitions, user roles 
 summary: Der Wartungsbenutzer oder der Anwendungsadministrator weist jedem Benutzer eine Rolle zu. Jede Rolle enthält bestimmte Berechtigungen. Der Umfang der Aktivitäten, die Sie in Unified Manager ausführen können, hängt von der Ihnen zugewiesenen Rolle ab und welchen Berechtigungen die Rolle enthält. 
 ---
-= Definitionen von Benutzerrollen
+= Informationen zu Benutzerrollen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

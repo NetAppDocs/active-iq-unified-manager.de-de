@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, selinux requirements, mounting, nfs, cifs, share 
 summary: Wenn Sie Vorhaben, /opt/netapp oder /opt/netapp/Daten auf einem NAS- oder SAN-Gerät zu mounten und SELinux aktiviert ist, müssen Sie die folgenden Überlegungen beachten. 
 ---
-= SELinux-Anforderungen für NFS- und CIFS-Freigaben
+= SELinux für NFS- und CIFS-Freigaben in Active IQ Unified Manager konfigurieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

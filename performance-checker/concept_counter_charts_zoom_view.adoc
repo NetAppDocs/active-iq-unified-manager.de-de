@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: counter, charts, zoom, view 
 summary: Die Zählerdiagramme bieten eine Zoom-Ansicht, mit der Sie Leistungsdetails über den angegebenen Zeitraum vergrößern können. So lassen sich Performance-Details und Ereignisse wesentlich granularer anzeigen, was bei der Behebung von Performance-Problemen von Vorteil ist. 
 ---
-= Zählerdiagramme Ansicht „Zoom“
+= Informationen zur Zoomansicht in Zählerdiagrammen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

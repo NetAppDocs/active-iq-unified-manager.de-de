@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: 'network, interface, (lif) events, impact area, availability, configuration, performance' 
 summary: 'Ereignisse an der Netzwerkschnittstelle liefern Informationen zum Status Ihrer Netzwerkschnittstelle (LIFs), sodass Sie potenzielle Probleme überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad.' 
 ---
-= Ereignisse der Netzwerkschnittstelle (LIF)
+= Netzwerkschnittstellenereignisse in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

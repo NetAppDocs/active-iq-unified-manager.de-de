@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: metrocluster, configuration, verification 
 summary: Sie können Performance-Probleme bei gespiegelten Workloads in einer MetroCluster-Konfiguration vermeiden, indem Sie sicherstellen, dass die MetroCluster-Konfiguration korrekt eingerichtet ist. Sie können außerdem die Workload-Performance verbessern, indem Sie die Konfiguration ändern oder Software- oder Hardware-Komponenten aktualisieren. 
 ---
-= Überprüfung der MetroCluster-Konfiguration
+= Überprüfung der MetroCluster Konfigurationen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

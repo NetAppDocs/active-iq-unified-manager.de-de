@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: sources, performance, events 
 summary: Performance-Ereignisse sind Probleme im Zusammenhang mit der Workload-Performance auf einem Cluster. Sie helfen dabei, Storage-Objekte mit langen Reaktionszeiten zu identifizieren, die auch als hohe Latenz bezeichnet werden. Zusammen mit anderen gleichzeitig aufgetretenen Gesundheitsereignissen können Sie die Probleme bestimmen, die die langsamen Reaktionszeiten verursacht oder dazu beigetragen haben. 
 ---
-= Quellen von Leistungsereignissen
+= Quellen von Leistungsereignissen in Active IQ Unified Manager identifizieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

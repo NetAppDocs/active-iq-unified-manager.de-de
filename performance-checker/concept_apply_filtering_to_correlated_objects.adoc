@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: apply, filter, reduce, list, correlated, objects, grid 
 summary: Durch Filtern können Sie eine kleinere, besser definierte Untergruppe von Objekten im Raster anzeigen. Wenn Sie beispielsweise 25 Volumes in der Tabelle haben, können Sie durch Filtern nur die Volumes anzeigen, die einen Durchsatz von weniger als 90 MB/s oder eine Latenz größer als 1 ms/op. Haben 
 ---
-= Filter anwenden, um die Liste der korrelierten Objekte im Raster zu reduzieren
+= Korrelierte Objekte im Active IQ Unified Manager Raster filtern
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

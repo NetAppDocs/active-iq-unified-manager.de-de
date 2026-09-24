@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, snapvault, protection, relationship, health, volumes view 
 summary: 'Sie können die Ansicht Systemzustand: Alle Volumes verwenden, um SnapVault-Beziehungen für ein oder mehrere Volumes auf derselben Storage-VM zu erstellen, um Daten-Backups zu Sicherungszwecken zu ermöglichen.' 
 ---
-= Erstellen Sie eine SnapVault-Schutzbeziehung aus der Ansicht „Health: All Volumes“
+= Erstellung einer SnapVault Beziehung in der Ansicht „Gesundheit: Alle Volumes“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

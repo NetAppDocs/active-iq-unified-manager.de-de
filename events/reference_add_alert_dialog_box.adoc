@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, alert, dialog, box, name, resources, events, actions, command buttons 
 summary: Sie können Benachrichtigungen erstellen, um Sie nach der Generierung eines bestimmten Ereignisses zu benachrichtigen, sodass Sie dieses Problem schnell beheben und die Auswirkungen auf Ihre Umgebung minimieren können. Sie können Meldungen für eine einzelne Ressource oder eine Gruppe von Ressourcen und für Ereignisse mit einem bestimmten Schweregrad erstellen. Sie können auch die Benachrichtigungsmethode und die Häufigkeit der Warnmeldungen festlegen. 
 ---
-= Dialogfeld „Alarm hinzufügen“
+= Informationen zum Dialogfeld „Warnung hinzufügen“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

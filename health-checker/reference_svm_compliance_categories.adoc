@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: storage vm, compliance, svm compliance, categories 
 summary: 'Diese Tabelle beschreibt die Compliance-Kriterien für die Storage Virtual Machine (SVM), die von Unified Manager bewertet werden, die NetApp Empfehlung und ob der Parameter sich auf die allgemeine Feststellung einer Beschwerde bzw. nicht auf eine Beschwerde des SVM auswirkt.' 
 ---
-= Compliance-Kategorien für Storage-VMs
+= Grundlegendes zu den Konformitätskategorien von Storage VMs in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

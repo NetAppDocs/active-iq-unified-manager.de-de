@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: acknowledge, resolve, events 
 summary: Sie sollten ein Ereignis bestätigen, bevor Sie mit der Bearbeitung des Problems beginnen, das das Ereignis verursacht hat, damit Sie keine wiederholten Warnmeldungen erhalten. Nachdem Sie die Korrekturmaßnahme für ein bestimmtes Ereignis durchgeführt haben, sollten Sie das Ereignis als gelöst markieren. 
 ---
-= Ereignisse bestätigen und beheben
+= Bestätigen und Beheben von Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

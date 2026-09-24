@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: storage, shelf, events, impact area, availability 
 summary: Storage Shelf-Ereignisse geben an, ob Ihr Storage Shelf anormal ist, sodass Sie nach potenziellen Problemen überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Storage-Shelf-Ereignisse
+= Informationen zu Storage Shelf Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

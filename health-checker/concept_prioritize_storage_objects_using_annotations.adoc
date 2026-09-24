@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: prioritize, storage, object, events, annotations 
 summary: Sie können Anmerkungsregeln für Storage-Objekte erstellen und anwenden, sodass Sie diese Objekte auf der Grundlage des Typs der verwendeten Annotation und ihrer Priorität identifizieren und filtern können. 
 ---
-= Priorisieren Sie Speicherobjektereignisse mithilfe von Anmerkungen
+= Speicherobjekte werden mithilfe von Annotationen in Active IQ Unified Manager priorisiert
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

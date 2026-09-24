@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, script, dialog, box 
 summary: Im Dialogfeld Skript hinzufügen können Sie Skripts zu Unified Manager hinzufügen. Sie können Benachrichtigungen mit Ihren Skripten konfigurieren, um automatisch Ereignisse zu beheben, die für Speicherobjekte generiert werden. 
 ---
-= Dialogfeld „Skript hinzufügen“
+= Dialogfeld „Skript hinzufügen“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: description, event, impact, levels 
 summary: 'Jedes Ereignis ist mit einer Folgenabstufe (Vorfall, Risiko, Ereignis oder Upgrade) verbunden, die Ihnen dabei hilft, Ereignisse zu priorisieren, die umgehend Korrekturmaßnahmen erfordern.' 
 ---
-= Beschreibung der Level der Ereignisauswirkungen
+= Informationen zu den Auswirkungsstufen von Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

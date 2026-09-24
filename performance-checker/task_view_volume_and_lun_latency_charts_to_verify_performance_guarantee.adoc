@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, volume, lun, latency, charts, verify, performance, guarantee 
 summary: Sie können die Volumes und LUNs, die Sie im Programm „Performance Guarantee“ abonniert haben, um zu überprüfen, dass die Latenz nicht das Niveau überschritten hat, das Sie garantiert worden sind. 
 ---
-= Sehen Sie sich Volume- und LUN-Latenzdiagramme an, um die Leistungsgarantie zu überprüfen
+= Anzeigen von Latenzdiagrammen für Volumes und LUNs zur Überprüfung der Leistungsgarantie in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

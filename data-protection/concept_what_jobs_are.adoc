@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: jobs 
 summary: Ein Job besteht aus einer Reihe von Aufgaben, die Sie mit Unified Manager überwachen können. Durch das Anzeigen von Jobs und den zugehörigen Aufgaben können Sie feststellen, ob diese erfolgreich abgeschlossen wurden. 
 ---
-= Was sind Jobs
+= Informationen zu Jobs in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

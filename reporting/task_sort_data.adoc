@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: sort, data 
 summary: Um die Ergebnisse zu sortieren, klicken Sie auf eine Spalte und zeigen eine aufsteigende oder absteigende Reihenfolge an. Beim Sortieren von Daten werden die für den Bericht erforderlichen Informationen priorisiert. 
 ---
-= Daten sortieren
+= Daten in Active IQ Unified Manager sortieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

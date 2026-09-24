@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: report, workflow 
 summary: Entscheidungsbaum, in dem der Berichtworkflow beschrieben wird. 
 ---
-= Berichtsworkflow zu erstellen
+= Berichtsworkflows in Active IQ Unified Manager verstehen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

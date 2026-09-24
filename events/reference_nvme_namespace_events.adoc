@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: nvme, namespace, events, impact area, availability, performance 
 summary: NVMe Namespace Ereignisse liefern Ihnen Informationen zum Status Ihrer Namespaces, damit Sie ein Monitoring auf potenzielle Probleme ermöglichen. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= NVMe Namespace-Ereignisse
+= Informationen zu NVMe Namespace Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

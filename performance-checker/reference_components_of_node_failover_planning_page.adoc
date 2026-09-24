@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: components, node, failover, planning page, performance, statistics, grid 
 summary: Die Komponenten der Seite Performance/Node Failover Planning werden in einem Raster und im Fenster Comparing angezeigt. In diesen Abschnitten können Sie die Auswirkungen eines Node-Failovers auf die Performance des Takeover-Nodes bewerten. 
 ---
-= Komponenten der Seite Knoten-Failover-Planung
+= Eine Übersicht über die Komponenten der Seite „Leistung/Knoten-Failover-Planung“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

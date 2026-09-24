@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: security events 
 summary: 'Sicherheitsereignisse bieten Ihnen Informationen zum Sicherheitsstatus von ONTAP Clustern, Storage Virtual Machines (SVMs) und Volumes auf der Grundlage der im NetApp Leitfaden für die verstärkte Sicherheit von ONTAP 9 definierten Parameter. Diese Ereignisse benachrichtigen Sie über potenzielle Probleme, sodass Sie den Schweregrad Ihrer Maßnahmen überprüfen und das Problem ggf. beheben können.' 
 ---
-= Sicherheitsereignisse
+= Sicherheitsereignisse in Active IQ Unified Manager anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: provision, luns 
 summary: 'Sie können LUNs erstellen, die CIFS-/SMB- und NFS-Protokolle unterstützen, auf einem vorhandenen Cluster und auf der Seite „Workloads bereitstellen“ (Storage Virtual Machine).' 
 ---
-= Bereitstellung von LUNs
+= Bereitstellung von LUNs in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

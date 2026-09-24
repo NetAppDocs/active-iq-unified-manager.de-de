@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: search, schedule, report 
 summary: Sie können nach geplanten Berichten nach Name, Ansichtsname, Objekttyp oder Empfänger suchen. 
 ---
-= Suchen nach einem geplanten Bericht
+= Suche nach einem geplanten Bericht in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

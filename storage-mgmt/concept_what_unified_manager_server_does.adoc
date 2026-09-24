@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, server, does 
 summary: 'Die Unified Manager Server-Infrastruktur besteht aus einer Datenerfassungseinheit, einer Datenbank und einem Applikationsserver. Die Lösung bietet Infrastrukturservices wie beispielsweise Discovery, Monitoring, rollenbasierte Zugriffssteuerung (RBAC), Audits und Protokollierungsfunktionen.' 
 ---
-= Was macht der Unified Manager Server
+= Informationen zum Active IQ Unified Manager Server
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

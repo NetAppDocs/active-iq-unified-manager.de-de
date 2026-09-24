@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: page descriptions, certificate management 
 summary: Auf der Seite HTTPS-Zertifikat können Sie die aktuellen Sicherheitszertifikate anzeigen und neue HTTPS-Zertifikate erstellen. 
 ---
-= Seitenbeschreibungen zur Zertifikatverwaltung
+= Die HTTPS-Zertifikatsseite in Active IQ Unified Manager verwenden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

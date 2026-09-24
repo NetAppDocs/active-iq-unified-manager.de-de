@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: customize, qtree, capacity, reports 
 summary: Anhand dieser individuellen Beispielberichte können Sie potenzielle Probleme im Zusammenhang mit qtree-Kapazität identifizieren und darauf reagieren. 
 ---
-= Passen Sie Qtree-Kapazitätsberichte an
+= Anpassen von Qtree-Kapazitätsberichten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

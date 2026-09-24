@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: customize, volume, capacity reports 
 summary: Anhand dieser individuellen Berichte können Sie potenzielle Probleme im Zusammenhang mit Volume-Kapazität und Performance identifizieren und beheben. 
 ---
-= Anpassen von Volume-Kapazitätsberichten
+= Volumenkapazitätsberichte in Active IQ Unified Manager anpassen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

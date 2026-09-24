@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, database, restore 
 summary: Bei einer Wiederherstellung einer MySQL Datenbank wird eine vorhandene Unified Manager Backup-Datei auf demselben oder einem anderen Unified Manager Server wiederhergestellt. Sie führen die Wiederherstellung über die Unified Manager-Wartungskonsole aus. 
 ---
-= Was ist ein Datenbank-Restore
+= Informationen zur Wiederherstellung der Datenbank in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

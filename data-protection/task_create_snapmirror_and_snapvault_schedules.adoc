@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, snapmirror, snapvault, schedules 
 summary: Sie können grundlegende oder erweiterte Zeitpläne für SnapMirror und SnapVault erstellen, um automatische Datensicherheitstransfers auf einem Quell- oder primären Volume zu ermöglichen. Dadurch werden diese je nach Häufigkeit der Datenänderungen auf Ihren Volumes häufiger oder weniger häufiger durchgeführt. 
 ---
-= Erstellen Sie SnapMirror- und SnapVault-Zeitpläne
+= Erstellung von SnapMirror und SnapVault Zeitplänen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

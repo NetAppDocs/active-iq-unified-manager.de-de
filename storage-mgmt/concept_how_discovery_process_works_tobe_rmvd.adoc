@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: discovery, process, works 
 summary: Nachdem Sie den Cluster Unified Manager hinzugefügt haben, erkennt der Server die Cluster-Objekte und fügt sie seiner Datenbank hinzu. Wenn Sie verstehen, wie der Erkennungsprozess funktioniert, können Sie die Cluster und deren Objekte Ihres Unternehmens verwalten. 
 ---
-= Funktionsweise des Erkennungsvorgangs
+= Informationen zur Funktionsweise des Cluster-Erkennungsprozesses in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

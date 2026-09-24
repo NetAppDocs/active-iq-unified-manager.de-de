@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: restore, linux system, mysql, database, backup 
 summary: Im Falle eines Datenverlustes oder einer Beschädigung von Daten können Sie Unified Manager in den vorherigen stabilen Zustand bei minimalem Datenverlust wiederherstellen. Sie können die Unified Manager-Datenbank mithilfe der Wartungskonsole von Unified Manager auf einem lokalen oder Remote Red hat Enterprise Linux-System wiederherstellen. 
 ---
-= Wiederherstellen einer MySQL-Datenbanksicherung auf einem Linux-System
+= Wiederherstellung einer MySQL Datenbank Sicherung auf einem Linux-System in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: components, object, landing pages 
 summary: Auf den Seiten „Objekt-Landing“ werden Details zu allen kritischen, Warn- und Informationsereignissen angezeigt. Sie bieten eine detaillierte Ansicht der Performance aller Cluster-Objekte, sodass Sie einzelne Objekte über verschiedene Zeiträume auswählen und vergleichen können. 
 ---
-= Komponenten der ObjektLanding-Pages
+= Die Komponenten der Object Landing pages in Active IQ Unified Manager im Überblick
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

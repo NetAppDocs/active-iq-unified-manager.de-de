@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: storage VM, health details page 
 summary: 'Sie können auf der Seite Storage VM / Health Details ausführliche Informationen über die ausgewählte Storage-VM anzeigen, z. B. Systemzustand, Kapazität, Konfiguration, Datenrichtlinien, logische Schnittstellen (LIFs), LUNs, qtrees, Benutzer, User Group Quotas und Sicherungsdetails . Sie können auch Informationen zu verwandten Objekten und zugehörigen Warnmeldungen für die Storage-VM anzeigen.' 
 ---
-= Storage VM / Health Details Seite
+= Die Seite Storage VM / Health-Details in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

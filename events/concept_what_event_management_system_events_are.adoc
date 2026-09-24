@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: event management, system, 
 summary: 'Das Event Management System (EMS) sammelt Ereignisdaten aus verschiedenen Teilen des ONTAP Kernels und bietet Mechanismen zur Ereignisweiterleitung. Diese ONTAP Ereignisse können im Unified Manager als EMS-Ereignisse gemeldet werden. Die zentralisierte Überwachung und Verwaltung erleichtert die Konfiguration kritischer EMS-Ereignisse und Alarmbenachrichtigungen auf der Grundlage dieser EMS-Ereignisse.' 
 ---
-= Die Ereignisse des Event Management-Systems sind
+= Informationen zu Ereignissen des Event Management System in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: backup, types, manage, restore, operations 
 summary: 'Sie können Backups von Active IQ Unified Manager erstellen und das Backup mit der Wiederherstellungsfunktion auf dasselbe (lokale) System oder ein neues (Remote-)System im Falle eines Systemausfalls oder Datenverlust wiederherstellen.' 
 ---
-= Verwalten von Sicherungs- und Wiederherstellungsvorgängen
+= Verwalten von Sicherungs- und Wiederherstellungsvorgängen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

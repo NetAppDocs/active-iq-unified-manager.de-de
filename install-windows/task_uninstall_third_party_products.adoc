@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: MS Visual C++, python, uninstall, uninstalling, 9.18 
 summary: So deinstallieren Sie Drittanbieterprodukte wie Python und Microsoft Visual C++. 
 ---
-= Deinstallieren Sie Produkte von Drittanbietern
+= Deinstallation von Drittanbieterprodukten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

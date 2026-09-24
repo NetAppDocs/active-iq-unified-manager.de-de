@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: monitor, manage, clusters, dashboard 
 summary: Das Dashboard bietet auf einen Blick kumulative Informationen über den aktuellen Zustand Ihrer überwachten ONTAP-Systeme. Das Dashboard bietet „Panels“, mit denen Sie die Gesamtkapazität, Leistung und den Sicherheitszustand der von Ihnen überwachten Cluster beurteilen können. 
 ---
-= Überwachen und verwalten Sie Cluster über das Dashboard
+= Cluster lassen sich über das Dashboard in Active IQ Unified Manager überwachen und verwalten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: power, supplies, events, impact area, availability 
 summary: Netzteile liefern Ihnen Informationen über den Status Ihrer Hardware, sodass Sie Monitoring auf potenzielle Probleme ermöglichen. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Netzteile
+= Informationen zu Ereignissen im Zusammenhang mit der Stromversorgung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

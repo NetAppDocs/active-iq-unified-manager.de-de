@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: objects, counters, combination, threshold, policies 
 summary: Nur einige Leistungsindikatoren können in Kombinationsrichtlinien kombiniert werden. Wenn primäre und sekundäre Performance-Zähler angegeben werden, müssen beide Performance-Zähler ihre Höchstgrenzen überschreiten, bevor ein Ereignis generiert wird. 
 ---
-= Welche Objekte und Zähler können in Schwellwertrichtlinien für Kombinationen verwendet werden
+= Kombinationsschwellenwertrichtlinienobjekte und Zähler in Active IQ Unified Manager verstehen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

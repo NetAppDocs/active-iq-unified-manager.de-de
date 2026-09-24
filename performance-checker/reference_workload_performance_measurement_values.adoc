@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: workload, performance, measurement, values 
 summary: Unified Manager misst die Performance von Workloads auf einem Cluster basierend auf historischen und erwarteten statistischen Werten, die die Latenzprognose für Werte für die Workloads bilden. Es vergleicht die tatsächlichen statistischen Workload-Werte mit der Latenzprognose, um zu ermitteln, ob die Workload-Performance zu hoch oder zu niedrig ist. Ein Workload, der nicht wie erwartet ausgeführt wird, löst ein dynamisches Performance-Ereignis aus, um Sie zu benachrichtigen. 
 ---
-= Messwerte für die Workload-Performance
+= Grundlegendes zu Kennzahlen für die Messung der Workload-Leistung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

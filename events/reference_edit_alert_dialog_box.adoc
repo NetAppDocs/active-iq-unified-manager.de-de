@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: edit, alert, dialog box, name, resources, events, actions 
 summary: Sie können Eigenschaften von Warnmeldungen bearbeiten, z. B. die Ressource, mit der die Warnmeldung verknüpft ist, sowie die Optionen für Ereignisse, Skripts und Benachrichtigungen. 
 ---
-= Dialogfeld „Warnung bearbeiten“
+= Bearbeiten der Alarmeigenschaften in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

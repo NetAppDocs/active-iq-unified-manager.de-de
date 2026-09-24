@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: deploy, unified manager 
 summary: Die Bereitstellung von Unified Manager umfasst das Herunterladen von Software, die Bereitstellung der virtuellen Appliance, das Erstellen eines Benutzernamens und Kennworts für die Wartung und das Durchführen der ersten Einrichtung in der Web-Benutzeroberfläche. 
 ---
-= Unified Manager bereitstellen
+= Bereitstellung von Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

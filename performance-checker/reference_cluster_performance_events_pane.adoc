@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: cluster, performance, events, pane, counter 
 summary: Im Teilfenster Cluster Performance-Ereignisse werden Performance-Statistiken und alle aktiven Ereignisse für das Cluster angezeigt. Dies ist am hilfreichsten, wenn es um das Monitoring der Cluster und aller Cluster-bezogenen Performance und Ereignisse geht. 
 ---
-= Teilfenster „Cluster-Performance“-Ereignisse
+= Eine Überprüfung des Bereichs „Cluster-Leistungsereignisse“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

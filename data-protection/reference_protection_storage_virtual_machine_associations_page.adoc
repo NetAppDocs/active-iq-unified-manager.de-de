@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: svm, association, page 
 summary: Auf der Seite Storage VM Association können Sie vorhandene Speicher-VM-Zuordnungen zwischen Quell- und Ziel-Speicher-VMs anzeigen. 
 ---
-= Grundlegendes zu Storage-VM-Zuordnungen
+= Verwalten von Speicher-VM-Zuordnungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

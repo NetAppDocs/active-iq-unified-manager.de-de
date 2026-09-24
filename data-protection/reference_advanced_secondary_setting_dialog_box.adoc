@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: advanced, secondary, settings, dialog box 
 summary: Im Dialogfeld Erweiterte sekundäre Einstellungen können Sie die versionsflexible Replikation, das Backup mehrerer Kopien und speicherbezogene Einstellungen auf einem sekundären Volume aktivieren. Sie können das Dialogfeld Erweiterte sekundäre Einstellungen verwenden, wenn Sie die aktuellen Einstellungen aktivieren oder deaktivieren möchten. 
 ---
-= Dialogfeld „Erweiterte sekundäre Einstellungen“
+= Im Active IQ Unified Manager steht das Dialogfeld „Erweiterte Sekundäreinstellungen“ zur Verfügung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

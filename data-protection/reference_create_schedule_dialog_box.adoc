@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, schedule, dialog box 
 summary: Im Dialogfeld „Zeitplan erstellen“ können Sie einen einfachen oder erweiterten Sicherungsplan für SnapMirror und SnapVault Beziehungsübertragungen erstellen. Möglicherweise erstellen Sie einen neuen Zeitplan, mit dem sich die Häufigkeit der Datentransfers durch häufige Datenaktualisierungen erhöhen lässt. Zudem können Sie bei unregelmäßigen Datenänderungen einen weniger Zeitplan erstellen. 
 ---
-= Dialogfeld „Zeitplan erstellen“
+= Im Dialogfeld „Zeitplan erstellen“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

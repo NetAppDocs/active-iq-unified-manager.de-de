@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, node, aggregate, available, iops, values 
 summary: Sie können die verfügbaren IOPS-Werte für alle Nodes und alle Aggregate in einem Cluster überwachen. Alternativ können Sie Details zu einem einzelnen Node oder Aggregat anzeigen. 
 ---
-= Knoten anzeigen und verfügbare IOPS-Werte aggregieren
+= Verfügbare IOPS-Werte für Knoten und Aggregate in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

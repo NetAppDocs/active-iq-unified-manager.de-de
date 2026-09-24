@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: Common, unified, manager, health, workflows, tasks 
 summary: 'Zu den geläufigsten administrativen Workflows und Aufgaben für Unified Manager gehört die Auswahl der zu überwachenden Storage-Cluster, die Diagnose von Bedingungen, die sich nachteilig auf die Datenverfügbarkeit, -Kapazität und -Sicherung auswirken, die Wiederherstellung verlorener Daten, die Konfiguration und das Management von Volumes sowie die Bündelung und das Senden von Diagnosedaten an den technischen Support (falls erforderlich).' 
 ---
-= Gemeinsame Workflows und Aufgaben im Zusammenhang mit Unified Manager
+= Verständnis gängiger Active IQ Unified Manager Arbeitsabläufe und Aufgaben im Zusammenhang mit dem Zustand
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

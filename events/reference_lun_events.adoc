@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: lun, events, impact area, availability, capacity, configuration, performance 
 summary: LUN-Ereignisse liefern Ihnen Informationen zum Status Ihrer LUNs, sodass Sie ein Monitoring auf potenzielle Probleme durchführen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= LUN-Ereignisse
+= Informationen zu LUN-Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

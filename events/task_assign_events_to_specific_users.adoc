@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: assign, events, specific, users 
 summary: Sie können nicht zugewiesene Ereignisse selbst oder anderen Benutzern, einschließlich Remote-Benutzern, zuweisen. Sie können zugewiesene Ereignisse bei Bedarf einem anderen Benutzer zuweisen. Wenn z. B. häufig Probleme an einem Storage-Objekt auftreten, können Sie den Benutzer, der das Objekt verwaltet, die Ereignisse für diese Probleme zuweisen. 
 ---
-= Zuweisen von Ereignissen zu bestimmten Benutzern
+= Zuweisung von Ereignissen an bestimmte Benutzer in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

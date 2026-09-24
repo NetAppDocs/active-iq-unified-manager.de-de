@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: complete, worksheet 
 summary: Vor der Installation und Konfiguration von Unified Manager sollten konkrete Informationen über die Umgebung sofort zur Verfügung stehen. Sie können die Informationen im Arbeitsblatt aufzeichnen. 
 ---
-= Füllen Sie das Arbeitsblatt aus
+= Das Arbeitsblatt in Active IQ Unified Manager wird vervollständigt
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

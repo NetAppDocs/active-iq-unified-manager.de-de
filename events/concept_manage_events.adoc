@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, events 
 summary: Ereignisse unterstützen Sie bei der Erkennung von Problemen in den überwachten Clustern. 
 ---
-= Ereignisse verwalten
+= Verwalten von Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

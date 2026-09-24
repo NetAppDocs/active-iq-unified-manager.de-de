@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, active, directory, mapping 
 summary: Mithilfe der hier aufgeführten APIs können Sie die Active Directory-Zuordnungen auf der SVM managen, die für die Bereitstellung von CIFS-Freigaben auf den SVMs erforderlich sind. Active Directory-Zuordnungen müssen konfiguriert werden, um die SVMs mit ONTAP zuzuordnen. 
 ---
-= Verwalten der Active Directory-Zuordnung mithilfe von APIs
+= Verwalten von Active Directory Zuordnungen mithilfe von APIs in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

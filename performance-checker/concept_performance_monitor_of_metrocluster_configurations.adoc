@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, monitor, metrocluster, throughput 
 summary: Unified Manager ermöglicht das Monitoring des Schreibdurchsatzes zwischen Clustern in einer MetroCluster-Konfiguration, um Workloads mit einem hohen Schreibdurchsatz zu identifizieren. Falls diese hochperformanten Workloads dazu führen, dass andere Volumes auf dem lokalen Cluster hohe I/O-Reaktionszeiten aufweisen, löst Unified Manager Performance-Ereignisse aus, um Sie zu benachrichtigen. 
 ---
-= Performance Monitoring von MetroCluster-Konfigurationen
+= Überwachung der MetroCluster Leistung mit Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

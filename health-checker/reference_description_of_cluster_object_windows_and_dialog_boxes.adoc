@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: description, cluster, object, windows, dialog boxes 
 summary: Sie können alle Cluster- und Cluster-Objekte auf der jeweiligen Storage-Objektseite anzeigen. Sie können die Details auch auf der entsprechenden Seite mit den Details des Speicherobjekts anzeigen. Sie können die Benutzeroberfläche des System Manager jetzt aus den folgenden ABSCHNITTEN FÜR SPEICHER und SCHUTZ des BESTANDS starten. 
 ---
-= Beschreibung der Fenster und Dialogfelder für Cluster-Objekte
+= Informationen zu Clusterobjektfenstern und Dialogfeldern in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

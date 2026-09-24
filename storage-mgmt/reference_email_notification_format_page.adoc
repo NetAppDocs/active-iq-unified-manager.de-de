@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: email, notification, format, page 
 summary: 'Auf der Seite „E-Mail-Benachrichtigungsformat“ werden die Regeln der E-Mail angezeigt, die an einen Benutzer oder eine Benutzergruppe gesendet werden, wenn ein quota-bezogenes Problem vorliegt (Soft Limit missachtet oder Hard Limit erreicht).' 
 ---
-= Seite „Format für E-Mail-Benachrichtigungen“
+= Informationen zur Seite „E-Mail-Benachrichtigungsformat“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

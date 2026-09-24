@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: resource pools 
 summary: Ressourcen-Pools sind Gruppen von Aggregaten, die von einem Storage-Administrator mithilfe von Unified Manager erstellt werden, um Partnerapplikationen für das Backup-Management bereitzustellen. 
 ---
-= Was sind Ressourcen-Pools
+= Informationen zu Ressourcenpools in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

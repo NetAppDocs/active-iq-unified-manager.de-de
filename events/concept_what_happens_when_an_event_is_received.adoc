@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: happens, when, event, received 
 summary: 'Wenn Unified Manager ein Ereignis empfängt, wird es auf der Seite Dashboard, auf der Seite Ereignismanagement-Inventar, auf den Registerkarten Zusammenfassung und Explorer der Seite Cluster/Performance und auf der objektspezifischen Bestandsseite (z. B. auf der Seite Volumes/Integritätsbestand) angezeigt.' 
 ---
-= Was passiert, wenn ein Ereignis empfangen wird
+= Hier wird erläutert, wie Active IQ Unified Manager ein empfangenes Ereignis verarbeitet
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

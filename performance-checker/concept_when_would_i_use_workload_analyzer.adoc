@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: workload analyzer, use 
 summary: In der Regel dient die Workload-Analyse zur Behebung eines von einem Benutzer gemeldeten Latenzproblems, zur gründeren Analyse eines gemeldeten Ereignisses oder einer Warnung oder zur Untersuchung der Workloads, die angezeigt werden, wird nicht ordnungsgemäß ausgeführt. 
 ---
-= Wann würde ich den Workload Analyzer verwenden
+= Informationen zur Verwendung des Workload Analyzer in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: check, health, clusters, metrocluster, configuration 
 summary: Mit Unified Manager können Sie den Betriebszustand der Cluster und ihrer Komponenten in einer MetroCluster-Konfiguration überprüfen. Wenn die Cluster an einem von Unified Manager erkannten Performance-Ereignis beteiligt waren, kann der Integritätsstatus Ihnen dabei helfen festzustellen, ob ein Hardware- oder Softwareproblem zu dem Ereignis beigetragen hat. 
 ---
-= Überprüfen Sie den Zustand von Clustern in einer MetroCluster-Konfiguration
+= Der Zustand der Cluster in einer MetroCluster Konfiguration in Active IQ Unified Manager kann überprüft werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

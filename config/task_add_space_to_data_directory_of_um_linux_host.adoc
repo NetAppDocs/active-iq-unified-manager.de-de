@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, space, data directory, linux, host 
 summary: 'Wenn Sie dem nicht genügend Speicherplatz zugewiesen haben `/opt/netapp/data` Verzeichnis zur Unterstützung von Unified Manager Wenn Sie ursprünglich den Linux-Host eingerichtet und dann Unified Manager installiert haben, können Sie nach der Installation Speicherplatz hinzufügen, indem Sie den Speicherplatz auf dem erhöhen `/opt/netapp/data` Verzeichnis.' 
 ---
-= Fügen Sie dem Datenverzeichnis des Linux-Hosts Speicherplatz hinzu
+= Hinzufügen von Speicherplatz zum Datenverzeichnis auf einem Linux-Host in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

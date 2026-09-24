@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: volume, relationships, metrocluster 
 summary: 'Die Beziehung: Die Ansicht „Alle Beziehungen“ zeigt Informationen über Sicherungsbeziehungen auf dem Storage-System an.' 
 ---
-= Beziehung: Ansicht aller Beziehungen
+= Anzeige der Beziehungen: Alle Beziehungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

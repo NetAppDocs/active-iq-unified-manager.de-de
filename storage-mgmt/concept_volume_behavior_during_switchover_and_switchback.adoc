@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: volume, behavior, switchover, switchback 
 summary: Ereignisse, die ein Switchover oder einen Switchover auslösen, bewirken, dass aktive Volumes von einem Cluster zu einem anderen Cluster in der Disaster-Recovery-Gruppe verschoben werden. Die Volumes auf dem Cluster, die aktiv waren und Clients Daten bereitstellen, werden angehalten, und die Volumes auf dem anderen Cluster sind aktiviert, und mit der Bereitstellung von Daten beginnen Sie. Unified Manager überwacht nur die Volumes, die aktiv sind und ausgeführt werden. 
 ---
-= Volume-Verhalten während des Umschalens und Zurück
+= Informationen zum Volume Verhalten bei Umschaltung und Rückschaltung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

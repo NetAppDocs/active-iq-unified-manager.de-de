@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: install, unified manager 
 summary: Wird Unified Manager installiert, um Storage-Kapazität, -Verfügbarkeit, -Performance und -Sicherungsprobleme zu überwachen und Fehler zu beheben. 
 ---
-= Installation Von Unified Manager
+= Installation von Active IQ Unified Manager unter Windows
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, alerts 
 summary: Sie können die Liste der Warnungen, die für verschiedene Ereignisse erstellt wurden, auf der Seite „Alarm-Setup“ anzeigen. Zudem können Sie Eigenschaften von Warnmeldungen anzeigen, z. B. Alarmbeschreibung, Benachrichtigungsmethode und -Häufigkeit, Ereignisse, die die Warnung auslösen, E-Mail-Empfänger der Warnmeldungen und betroffene Ressourcen wie Cluster, Aggregate und Volumes. 
 ---
-= Anzeigen von Meldungen
+= Anzeigen von Warnmeldungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

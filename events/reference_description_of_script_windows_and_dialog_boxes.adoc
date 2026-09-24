@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: description, script, windows, dialog boxes 
 summary: Auf der Seite Skripts können Sie Skripte zu Unified Manager hinzufügen. 
 ---
-= Beschreibung der Skriptfenster und Dialogfelder
+= Skriptfenster und Dialogfelder in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

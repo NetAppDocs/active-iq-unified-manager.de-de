@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: node, failover, planning page, determine, corrective, actions 
 summary: Basierend auf den Informationen, die auf der Seite „Performance/Node Failover Planning“ angezeigt werden, können Sie Maßnahmen ergreifen, um sicherzustellen, dass ein Failover nicht dazu führt, dass die Performance eines HA-Paars unter eine akzeptable Ebene fällt. 
 ---
-= Verwenden Sie die Seite „Knoten-Failover-Planung“, um Korrekturmaßnahmen festzulegen
+= Die Korrekturmaßnahmen werden auf der Seite „Leistung/Knoten-Failover-Planung“ in Active IQ Unified Manager ermittelt.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

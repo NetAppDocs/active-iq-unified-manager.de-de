@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: creating, resource, pools 
 summary: Sie können das Dialogfeld Ressourcen-Pool erstellen verwenden, um Aggregate für Bereitstellungszwecke zu gruppieren. 
 ---
-= Erstellen von Ressourcenpools
+= In Active IQ Unified Manager können Ressourcenpools erstellt werden.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

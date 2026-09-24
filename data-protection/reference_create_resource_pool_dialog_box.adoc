@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, resource pool, dialog box 
 summary: Sie können im Dialogfeld Ressourcen-Pool erstellen einen neuen Ressourcen-Pool benennen und beschreiben sowie Aggregate zu diesem Ressourcenpool hinzufügen und aus diesem Ressourcenpool löschen. 
 ---
-= Dialogfeld „Ressourcen-Pool erstellen“
+= Das Dialogfeld „Ressourcenpool erstellen“ in Active IQ Unified Manager kann verwendet werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

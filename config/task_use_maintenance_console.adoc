@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: use, maintenance, console 
 summary: Sie können mit der Wartungskonsole Netzwerkeinstellungen konfigurieren, das System, auf dem Unified Manager installiert ist, konfigurieren und verwalten sowie andere Wartungsaufgaben ausführen, mit denen Sie mögliche Probleme vermeiden und beheben können. 
 ---
-= Verwenden der Wartungskonsole
+= Die Active IQ Unified Manager Wartungskonsole wird verwendet
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

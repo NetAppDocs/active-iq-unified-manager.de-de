@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: event, state, definitions 
 summary: Der Status eines Ereignisses hilft Ihnen, zu identifizieren, ob eine geeignete Korrekturmaßnahme ergriffen werden muss. Ein Ereignis kann neu, bestätigt, aufgelöst oder veraltet sein. Beachten Sie, dass sowohl neue als auch bestätigte Ereignisse als aktive Ereignisse betrachtet werden. 
 ---
-= Definition des Ereignisstatus
+= Ereigniszustände in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

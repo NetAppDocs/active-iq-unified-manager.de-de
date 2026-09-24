@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: review, impact, configuration, changes, workload, performance 
 summary: Konfigurationsänderungen auf dem Cluster, z. B. Festplatte ausgefallen, HA-Failover oder ein verschobene Volume, können sich negativ auf die Volume Performance auswirken und zu einer höheren Latenz führen. 
 ---
-= Prüfen Sie die Auswirkungen von Konfigurationsänderungen auf die Workload Performance
+= Bewertung, wie sich Konfigurationsänderungen auf die Workload-Performance in Active IQ Unified Manager auswirken
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

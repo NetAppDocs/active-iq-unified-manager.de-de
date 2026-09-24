@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: node, events, impact area, availability, capacity, configuration, performance, security 
 summary: Node-Ereignisse bieten Ihnen Informationen zum Node-Status, sodass Sie Ihr System auf potenzielle Probleme überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Node-Ereignisse
+= Informationen zu Knotenereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

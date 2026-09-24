@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: session timeout, CLI, maximum 
 summary: Sie können über die CLI einen maximalen Sitzungs-Timeout-Wert für Unified Manager festlegen, sodass die Sitzung nach einer bestimmten Zeit automatisch beendet wird. 
 ---
-= Legen Sie das Sitzungs-Timeout über CLI fest
+= Die Zeitüberschreitung der Sitzung kann über die CLI in Active IQ Unified Manager festgelegt werden.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

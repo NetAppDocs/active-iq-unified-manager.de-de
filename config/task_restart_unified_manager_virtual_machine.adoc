@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: restart, unified manager, virtual, machine 
 summary: Sie können die virtuelle Maschine von der Wartungskonsole von Unified Manager aus neu starten. Sie müssen neu starten, nachdem Sie ein neues Sicherheitszertifikat erstellt haben oder wenn ein Problem mit der virtuellen Maschine auftritt. 
 ---
-= Starten Sie die Virtual Machine von Unified Manager neu
+= Starten Sie die virtuelle Maschine Active IQ Unified Manager neu.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

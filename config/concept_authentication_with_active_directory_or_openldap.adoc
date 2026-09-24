@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: authentication, active directory, openldap 
 summary: Sie können die Remote-Authentifizierung auf dem Verwaltungsserver aktivieren und den Verwaltungsserver so konfigurieren, dass er mit Ihren Authentifizierungsservern kommunizieren kann, damit Benutzer innerhalb der Authentifizierungsserver auf Unified Manager zugreifen können. 
 ---
-= Authentifizierung mit Active Directory oder OpenLDAP
+= Authentifizierung mit Active Directory oder OpenLDAP in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

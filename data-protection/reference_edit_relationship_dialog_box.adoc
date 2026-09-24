@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: edit, relationship, dialog box 
 summary: Sie können eine bestehende Schutzbeziehung bearbeiten, um die maximale Übertragungsrate, die Schutzrichtlinie oder den Schutzzeitplan zu ändern. 
 ---
-= Dialogfeld „Beziehung bearbeiten“
+= Bearbeiten einer Schutzbeziehung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

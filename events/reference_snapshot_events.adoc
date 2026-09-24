@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: snapshot, events, impact area, availability 
 summary: Snapshot Ereignisse liefern Informationen zum Status von Snapshots, mit denen Sie die Snapshots auf potenzielle Probleme überwachen können. Die Ereignisse sind nach dem Impact-Bereich gruppiert und umfassen den Event-Namen, den Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Snapshot Ereignisse
+= Informationen zu Snapshot-Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

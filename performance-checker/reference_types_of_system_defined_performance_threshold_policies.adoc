@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: system-defined, performance, threshold, policies, cluster, node. aggregate, qos 
 summary: Unified Manager bietet einige standardmäßige Schwellenwertrichtlinien, die die Cluster-Performance überwachen und Ereignisse automatisch generieren. Diese Richtlinien sind standardmäßig aktiviert und erzeugen Warn- oder Informationsereignisse, wenn die überwachten Performance-Schwellenwerte nicht eingehalten werden. 
 ---
-= Typen systemdefinierter Performance-Schwellenwerte
+= Informationen zu systemdefinierten Leistungsschwellenwertrichtlinien in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

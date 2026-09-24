@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: aggregates, dialog box 
 summary: Im Dialogfeld Aggregate können Sie die Aggregate auswählen, die Sie Ihrem Ressourcen-Pool hinzufügen möchten. 
 ---
-= Dialogfeld „Aggregate“
+= Im Active IQ Unified Manager steht das Dialogfeld „Aggregate“ zur Verfügung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

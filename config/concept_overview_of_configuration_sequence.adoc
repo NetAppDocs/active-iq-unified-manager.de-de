@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: overview, configuration, sequence 
 summary: Der Konfigurations-Workflow beschreibt die Aufgaben, die Sie ausführen müssen, bevor Sie Unified Manager verwenden können. 
 ---
-= Überblick über die Konfigurationssequenz
+= Informationen zur Konfigurationsreihenfolge in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

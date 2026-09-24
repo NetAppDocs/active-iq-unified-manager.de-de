@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: asynchronous, mirror, vault, relationship, events, impact area, protection 
 summary: Die Beziehungsereignisse von Asynchronous Mirror und Vault liefern Ihnen Informationen zum Status Ihrer asynchronen SnapMirror- und Vault-Beziehungen, damit Sie das System auf potenzielle Probleme überwachen können. Ereignisse für asynchrone Mirror- und Vault-Beziehungen werden sowohl für Volume- als auch für Storage VM-Sicherungsbeziehungen unterstützt. Aber für das Disaster Recovery von Storage VM werden nicht nur Vault-Beziehungen unterstützt. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Ereignisse für asynchrone Spiegelung und Vault Beziehungen
+= Informationen zu Ereignissen der asynchronen Spiegelung und der Vault Beziehung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

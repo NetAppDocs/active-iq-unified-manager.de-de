@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: job, objects, asynchronous, processes 
 summary: Active IQ Unified Manager stellt die Job-API zur Verfügung, die Informationen über die Jobs abruft, die während der Ausführung anderer APIs ausgeführt wurden. Sie müssen wissen, wie die asynchrone Verarbeitung mit dem Job-Objekt funktioniert. 
 ---
-= Auftragsobjekte asynchrone Prozesse
+= Informationen dazu, wie Active IQ Unified Manager Jobobjekte für die asynchrone Verarbeitung verwendet
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

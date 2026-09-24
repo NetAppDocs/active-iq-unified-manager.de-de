@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: resource, pools, page 
 summary: Auf der Seite „Ressourcenpools“ werden vorhandene Ressourcen-Pools und ihre Mitglieder angezeigt. Hier können Sie Ressourcen-Pools zu Bereitstellungszwecken erstellen, überwachen und verwalten. 
 ---
-= Seite „Ressourcen-Pools“
+= Informationen zur Seite „Ressourcenpools“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

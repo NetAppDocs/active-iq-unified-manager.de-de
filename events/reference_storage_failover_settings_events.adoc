@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: storage, failover, settings, events, impact area, availability 
 summary: 'Ereignisse im Rahmen der Storage-Failover-Einstellungen (SFO) informieren Sie darüber, ob Ihr Storage-Failover deaktiviert oder nicht konfiguriert ist, damit Sie das System auf potenzielle Probleme überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad.' 
 ---
-= Ereignisse auf Storage-Failover-Einstellungen
+= Informationen zu Ereignissen bei Storage-Failover-Einstellungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

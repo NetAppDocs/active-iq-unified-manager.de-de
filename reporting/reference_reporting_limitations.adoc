@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: reporting, limitations 
 summary: Es gibt einige Einschränkungen bei der neuen Active IQ Unified Manager-Berichtsfunktion, die Sie beachten sollten. 
 ---
-= Einschränkungen bei der Berichterstellung
+= Berichtsbeschränkungen in Active IQ Unified Manager verstehen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: issue, addi, ldap, use, other, authentication, services 
 summary: 'Fehlerbehebung: Problem beim Hinzufügen von LDAP mit anderen Authentifizierungsdiensten' 
 ---
-= Problem beim Hinzufügen von LDAP über andere Authentifizierungsdienste
+= Behebung des Problems, das durch das Hinzufügen von LDAP über den Authentifizierungsdienst „Other authentication service“ in Active IQ Unified Manager verursacht wird
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

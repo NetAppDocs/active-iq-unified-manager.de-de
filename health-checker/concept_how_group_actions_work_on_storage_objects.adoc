@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: group actions, work, storage, objects 
 summary: Eine Gruppenaktion ist ein Vorgang, der auf allen Speicherobjekten einer Gruppe ausgeführt wird. Sie können beispielsweise die Aktion für Volume-Schwellenwertgruppen konfigurieren, um gleichzeitig die Volume-Schwellenwerte aller Volumes in einer Gruppe zu ändern. 
 ---
-= Funktionsweise von Gruppenaktionen auf Speicherobjekten
+= Informationen zur Funktionsweise von Gruppenaktionen auf Speicherobjekten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

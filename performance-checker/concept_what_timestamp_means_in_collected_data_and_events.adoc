@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: timestamp, means, collected, data, events 
 summary: Der Zeitstempel, der in den erfassten Systemzustand und Performance-Daten angezeigt wird oder der als Erkennungszeit für ein Ereignis angezeigt wird, basiert auf der ONTAP Cluster-Zeit, die an die im Webbrowser eingestellte Zeitzone angepasst wurde. 
 ---
-= Was bedeutet der Zeitstempel bei erfassten Daten und Ereignissen
+= Informationen zu Zeitstempeln in erfassten Daten und Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

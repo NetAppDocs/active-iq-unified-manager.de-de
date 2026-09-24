@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, available, volume, capacity, charts 
 summary: Sie können einen Bericht erstellen, um die verfügbare Volume-Kapazität in einem Excel-Diagramm zu analysieren. 
 ---
-= Erstellen Sie einen Bericht, um Diagramme zur verfügbaren Datenträgerkapazität anzuzeigen
+= Es kann ein Bericht erstellt werden, um die verfügbaren Volumenkapazitätsdiagramme in Active IQ Unified Manager anzuzeigen.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

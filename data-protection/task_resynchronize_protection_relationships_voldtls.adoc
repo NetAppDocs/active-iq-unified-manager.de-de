@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: resynchronize, protection, relationships, volume, health details page 
 summary: Sie können Daten auf einer SnapMirror oder SnapVault-Beziehung neu synchronisieren, die unterbrochen wurde, und dann wurde das Ziel gelesen/geschrieben, sodass die Daten auf der Quelle mit den Daten auf dem Ziel übereinstimmen. Sie können auch neu synchronisieren, wenn eine erforderliche gemeinsame Snapshot Kopie auf dem Quell-Volume gelöscht wird, sodass SnapMirror oder SnapVault Updates fehlschlagen. 
 ---
-= Synchronisieren Sie Schutzbeziehungen über die Seite „Volume-/Integritätsdetails“ erneut.
+= Neusynchronisierung von Schutzbeziehungen auf der Seite „Volume-/Integritätsdetails“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

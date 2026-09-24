@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, interfaces, manage, storage system, health 
 summary: Dieser Abschnitt enthält Informationen zu den beiden Benutzeroberflächen, die Active IQ Unified Manager zur Fehlerbehebung von Storage-Kapazität, -Verfügbarkeit und -Sicherung bereitstellt. Die beiden UIs sind die Unified Manager Web-UI und die Wartungskonsole. 
 ---
-= Unified Manager-Schnittstellen, die zum Management des Zustands des Storage-Systems verwendet werden
+= Active IQ Unified Manager Schnittstellen dienen zur Verwaltung des Zustands des Speichersystems.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: expected, range, performance, latency, forecast, formed 
 summary: Die Latenzprognose stellt eine Vorhersage des Wert für die obere und untere Performance dar, die zu einem bestimmten Zeitpunkt erwartet werden. Bei der Workload-Latenz bilden die oberen Werte den Performance-Schwellenwert. Wenn der tatsächliche Wert den Performance-Schwellenwert überschreitet, löst Unified Manager ein dynamisches Performance-Ereignis aus. 
 ---
-= Der erwartete Leistungsbereich
+= Informationen dazu, wie Active IQ Unified Manager den erwarteten Leistungsbereich berechnet
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: analyze, events, system-defined, performance, thresholds 
 summary: Ereignisse, die aus systemdefinierten Performance-Schwellenwerten generiert werden, geben an, dass ein Performance-Zähler oder eine Gruppe von Performance-Zählern für ein bestimmtes Storage-Objekt den Schwellenwert aus einer systemdefinierten Richtlinie überschritten hat. Dies bedeutet, dass es beim Storage-Objekt, z. B. in einem Aggregat oder Node, zu einem Performance-Problem kommt. 
 ---
-= Analysieren Sie Ereignisse anhand systemdefinierter Leistungsschwellenwerte
+= Analyse von Ereignissen aus systemdefinierten Leistungsschwellenwerten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

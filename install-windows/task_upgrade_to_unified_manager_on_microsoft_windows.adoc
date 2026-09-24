@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: upgrade, unified manager 
 summary: Sie können ein Upgrade von Unified Manager durchführen, indem Sie die Installationsdatei auf der Windows-Plattform herunterladen und ausführen. 
 ---
-= Upgrade Von Unified Manager
+= Aktualisierung von Active IQ Unified Manager unter Windows
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

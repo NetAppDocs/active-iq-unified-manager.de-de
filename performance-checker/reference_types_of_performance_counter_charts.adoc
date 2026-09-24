@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: types, performance, counter, charts 
 summary: Es gibt Standard-Performance-Diagramme, in denen die Zählerwerte für das ausgewählte Speicherobjekt angezeigt werden. In jedem der Counter-Diagramme werden die Gesamtwerte angezeigt, die in Lese-, Schreib- und andere Kategorien unterteilt sind. Darüber hinaus zeigen einige Counter-Diagramme zusätzliche Details an, wenn das Diagramm in der Zoom-Ansicht angezeigt wird. 
 ---
-= Arten von Performance-Zählerdiagrammen
+= Informationen zu den verschiedenen Typen von Leistungsindikator-Diagrammen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

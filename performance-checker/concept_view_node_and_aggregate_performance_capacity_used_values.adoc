@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, node, aggregate, performance, capacity, used, values 
 summary: Sie können die verwendeten Werte für die Performance-Kapazität für alle Nodes oder für alle Aggregate in einem Cluster überwachen oder Details für einen einzelnen Node oder Aggregat anzeigen. 
 ---
-= Anzeigen der verwendeten Knoten- und aggregierten Leistungskapazitätswerte
+= Verwendete Werte der Leistungsfähigkeit von Nodes und Aggregaten in Active IQ Unified Manager anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

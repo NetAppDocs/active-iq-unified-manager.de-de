@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: storage, qos, control, workload, throughput 
 summary: 'Sie können eine Richtliniengruppe für Quality of Service (QoS) erstellen, um das I/O-Limit (IOPS) oder das Durchsatzlimit (MB/s) für die in ihm enthaltenen Workloads zu steuern. Wenn sich die Workloads in einer Richtliniengruppe ohne festgelegte Grenzwerte befinden, wie z. B. in der Standardrichtlinie, oder das festgelegte Limit Ihren Anforderungen nicht entspricht, können Sie die Obergrenze erhöhen oder die Workloads in eine neue oder vorhandene Richtliniengruppe verschieben, die das gewünschte Limit hat.' 
 ---
-= Kontrolle des Workload-Durchsatzes durch Storage-QoS
+= Steuerung des Workload-Durchsatzes mit Storage QoS in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

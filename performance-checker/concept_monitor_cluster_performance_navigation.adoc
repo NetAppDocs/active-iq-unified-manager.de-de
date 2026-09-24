@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: monitor, cluster, performance, navigation 
 summary: Sie können die Performance aller von Unified Manager gemanagten Cluster überwachen. Das Monitoring der Cluster bietet einen Überblick über die Cluster- und Objekt-Performance und umfasst das Performance-Ereignis-Monitoring. Sie können sich grundlegende Performance- und Ereignisse anzeigen lassen oder Details zu Cluster- und Objekt-Performance- und Performance-Ereignissen sowie deren Objekt-Performance genauer untersuchen. 
 ---
-= Monitoring der Navigation zur Cluster-Performance
+= Navigation zur Überwachung der Cluster-Performance in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

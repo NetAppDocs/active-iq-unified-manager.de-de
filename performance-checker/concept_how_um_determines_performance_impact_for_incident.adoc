@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, determines, performance, impact, event 
 summary: 'Unified Manager verwendet für einen Workload die Abweichung von Aktivität, Auslastung, Schreibdurchsatz, Auslastung der Clusterkomponente oder der I/O-Latenz (Reaktionszeit), um den Einfluss auf die Workload-Performance zu ermitteln. Anhand dieser Informationen wird festgelegt, welche Rolle der jeweilige Workload im Ereignis spielt und wie sie auf der Seite „Ereignisdetails“ aufgelistet werden.' 
 ---
-= Wie Unified Manager die Auswirkungen auf die Performance eines Ereignisses ermittelt
+= Es wird erläutert, wie Active IQ Unified Manager die Leistungsauswirkungen eines Ereignisses ermittelt.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

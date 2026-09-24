@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: overview, deployment, process 
 summary: Der Bereitstellungs-Workflow beschreibt die Aufgaben, die Sie ausführen müssen, bevor Sie Unified Manager verwenden können. 
 ---
-= Überblick über den Implementierungsprozess
+= Informationen zum Active IQ Unified Manager Bereitstellungsprozess
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

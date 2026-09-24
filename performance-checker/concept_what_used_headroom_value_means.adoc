@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, capacity, value, means 
 summary: Der von Performance genutzte Wert hilft Ihnen dabei, die Nodes und Aggregate zu identifizieren, die derzeit zu stark ausgelastet sind oder nicht ausgelastet sind. Auf diese Weise können Sie Workloads neu verteilen, um die Effizienz der Storage-Ressourcen zu steigern. 
 ---
-= Was der Wert der verwendeten Performance-Kapazität bedeutet
+= Verwendung des Werts für die genutzte Performance-Kapazität in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

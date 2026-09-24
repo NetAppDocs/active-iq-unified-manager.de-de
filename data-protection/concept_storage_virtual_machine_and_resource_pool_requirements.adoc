@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: svm, resource pool requirements, support, storage services 
 summary: 'Die Konformität in Partnerapplikationen kann besser gewährleistet werden, wenn einige für Storage-Services spezifische SVM-Zuordnungs- und Ressourcen-Pool-Anforderungen eingehalten werden: Wenn Sie beispielsweise SVM zuweisen und in Unified Manager Ressourcen-Pools erstellen, um eine Sicherungstopologie in einem Storage-Service zu unterstützen, der von einer Partner-Applikation bereitgestellt wird.' 
 ---
-= Anforderungen an SVM und Ressourcen-Pool zur Unterstützung von Storage-Services
+= Anforderungen an SVMs und Ressourcenpools zur Unterstützung von Speicherdiensten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

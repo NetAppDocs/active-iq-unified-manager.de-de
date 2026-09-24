@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: check, client, network, issues 
 summary: Wenn Clients, die mit Volumes in einem Cluster verbunden sind, ihre I/O-Anforderungen erhöhen, muss das Cluster schwieriger arbeiten, die Anforderungen zu erfüllen. Der erhöhte Bedarf an dem Cluster kann eine Komponente in Konflikt stellen, die Latenz von Workloads erhöhen, die es verwenden, und ein Ereignis in Unified Manager auslösen. 
 ---
-= Prüfen Sie auf Client- oder Netzwerkprobleme
+= Wie sich Client- oder Netzwerkprobleme auf die Leistung in Active IQ Unified Manager auswirken
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

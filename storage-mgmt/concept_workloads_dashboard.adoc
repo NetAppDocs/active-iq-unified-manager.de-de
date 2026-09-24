@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: workloads, overview, data center, sections 
 summary: 'Ein Workload repräsentiert die I/O-Vorgänge (Input/Output, I/O) eines Storage-Objekts, z. B. eines Volumes oder einer LUN. Die Art der Storage-Bereitstellung basiert auf den erwarteten Workload-Anforderungen. Workload-Statistiken werden von Active IQ Unified Manager nur nachverfolgt, nachdem der Datenverkehr zum und vom Storage-Objekt erfolgt ist. Beispielsweise sind die IOPS-Werte und die Latenzwerte von Workloads verfügbar, nachdem Benutzer eine Datenbank oder E-Mail-Applikation verwenden.' 
 ---
-= Workload-Überblick
+= Informationen zum Workloads-Dashboard in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

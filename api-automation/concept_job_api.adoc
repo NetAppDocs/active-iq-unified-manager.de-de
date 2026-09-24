@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: jobs, view 
 summary: Sie können die Jobs-API in der Kategorie Management-Server verwenden, um die Ausführungsdetails von asynchronen Vorgängen anzuzeigen. 
 ---
-= Anzeigen von Jobs und Systemdetails
+= Aufträge und Systemdetails können über APIs in Active IQ Unified Manager angezeigt werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

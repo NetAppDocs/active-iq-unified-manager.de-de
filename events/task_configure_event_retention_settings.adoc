@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, event, retention, settings 
 summary: Sie können die Anzahl der Monate angeben, die ein Ereignis im Unified Manager-Server beibehalten wird, bevor es automatisch gelöscht wird. 
 ---
-= Konfigurieren der Ereignisaufbewahrungseinstellungen
+= Konfiguration der Einstellungen zur Ereignisaufbewahrung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

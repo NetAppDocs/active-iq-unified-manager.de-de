@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, snapvault, policy, dialog box 
 summary: Im Dialogfeld SnapVault-Richtlinie erstellen können Sie eine Richtlinie erstellen, in der Sie die Priorität für SnapVault-Transfers festlegen können. Sie verwenden Richtlinien, um die Effizienz der Übertragungen vom primären zum sekundären Volume zu maximieren. 
 ---
-= Dialogfeld SnapVault-Richtlinie erstellen
+= Das Dialogfeld „Richtlinie erstellen“ für SnapVault in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

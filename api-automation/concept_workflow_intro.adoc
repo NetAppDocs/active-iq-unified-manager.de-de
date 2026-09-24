@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: common, workflows, storage, management 
 summary: Die üblichen Workflows bieten Entwicklern von Client-Applikationen Beispiele dafür, wie Active IQ Unified Manager APIs von einer Client-Applikation aufgerufen werden können, um allgemeine Storage-Managementfunktionen auszuführen. Dieser Abschnitt enthält einige Beispiele-Workflows. 
 ---
-= Gängige API-Workflows für das Storage-Management
+= Informationen zu gängigen API-Workflows für die Speicherverwaltung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

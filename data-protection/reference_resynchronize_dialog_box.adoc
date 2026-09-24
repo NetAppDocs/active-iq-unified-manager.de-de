@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: resynchronize, dialog box 
 summary: Das Dialogfeld „Resynchronisieren“ ermöglicht Ihnen die erneuten Synchronisierung von Daten auf einer SnapMirror oder SnapVault-Beziehung, die zuvor beschädigt war, und danach wurde das Ziel zu einem Datenträger mit Lese-/Schreibzugriff hergestellt. Sie können auch neu synchronisieren, wenn eine erforderliche gemeinsame Snapshot Kopie auf dem Quell-Volume gelöscht wird, sodass SnapMirror oder SnapVault Updates fehlschlagen. 
 ---
-= Dialogfeld erneut synchronisieren
+= Im Active IQ Unified Manager steht das Dialogfeld „Resynchronisieren“ zur Verfügung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

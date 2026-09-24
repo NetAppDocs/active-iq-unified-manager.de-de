@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: install, unified manager 
 summary: Sie können Unified Manager auf einer physischen oder virtuellen Red hat Enterprise Linux Plattform installieren. 
 ---
-= Installation Von Unified Manager
+= Installieren von Active IQ Unified Manager auf Red Hat Enterprise Linux
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

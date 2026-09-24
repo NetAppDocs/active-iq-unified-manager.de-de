@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: volume, health details page 
 summary: Auf der Seite Volume/Health Details können Sie ausführliche Informationen zu einem ausgewählten Volume anzeigen, z. B. Kapazität, Storage-Effizienz, Konfiguration, Sicherung, Kommentare und erzeugte Ereignisse. Sie können auch Informationen zu verwandten Objekten und zugehörigen Warnmeldungen für dieses Volume anzeigen. 
 ---
-= Seite „Volume/Health Details“
+= Die Seite mit den Volume / Health-Details in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

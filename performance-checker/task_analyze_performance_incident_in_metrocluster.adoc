@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: analyzing, dynamic, performance, event, remote, cluster, metrocluster, configuration 
 summary: Mit Unified Manager können Sie dynamische Performance-Ereignisse auf einem Remote-Cluster in einer MetroCluster-Konfiguration analysieren. Mit der Analyse können Sie ermitteln, ob ein Ereignis im Remote-Cluster ein Ereignis auf seinem Partner-Cluster verursacht hat. 
 ---
-= Analysieren Sie ein dynamisches Leistungsereignis für einen Remote-Cluster in einer MetroCluster-Konfiguration
+= Analyse eines MetroCluster Leistungsereignisses auf einem Remote Cluster in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: relationships page, monitor, storage, vm 
 summary: Sie können Ihre Disaster-Recovery-Beziehungen für Storage-VMs von der Seite „Beziehungen“ im ABSCHNITT „SCHUTZ“ des BESTANDS aus überwachen. Standardmäßig werden auf der Seite „Beziehungen“ nur die Beziehungen auf der obersten Ebene aufgeführt, wenn der Filter „Bestandbeziehungen“ angewendet wird. 
 ---
-= Überwachen von Speicher-VMs mithilfe der Seite „Beziehungen“
+= Die Überwachung von Storage VMs erfolgt über die Seite „Beziehungen“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

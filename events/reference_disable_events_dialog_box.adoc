@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: disable, events, dialog box, properties, area, command buttons 
 summary: Im Dialogfeld Ereignisse deaktivieren wird die Liste der Ereignistypen angezeigt, für die Sie Ereignisse deaktivieren können. Sie können Ereignisse für einen Ereignistyp auf der Grundlage eines bestimmten Schweregrads oder für eine Reihe von Ereignissen deaktivieren. 
 ---
-= Dialogfeld „Ereignisse deaktivieren“
+= Das Dialogfeld „Ereignisse“ in Active IQ Unified Manager wird deaktiviert
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

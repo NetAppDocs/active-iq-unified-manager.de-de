@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: group rules, work, groups 
 summary: 'Eine Gruppenregel ist ein Kriterium, das definiert wird, ob Storage-Objekte (Volumes, Cluster oder SVMs) in eine bestimmte Gruppe aufgenommen werden können. Sie können Bedingungsgruppen oder Bedingungen für das Definieren einer Gruppenregel für eine Gruppe verwenden.' 
 ---
-= Funktionsweise von Gruppenregeln für Gruppen
+= Grundlegendes zur Funktionsweise von Gruppenregeln für Gruppen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

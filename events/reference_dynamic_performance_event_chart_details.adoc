@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: dynamic, performance, event, chart, details 
 summary: Bei dynamischen Performance-Ereignissen werden auf der Seite „Ereignisdetails“ im Abschnitt „Systemdiagnose“ die wichtigsten Workloads mit der höchsten Latenz oder der höchsten Auslastung der Clusterkomponente angezeigt, die nicht besonders geeignet ist. Die Performance-Statistiken basieren auf dem Zeitpunkt, zu dem das Performance-Ereignis bis zum letzten Mal erkannt wurde, als das Ereignis analysiert wurde. In den Diagrammen werden außerdem Verlaufsstatistiken zur Performance für die Cluster-Komponente angezeigt, die mit Konflikten in Konflikt sind. 
 ---
-= Details des dynamischen Performance-Ereignidiagramms
+= Informationen zu dynamischen Leistungsereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, group, volume, relationships, issue 
 summary: Sie können einen Bericht erstellen, der Volume-Beziehungen nach Problem gruppiert. 
 ---
-= Erstellen Sie einen Bericht, um Volumenbeziehungen nach Problem zu gruppieren
+= Erstellung eines Berichts zum Gruppieren von Volume-Beziehungen nach Problem in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

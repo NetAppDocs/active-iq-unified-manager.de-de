@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: logs, troubleshooting 
 summary: Mithilfe von Systemprotokollen können Sie die Ursachen eines Ausfalls und die Behebung von Problemen analysieren, die bei der Ausführung der APIs auftreten können. 
 ---
-= Protokolle für die Fehlerbehebung
+= Fehlerbehebung mithilfe von Systemprotokollen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

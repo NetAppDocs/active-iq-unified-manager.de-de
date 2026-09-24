@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: restore, dialog box 
 summary: Im Dialogfeld Wiederherstellen können Sie Daten aus einer bestimmten Snapshot Kopie in einem Volume wiederherstellen. 
 ---
-= Dialogfeld „Wiederherstellen“
+= Das Dialogfeld „Wiederherstellen“ in Active IQ Unified Manager wird verwendet
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

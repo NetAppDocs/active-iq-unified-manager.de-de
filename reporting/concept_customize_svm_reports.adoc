@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: customize, storage, vm reports 
 summary: Sie können Storage-VM-Berichte erstellen, um Volume-Informationen zu analysieren und den Gesamtzustand und die Storage-Verfügbarkeit anzuzeigen. Sie können beispielsweise Berichte erstellen, um SVMs die maximale Volume-Anzahl zu erreichen und beendete SVMs zu analysieren. 
 ---
-= Anpassen von Speicher-VM-Berichten
+= Anpassen von Berichten zu Speicher-VMs in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

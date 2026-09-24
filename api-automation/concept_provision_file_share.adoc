@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: provision, cifs, nfs, file, shares 
 summary: 'Sie können CIFS-Freigaben und NFS-Dateifreigaben auf Ihren Storage Virtual Machines (SVMs) mithilfe der BereitstellungsAPIs, die als Teil von Active IQ Unified Manager bereitgestellt werden, bereitstellen. Dieser Bereitstellungs-Workflow zeigt die Schritte zum Abrufen der Schlüssel der SVMs, Performance Service Levels und Storage-Effizienz-Richtlinien, bevor die Dateifreigaben erstellt werden.' 
 ---
-= Bereitstellen von CIFS- und NFS-Dateifreigaben mithilfe von APIs
+= Bereitstellung von CIFS- und NFS-Dateifreigaben mithilfe von Active IQ Unified Manager APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

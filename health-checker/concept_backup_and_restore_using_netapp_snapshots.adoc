@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: snapshot copy, copies, restore, using, netapp, snapshots 
 summary: Eine NetApp Snapshot Kopie erstellt ein zeitpunktgenaues Image der Unified Manager Datenbank- und Konfigurationsdateien, mit denen eine Wiederherstellung im Falle eines Systemausfalls oder eines Datenverlusts möglich ist. Sie planen, eine Snapshot-Kopie regelmäßig auf ein Volume auf einem Ihrer ONTAP Cluster zu schreiben, sodass Sie immer eine aktuelle Kopie haben. 
 ---
-= Backup und Restore mit NetApp Snapshots
+= Sicherung und Wiederherstellung mithilfe von NetApp Snapshots in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

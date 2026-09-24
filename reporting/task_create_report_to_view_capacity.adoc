@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, show, aggregate, capacity, table, chart 
 summary: Sie können einen Bericht erstellen, um die Kapazität in einer Excel-Datei zu analysieren, indem Sie die summierten Summen und das Format der Cluster-Spaltendiagramme verwenden. 
 ---
-= Erstellen Sie einen Bericht, um eine Tabelle und ein Diagramm zur Gesamtkapazität anzuzeigen
+= Es kann ein Bericht erstellt werden, der eine Tabelle und ein Diagramm der aggregierten Kapazität in Active IQ Unified Manager anzeigt.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

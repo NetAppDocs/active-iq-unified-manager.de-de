@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: edit, alerts 
 summary: Sie können Eigenschaften von Warnmeldungen bearbeiten, z. B. die Ressource, mit der die Warnmeldung verknüpft ist, Ereignisse, Empfänger, Benachrichtigungsoptionen, Benachrichtigungshäufigkeit, Und zugehörigen Skripts. 
 ---
-= Benachrichtigungen bearbeiten
+= Benachrichtigungen in Active IQ Unified Manager bearbeiten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

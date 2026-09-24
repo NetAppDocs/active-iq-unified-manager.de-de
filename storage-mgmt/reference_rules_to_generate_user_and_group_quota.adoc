@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: rules, generate, user, group, quota, email, address, page, area, define, add comments, syntax, command buttons 
 summary: Auf der Seite „Regeln zum Generieren von E-Mail-Adressen für Benutzer- und Gruppenkontingente“ können Sie Regeln erstellen, um E-Mail-Adressen basierend auf dem Benutzerkontingent festzulegen, das mit Clustern, SVMs, Volumes, qtrees, Benutzern, Oder Benutzergruppen. Bei Überschreitung einer Quote wird eine Benachrichtigung an die angegebene E-Mail-Adresse gesendet. 
 ---
-= Regeln zum Erstellen der E-Mail-Adresse für Benutzer- und Gruppenkontingente
+= Informationen zu den Regeln für Kontingent-E-Mail-Adressen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

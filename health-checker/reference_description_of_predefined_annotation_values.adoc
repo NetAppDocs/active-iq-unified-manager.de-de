@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: description, predefined, annotation values 
 summary: Die Datenpriorität ist eine vordefinierte Annotation mit den Werten „Mission Critical“, „High“ und „Low“. Mit diesen Werten können Sie Storage-Objekte anhand der Priorität der enthaltenen Daten annotieren. Sie können die vordefinierten Anmerkungswerte nicht bearbeiten oder löschen. 
 ---
-= Beschreibung der vordefinierten Anmerkungswerte
+= Vordefinierte Annotationswerte in Active IQ Unified Manager verstehen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

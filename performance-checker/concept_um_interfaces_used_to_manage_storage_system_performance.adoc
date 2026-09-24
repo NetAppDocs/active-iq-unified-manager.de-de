@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, interfaces, used, manage, storage, system, performance, web ui, maintenance, console 
 summary: 'Active IQ Unified Manager bietet zwei Benutzeroberflächen für das Monitoring und Troubleshooting von Storage-Performance-Problemen: Die Web-Benutzeroberfläche und die Wartungskonsole.' 
 ---
-= Unified Manager-Schnittstellen zum Management der Storage-Systemperformance
+= Mit Active IQ Unified Manager Schnittstellen lässt sich die Leistung des Speichersystems verwalten.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

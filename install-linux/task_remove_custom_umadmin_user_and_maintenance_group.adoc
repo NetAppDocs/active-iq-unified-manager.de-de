@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: remove, custom, umadmin, user, maintenance group 
 summary: Wenn Sie vor der Installation von Unified Manager ein benutzerdefiniertes Home-Verzeichnis erstellt haben, um Ihr eigenes umadmin-Benutzer- und Wartungskonto zu definieren, sollten Sie diese Elemente nach der Deinstallation von Unified Manager entfernen. 
 ---
-= Entfernen Sie den benutzerdefinierten Umadmin-Benutzer und die Wartungsgruppe
+= Der benutzerdefinierte Benutzer „umadmin“ und die Wartungsgruppe für Active IQ Unified Manager werden entfernt
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

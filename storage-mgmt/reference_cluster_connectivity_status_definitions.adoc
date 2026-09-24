@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: cluster, connectivity, status, definitions 
 summary: 'Die Konnektivität zwischen den Clustern in einer MetroCluster-Konfiguration kann einen der folgenden Status aufweisen: Optimal, beeinträchtigt oder ausgefallen. Wenn Sie über den Konnektivitätsstatus verfügen, können Sie Ihre MetroCluster Konfigurationen effizient managen.' 
 ---
-= Cluster-Konnektivitätsstatus-Definitionen für MetroCluster über FC-Konfiguration
+= Grundlegendes zur Cluster-Konnektivität in einer MetroCluster FC Konfiguration in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

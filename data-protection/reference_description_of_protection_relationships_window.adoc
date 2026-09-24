@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: description, protect, relationships, windows, dialog boxes 
 summary: Sie können Sicherungsdetails wie Ressourcen-Pools, SVM-Zuordnungen und Sicherungsjobs anzeigen und managen. Über die entsprechende Seite „Health Schwellen“ können Sie globale Grenzwerte für den Systemzustand für Aggregate, Volumes und Beziehungen konfigurieren. 
 ---
-= Beschreibung der Fenster und Dialogfelder zu Sicherungsbeziehungen
+= Verwalten der Schutzdetails in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: search, storage, objects 
 summary: Um schnell auf ein bestimmtes Objekt zuzugreifen, können Sie das Feld Alle Speicherobjekte durchsuchen oben in der Menüleiste verwenden. Mit dieser Methode der globalen Suche über alle Objekte können Sie schnell bestimmte Objekte nach Typ finden. Die Suchergebnisse sind nach Speicherobjekttyp sortiert und Sie können sie über das Dropdown-Menü nach Objekt weiter filtern. 
 ---
-= Suche nach Speicherobjekten
+= Suche nach Speicherobjekten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

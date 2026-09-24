@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: graphical, interface, navigational, paths 
 summary: Unified Manager bietet große Flexibilität und ermöglicht die Ausführung mehrerer Aufgaben auf verschiedene Weise. Bei der Arbeit in Unified Manager gibt es viele Navigationspfade, die Sie entdecken werden. Obwohl nicht alle möglichen Kombinationen von Navigationen angezeigt werden können, sollten Sie mit ein paar der häufigsten Szenarien vertraut sein. 
 ---
-= Grafische Oberfläche und Navigationspfade
+= Die grafische Benutzeroberfläche und die Navigationspfade in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: scheduling, reports 
 summary: Nachdem Sie eine Ansicht haben, die Sie wiederverwenden und als Bericht freigeben möchten, können Sie sie mithilfe von Active IQ Unified Manager planen. Sie können geplante Berichte verwalten und die Empfänger und die Verteilfrequenz für jeden Berichtsplan ändern. 
 ---
-= Planen von Berichten
+= Planen von Berichten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

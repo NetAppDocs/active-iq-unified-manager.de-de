@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: release notes, active iq unified manager 
 summary: Bietet eine Zusammenfassung der neuen Funktionen, Einschränkungen und bekannten Probleme für Active IQ Unified Manager 9.18. 
 ---
-= Versionshinweise
+= Versionshinweise für Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ./media/

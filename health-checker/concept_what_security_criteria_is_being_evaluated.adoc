@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: security criteria, evaluated 
 summary: 'Im Allgemeinen werden die Sicherheitskriterien für Ihre ONTAP Cluster, Storage Virtual Machines (SVMs) und Volumes im Vergleich zu den im NetApp Leitfaden für verstärkte Sicherheit für ONTAP 9 definierten Empfehlungen evaluiert.' 
 ---
-= Welche Sicherheitskriterien werden bewertet
+= Informationen dazu, wie Active IQ Unified Manager Sicherheitskriterien auswertet
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

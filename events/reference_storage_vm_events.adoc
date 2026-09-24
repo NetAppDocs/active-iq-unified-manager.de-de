@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: storage, vm events, impact area, availability, configuration, performance, security 
 summary: 'Storage-VM-Ereignisse liefern Ihnen Informationen zum Status Ihrer Storage VMs (SVMs), sodass Sie potenzielle Probleme überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad.' 
 ---
-= Ereignisse von Storage-VM
+= Informationen zu Storage VM Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

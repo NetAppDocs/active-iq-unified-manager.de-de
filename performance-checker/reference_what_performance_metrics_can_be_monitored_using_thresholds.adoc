@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, counters, tracked, thresholds 
 summary: Einige allgemeine Performance-Zähler wie IOPS und MB/s können Schwellenwerte für alle Storage-Objekte festlegen. Es gibt andere Zähler, deren Schwellenwerte nur für bestimmte Speicherobjekte festgelegt werden können. 
 ---
-= Welche Performance-Zähler können mithilfe von Schwellenwerten verfolgt werden
+= Leistungsindikatoren verstehen, die mithilfe von Schwellenwerten in Active IQ Unified Manager verfolgt werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: specify, time range, correlated objects 
 summary: Mit der Auswahl für den Zeitbereich auf der Seite Performance Explorer können Sie den Zeitbereich für den Vergleich von Objektdaten festlegen. Wenn Sie einen Zeitbereich angeben, wird der Inhalt der Seiten des Performance Explorers verfeinert, um nur die Objektdaten innerhalb des von Ihnen angegebenen Zeitbereichs anzuzeigen. 
 ---
-= Festlegen eines Zeitbereichs für korrelierte Objekte
+= Ein Zeitbereich für korrelierte Objekte in Active IQ Unified Manager wird angegeben
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: port, events, impact area, availability, performance 
 summary: Port-Ereignisse bieten Ihnen den Status zu Cluster-Ports, sodass Sie Änderungen oder Probleme am Port überwachen können, z. B. ob der Port ausgefallen ist. 
 ---
-= Port-Ereignisse
+= Informationen zu Portereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

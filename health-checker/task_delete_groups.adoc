@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, groups 
 summary: Sie können eine Gruppe aus Unified Manager löschen, wenn die Gruppe nicht mehr benötigt wird. 
 ---
-= Gruppen löschen
+= Gruppen in Active IQ Unified Manager löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

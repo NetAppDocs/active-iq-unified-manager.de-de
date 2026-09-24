@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: scripts, work, alerts 
 summary: Sie können eine Warnung mit Ihrem Skript verknüpfen, damit das Skript ausgeführt wird, wenn eine Warnung für ein Ereignis in Unified Manager ausgegeben wird. Sie können die Skripte verwenden, um Probleme mit Speicherobjekten zu lösen oder zu identifizieren, welche Speicherobjekte die Ereignisse generieren. 
 ---
-= Funktionsweise von Skripten mit Warnmeldungen
+= Informationen zur Funktionsweise von Skripten mit Warnmeldungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

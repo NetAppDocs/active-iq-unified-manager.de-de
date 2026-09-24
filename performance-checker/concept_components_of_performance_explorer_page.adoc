@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: components, performance, explorer, page 
 summary: Auf der Seite „Performance Explorer“ können Sie die Performance ähnlicher Objekte in einem Cluster vergleichen, z. B. aller Volumes in einem Cluster. Dies ist von Vorteil bei der Fehlerbehebung von Performance-Ereignissen und bei der Feinabstimmung der Objekt-Performance. Sie können auch Objekte mit dem Root-Objekt vergleichen, dem Basisobjekt, mit dem andere Objektvergleiche erstellt werden. 
 ---
-= Komponenten der Seite Performance Explorer
+= Die Seite „Performance Explorer“ in Active IQ Unified Manager kann überprüft werden.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

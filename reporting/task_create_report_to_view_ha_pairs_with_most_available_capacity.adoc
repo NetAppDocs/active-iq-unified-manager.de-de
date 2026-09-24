@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, HA pairs, available, capacity 
 summary: 'Sie können einen Bericht erstellen, um zu ermitteln, welche Hochverfügbarkeitspaare (HA) mit der größten Kapazität zur Bereitstellung neuer Volumes und LUNs bestehen.' 
 ---
-= Erstellen Sie einen Bericht, um HA-Paare mit der größten verfügbaren Kapazität anzuzeigen
+= Erstellen eines Berichts zum Anzeigen von HA-Paaren mit der höchsten verfügbaren Kapazität in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

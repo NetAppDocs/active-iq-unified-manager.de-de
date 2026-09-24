@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: install, upgrade, remove, unified manager software 
 summary: Unter Linux-Systemen können Sie Unified Manager installieren, auf eine neuere Softwareversion aktualisieren oder Unified Manager entfernen. 
 ---
-= Installieren, Aktualisieren und Entfernen der Unified Manager-Software
+= Installation, Aktualisierung und Deinstallation der Active IQ Unified Manager Software
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

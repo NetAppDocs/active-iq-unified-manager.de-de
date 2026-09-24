@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: typical, window, layouts, object, list, details 
 summary: 'Das Verständnis der typischen Fensterlayouts hilft Ihnen, Active IQ Unified Manager effektiv zu nutzen und zu navigieren. Die meisten Unified Manager-Fenster ähneln einem von zwei allgemeinen Layouts: Objektliste oder Details. Die empfohlene Bildschirmeinstellung beträgt mindestens 1280 x 1024 Pixel.' 
 ---
-= Typische Fensterlayouts
+= Typische Fensterlayouts in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: managed, objects, pane 
 summary: Der Fensterbereich verwaltete Objekte auf der Registerkarte Performance-Übersicht bietet eine Übersicht über die Speicherobjekttypen und -Zählungen für das Cluster. In diesem Teilfenster können Sie den Status der Objekte in jedem Cluster verfolgen. 
 ---
-= Bereich „Managed Objects“
+= Prüfen des Bereichs „Verwaltete Objekte“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

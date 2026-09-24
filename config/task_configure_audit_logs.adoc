@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, audit logs 
 summary: Mit der Schaltfläche Konfigurieren im Bereich „Audit Logs“ können Sie die rollende Richtlinie für Audit-Log-Dateien konfigurieren und die Remote-Protokollierung für die Audit-Protokolle aktivieren. 
 ---
-= Konfigurieren der Unified Manager-Überwachungsprotokolle
+= Konfiguration der Audit-Protokolle von Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

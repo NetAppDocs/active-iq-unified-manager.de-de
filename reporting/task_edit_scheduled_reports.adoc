@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: editing, schedule, reports 
 summary: Nach der Planung von Berichten können Sie diese auf der Seite „Berichtszeitpläne“ bearbeiten. 
 ---
-= Geplante Berichte bearbeiten
+= Geplante Berichte in Active IQ Unified Manager bearbeiten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

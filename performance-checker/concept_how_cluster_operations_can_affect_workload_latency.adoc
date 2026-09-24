@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: cluster, operations, affect, workload, latency 
 summary: 'Operationen (IOPS) stellen die Aktivität aller benutzerdefinierten und systemdefinierten Workloads auf einem Cluster dar. Die IOPS-Statistiken helfen Ihnen bei der Bestimmung, ob Cluster-Prozesse, z. B. Backups oder Deduplizierungsvorgänge, Auswirkungen auf die Workload-Latenz (Reaktionszeit) haben oder ein Performance-Ereignis verursacht haben oder dazu beigetragen haben.' 
 ---
-= Einfluss von Cluster-Vorgängen auf die Workload-Latenz
+= Bewertung, wie sich Clusteroperationen auf die Workload-Latenz in Active IQ Unified Manager auswirken können
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

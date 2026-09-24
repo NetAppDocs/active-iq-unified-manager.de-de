@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: types, reports 
 summary: Diese Tabelle enthält eine umfassende Liste der Ansichten und Inventarseiten, die als Berichte zur Verfügung stehen, die Sie anpassen, herunterladen und planen können. 
 ---
-= Berichtstypen
+= Informationen zu den verschiedenen Berichtstypen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

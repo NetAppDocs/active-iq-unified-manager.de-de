@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, storage VMs, volume, limit 
 summary: Sie können einen Bericht erstellen, um SVMs zu finden, die die maximale Volume-Obergrenze erreichen. 
 ---
-= Erstellen Sie einen Bericht, um Speicher-VMs anzuzeigen, die das maximale Volumenlimit erreichen
+= Erstellen eines Berichts zur Anzeige von Speicher-VMs, die in Active IQ Unified Manager die maximale Volume-Grenze erreichen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

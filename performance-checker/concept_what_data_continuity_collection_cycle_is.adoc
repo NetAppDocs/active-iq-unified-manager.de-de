@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: data, continuity, collection, cycle 
 summary: Durch einen Datenkontinuitätszyklus werden Performancedaten außerhalb des Echtzeit-Zyklus der Cluster-Performance-Erfassung abgerufen, der standardmäßig alle fünf Minuten ausgeführt wird. Datenkontinuitätssammlungen ermöglichen es Unified Manager, Lücken statistischer Daten zu schließen, die auftreten, wenn sie keine Echtzeitdaten erfassen konnten. 
 ---
-= Was ist ein Data-Continuity-Erfassungszyklus
+= Informationen zu Datenerfassungszyklen für die Datenkontinuität in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

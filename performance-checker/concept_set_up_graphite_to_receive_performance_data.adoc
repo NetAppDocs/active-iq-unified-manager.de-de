@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: setting, graphite, receive, performance, data, unified manager 
 summary: Graphit ist ein offenes Software-Tool zum Erfassen und Darstellen von Performancedaten aus Computersystemen. Ihr Graphite-Server und Ihre Software müssen richtig konfiguriert sein, um statistische Daten von Unified Manager zu erhalten. 
 ---
-= Richten Sie Graphite ein, um Leistungsdaten vom Unified Manager zu erhalten
+= Graphite so konfigurieren, dass Leistungsdaten von Active IQ Unified Manager empfangen werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

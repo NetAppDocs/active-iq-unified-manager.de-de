@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: disable, saml authentication, maintenance, console 
 summary: Wenn kein Zugriff auf die Unified Manager GUI besteht, müssen Sie möglicherweise die SAML-Authentifizierung von der Wartungskonsole aus deaktivieren. Dies kann bei einer Fehlkonfiguration oder bei nicht zugänglichem IdP auftreten. 
 ---
-= Deaktivieren der SAML-Authentifizierung über die Wartungskonsole
+= Die SAML Authentifizierung wird über die Active IQ Unified Manager Wartungskonsole deaktiviert.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

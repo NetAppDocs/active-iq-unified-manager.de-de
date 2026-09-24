@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: sample, custom, reports 
 summary: Benutzerdefinierte Beispielberichte werden üblicherweise verwendet, um Ihnen dabei zu helfen, potenzielle Probleme zu identifizieren und auf potenzielle Probleme zu reagieren, bevor sie auftreten. 
 ---
-= Beispiel für benutzerdefinierte Berichte
+= Informationen zu beispielhaften benutzerdefinierten Berichten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unknown, authentication, error 
 summary: 'Fehlerbehebung: Unbekannter Authentifizierungsfehler' 
 ---
-= Unbekannter Authentifizierungsfehler
+= Behebung eines unbekannten Authentifizierungsfehlers in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

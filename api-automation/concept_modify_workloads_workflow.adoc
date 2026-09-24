@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: modify, storage, workloads 
 summary: Das Ändern von Storage-Workloads besteht aus der Aktualisierung von LUNs oder File Shares mit fehlenden Parametern oder der Änderung der vorhandenen Parameter. 
 ---
-= Ändern von Speicherworkloads mithilfe von APIs
+= Das Ändern von Speicherworkloads mithilfe von APIs in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

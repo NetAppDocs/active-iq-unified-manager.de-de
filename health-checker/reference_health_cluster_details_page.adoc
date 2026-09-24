@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: cluster, health details page 
 summary: 'Auf der Seite „Cluster/Systemzustand“ finden Sie ausführliche Informationen über ein ausgewähltes Cluster, z. B. Angaben zu Systemzustand, Kapazität und Konfiguration. Sie können auch Informationen zu Netzwerkschnittstellen (LIFs), Nodes, Festplatten, zugehörigen Geräten und zugehörigen Warnmeldungen für das Cluster anzeigen.' 
 ---
-= „Cluster/Systemzustand“-Details
+= Die Seite mit den Cluster- und Integritätsdetails in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

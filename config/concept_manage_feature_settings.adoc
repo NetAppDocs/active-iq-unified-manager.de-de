@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: uploading scripts, api gateway, slo or policy-based storage management, timeout, active iq platform events 
 summary: Auf der Seite „Funktionseinstellungen“ können Sie bestimmte Funktionen in Active IQ Unified Manager aktivieren und deaktivieren. Dazu gehört auch die Erstellung und Verwaltung von Speicherobjekten auf Basis von Richtlinien, Aktivierung des API-Gateways, Hochladen von Skripten zur Verwaltung von Warnmeldungen, das Timing einer Web-UI-Sitzung basierend auf der Inaktivitätszeit und das Deaktivieren des Eingangs von Active IQ-Plattformereignissen. 
 ---
-= Funktionseinstellungen verwalten
+= Informationen zu Funktionseinstellungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

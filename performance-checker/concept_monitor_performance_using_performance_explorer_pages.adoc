@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: monitoring, performance, explorer, pages 
 summary: Auf den Seiten des Performance-Explorers werden ausführliche Informationen über die Performance jedes Objekts in einem Cluster angezeigt. Die Seite bietet eine detaillierte Ansicht der Performance aller Cluster-Objekte, sodass Sie die Performance-Daten bestimmter Objekte über verschiedene Zeiträume auswählen und vergleichen können. 
 ---
-= Überwachen der Leistung mithilfe der Performance Explorer-Seiten
+= Die Überwachung der Leistung erfolgt mithilfe der Performance Explorer Seiten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

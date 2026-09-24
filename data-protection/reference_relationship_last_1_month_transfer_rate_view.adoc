@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: relationship, 1 month, transfer rate, view 
 summary: 'Die Beziehung: Die Ansicht der letzten 1 Monate Transferrate ermöglicht Ihnen, die Menge des Datenvolumen, das täglich für Volumes in asynchronen Beziehungen übertragen wird, zu analysieren. Diese Seite bietet auch Details zu täglichen Transfers und die Zeit, die für den Transfer von Volumes und Storage VMs erforderlich ist.' 
 ---
-= Beziehung: Letzte 1 Monat Transferrate Ansicht
+= Die Ansicht „Übertragungsrate des letzten Monats“ der Beziehung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

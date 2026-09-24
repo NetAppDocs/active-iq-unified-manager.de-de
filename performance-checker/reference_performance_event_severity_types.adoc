@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, event, severity, types 
 summary: Jedes Performance-Ereignis ist mit einem Schweregrad verknüpft, der Ihnen dabei hilft, die Ereignisse zu priorisieren, die unmittelbare Korrekturmaßnahmen erfordern. 
 ---
-= Arten von Schweregrad für Performance-Ereignisse
+= Leistungsereignisse nach Schweregrad in Active IQ Unified Manager priorisieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

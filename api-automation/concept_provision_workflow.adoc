@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: workflow, workload, management 
 summary: 'Mithilfe von Active IQ Unified Manager können Storage-Workloads (LUNs, NFS-Dateifreigaben und CIFS-Freigaben) bereitgestellt und geändert werden. Die Bereitstellung besteht aus mehreren Schritten: Von der Erstellung der Storage Virtual Machine (SVM) bis zur Anwendung von Performance Service Level- und Storage-Effizienz-Richtlinien auf die Storage Workloads. Das Ändern von Workloads besteht aus den Schritten zum Ändern spezifischer Parameter und zum Aktivieren zusätzlicher Funktionen für diese.' 
 ---
-= API-Workflows für das Workload-Management
+= Bereitstellung und Änderung von Speicherworkloads in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

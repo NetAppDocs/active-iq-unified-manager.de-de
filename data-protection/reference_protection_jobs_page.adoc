@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: jobs, page 
 summary: Auf der Seite „Jobs“ können Sie den aktuellen Status und weitere Informationen zu allen aktuell ausgeführten Partneranwendungen sowie zu abgeschlossenen Jobs anzeigen. Anhand dieser Informationen können Sie feststellen, welche Jobs noch ausgeführt werden und ob ein Job erfolgreich oder fehlgeschlagen ist. 
 ---
-= Seite Jobs
+= Informationen zur Jobseite in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

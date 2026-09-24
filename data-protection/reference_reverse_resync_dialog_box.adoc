@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: reverse, resync, dialog box 
 summary: Wenn eine Sicherungsbeziehung besteht, die beschädigt ist, da das Quell-Volume deaktiviert wurde und das Ziel ein Lese-/Schreib-Volume erstellt wird, kann durch die umgekehrte Resynchronisierung die Richtung der Beziehung rückgängig gemacht werden, so dass das Ziel zur neuen Quelle wird und das Quell-Volume zum neuen Ziel wird. 
 ---
-= Dialogfeld „Resync“ umkehren
+= Umgekehrte Resynchronisierung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

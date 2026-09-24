@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: aggregate events, impact, area, availability, capacity, configuration, performance 
 summary: Aggregierte Ereignisse liefern Ihnen Informationen zum Status von Aggregaten, sodass Sie bei potenziellen Problemen überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Aggregieren von Ereignissen
+= Informationen zu Aggregatereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

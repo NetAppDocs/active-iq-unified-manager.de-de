@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, disks, reallocate, data 
 summary: Sie können einem Aggregat Festplatten hinzufügen, um die Storage-Kapazität und Performance dieses Aggregats zu erhöhen. Nach dem Hinzufügen von Festplatten wird die Lese-Performance nur verbessert, wenn die Daten über die hinzugefügten Festplatten verteilt werden. 
 ---
-= Fügen Sie Festplatten hinzu und weisen Sie Daten erneut zu
+= Informationen dazu, wie sich das Hinzufügen von Festplatten auf die Datenneuverteilung in Active IQ Unified Manager auswirkt
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: different, types, qos, policies, display, throughput, charts 
 summary: 'Sie können die von ONTAP definierten Quality of Service-Richtlinieneinstellungen (QoS) anzeigen, die auf ein Volume oder eine LUN angewendet wurden. Sie finden sie im Performance-Explorer und in den Diagrammen für Workload-Analysen, IOPS/TB und MB/s. Die in den Diagrammen angezeigten Informationen unterscheiden sich je nach QoS-Richtlinie, die auf den Workload angewendet wurde.' 
 ---
-= Die Darstellung der verschiedenen QoS-Richtlinien in den Durchsatzdiagrammen
+= QoS-Richtlinien in Durchsatzdiagrammen mit Active IQ Unified Manager anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

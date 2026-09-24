@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: description, event, windows, dialog boxes 
 summary: Ereignisse informieren Sie über Probleme in Ihrer Umgebung. Sie können die Seite „Lagerbestand für das Ereignismanagement“ und die Seite „Ereignisdetails“ verwenden, um alle Ereignisse zu überwachen. Über das Dialogfeld „Benachrichtigungseinstellungen“ können Sie Benachrichtigungen konfigurieren. Mithilfe der Seite Event Setup können Sie Ereignisse deaktivieren bzw. aktivieren. 
 ---
-= Beschreibung der Ereignisfenster und Dialogfelder
+= Informationen zu Ereignisfenstern und Dialogfeldern in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

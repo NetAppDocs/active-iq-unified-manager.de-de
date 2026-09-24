@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, resource, pools 
 summary: Sie können Ressourcenpools löschen, wenn sie nicht mehr benötigt werden. Beispielsweise möchten Sie die Mitgliedslegierung von einem Ressourcenpool auf mehrere andere Ressourcenpools verteilen, sodass der ursprüngliche Ressourcenpool überflüssig wird. 
 ---
-= Ressourcenpools löschen
+= Löschen von Ressourcenpools in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

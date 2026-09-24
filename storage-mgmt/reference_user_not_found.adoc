@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: user, not, found 
 summary: 'Fehlerbehebung: Benutzer nicht gefunden' 
 ---
-= Der Benutzer wurde nicht gefunden
+= Behebung eines Fehlers „Benutzer nicht gefunden“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

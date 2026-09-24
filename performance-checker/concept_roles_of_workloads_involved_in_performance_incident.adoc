@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: roles, workloads, involved, performance, event 
 summary: Unified Manager verwendet Rollen, um die Beteiligung eines Workloads bei einem Performance-Ereignis zu ermitteln. Zu den Rollen gehören Opfer, Bullies und Haie. Ein benutzerdefiniertes Workload kann gleichzeitig Opfer, Bully und Haifisch sein. 
 ---
-= Rollen von Workloads, die an einem Performance-Ereignis beteiligt sind
+= Arbeitslastrollen in Leistungsereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

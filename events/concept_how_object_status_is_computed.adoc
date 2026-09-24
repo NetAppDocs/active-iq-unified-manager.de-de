@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: object, status, computed 
 summary: Der Objektstatus wird durch das schwerste Ereignis bestimmt, das derzeit einen neuen oder bestätigten Status aufweist. Wenn z. B. der Objektstatus „Fehler“ lautet, hat eines der Ereignisse des Objekts einen Schweregrad „Fehler“. Wenn Korrekturmaßnahmen ergriffen wurden, wird der Ereignisstatus auf „gelöst“ verschoben. 
 ---
-= Wie der Objektstatus berechnet wird
+= Wie Active IQ Unified Manager den Objektstatus berechnet
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

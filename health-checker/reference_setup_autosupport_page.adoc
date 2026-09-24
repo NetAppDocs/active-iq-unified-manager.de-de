@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: autosupport, messages, support bundles, technical support 
 summary: Auf der Seite AutoSupport können Sie vordefinierte und On-Demand AutoSupport Meldungen an Ihr technisches Support-Team senden, um einen ordnungsgemäßen Betrieb Ihrer Umgebung zu gewährleisten und die Integrität Ihrer Umgebung zu wahren. AutoSupport ist standardmäßig aktiviert und sollte nicht deaktiviert werden, damit Sie die Vorteile von NetAppActive IQ nutzen können. 
 ---
-= Senden Sie AutoSupport-Nachrichten und Support-Pakete an den technischen Support
+= AutoSupport Meldungen an den technischen Support in
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

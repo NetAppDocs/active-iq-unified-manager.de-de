@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: flash, card, events, impact area, availability 
 summary: Flash-Karten-Events informieren Sie über den Status der auf Nodes in Ihrem Datacenter installierten Flash-Karten und überwachen mögliche Probleme. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Flash-Kartenereignisse
+= Informationen zu Flash-Karten-Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: volume, move, status, events, impact area, capacity 
 summary: Status-Events zur Volume-Verschiebung informieren Sie über den Status Ihrer Volume-Verschiebung, sodass Sie Ihr System auf potenzielle Probleme überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Statusereignisse für Volume-Verschiebung
+= Informationen zu Statusereignissen bei Volume Moves in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

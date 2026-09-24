@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, volume, latency, cluster, component 
 summary: Sie können detaillierte Latenzinformationen zu einem Volume mithilfe der Seite „Volume Performance Explorer“ anzeigen. Das Zählerdiagramm „Latenz“ zeigt die gesamte Latenz auf dem Volume an, und das Diagramm „Latenz – Aufschlüsselung der Zähler“ ist hilfreich, um die Auswirkungen der Lese- und Schreiblatenz auf das Volume zu ermitteln. 
 ---
-= Anzeigen der Volume-Latenz nach Clusterkomponente
+= Volumenlatenz nach Clusterkomponente in Active IQ Unified Manager anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

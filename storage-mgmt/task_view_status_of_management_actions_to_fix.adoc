@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, status, management, actions, chosen, fix 
 summary: Sie können den Status aller Verwaltungsaktionen anzeigen, die Sie auf der Seite „Verwaltungsaktionen“ ausgewählt haben. Die meisten Aktionen werden ziemlich schnell angezeigt, nachdem Unified Manager den ONTAP-Befehl an das Cluster sendet. Einige Aktionen, wie zum Beispiel das Verschieben eines Volumes, können jedoch länger dauern. 
 ---
-= Zeigen Sie den Status der Verwaltungsaktionen an, die Sie beheben möchten
+= Status der Managementaktionen zur Behebung von Problemen in Active IQ Unified Manager anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

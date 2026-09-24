@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: latency, forecast, performance, analysis 
 summary: 'Unified Manager verwendet die Latenzprognose, um die typischen Aktivitäten der I/O-Latenz (Reaktionszeit) für überwachte Workloads darzustellen. Er benachrichtigt Sie, wenn die tatsächliche Latenz für einen Workload über den oberen Grenzen der Latenzprognose liegt. Dadurch wird ein dynamisches Performance-Ereignis ausgelöst, sodass Sie das Performance-Problem analysieren und Korrekturmaßnahmen ergreifen können.' 
 ---
-= Verwendung der Latenzprognose für die Performance-Analyse
+= Die Latenzprognose kann für die Leistungsanalyse in Active IQ Unified Manager verwendet werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

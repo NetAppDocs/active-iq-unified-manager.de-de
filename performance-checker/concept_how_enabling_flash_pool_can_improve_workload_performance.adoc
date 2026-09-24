@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: enable, flash pool, storage, aggregate, improve, workload, performance 
 summary: Sie können die Workload-Performance durch Aktivierung der Flash Pool Funktion auf einem Aggregat verbessern. Ein Flash Pool ist ein Aggregat, das sowohl HDDs als auch SSDs umfasst. Die HDDs werden im primären Storage eingesetzt und die SSDs bieten einen hochperformanten Lese- und Schreib-Cache, um die Aggregat-Performance zu steigern. 
 ---
-= Die Aktivierung von Flash Pool auf einem Storage-Aggregat kann die Workload-Performance verbessern
+= Die Workload-Performance kann durch die Aktivierung von Flash Pool auf einem Speicheraggregat in Active IQ Unified Manager verbessert werden.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

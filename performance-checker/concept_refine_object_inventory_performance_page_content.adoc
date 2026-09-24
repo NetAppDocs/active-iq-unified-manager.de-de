@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: refining, performance, inventory, page, contents 
 summary: Die Inventarseiten für Performance-Objekte enthalten Tools, mit denen Sie Inhalte aus Objektbeständen verfeinern können, damit Sie bestimmte Daten schnell und einfach auffinden können. 
 ---
-= Inhalt der Seite zur Leistungsbestandsliste wird verfeinert
+= Verfeinerung des Inhalts der Leistungsinventarseite in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

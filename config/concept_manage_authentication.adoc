@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, authentication 
 summary: Sie können die Authentifizierung mit LDAP oder Active Directory auf dem Unified Manager-Server aktivieren und so konfigurieren, dass sie mit Ihren Servern zur Authentifizierung von Remote-Benutzern verwendet werden kann. 
 ---
-= Verwalten der Authentifizierung
+= Die Authentifizierung in Active IQ Unified Manager wird aktiviert
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

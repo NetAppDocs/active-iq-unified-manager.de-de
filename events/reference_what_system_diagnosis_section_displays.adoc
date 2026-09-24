@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: system, diagnosis, section, displays 
 summary: Im Abschnitt Systemdiagnose der Seite Ereignisdetails finden Sie Informationen, die Ihnen bei der Diagnose von Problemen helfen können, die möglicherweise für das Ereignis verantwortlich waren. 
 ---
-= Anzeigen des Abschnitts Systemdiagnose
+= Informationen zur Systemdiagnose in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

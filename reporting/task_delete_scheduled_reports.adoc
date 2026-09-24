@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, reports 
 summary: Nach der Planung von Berichten können Sie diese auf der Seite „Berichtszeitpläne“ löschen. 
 ---
-= Geplante Berichte löschen
+= Geplante Berichte in Active IQ Unified Manager löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

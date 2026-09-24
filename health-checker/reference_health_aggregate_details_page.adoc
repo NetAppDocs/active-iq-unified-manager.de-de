@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, aggregate, health details page 
 summary: Mithilfe der Seite „Aggregat/Systemzustand“ werden ausführliche Informationen über das ausgewählte Aggregat angezeigt, beispielsweise Kapazität, Festplatteninformationen, Konfigurationsdetails und erzeugte Ereignisse. Sie können auch Informationen zu verwandten Objekten und zugehörigen Warnmeldungen für das Aggregat anzeigen. 
 ---
-= Registerkarte „Aggregate/Health Details“
+= Die Seite „Aggregat-/Zustandsdetails“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

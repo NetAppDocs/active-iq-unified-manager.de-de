@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, volumes, default, export, policy 
 summary: Sie können einen Bericht erstellen, um nach Volumes zu suchen, die die Standard-Exportrichtlinie verwenden. 
 ---
-= Erstellen Sie einen Bericht, um Volumes anzuzeigen, die die Standardexportrichtlinie verwenden
+= Ein Bericht zum Anzeigen von Volumes mithilfe der Standard-Exportrichtlinie in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

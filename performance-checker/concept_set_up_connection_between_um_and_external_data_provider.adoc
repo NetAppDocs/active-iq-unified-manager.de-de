@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: setting, connection, between, unified manager, server, external, data, provider 
 summary: Über die Verbindung zwischen einem Unified Manager-Server und einem externen Datenanbieter können Sie Cluster Performance-Daten an einen externen Server senden, sodass Storage Manager die Performance-Kennzahlen mithilfe von Software anderer Anbieter darstellen können. 
 ---
-= Einrichten einer Verbindung zwischen einem Unified Manager-Server und einem externen Datenanbieter
+= Einrichten einer Verbindung zwischen Active IQ Unified Manager und einem externen Datenanbieter
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

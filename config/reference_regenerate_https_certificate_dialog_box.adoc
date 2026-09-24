@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: regenerate, https certificate, dialog, box 
 summary: Das Dialogfeld „HTTPS-Zertifikat neu erstellen“ ermöglicht Ihnen, die Sicherheitsinformationen anzupassen und anschließend ein neues HTTPS-Zertifikat mit diesen Informationen zu erstellen. 
 ---
-= Dialogfeld „HTTPS-Zertifikat neu erstellen“
+= Dialogfeld „HTTPS-Zertifikat in Active IQ Unified Manager neu generieren“
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

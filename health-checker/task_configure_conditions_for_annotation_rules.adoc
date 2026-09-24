@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, configure, conditions, annotation rules 
 summary: Sie können eine oder mehrere Bedingungen konfigurieren, um Anmerkungsregeln zu erstellen, die Unified Manager für die Speicherobjekte anwendet. Die Speicherobjekte, die die Anmerkungsregel erfüllen, werden mit dem in der Regel angegebenen Wert versehen. 
 ---
-= Konfigurieren von Bedingungen für Anmerkungsregeln
+= Konfiguration von Bedingungen für Annotationsregeln in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

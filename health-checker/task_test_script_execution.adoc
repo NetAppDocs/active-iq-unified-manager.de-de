@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: test, script, execution 
 summary: Sie können überprüfen, ob Ihr Skript korrekt ausgeführt wird, wenn eine Warnung für ein Speicherobjekt generiert wird. 
 ---
-= Testskriptausführung
+= Ausführung des Testskripts in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

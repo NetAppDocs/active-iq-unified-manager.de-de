@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: report, schedule 
 summary: Nachdem Sie über eine Ansicht oder eine Excel-Datei verfügen, die Sie für die regelmäßige Erstellung und Verteilung planen möchten, können Sie den Bericht planen. 
 ---
-= Planen eines Berichts
+= Ein Bericht in Active IQ Unified Manager kann geplant werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

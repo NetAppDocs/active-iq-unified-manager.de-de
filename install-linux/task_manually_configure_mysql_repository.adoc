@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manually configure mysql repository, mysql key, keys update 
 summary: Wenn das System, auf dem Sie Unified Manager installieren, keinen Zugriff auf das MySQL Community Edition Repository hat, müssen Sie das Repository manuell herunterladen und konfigurieren, damit eine erfolgreiche Installation durchgeführt werden kann. 
 ---
-= Manuelles Konfigurieren des MySQL-Repositorys
+= Konfiguration des MySQL-Repositorys für Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

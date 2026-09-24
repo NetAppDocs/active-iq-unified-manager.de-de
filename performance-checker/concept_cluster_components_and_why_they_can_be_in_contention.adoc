@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: cluster, components, why, contention 
 summary: 'Sie können Probleme mit der Cluster-Performance identifizieren, wenn ein Konflikt zwischen einer Cluster-Komponente besteht. Die Performance der Workloads, die die Komponente nutzen, verlangsamen sich und ihre Reaktionszeit (Latenz) für Client-Anforderungen steigt. Dadurch wird ein Ereignis in Unified Manager ausgelöst.' 
 ---
-= Cluster-Komponenten und warum sie über Konflikte verfügen können
+= Clusterkomponenten und Ressourcenkonflikte in Active IQ Unified Manager verstehen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

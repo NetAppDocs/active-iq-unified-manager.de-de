@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: perform, corrective action, storage failover, interconnect links 
 summary: Wenn Sie die Seite Ereignisdetails eines Storage Failover-bezogenen Ereignisses anzeigen, können Sie die Zusammenfassungen der Seite überprüfen, um die Dringlichkeit des Ereignisses, die mögliche Ursache des Problems und eine mögliche Lösung des Problems festzustellen. 
 ---
-= Führen Sie Korrekturmaßnahmen für ausgefallene Speicher-Failover-Verbindungsverbindungen durch
+= Durchführen der Korrekturmaßnahme bei einem Ausfall einer Storage Failover Interconnect-Verbindung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

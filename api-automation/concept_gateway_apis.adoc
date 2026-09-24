@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: access, ONTAP, APIs, proxy, access 
 summary: Die Gateway-APIs bieten den Vorteil, dass Sie die Active IQ Unified Manager-Zugangsdaten verwenden können, um ONTAP REST-APIs und das Management von Storage-Objekten auszuführen. Diese APIs sind verfügbar, wenn die API-Gateway-Funktion über die Web-UI von Unified Manager aktiviert ist. 
 ---
-= Zugriff auf ONTAP-APIs über Proxy-Zugriff
+= Zugriff auf ONTAP APIs über Proxyzugriff in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

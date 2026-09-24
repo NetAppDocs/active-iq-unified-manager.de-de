@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, network, interfaces 
 summary: Sie können neue Netzwerkschnittstellen hinzufügen, wenn Sie den Netzwerkverkehr trennen müssen. 
 ---
-= Netzwerkschnittstellen hinzufügen
+= Netzwerkschnittstellen zu Active IQ Unified Manager hinzufügen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

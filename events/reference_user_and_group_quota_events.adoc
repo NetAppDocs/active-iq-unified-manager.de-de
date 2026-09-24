@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: user, group, quota, events, impact area, capacity 
 summary: Benutzer- und Gruppenkontingente liefern Ihnen Informationen über die Kapazität des Benutzer- und Benutzergruppenkontingens sowie über die Datei- und Festplattenlimits, damit Sie potenzielle Probleme überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Ereignisse für Benutzer- und Gruppenkontingente
+= Informationen zu Benutzer- und Gruppenkontingentereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

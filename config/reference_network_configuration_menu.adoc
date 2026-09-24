@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: network configuration menu 
 summary: Über das Menü Netzwerkkonfiguration können Sie die Netzwerkeinstellungen verwalten. Sie sollten dieses Menü verwenden, wenn die Benutzeroberfläche von Unified Manager nicht verfügbar ist. 
 ---
-= Menü Netzwerkkonfiguration
+= Menü „Netzwerkkonfiguration“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

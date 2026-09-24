@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, capacity, threshold, conditions 
 summary: Sie können benutzerdefinierte Performance-Schwellenwertrichtlinien erstellen, damit Ereignisse ausgelöst werden, wenn der für einen Node oder ein Aggregat genutzte Performance-Wert die festgelegte Einstellung für den verwendeten Schwellenwert für die Performance-Kapazität überschreitet. 
 ---
-= Performance-Kapazität nutzte Schwellenwertbedingungen für die Performance
+= Die Schwellenwerte für die genutzte Leistungskapazität in Active IQ Unified Manager konfigurieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

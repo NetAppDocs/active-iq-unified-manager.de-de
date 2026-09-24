@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: event, information, section, displays 
 summary: Über den Abschnitt „Ereignisinformationen“ auf der Seite „Ereignisdetails“ können Sie Details zu einem ausgewählten Ereignis anzeigen, z. B. den Schweregrad des Ereignisses, den Aufprallgrad, den Wirkungsbereich und die Ereignisquelle. 
 ---
-= Das wird im Abschnitt „Ereignisinformationen“ angezeigt
+= Informationen über den Abschnitt „Ereignisinformationen“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

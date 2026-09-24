@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: protection, events, impact area, protection 
 summary: Schutzereignisse geben an, ob ein Job ausgefallen ist oder abgebrochen wurde, damit Sie eine Überwachung auf Probleme durchführen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Schutzereignisse
+= Informationen zu Schutzereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

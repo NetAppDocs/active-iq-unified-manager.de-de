@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: storage, resource, ONTAP 
 summary: Die Storage-Ressourcen in ONTAP können grob in physische Storage-Ressourcen und logische Storage-Ressourcen eingeteilt werden. Um Ihre ONTAP-Systeme mit den in Active IQ Unified Manager bereitgestellten APIs effizient zu managen, müssen Sie das Storage-Ressourcenmodell und die Beziehung zwischen den verschiedenen Storage-Ressourcen kennen. 
 ---
-= Storage-Ressourcen in ONTAP
+= Verständnis des ONTAP Speicherressourcenmodells in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

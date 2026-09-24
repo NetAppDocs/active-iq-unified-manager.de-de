@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: supported, unified manager, cli, commands, cmd, um cli, um run, 
 summary: Als Storage-Administrator führen Sie mit den CLI-Befehlen Abfragen für die Storage-Objekte durch, z. B. für Cluster, Aggregate, Volumes, Qtrees und LUNs. 
 ---
-= Unterstützte CLI-Befehle von Unified Manager
+= Informationen zu den unterstützten Active IQ Unified Manager CLI Befehlen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

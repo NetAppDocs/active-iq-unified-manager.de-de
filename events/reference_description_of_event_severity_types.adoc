@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: description, event, severity, types 
 summary: Jedes Ereignis ist mit einem Schweregrad verknüpft, der Ihnen dabei hilft, die Ereignisse zu priorisieren, die eine unmittelbare Korrekturmaßnahme erfordern. 
 ---
-= Beschreibung der Ereignistypen
+= Informationen zu Ereignis-Schweregradtypen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: cluster, configuration, performance, data, collection, activity 
 summary: Das Erfassungsintervall für Cluster-Konfigurationsdaten beträgt 15 Minuten. Beispielsweise dauert es nach dem Hinzufügen eines Clusters 15 Minuten, bis die Cluster-Details in der UI von Unified Manager angezeigt werden. Dieses Intervall gilt, wenn Sie die Änderungen auch auf einem Cluster vornehmen. 
 ---
-= Aktivitäten zur Cluster-Konfiguration und zur Datenerfassung für die Performance
+= Clusterkonfiguration und Leistungsdaten in Active IQ Unified Manager anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, qtrees, full 
 summary: Sie können einen Bericht erstellen, um die Storage-Kapazität und -Auslastung von qtrees zu analysieren und nahezu volle qtrees anzuzeigen. 
 ---
-= Erstellen Sie einen Bericht, um fast volle Qtrees anzuzeigen
+= Erstellung eines Berichts zum Anzeigen von qtrees, die in Active IQ Unified Manager nahezu voll sind
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

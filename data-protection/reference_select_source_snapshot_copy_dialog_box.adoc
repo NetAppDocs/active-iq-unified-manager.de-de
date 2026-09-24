@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: select, source, snapshot, copy, dialog box 
 summary: Sie verwenden das Dialogfeld Quell-Snapshot Kopie auswählen, um eine bestimmte Snapshot Kopie zum Übertragen von Daten zwischen Sicherungsbeziehungen auszuwählen, oder Sie wählen das Standardverhalten aus, das je nach Initialisierung, Aktualisierung oder erneuten Synchronisierung einer Beziehung variiert. Außerdem können Sie wählen, ob die Beziehung eine SnapMirror oder SnapVault ist. 
 ---
-= Wählen Sie das Dialogfeld Snapshot-Kopie der Quelle aus
+= Im Active IQ Unified Manager kann das Dialogfeld „Quell-Snapshot-Kopie auswählen“ verwendet werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

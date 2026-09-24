@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: sample, microsoft, excel, reports 
 summary: Diese Beispielberichte von Microsoft Excel dienen der Einführung von Berichtsoptionen, die über die erweiterten Excel-Funktionen verfügbar sind. 
 ---
-= Beispiel für Microsoft Excel-Berichte
+= Beispielberichte in Microsoft Excel in Active IQ Unified Manager verstehen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

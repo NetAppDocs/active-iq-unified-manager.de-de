@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, lag, threshold settings, unmanaged, protection, relationships 
 summary: Sie können die Einstellungen für die globale Standard-Verzögerungswarnung und Fehlerzustandsschwellenwerte für nicht verwaltete Schutzbeziehungen bearbeiten, so dass Ereignisse in Abständen erzeugt werden, die Ihren Anforderungen entsprechen. 
 ---
-= Konfigurieren von Verzögerungsschwellenwerten für nicht verwaltete Schutzbeziehungen
+= Konfiguration von Verzögerungsschwellenwerten für nicht verwaltete Schutzbeziehungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

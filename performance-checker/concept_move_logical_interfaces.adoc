@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: move, logical, interfaces, lifs 
 summary: 'Das Verschieben von logischen Schnittstellen (LIFs) auf einen weniger ausgelasteten Port kann den Lastausgleich verbessern, Wartungsaufgaben und Performance-Tuning unterstützen und den indirekten Zugriff verringern.' 
 ---
-= Verschieben von logischen Schnittstellen (LIFs)
+= Verschieben von LIFs zur Verbesserung der Leistung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

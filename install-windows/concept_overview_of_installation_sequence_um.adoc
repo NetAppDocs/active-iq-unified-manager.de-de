@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: overview, installation, sequence 
 summary: Im Installations-Workflow werden die Aufgaben beschrieben, die Sie vor der Verwendung von Unified Manager ausführen müssen. 
 ---
-= Überblick über die Installationsreihenfolge
+= Informationen zur Installationsreihenfolge für Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

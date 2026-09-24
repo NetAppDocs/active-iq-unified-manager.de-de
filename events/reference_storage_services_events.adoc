@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: storage, services, events, impact area, configuration, protection 
 summary: Bei Storage-Services-Ereignissen erhalten Sie Informationen über die Erstellung und das Abonnement von Storage-Services, sodass Sie potenzielle Probleme überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Ereignisse auf Storage-Services
+= Informationen zu Speicherdienstereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

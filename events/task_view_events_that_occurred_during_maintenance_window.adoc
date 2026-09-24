@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, events, occurred, maintenance, window 
 summary: Bei Bedarf können Sie die Ereignisse anzeigen, die während eines Unified Manager-Wartungsfensters für alle Storage-Objekte generiert wurden. Die meisten Ereignisse werden nach Abschluss des Wartungsfensters im Status „veraltet“ angezeigt und alle Systemressourcen werden gesichert und ausgeführt. 
 ---
-= Anzeigen von Ereignissen, die während eines Wartungsfensters aufgetreten sind
+= Anzeigen von Ereignissen, die während eines Wartungsfensters in Active IQ Unified Manager generiert wurden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

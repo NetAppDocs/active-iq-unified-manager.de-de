@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: diagnostic, user, capabilities 
 summary: Der Diagnosezugriff dient dazu, Ihnen den technischen Support bei der Fehlerbehebung zu ermöglichen, und Sie sollten ihn nur verwenden, wenn Sie sich an den technischen Support wenden. 
 ---
-= Funktionen von Benutzern zur Diagnose
+= Diagnosefunktionen für Benutzer in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

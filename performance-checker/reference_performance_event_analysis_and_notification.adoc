@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, event, analysis, notification 
 summary: Bei Performance-Ereignissen werden Sie über Probleme mit der I/O-Performance bei einem Workload informiert, der durch Konflikte bei einer Cluster-Komponente verursacht wurde. Unified Manager analysiert das Ereignis, um alle betroffenen Workloads zu ermitteln, die Komponente mit Konflikten zu identifizieren und ob das Ereignis weiterhin ein Problem ist, das Sie möglicherweise beheben müssen. 
 ---
-= Performance-Ereignisanalyse und -Benachrichtigung
+= Analyse von Leistungsereignissen und Benachrichtigungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

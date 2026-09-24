@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: happens, performance, threshold, policies, object, moved 
 summary: Da Performance-Schwellenwertrichtlinien Storage-Objekten zugewiesen werden. Wenn Sie ein Objekt verschieben, bleiben alle zugewiesenen Schwellenwertrichtlinien nach Abschluss der Verschiebung mit dem Objekt verbunden. Wenn Sie beispielsweise ein Volume oder eine LUN zu einem anderen Aggregat verschieben, sind die Schwellenwertrichtlinien weiterhin für das Volume oder die LUN auf dem neuen Aggregat aktiv. 
 ---
-= Was passiert mit Performance-Schwellenwertrichtlinien, wenn ein Objekt verschoben wird
+= Verwalten von Schwellenwertrichtlinien beim Verschieben von Objekten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

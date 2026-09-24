@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: description, event, impact, areas 
 summary: 'Ereignisse werden in sechs Auswirkungsbereiche unterteilt (Verfügbarkeit, Kapazität, Konfiguration, Performance, Schutz, Und Sicherheit) damit Sie sich auf die Arten von Ereignissen konzentrieren können, für die Sie verantwortlich sind.' 
 ---
-= Beschreibung der Bereiche für Ereignisauswirkungen
+= Informationen zu Ereignisauswirkungsbereichen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

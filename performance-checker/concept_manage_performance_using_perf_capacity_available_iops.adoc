@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: managing, performance, performance, capacity, available, iops, information 
 summary: Die Performance-Kapazität gibt an, wie viel Durchsatz eine Ressource erreicht werden kann, ohne die nützliche Performance dieser Ressource zu überschreiten. Wenn Sie die Nutzung vorhandener Performance-Zähler verwenden, ist die Performance-Kapazität der Punkt, an dem Sie die maximale Auslastung eines Node oder Aggregats erhalten, bevor die Latenz zu einem Problem wird. 
 ---
-= Verwalten Sie die Leistung mithilfe von Leistungskapazität und verfügbaren IOPS-Informationen
+= Verwaltung der Leistungskapazität und der verfügbaren IOPS in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

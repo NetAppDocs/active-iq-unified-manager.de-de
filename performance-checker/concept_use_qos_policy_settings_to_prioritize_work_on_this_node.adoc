@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: qos, policy, settings, prioritize, work, node 
 summary: 'Sie können eine Obergrenze für eine QoS-Richtliniengruppe festlegen, um das Durchsatzlimit für I/O pro Sekunde (IOPS) oder MB/s für die in ihr enthaltenen Workloads zu steuern. Wenn sich Workloads in einer Richtliniengruppe ohne festgelegte Grenzwerte befinden, wie z. B. in der Standardrichtliniengruppe oder das festgelegte Limit Ihren Anforderungen nicht entspricht, können Sie das festgelegte Limit erhöhen oder die Workloads in eine neue oder vorhandene Richtliniengruppe mit dem gewünschten Limit verschieben.' 
 ---
-= Setzen Sie QoS-Richtlinieneinstellungen ein, um die Arbeit an diesem Node zu priorisieren
+= QoS Richtlinieneinstellungen können zur Priorisierung von Node Workloads in Active IQ Unified Manager verwendet werden.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

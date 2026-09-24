@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: initialize, update, dialog box 
 summary: Das Dialogfeld Initialisieren/Aktualisieren ermöglicht Ihnen die Durchführung einer ersten Basistransfer für eine neue Schutzbeziehung oder die Aktualisierung einer Beziehung, wenn sie bereits initialisiert ist und Sie ein manuelles, ungeplantes, inkrementelles Update durchführen möchten. 
 ---
-= Dialogfeld „Initialisierung/Aktualisierung“
+= Im Active IQ Unified Manager steht das Dialogfeld „Initialisieren/Aktualisieren“ zur Verfügung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

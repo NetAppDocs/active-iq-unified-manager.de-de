@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: storage, capacity, health, thresholds 
 summary: Ein Schwellenwert für die Storage-Kapazität ist der Punkt, an dem der Unified Manager Server Ereignisse generiert, um jedes Kapazitätsproblem im Zusammenhang mit Storage-Objekten zu melden. Sie können Benachrichtigungen so konfigurieren, dass sie benachrichtigt werden, wenn diese Ereignisse auftreten. 
 ---
-= Welche Schwellenwerte für den Zustand von Storage-Kapazität sind
+= Informationen zu den Schwellenwerten für die Speicherkapazität in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

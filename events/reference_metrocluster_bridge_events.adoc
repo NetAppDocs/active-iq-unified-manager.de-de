@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: metrocluster, bridge, events, impact area, availability 
 summary: MetroCluster Bridge Events informieren Sie über den Status der Brücken, sodass Sie auf mögliche Probleme überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Veranstaltungen auf der MetroCluster Bridge
+= Informationen zu MetroCluster Bridge Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

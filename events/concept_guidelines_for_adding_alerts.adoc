@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: guidelines, adding, alerts 
 summary: Auf Basis von Ressourcen wie Cluster, Node, Aggregat oder Volume lassen sich Warnmeldungen oder Ereignisse mit einem bestimmten Schweregrad hinzufügen. Als Best Practice können Sie eine Meldung für alle Ihre kritischen Objekte hinzufügen, nachdem Sie den Cluster hinzugefügt haben, zu dem das Objekt gehört. 
 ---
-= Richtlinien zum Hinzufügen von Warnmeldungen
+= Richtlinien zum Hinzufügen von Warnmeldungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

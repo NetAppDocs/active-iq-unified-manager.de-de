@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: service, processor, events, impact area, availability 
 summary: Bei Service-Prozessor-Ereignissen erhalten Sie Informationen über den Status Ihres Prozessors. Diese Informationen können Sie auf potenzielle Probleme überwachen. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Ereignisse des Service-Prozessors
+= Informationen zu Service Processor Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

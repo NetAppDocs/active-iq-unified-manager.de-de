@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: run, storage, efficiency, operations, less, busy, times 
 summary: Sie können die Richtlinie oder den Zeitplan ändern, die Storage-Effizienzvorgänge zur Ausführung verarbeiten, wenn die betroffenen Volume-Workloads weniger beschäftigt sind. 
 ---
-= Führen Sie Storage-Effizienzvorgänge zu weniger geschäftigen Zeiten aus
+= Speichereffizienzvorgänge werden in Active IQ Unified Manager für Zeiten mit geringerer Auslastung geplant
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

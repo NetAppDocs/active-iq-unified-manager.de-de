@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: alerts 
 summary: Während Ereignisse kontinuierlich auftreten, generiert der Unified Manager eine Meldung nur, wenn ein Ereignis die angegebenen Filterkriterien erfüllt. Sie können die Ereignisse auswählen, für die Warnmeldungen generiert werden sollen. Dies kann z. B. der Fall sein, wenn ein Schwellenwert überschritten wird oder ein Objekt offline geht. Sie können auch eine Warnung einem Skript zuordnen, das ausgeführt wird, wenn eine Warnung ausgelöst wird. 
 ---
-= Um welche Warnmeldungen geht es
+= Informationen zu Warnmeldungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

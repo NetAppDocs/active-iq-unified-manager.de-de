@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: event, management, inventory, page, filter, components, xommand buttons, list 
 summary: Auf der Seite „Ereignismanagement-Bestand“ können Sie eine Liste aktueller Ereignisse und ihrer Eigenschaften anzeigen. Sie können Aufgaben wie Quittieren, Auflösen und Zuweisen von Ereignissen durchführen. Sie können auch eine Meldung für bestimmte Ereignisse hinzufügen. 
 ---
-= Inventarseite des Ereignismanagements
+= Informationen zur Inventarseite für die Ereignisverwaltung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

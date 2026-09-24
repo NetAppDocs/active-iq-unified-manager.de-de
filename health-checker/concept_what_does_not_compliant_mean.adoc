@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: not compliant, compliant 
 summary: 'Cluster und Storage Virtual Machines (SVMs) gelten als nicht kompatibel, wenn eine der Sicherheitskriterien, die im NetApp Leitfaden zur sicheren Stärkung von ONTAP 9 bewertet werden, nicht erfüllt werden. Darüber hinaus gilt ein Cluster als nicht kompatibel, wenn eine SVM als nicht konform gekennzeichnet ist.' 
 ---
-= Was bedeutet nicht, dass Compliance-Anforderungen erfüllt werden
+= Informationen zum Compliance-Status von Clustern und SVMs in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: change, cancel, scheduled, maintenance, window 
 summary: Wenn Sie ein Wartungsfenster von Unified Manager für die Zukunft konfiguriert haben, können Sie die Start- und Endzeit ändern oder das Wartungsfenster nicht mehr ausführen. 
 ---
-= Ändern oder Abbrechen eines geplanten Wartungsfensters
+= Ändern oder Stornieren eines geplanten Wartungsfensters in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

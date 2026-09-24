@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, protection, dialog box 
 summary: Im Dialogfeld „Sicherung konfigurieren“ können Sie SnapMirror und SnapVault Beziehungen für alle Volumes mit Lese-, Schreib- und Datensicherung auf den Clustern erstellen. So stellen Sie sicher, dass die Daten auf einem Quell-Volume oder dem primären Volume repliziert werden. 
 ---
-= Dialogfeld „Schutz konfigurieren“
+= Im Active IQ Unified Manager steht das Dialogfeld „Schutz konfigurieren“ zur Verfügung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

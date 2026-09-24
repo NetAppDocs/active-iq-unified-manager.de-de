@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, capacity, cluster, model 
 summary: Sie können einen Bericht erstellen, um die Storage-Kapazität und Auslastung von Clustern auf der Grundlage des Storage-Systemmodells zu analysieren. 
 ---
-= Erstellen eines Berichts zum Anzeigen der Kapazität nach Clustermodell
+= In Active IQ Unified Manager kann ein Bericht zur Anzeige der Kapazität nach Clustermodell erstellt werden.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

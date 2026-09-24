@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: manage, workloads 
 summary: Die hier beschriebenen APIs decken verschiedene Funktionen der Storage-Administration ab, z. B. das Anzeigen von Storage Workloads, das Erstellen von LUNs und Dateifreigaben, das Management von Performance Service Levels und Richtlinien für Storage-Effizienz sowie die Zuweisung von Richtlinien zu Storage Workloads. 
 ---
-= Verwalten von Workloads mithilfe von APIs
+= Prüfen der Storage Administration APIs in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

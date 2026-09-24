@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: relationship, 1 month, transfer status, view 
 summary: 'Die Beziehung: Die Ansicht „Transferstatus der letzten 1 Monate“ ermöglicht Ihnen die Analyse der Übertragungstrends für Volumes und Storage VMs in asynchronen Beziehungen. Auf dieser Seite wird außerdem angezeigt, ob die Übertragung erfolgreich oder fehlgeschlagen ist.' 
 ---
-= Beziehung: Letzte 1 Monat Transfer Status Ansicht
+= Anzeige der Ansicht „Transferstatus des letzten Monats“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

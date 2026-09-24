@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, storage vm list, details 
 summary: 'Aus der Ansicht „Systemzustand“: Alle Storage VMs können Sie Ihr Inventar an Storage Virtual Machines (SVMs) überwachen. Mithilfe der Seite Storage VM/Health Details können Sie detaillierte Informationen zu überwachten SVMs anzeigen.' 
 ---
-= Anzeigen der Storage-VM-Liste und Details
+= Die Liste und Details der Storage-VMs in Active IQ Unified Manager anzeigen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: support and diagnostics, menu 
 summary: Über das Menü „Support and Diagnostics“ können Sie ein Support Bundle erstellen, das Sie zur Fehlerbehebung an den technischen Support senden können. 
 ---
-= Menü „Support und Diagnose“
+= Das Menü „Support und Diagnose“ in Active IQ Unified Manager kann verwendet werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

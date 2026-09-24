@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, nodes, running, older versions, ONTAP 
 summary: Sie können einen Bericht erstellen, um die Version der ONTAP Software anzuzeigen, die auf allen Cluster-Nodes installiert ist. So können Sie sehen, welche Nodes Sie aktualisieren sollten. 
 ---
-= Erstellen Sie einen Bericht, um Knoten anzuzeigen, auf denen ältere Versionen von ONTAP ausgeführt werden
+= Es kann ein Bericht erstellt werden, um Knoten anzuzeigen, auf denen ältere Versionen von ONTAP in Active IQ Unified Manager ausgeführt werden.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

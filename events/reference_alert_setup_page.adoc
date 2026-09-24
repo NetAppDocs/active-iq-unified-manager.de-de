@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: alert, setup, page, command buttons, list view, details area 
 summary: Auf der Seite „Alarm-Setup“ wird eine Liste von Warnungen angezeigt und Informationen zu Name, Status, Benachrichtigungsmethode und Benachrichtigungshäufigkeit angezeigt. Sie können auf dieser Seite auch Warnmeldungen hinzufügen, bearbeiten, entfernen, aktivieren oder deaktivieren. 
 ---
-= Seite „Alarmkonfiguration“
+= Informationen zur Seite „Warnungseinrichtung“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, all san array, health and capacity, clusters 
 summary: Mithilfe der Cluster-Bestandsseiten können Sie den Zustand und den Kapazitätsstatus Ihrer All-SAN-Array-Cluster anzeigen. 
 ---
-= Anzeigen des Integritäts- und Kapazitätsstatus aller SAN-Array-Cluster
+= Der Gesundheits- und Kapazitätsstatus aller All SAN Array Cluster in Active IQ Unified Manager kann angezeigt werden
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: event, setup, page, command, buttons, list, view 
 summary: Auf der Seite Event Setup werden die Liste der deaktivierten Ereignisse angezeigt und Informationen wie den zugehörigen Objekttyp und den Schweregrad des Ereignisses bereitgestellt. Sie können auch Aufgaben wie Deaktivieren oder Aktivieren von Ereignissen global ausführen. 
 ---
-= Seite „Ereignis-Einrichtung“
+= Informationen zur Seite „Ereigniseinrichtung“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

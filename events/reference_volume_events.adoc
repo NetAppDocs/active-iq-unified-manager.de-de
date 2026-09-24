@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: volume, events, impact area, availability, capacity, configuration, performance 
 summary: Volume-Ereignisse liefern Informationen zum Status von Volumes, mit denen Sie auf potenzielle Probleme überwachen können. Die Ereignisse sind nach dem Impact-Bereich gruppiert und umfassen den Event-Namen, den Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Volume-Ereignisse
+= Informationen zu Volume-Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

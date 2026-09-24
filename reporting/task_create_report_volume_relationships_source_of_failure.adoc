@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, group, volume, relationships, source, failure 
 summary: Sie können einen Bericht erstellen, in dem Volumes gruppiert werden, weil die Beziehung sich in einem ungesunden Zustand befindet. 
 ---
-= Erstellen Sie einen Bericht, um Volumenbeziehungen nach Fehlerquelle zu gruppieren
+= Erstellung eines Berichts zur Gruppierung von Volume-Beziehungen nach Fehlerursache in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

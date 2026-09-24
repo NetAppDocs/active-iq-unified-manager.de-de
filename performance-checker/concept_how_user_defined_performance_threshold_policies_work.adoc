@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: user-defined, performance, threshold, policies, work 
 summary: 'Sie legen für Storage-Objekte Richtlinien für Performance-Schwellenwerte fest (z. B. für Aggregate und Volumes), damit ein Ereignis an den Storage-Administrator gesendet werden kann, um den Administrator zu informieren, dass im Cluster ein Performance-Problem auftritt.' 
 ---
-= Funktionsweise benutzerdefinierter Richtlinien für Leistungsschwellenwerte
+= Verwendung benutzerdefinierter Leistungsschwellenwertrichtlinien in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

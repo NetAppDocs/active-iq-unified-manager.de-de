@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, global health, threshold settings 
 summary: Sie können globale Statusschwellenwerte für Kapazität, Wachstum, Snapshot-Reserve, Quoten und Inodes konfigurieren, um die Aggregat-, Volume- und qtree-Größe effektiv zu überwachen. Sie können auch die Einstellungen für das Generieren von Ereignissen für das Überschreiten der Schwellenwerte für Verzögerungen bearbeiten. 
 ---
-= Konfigurieren der globalen Integritätsschwellenwerteinstellungen
+= Konfiguration der globalen Integritätsschwellenwerteinstellungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

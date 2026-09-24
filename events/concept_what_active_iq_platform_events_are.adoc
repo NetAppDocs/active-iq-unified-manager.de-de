@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: active iq, platform, events 
 summary: Unified Manager kann Ereignisse anzeigen, die von der Active IQ Plattform erkannt wurden. Diese Ereignisse werden durch Regelwerke gegen AutoSupport Meldungen erstellt, die von allen Storage-Systemen, die von Unified Manager überwacht werden, generiert werden. 
 ---
-= Was sind die Active IQ Plattform-Ereignisse
+= Informationen zu Active IQ Plattformereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

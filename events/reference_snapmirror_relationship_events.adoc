@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: snapmirror, relationship, events, impact area, protection 
 summary: SnapMirror Beziehungsereignisse geben Ihnen Informationen zum Status Ihrer asynchronen und synchronen SnapMirror Beziehungen, sodass Sie mögliche Probleme überwachen können. Asynchrone SnapMirror Beziehungsereignisse werden sowohl für Storage VMs als auch für Volumes generiert, synchrone SnapMirror Beziehungsereignisse werden jedoch nur für Volume-Beziehungen erstellt. Es gibt keine Ereignisse für zusammengehörige Volumes, die Teil der Disaster-Recovery-Beziehungen für Storage VMs sind. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= SnapMirror Beziehungsereignisse
+= Informationen zu SnapMirror Beziehung Ereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

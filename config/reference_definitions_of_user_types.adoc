@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: definitions, user types 
 summary: Ein Benutzertyp gibt die Art des Kontos an, das der Benutzer besitzt und umfasst Remote-Benutzer, Remote-Gruppen, lokale Benutzer, Datenbankbenutzer und Wartungbenutzer. Jeder dieser Typen hat seine eigene Rolle, die von einem Benutzer mit der Rolle „Administrator“ zugewiesen wird. 
 ---
-= Definitionen der Benutzertypen
+= Informationen zu Benutzertypen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

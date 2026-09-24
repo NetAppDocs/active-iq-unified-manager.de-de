@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: event, details, page 
 summary: Auf der Seite Ereignisdetails können Sie die Details eines ausgewählten Ereignisses anzeigen, z. B. den Schweregrad des Ereignisses, den Aufprallwert, den Aufprallbereich und die Ereignisquelle. Weitere Informationen zu möglichen Korrekturmaßnahmen können Sie zur Behebung des Problems einsehen. 
 ---
-= Seite mit den Veranstaltungsdetails
+= Informationen zur Seite „Ereignisdetails“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

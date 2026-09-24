@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: work, reports 
 summary: Erfahren Sie, wie Sie Bestandsseite-Ansichten in gemeinsam nutzbare, geplante Berichte suchen und anpassen. 
 ---
-= Arbeiten mit Berichten
+= Arbeiten mit Berichten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

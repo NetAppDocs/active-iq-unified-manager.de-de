@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: volume, encryption, compliance, categories 
 summary: Diese Tabelle beschreibt die Verschlüsselungsparameter des Volumes, die von Unified Manager geprüft werden, um zu ermitteln, ob die Daten auf Ihren Volumes vor dem Zugriff durch unbefugte Benutzer angemessen geschützt sind. 
 ---
-= Volume Compliance-Kategorien
+= Konformitätskategorien für Volumes in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

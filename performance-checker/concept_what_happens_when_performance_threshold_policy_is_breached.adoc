@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: happens, performance, threshold, policy, breached 
 summary: Wenn ein Zählerwert den definierten Performance-Schwellenwert für die in der Dauer angegebene Zeit überschreitet, wird der Schwellenwert überschritten und ein Ereignis wird gemeldet. 
 ---
-= Was passiert, wenn eine Performance-Richtlinie nicht eingehalten wird
+= Reaktion auf Verstöße gegen Leistungsschwellenwertrichtlinien in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

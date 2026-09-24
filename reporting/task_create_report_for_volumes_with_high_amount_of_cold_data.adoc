@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: display, volumes, cold, data, non-fabricpool, aggregate, identify 
 summary: Sie können einen Bericht erstellen, um Volumes mit einer hohen Menge an „kalten“ Daten auf einem nicht-FabricPool-Aggregat anzuzeigen. So können Sie Volumes identifizieren, die in ein FabricPool Aggregat verschoben werden sollten. 
 ---
-= Erstellen Sie einen Bericht, um Volumes mit einer großen Menge kalter Daten auf einem Aggregat anzuzeigen, das nicht FabricPool-fähig ist.
+= Erstellung eines Berichts zur Identifizierung von Volumes mit hohem Anteil an kalten Daten auf einem nicht-FabricPool Aggregat in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

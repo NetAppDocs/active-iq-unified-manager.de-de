@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: customize, aggregate, capacity, reports 
 summary: Anhand dieser individuellen Beispielberichte können Sie potenzielle Probleme im Zusammenhang mit der Aggregat-Storage-Kapazität identifizieren und darauf reagieren. 
 ---
-= Anpassen aggregierter Kapazitätsberichte
+= Anpassen von Kapazitätsberichten für Aggregate in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

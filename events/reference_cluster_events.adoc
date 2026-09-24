@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: cluster events, impact, area, availability, capacity, configuration, performance, security 
 summary: Cluster-Ereignisse bieten Informationen zum Status von Clustern. So können Sie das Cluster auf potenzielle Probleme überwachen. Die Ereignisse sind nach dem Impact-Bereich gruppiert und umfassen den Event-Namen, den Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Cluster-Ereignisse
+= Informationen zu Clusterereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: modify, nfs, file, share, support, cifs 
 summary: 'Sie können eine NFS-Dateifreigabe ändern, um CIFS-Protokoll zu unterstützen. Während der Erstellung von Dateifreigabe können sowohl ACL-Parameter (Access Control List) als auch Richtlinienregeln für den Export für dieselbe Dateifreigabe festgelegt werden. Wenn Sie jedoch CIFS auf demselben Volume aktivieren möchten, auf dem Sie eine NFS-Dateifreigabe erstellt haben, können Sie die ACL-Parameter auf dieser Dateifreigabe aktualisieren, um CIFS zu unterstützen.' 
 ---
-= Ändern einer NFS-Dateifreigabe mithilfe von APIs zur Unterstützung von CIFS
+= Ändern einer NFS Dateifreigabe zur Unterstützung von CIFS mithilfe der Active IQ Unified Manager APIs
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: view, add, vcenter, server 
 summary: 'Um die Performance der Virtual Machines (VMs) anzuzeigen und zu beheben, müssen die zugehörigen vCenter Server in Ihrer Active IQ Unified Manager Instanz hinzugefügt werden.' 
 ---
-= Anzeigen und Hinzufügen von vCenter Server
+= vCenter Server in Active IQ Unified Manager anzeigen und hinzufügen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

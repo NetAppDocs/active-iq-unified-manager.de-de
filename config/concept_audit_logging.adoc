@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: audit, logging 
 summary: Sie können erkennen, ob die Audit-Protokolle unter Verwendung von Audit-Protokollen kompromittiert wurden. Alle von einem Benutzer durchgeführten Aktivitäten werden überwacht und in den Audit-Protokollen protokolliert. Die Audits werden für alle Benutzeroberfläche und öffentlich exponierte APIs die Funktionalitäten von Active IQ Unified Manager durchgeführt. 
 ---
-= Audit-Protokollierung
+= Informationen zu Audit-Protokollen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

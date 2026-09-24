@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, capacity, used 
 summary: Mit dem verwendeten Zähler für die Performance-Kapazität können Sie ermitteln, ob die Performance eines Node oder Aggregats an einem Punkt anliegt, an dem sich die Performance bei einer Workload-Steigerung verschlechtern kann. Es kann Ihnen auch zeigen, ob ein Node oder Aggregat derzeit zu bestimmten Zeiten überlastet ist. Die Verwendung der Performance-Kapazität ähnelt der Auslastung, allerdings bietet die vorherige Appliance einen besseren Einblick in die verfügbaren Performance-Funktionen in einer physischen Ressource für einen bestimmten Workload. 
 ---
-= Welche Performance-Kapazität wird verwendet
+= Die verwendete Leistungs kapazität in Active IQ Unified Manager verstehen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

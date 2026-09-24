@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: available, iops, total iops, aggregate iops, volume iops 
 summary: Der verfügbare IOPS-Zähler ermittelt die verbleibende Anzahl an IOPS, die einem Node oder Aggregat hinzugefügt werden kann, bevor die Ressource ihr Limit erreicht. Die gesamten IOPS, die ein Node bereitstellen kann, basieren auf den physischen Eigenschaften des Nodes, wie z. B. die Anzahl der CPUs, die CPU-Geschwindigkeit und die RAM-Größe. Die Gesamtzahl der IOPS, die ein Aggregat bereitstellen kann, basiert auf den physischen Eigenschaften der Festplatten, z. B. einer SATA-, SAS- oder SSD-Festplatte. 
 ---
-= Was verfügbar ist, ist IOPS
+= Verfügbare IOPS in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

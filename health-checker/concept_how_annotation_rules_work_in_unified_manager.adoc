@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: annotation rules, work, unified manager 
 summary: 'Eine Anmerkungsregel ist ein Kriterium, das definiert wird, um Storage-Objekte (Volumes, Cluster oder Storage Virtual Machines (SVMs)) zu beschriften. Sie können für das Definieren von Beschriftungsregeln entweder Bedingungsgruppen oder Bedingungen verwenden.' 
 ---
-= Funktionieren von Anmerkungsregeln in Unified Manager
+= Wie Annotationsregeln in Active IQ Unified Manager funktionieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

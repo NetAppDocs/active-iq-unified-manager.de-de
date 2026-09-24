@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: fans, events, impact, area, availability 
 summary: Lüfterereignisse versorgen Sie mit Informationen zu den Statusventilatoren auf Nodes in Ihrem Datacenter, sodass Sie mögliche Probleme überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Fan-Events
+= Informationen zu Lüfterereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

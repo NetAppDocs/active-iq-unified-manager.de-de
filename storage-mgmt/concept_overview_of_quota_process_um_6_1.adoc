@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: overview, quota, process 
 summary: Kontingente können „weich“ oder „hart“ sein. Wenn festgelegte Grenzwerte überschritten werden, sorgt eine Soft Quota dafür, dass ONTAP eine Benachrichtigung sendet, wohingegen eine Hard Quota in diesem Fall einen Schreibvorgang fehlschlagen lässt. 
 ---
-= Überblick über den Quotenprozess
+= Informationen zum Kontingentprozess von Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

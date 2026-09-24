@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: data mirror, status, definitions 
 summary: MetroCluster Konfigurationen ermöglichen Datenspiegelung und zusätzlich die Möglichkeit, einen Failover zu initiieren, wenn der gesamte Standort nicht mehr verfügbar ist. Der Status der Datenspiegelung zwischen den Clustern in einer MetroCluster Konfiguration kann entweder „Normal“ oder „Spiegelung nicht verfügbar“ lauten. Wenn Sie diese Informationen kennen, können Sie Ihre MetroCluster Konfigurationen effektiv managen. 
 ---
-= Statusdefinitionen für Datenspiegelung für MetroCluster über FC
+= Informationen zu MetroCluster über FC-Datenspiegelung in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

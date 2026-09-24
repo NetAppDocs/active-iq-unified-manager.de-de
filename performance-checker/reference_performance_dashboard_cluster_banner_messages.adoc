@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, banner, messages, descriptions 
 summary: 'Unified Manager zeigt möglicherweise auf der Seite Benachrichtigungen (über die Bell wird über Benachrichtigung) Bannermeldungen an, um Sie über Statusprobleme für ein bestimmtes Cluster zu benachrichtigen.' 
 ---
-= Performance-Banner-Meldungen und -Beschreibungen
+= Performance-Bannermeldungen in Active IQ Unified Manager interpretieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

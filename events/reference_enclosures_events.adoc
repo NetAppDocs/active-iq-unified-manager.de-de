@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: enclosures, events, impact area, availability, configuration 
 summary: Gehäuse-Events liefern Ihnen Informationen zum Status der Festplatten-Shelf-Gehäuse im Datacenter, sodass Sie mögliche Probleme überwachen können. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
 ---
-= Gehäuse-Ereignisse
+= Informationen zu Gehäuseereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, data, external, server 
 summary: Unified Manager sammelt eine Vielzahl von Performance-Daten von allen überwachten Clustern. Sie können bestimmte Datengruppen an einen externen Server senden. 
 ---
-= Leistungsdaten, die an einen externen Server gesendet werden können
+= Übertragung von Active IQ Unified Manager Leistungsdaten an einen externen Server
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, values, annotations 
 summary: Sie können Werte löschen, die mit benutzerdefinierten Anmerkungen verknüpft sind, wenn dieser Wert nicht mehr für die Anmerkung gilt. 
 ---
-= Werte aus Anmerkungen löschen
+= Werte aus Anmerkungen in Active IQ Unified Manager löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

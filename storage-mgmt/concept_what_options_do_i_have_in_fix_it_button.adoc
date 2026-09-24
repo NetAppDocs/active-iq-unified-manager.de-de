@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: fix it,fix all 
 summary: Auf der Seite „Management Actions“ finden Sie die Schaltfläche „Fix it“ oder „Fix All“, um Probleme zu beheben, die Unified Manager über ein Ereignis benachrichtigt hat. 
 ---
-= Welche Optionen habe ich, wenn ich die Schaltfläche „alles beheben“ oder „Alle beheben“ sehe
+= Informationen zu den Schaltflächenoptionen „Reparieren“ und „Alle reparieren“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

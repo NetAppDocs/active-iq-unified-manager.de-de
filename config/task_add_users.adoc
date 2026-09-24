@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: add, users 
 summary: Sie können lokale Benutzer oder Datenbankbenutzer über die Seite Benutzer hinzufügen. Sie können auch Remote-Benutzer oder -Gruppen hinzufügen, die zu einem Authentifizierungsserver gehören. Sie können diesen Benutzern Rollen zuweisen. Anhand der Berechtigungen der Rollen können Benutzer Storage-Objekte und -Daten mit Unified Manager managen oder die Daten in einer Datenbank anzeigen. 
 ---
-= Benutzer hinzufügen
+= Hinzufügen von Benutzern in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

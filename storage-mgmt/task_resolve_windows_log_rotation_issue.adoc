@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: windows, log rotation issue, Netapp Manageability SDK 
 summary: 'Fehlerbehebung: Befolgen Sie diese Schritte, um das Problem mit der Protokollrotation zu beheben' 
 ---
-= Problem mit der Protokollrotation des NetApp Manageability SDK auf Windows-Systemen
+= Behebung eines Problems mit der Protokollrotation des NetApp Manageability SDK in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

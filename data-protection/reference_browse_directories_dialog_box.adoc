@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: browse, directories, dialog box 
 summary: Sie können das Dialogfeld Verzeichnisse durchsuchen verwenden, wenn Sie Daten in einem Verzeichnis eines Clusters und einer SVM wiederherstellen möchten, die sich von der ursprünglichen Quelle unterscheidet. Das ursprüngliche Quell-Cluster und das ursprüngliche Volume werden standardmäßig ausgewählt. 
 ---
-= Dialogfeld „Verzeichnisse durchsuchen“
+= Im Active IQ Unified Manager steht das Dialogfeld „Verzeichnisse durchsuchen“ zur Verfügung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

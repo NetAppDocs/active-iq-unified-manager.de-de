@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: delete, annotation rules 
 summary: Anmerkungsregeln können Sie aus Active IQ Unified Manager löschen, wenn die Regeln nicht mehr benötigt werden. 
 ---
-= Annotationsregeln löschen
+= Anmerkungsregeln in Active IQ Unified Manager löschen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

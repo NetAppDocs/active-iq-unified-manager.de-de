@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: advanced, destination, settings, dialog box 
 summary: Sie können das Dialogfeld Erweiterte Zieleinstellungen verwenden, um die Einstellungen für die Speicherplatzgarantien auf einem Zielvolume zu aktivieren. Möglicherweise wählen Sie erweiterte Einstellungen aus, wenn die Speicherplatzgarantie auf der Quelle deaktiviert ist, sie jedoch auf dem Ziel aktiviert sein soll. Die Einstellungen für Deduplizierung, Komprimierung und Autogrow in einer SnapMirror Beziehung setzen sich vom Quell-Volume fort und können nicht geändert werden. 
 ---
-= Dialogfeld „Erweiterte Zieleinstellungen“
+= Im Active IQ Unified Manager kann das Dialogfeld „Erweiterte Zieleinstellungen“ verwendet werden.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

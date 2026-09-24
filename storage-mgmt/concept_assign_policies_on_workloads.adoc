@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: assign, policies, workloads, single, multiple, storage, system-recommended, psls 
 summary: 'Sie können Storage-Workloads auf der Seite Alle Workloads mit verschiedenen Navigationsoptionen Storage Efficiency Policies (SEPs) und Performance Service Levels (PSLs) zuweisen.' 
 ---
-= Zuweisen von Richtlinien zu Workloads
+= Zuweisung von Richtlinien zu Workloads in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

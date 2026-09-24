@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: use, quotas 
 summary: Mithilfe von Quotas lässt sich die Ressourcennutzung in FlexVol Volumes begrenzen, Benachrichtigungen bereitstellen, wenn die Ressourcenauslastung bestimmte Level erreicht oder die Ressourcenauslastung nachverfolgt. 
 ---
-= Warum man Quoten verwendet
+= Informationen zu Quoten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

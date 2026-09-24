@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: remove, inactive, volumes, luns 
 summary: Wenn der freie Speicherplatz des Aggregats als Problem identifiziert wurde, können Sie nach nicht verwendeten Volumes und LUNs suchen und diese aus dem Aggregat löschen. Dies kann dazu beitragen, dass weniger Speicherplatz erforderlich ist. 
 ---
-= Entfernen Sie inaktive Volumes und LUNs
+= Entfernen inaktiver Volumes und LUNs in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

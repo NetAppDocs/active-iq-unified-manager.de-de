@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: monitor, jobs 
 summary: Auf der Seite Jobs können Sie den Jobstatus überwachen und Jobeigenschaften wie Speicherservicetyp, Status, Abges. Zeit und Abgeschlossene Zeit anzeigen, um zu bestimmen, ob ein Job erfolgreich abgeschlossen wurde oder nicht. 
 ---
-= Überwachen von Jobs
+= Überwachung von Aufträgen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

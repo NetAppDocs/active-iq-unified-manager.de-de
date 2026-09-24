@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: specify, custom, time range 
 summary: Auf der Seite „Performance Explorer“ können Sie den Datums- und Zeitbereich für Ihre Leistungsdaten angeben. Die Angabe eines benutzerdefinierten Zeitbereichs bietet größere Flexibilität als die Verwendung vordefinierter Zeitbereiche bei der Raffination von Cluster-Objektdaten. 
 ---
-= Geben Sie einen benutzerdefinierten Zeitraum an
+= Angeben eines benutzerdefinierten Zeitbereichs in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

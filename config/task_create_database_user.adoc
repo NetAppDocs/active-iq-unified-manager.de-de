@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, database, user 
 summary: Um eine Verbindung zwischen Workflow Automation und Unified Manager zu unterstützen oder auf Datenbankansichten zuzugreifen, müssen Sie in der Weboberfläche von Unified Manager zunächst einen Datenbankbenutzer mit dem Integrations-Schema oder dem Berichtschema erstellen. 
 ---
-= Erstellen eines Datenbankbenutzers
+= Erstellen eines Datenbankbenutzers in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

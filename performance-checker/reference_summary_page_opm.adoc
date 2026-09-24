@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: summary page, charts, counter, statistics 
 summary: Auf der Seite Zusammenfassung werden Zählerdiagramme angezeigt, die Details zu den Ereignissen und der Performance pro Objekt für den vorangegangenen 72-Stunden-Zeitraum enthalten. Diese Daten werden nicht automatisch aktualisiert, sondern sind zum letzten Laden der Seite aktuell. Die Diagramme auf der Zusammenfassungsseite beantworten die Frage muss ich weiter suchen? 
 ---
-= Übersichtsseite
+= Die Seite „Leistungsübersicht“ in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

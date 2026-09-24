@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: job, details, page 
 summary: Auf der Seite Job Details können Sie den Status und weitere Informationen zu bestimmten laufenden, in der Warteschlange befindlichen oder abgeschlossenen Sicherungsaufgaben anzeigen. Diese Informationen können Sie zur Überwachung des Arbeitsfortschritts des Schutzjobs und zur Behebung von Fehlern bei Jobs verwenden. 
 ---
-= Jobdetails
+= Informationen zur Seite mit den Auftragsdetails in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

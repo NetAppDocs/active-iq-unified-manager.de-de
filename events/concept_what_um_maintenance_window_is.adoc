@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: unified manager, maintenance, window 
 summary: Sie definieren ein Unified Manager Wartungsfenster, um Ereignisse und Warnmeldungen für einen bestimmten Zeitraum zu unterdrücken, wenn Sie für eine Cluster-Wartung geplant haben und keine unerwünschte Benachrichtigungen erhalten möchten. 
 ---
-= Was für ein Unified Manager-Wartungsfenster ist
+= Informationen zu den Wartungsfenstern von Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

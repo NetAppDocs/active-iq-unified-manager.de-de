@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configure, volume, health, thresholds, groups 
 summary: Sie können Zustandsschwellenwerte für Volumes auf Gruppenebene für Kapazität, Snapshot Kopien, qtree Kontingente, Wachstum und Inodes konfigurieren. 
 ---
-= Konfigurieren von Volume-Integritätsschwellenwerten für Gruppen
+= Konfiguration von Schwellenwerten für den Volume-Zustand für Gruppen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

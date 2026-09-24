@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: active iq, resolve, events 
 summary: Störungen und Risiken von Active IQ Plattformen ähneln anderen Ereignissen von Unified Manager, da sie anderen Benutzern zur Lösung zugewiesen werden können und denselben verfügbaren Status aufweisen. Wenn Sie jedoch diese Art von Ereignissen mithilfe der Schaltfläche „Beheben von Ereignissen“ beheben, können Sie die Auflösung innerhalb von Stunden überprüfen. 
 ---
-= Beheben Sie Active IQ-Plattformereignisse
+= Active IQ Plattformereignisse in Active IQ Unified Manager beheben
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: overview, installation, process 
 summary: Im Installations-Workflow werden die Aufgaben beschrieben, die Sie vor der Verwendung von Unified Manager ausführen müssen. 
 ---
-= Überblick über den Installationsprozess
+= Informationen zum Installationsprozess für Active IQ Unified Manager unter Windows
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

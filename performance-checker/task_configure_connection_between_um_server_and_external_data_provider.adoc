@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: configuring, connection, unified manager, server, external, data, provider 
 summary: Unified Manager kann Cluster-Leistungsdaten an einen externen Server senden. Sie können die Art der gesendeten statistischen Daten und das Intervall angeben, in dem Daten gesendet werden. 
 ---
-= Konfigurieren einer Verbindung von einem Unified Manager-Server zu einem externen Datenanbieter
+= Eine Verbindung zwischen Active IQ Unified Manager und einem externen Datenanbieter wird konfiguriert.
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: what, maintenance, user does, installation, unified manager 
 summary: Der Wartungsbenutzer wird während der Installation von Unified Manager auf einem Red hat Enterprise Linux-System erstellt. Der Wartungs-Benutzername ist der Benutzer „umadmin“. Der Wartungsbenutzer hat die Rolle „Anwendungsadministrator“ in der Web-Benutzeroberfläche, und dieser Benutzer kann nachfolgende Benutzer erstellen und ihnen Rollen zuweisen. 
 ---
-= Was der Wartungsbenutzer tut
+= Informationen zum Wartungsbenutzer in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

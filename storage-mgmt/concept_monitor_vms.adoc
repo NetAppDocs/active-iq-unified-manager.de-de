@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: monitor, virtual, machines, view, summary, topology, expand 
 summary: 'Um Latenzproblem der Virtual Machine (VM)-Applikationen zu beheben, müssen Sie möglicherweise die VMs überwachen, um die Ursache zu analysieren und zu beheben. Die VMs sind verfügbar, wenn ihr vCenter Server und die ONTAP Cluster, die den VM Storage hosten, zu Unified Manager hinzugefügt werden.' 
 ---
-= Überwachen virtueller Maschinen
+= Informationen dazu, wie Active IQ Unified Manager virtuelle Maschinen überwacht
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

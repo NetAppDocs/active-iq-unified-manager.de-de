@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: set up, authentication, services 
 summary: 'Authentifizierungsservices ermöglichen die Authentifizierung von Remote-Benutzern oder Remotegruppen in einem Authentifizierungsserver, bevor sie ihnen den Zugriff auf Unified Manager gewähren. Sie können Benutzer mithilfe von vordefinierten Authentifizierungsdiensten (z. B. Active Directory oder OpenLDAP) authentifizieren, oder indem Sie Ihren eigenen Authentifizierungsmechanismus konfigurieren.' 
 ---
-= Einrichten von Authentifizierungsdiensten
+= Einrichtung von Authentifizierungsdiensten in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: system, configuration, menu 
 summary: Über das Menü Systemkonfiguration können Sie Ihre virtuelle Appliance verwalten, indem Sie verschiedene Optionen angeben, z. B. den Serverstatus anzeigen und die virtuelle Maschine neu starten und herunterfahren. 
 ---
-= Menü Systemkonfiguration
+= Im Active IQ Unified Manager steht das Menü „Systemkonfiguration“ zur Verfügung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

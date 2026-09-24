@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: search, refine, view 
 summary: Nachdem Sie über die gewünschte Ansicht verfügen, können Sie die Ergebnisse mithilfe des Feldes „Suchen“ weiter verfeinern, um sich auf die Ergebnisse zu konzentrieren, die in den Bericht einbezogen werden sollen. 
 ---
-= Mit der Suche können Sie Ihre Ansicht verfeinern
+= Suche zur Verfeinerung Ihrer Ansicht in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

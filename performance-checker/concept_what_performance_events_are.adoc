@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: performance, events 
 summary: Performance-Ereignisse sind Störungen im Zusammenhang mit der Workload-Performance auf einem Cluster. Die Sie bei der Ermittlung von Workloads mit langsamen Reaktionszeiten unterstützen. Zusammen mit gleichzeitig aufgetretenen Gesundheitsereignissen können Sie die Probleme bestimmen, die die langsamen Reaktionszeiten verursacht oder dazu beigetragen haben. 
 ---
-= Was sind Performance-Ereignisse
+= Informationen zu Leistungsereignissen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, snapmirror, policy, dialog box 
 summary: Im Dialogfeld Richtlinie erstellen können Sie eine Richtlinie erstellen, mit der Sie die Priorität für SnapMirror Transfers festlegen können. Anhand von Richtlinien wird die Effizienz der Transfers von der Quelle zum Ziel maximiert. 
 ---
-= Dialogfeld SnapMirror-Richtlinie erstellen
+= Im Active IQ Unified Manager steht das Dialogfeld „SnapMirror Richtlinie erstellen“ zur Verfügung
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

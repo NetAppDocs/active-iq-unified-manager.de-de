@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: edit, user, settings 
 summary: Sie können Benutzereinstellungen, wie z. B. die E-Mail-Adresse und die Rolle, bearbeiten, die für jeden Benutzer angegeben sind. Beispielsweise können Sie die Rolle eines Benutzers, der ein Speicheroperator ist, ändern und dem Benutzer Berechtigungen für Speicheradministratoren zuweisen. 
 ---
-= Bearbeiten der Benutzereinstellungen
+= Benutzereinstellungen in Active IQ Unified Manager bearbeiten
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

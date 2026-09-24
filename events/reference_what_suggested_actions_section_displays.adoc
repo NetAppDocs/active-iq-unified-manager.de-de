@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: suggest, actions, section, displays 
 summary: Der Abschnitt „Empfohlene Maßnahmen“ auf der Seite „Veranstaltungsdetails“ enthält mögliche Gründe für das Ereignis und schlägt einige Maßnahmen vor, damit Sie versuchen können, das Ereignis selbst zu lösen. Die vorgeschlagenen Maßnahmen werden auf Grundlage der Art des Ereignisses oder des Schwellenwerts, die nicht eingehalten wurden, angepasst. 
 ---
-= Der Abschnitt „Empfohlene Maßnahmen“ wird angezeigt
+= Informationen zu empfohlenen Aktionen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

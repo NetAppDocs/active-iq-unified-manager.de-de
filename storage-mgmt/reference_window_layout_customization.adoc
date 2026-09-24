@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: window, layout, customization 
 summary: Active IQ Unified Manager ermöglicht Ihnen das Anpassen des Layouts für Informationen auf den Storage- und Netzwerk-Objektseiten. Durch Anpassen der Fenster können Sie steuern, welche Daten angezeigt werden und wie die Daten angezeigt werden. 
 ---
-= Anpassung des Fensterlayouts
+= Anpassen des Fensterlayouts in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

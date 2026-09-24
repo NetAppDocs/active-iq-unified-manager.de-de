@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: create, report, view, volume, transfers, day 
 summary: Sie können einen Bericht erstellen, um Volume-Transfers nach Tagen gruppiert anzuzeigen. 
 ---
-= Erstellen Sie einen Bericht, um Volumenübertragungen gruppiert nach Tag anzuzeigen
+= Ein Bericht zur Anzeige von nach Tag gruppierten Volume-Übertragungen in Active IQ Unified Manager
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
