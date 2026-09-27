@@ -2,7 +2,7 @@
 permalink: reporting/task_create_report_to_view_aggregates_that_are_nearly_full.html 
 sidebar: sidebar 
 keywords: create, report, view, aggregates, full 
-summary: 'Sie können einen Bericht erstellen, um die Aggregate zu markieren, die zu 80 % oder mehr voll sind.' 
+summary: Es lässt sich ein Bericht erstellen, der die Aggregate hervorhebt, die zu 80 Prozent oder mehr gefüllt sind. 
 ---
 = In Active IQ Unified Manager lässt sich ein Bericht erstellen, um Aggregate anzuzeigen, die zu 80 % oder mehr gefüllt sind
 :allow-uri-read: 

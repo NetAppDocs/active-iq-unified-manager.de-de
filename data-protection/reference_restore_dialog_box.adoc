@@ -83,7 +83,7 @@ Stellt die ausgewählten Daten an einem neuen Speicherort wieder her:
 +
 ** Pfad Wiederherstellen
 +
-Gibt einen alternativen Pfad für die Wiederherstellung der ausgewählten Daten an. Der Pfad muss bereits vorhanden sein. Mit der Schaltfläche *Browse* navigieren Sie zum Speicherort, an dem die Daten wiederhergestellt werden sollen, oder Sie können den Pfad manuell mit dem Format Cluster://svm/Volume/path eingeben.
+Gibt einen alternativen Pfad zum Wiederherstellen der ausgewählten Daten an. Der Pfad muss bereits existieren. Über die Schaltfläche *Durchsuchen* kann zu dem Speicherort navigiert werden, an dem die Daten wiederhergestellt werden sollen, oder der Pfad kann manuell im Format  `cluster://svm/volume/path` eingegeben werden.
 
 ** Verzeichnishierarchie beibehalten
 +

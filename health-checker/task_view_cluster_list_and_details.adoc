@@ -2,7 +2,7 @@
 permalink: health-checker/task_view_cluster_list_and_details.html 
 sidebar: sidebar 
 keywords: view, cluster list, details 
-summary: 'Sie können die Ansicht Health: All Clusters verwenden, um Ihr Inventar der Cluster anzuzeigen. Die Kapazität: Alle Cluster-Ansichten ermöglichen die Anzeige zusammengefasste Informationen zur Storage-Kapazität und Auslastung in allen Clustern.' 
+summary: Auf der Seite „Integrität“ bietet die Ansicht „Alle Cluster“ einen Überblick über Ihren Clusterbestand, und auf der Seite „Kapazität“ bietet die Ansicht „Alle Cluster“ Details zur Speicherkapazität und -auslastung. 
 ---
 = Die Clusterliste und Details sind im Active IQ Unified Manager verfügbar
 :allow-uri-read: 

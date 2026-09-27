@@ -2,7 +2,7 @@
 permalink: health-checker/task_view_node_list_and_details.html 
 sidebar: sidebar 
 keywords: view, node list, details 
-summary: 'Sie können die Ansicht Systemzustand: Alle Knoten verwenden, um die Liste der Knoten in Ihren Clustern anzuzeigen. Mit der Seite „Cluster/Systemzustand“ werden ausführliche Informationen zu Nodes angezeigt, die Teil des überwachten Clusters sind.' 
+summary: Auf der Seite „Integrität“ steht die Ansicht „Alle Knoten“ zur Verfügung, in der die Liste der Knoten in Ihren Clustern angezeigt wird, sowie die Seite „Cluster-Integritätsdetails“ mit detaillierten Informationen zu den Knoten. 
 ---
 = Die Knotenliste und Details in Active IQ Unified Manager
 :allow-uri-read: 

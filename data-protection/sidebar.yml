@@ -3,13 +3,13 @@ section: data-protection
 title: Sichern und Wiederherstellen von Daten
 entries:
 - title: Erstellen und Beheben von Problemen mit Schutzbeziehungen
-  url: "/data-protection/concept_create_and_monitor_protection_relationships.html"
   entries:
   - title: Arten der SnapMirror Sicherung
     url: "/data-protection/concept_types_of_snapmirror_protection.html"
   - title: Einrichten von Schutzbeziehungen im Unified Manager
-    url: "/data-protection/task_set_up_protection_relationships_in_unified_manager.html"
     entries:
+    - title: Informationen zum Einrichten von Schutzbeziehungen
+      url: "/data-protection/task_set_up_protection_relationships_in_unified_manager.html"
     - title: Konfigurieren Sie eine Verbindung zwischen Workflow Automation und Unified
         Manager
       url: "/data-protection/task_configure_connection_between_workflow_automation_um.html"
@@ -21,8 +21,9 @@ entries:
     - title: Entfernen Sie das OnCommand Workflow Automation-Setup aus Unified Manager
       url: "/data-protection/task_remove_workflow_automation.html"
   - title: Durchführen eines Failovers und Failbacks einer Schutzbeziehung
-    url: "/data-protection/task_perform_protection_relationship_failover_and_failback.html"
     entries:
+    - title: Informationen zu Failover und Failback
+      url: "/data-protection/task_perform_protection_relationship_failover_and_failback.html"
     - title: Unterbrechen Sie eine SnapMirror-Beziehung von der Seite mit den Volume-Integritätsdetails
       url: "/data-protection/task_break_snapmirror_relationship_from_health_volume_details.html"
     - title: Umgekehrte Schutzbeziehungen von der Seite „Volume-Integritätsdetails“
@@ -32,16 +33,19 @@ entries:
     - title: Neusynchronisieren von Schutzbeziehungen über die Seite „Volume-Integritätsdetails“
       url: "/data-protection/task_resynchronize_protection_relationships_voldtls.html"
   - title: Beheben eines Schutzauftragsfehlers
-    url: "/data-protection/task_resolve_protection_job_failure.html"
     entries:
+    - title: Hier wird erläutert, wie sich ein Fehler bei einem Schutzauftrag beheben
+        lässt.
+      url: "/data-protection/task_resolve_protection_job_failure.html"
     - title: Identifizieren Sie das Problem und führen Sie Korrekturmaßnahmen für
         einen fehlgeschlagenen Schutzauftrag durch
       url: "/data-protection/task_identify_problem_for_failed_protection_job.html"
   - title: Beheben von Verzögerungsproblemen
     url: "/data-protection/task_resolve_lag_issues.html"
 - title: Verwalten und Überwachen von Schutzbeziehungen
-  url: "/data-protection/concept_manage_and_monitor_protection_relationships.html"
   entries:
+  - title: Informationen zur Verwaltung und Überwachung von Schutzbeziehungen
+    url: "/data-protection/concept_manage_and_monitor_protection_relationships.html"
   - title: Anzeigen des Volume-Schutzstatus
     url: "/data-protection/view-protection-status.html"
   - title: Anzeigen von Volume-Schutzbeziehungen
@@ -126,8 +130,9 @@ entries:
   - title: Ressourcenpools löschen
     url: "/data-protection/task_delete_resource_pools.html"
   - title: Überwachen der Schutzbeziehungen bei der Speicher-VM-Notfallwiederherstellung
-    url: "/data-protection/concept_monitor_storage_vm_disaster_recovery_relationships.html"
     entries:
+    - title: Informationen zu Disaster-Recovery-Beziehungen zwischen Storage VMs
+      url: "/data-protection/concept_monitor_storage_vm_disaster_recovery_relationships.html"
     - title: Überwachen von Speicher-VMs mithilfe der Seite „Beziehungen“
       url: "/data-protection/task_monitor_storage_vms_using_relationships_page.html"
     - title: Schutzbeziehungen auf der Seite „Storage-VMs“ anzeigen
@@ -149,7 +154,6 @@ entries:
   - title: Wiederholen Sie einen fehlgeschlagenen Schutzauftrag
     url: "/data-protection/task_retry_failed_protection_job.html"
   - title: Beschreibung der Fenster und Dialogfelder zu Sicherungsbeziehungen
-    url: "/data-protection/reference_description_of_protection_relationships_window.html"
     entries:
     - title: Seite „Ressourcen-Pools“
       url: "/data-protection/reference_resource_pools_page.html"

@@ -2,7 +2,7 @@
 permalink: performance-checker/concept_types_of_workloads_monitored_by_unified_manager.html 
 sidebar: sidebar 
 keywords: types, workloads, monitored, unified manager 
-summary: 'Mit Unified Manager lässt sich die Performance von zwei Workload-Typen überwachen: Benutzerdefiniert und systemdefiniert.' 
+summary: Mit Unified Manager lässt sich die Leistung von zwei Workload-Typen überwachen, benutzerdefinierten und systemdefinierten. 
 ---
 = Die Überwachung von Workload-Typen mit Active IQ Unified Manager
 :allow-uri-read: 

@@ -2,7 +2,7 @@
 permalink: storage-mgmt/concept_typical_window_layouts_um_6_x.html 
 sidebar: sidebar 
 keywords: typical, window, layouts, object, list, details 
-summary: 'Das Verständnis der typischen Fensterlayouts hilft Ihnen, Active IQ Unified Manager effektiv zu nutzen und zu navigieren. Die meisten Unified Manager-Fenster ähneln einem von zwei allgemeinen Layouts: Objektliste oder Details. Die empfohlene Bildschirmeinstellung beträgt mindestens 1280 x 1024 Pixel.' 
+summary: Die typischen Unified Manager Fensterlayouts, die Objektliste bzw. die Details sowie die empfohlenen Anzeigeeinstellungen für eine effektive Navigation werden beschrieben. 
 ---
 = Typische Fensterlayouts in Active IQ Unified Manager
 :allow-uri-read: 

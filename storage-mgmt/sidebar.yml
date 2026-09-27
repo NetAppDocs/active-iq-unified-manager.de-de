@@ -3,8 +3,9 @@ section: storage-mgmt
 title: Überwachung und Management von Storage
 entries:
 - title: Einführung in Active IQ Unified Manager
-  url: "/storage-mgmt/concept_introduction_to_unified_manager.html"
   entries:
+  - title: Informationen zu Active IQ Unified Manager
+    url: "/storage-mgmt/concept_introduction_to_unified_manager.html"
   - title: Einführung in das Active IQ Unified Manager Monitoring des Systemzustands
     url: "/storage-mgmt/concept_introduction_to_unified_manager_health_monitoring.html"
   - title: Einführung in das Active IQ Unified Manager Performance-Monitoring
@@ -12,13 +13,15 @@ entries:
   - title: Verwenden Sie Unified Manager REST-APIs
     url: "/storage-mgmt/concept_use_unified_manager_rest_apis_ocum.html"
   - title: Was macht der Unified Manager Server
-    url: "/storage-mgmt/concept_what_unified_manager_server_does.html"
     entries:
+    - title: Informationen zum Unified Manager Server
+      url: "/storage-mgmt/concept_what_unified_manager_server_does.html"
     - title: Funktionsweise des Erkennungsvorgangs
       url: "/storage-mgmt/concept_how_discovery_process_works_tobe_rmvd.html"
 - title: Verstehen Sie die Benutzeroberfläche
-  url: "/storage-mgmt/concept_understand_user_interface.html"
   entries:
+  - title: Informationen zur Benutzeroberfläche
+    url: "/storage-mgmt/concept_understand_user_interface.html"
   - title: Typische Fensterlayouts
     url: "/storage-mgmt/concept_typical_window_layouts_um_6_x.html"
   - title: Anpassung des Fensterlayouts
@@ -36,13 +39,15 @@ entries:
   - title: Zeigen Sie aktive Ereignisse über die Benachrichtigungsglocke an
     url: "/storage-mgmt/task_view_active_events_from_notification_bell.html"
 - title: Überwachen und verwalten Sie Cluster über das Dashboard
-  url: "/storage-mgmt/concept_monitor_and_manage_clusters_from_dashboard.html"
   entries:
+  - title: Dashboard Panels
+    url: "/storage-mgmt/concept_monitor_and_manage_clusters_from_dashboard.html"
   - title: Dashboard-Seite
     url: "/storage-mgmt/reference_dashboard_page.html"
   - title: Beheben oder verwalten Sie ONTAP-Probleme direkt vom Unified Manager
-    url: "/storage-mgmt/concept_fix_ontap_issues_directly_from_unified_manager.html"
     entries:
+    - title: ONTAP Probleme und Funktionen verwalten
+      url: "/storage-mgmt/concept_fix_ontap_issues_directly_from_unified_manager.html"
     - title: Welche Optionen habe ich, wenn ich die Schaltfläche „alles beheben“ oder
         „Alle beheben“ sehe
       url: "/storage-mgmt/concept_what_options_do_i_have_in_fix_it_button.html"
@@ -53,7 +58,6 @@ entries:
     - title: Überschreiben von Verwaltungsaktionen durch Skripte
       url: "/storage-mgmt/concept_override_management_actions_through_scripts.html"
 - title: Verwalten von Clustern
-  url: "/storage-mgmt/concept_manage_clusters.html"
   entries:
   - title: Funktionsweise der Cluster-Erkennung
     url: "/storage-mgmt/concept_how_discovery_process_works.html"
@@ -68,8 +72,9 @@ entries:
   - title: Cluster-Erkennung neu ermitteln
     url: "/storage-mgmt/task_rediscover_clusters.html"
 - title: Überwachen Sie die virtuelle VMware-Infrastruktur
-  url: "/storage-mgmt/concept_monitor_vmware_virtual_infrastructure.html"
   entries:
+  - title: Informationen zur Überwachung der virtuellen Infrastruktur mit VMware
+    url: "/storage-mgmt/concept_monitor_vmware_virtual_infrastructure.html"
   - title: Anzeigen und Hinzufügen von vCenter Server
     url: "/storage-mgmt/task_view_and_add_vcenter_servers.html"
   - title: Entfernen von vCenter Server
@@ -79,11 +84,13 @@ entries:
   - title: Anzeigen der virtuellen Infrastruktur in einem Disaster Recovery-Setup
     url: "/storage-mgmt/concept_mcc_svmdr_vmawareness.html"
 - title: Bereitstellen und Verwalten von Workloads
-  url: "/storage-mgmt/concept_provision_and_manage_workloads.html"
   entries:
+  - title: Informationen zur Bereitstellung und Verwaltung von Workloads
+    url: "/storage-mgmt/concept_provision_and_manage_workloads.html"
   - title: Workload-Überblick
-    url: "/storage-mgmt/concept_workloads_dashboard.html"
     entries:
+    - title: Informationen zum Workloads Dashboard
+      url: "/storage-mgmt/concept_workloads_dashboard.html"
     - title: Arbeitslasten anzeigen
       url: "/storage-mgmt/concept_all_workloads.html"
     - title: Zuweisen von Richtlinien zu Workloads
@@ -93,17 +100,18 @@ entries:
     - title: Bereitstellung von LUNs
       url: "/storage-mgmt/task_provision_luns.html"
   - title: Verwalten von Leistungsserviceleveln
-    url: "/storage-mgmt/concept_manage_performance_service_levels.html"
     entries:
+    - title: Informationen zu Performance Service Levels
+      url: "/storage-mgmt/concept_manage_performance_service_levels.html"
     - title: Erstellen und Bearbeiten von Performance-Service-Levels
       url: "/storage-mgmt/task_create_and_edit_psls.html"
   - title: Verwalten von Speichereffizienzrichtlinien
-    url: "/storage-mgmt/concept_manage_storage_efficiency_policies.html"
     entries:
+    - title: Informationen zu Richtlinien zur Speichereffizienz
+      url: "/storage-mgmt/concept_manage_storage_efficiency_policies.html"
     - title: Erstellen und Bearbeiten von Speichereffizienzrichtlinien
       url: "/storage-mgmt/task_create_and_edit_seps.html"
 - title: Verwalten und Überwachen von MetroCluster-Konfigurationen
-  url: "/storage-mgmt/concept_manage_and_monitor_metrocluster_configurations.html"
   entries:
   - title: Volume-Verhalten während des Umschalens und Zurück
     url: "/storage-mgmt/concept_volume_behavior_during_switchover_and_switchback.html"
@@ -116,7 +124,6 @@ entries:
   - title: Überwachen der MetroCluster-Replikation
     url: "/storage-mgmt/task_monitor_metrocluster_replication.html"
 - title: Verwalten von Kontingenten
-  url: "/storage-mgmt/concept_manage_quotas.html"
   entries:
   - title: Welche Kontingentbeschränkungen sind
     url: "/storage-mgmt/concept_what_quota_limits_are.html"
@@ -129,7 +136,6 @@ entries:
   - title: Bearbeiten Sie die E-Mail-Adressen der Benutzer- und Gruppenkontingente
     url: "/storage-mgmt/task_edit_user_and_group_quota_email_addresses.html"
   - title: Erfahren Sie mehr über Quoten
-    url: "/storage-mgmt/concept_understand_more_about_quotas.html"
     entries:
     - title: Überblick über den Quotenprozess
       url: "/storage-mgmt/concept_overview_of_quota_process_um_6_1.html"
@@ -138,18 +144,19 @@ entries:
     - title: Warum man Quoten verwendet
       url: "/storage-mgmt/concept_why_you_use_quotas.html"
   - title: Beschreibung der Dialogfelder Quotas
-    url: "/storage-mgmt/reference_description_of_quotas_dialog_boxes.html"
     entries:
+    - title: Das Dialogfeld „Kontingente“ verwenden
+      url: "/storage-mgmt/reference_description_of_quotas_dialog_boxes.html"
     - title: Seite „Format für E-Mail-Benachrichtigungen“
       url: "/storage-mgmt/reference_email_notification_format_page.html"
     - title: Regeln zum Erstellen der E-Mail-Adresse für Benutzer- und Gruppenkontingente
       url: "/storage-mgmt/reference_rules_to_generate_user_and_group_quota.html"
 - title: Fehlerbehebung
-  url: "/storage-mgmt/concept_troubleshooting.html"
   entries:
   - title: Fügen Sie dem Unified Manager-Datenbankverzeichnis Speicherplatz hinzu
-    url: "/storage-mgmt/concept_add_disk_space_to_um_database_directory.html"
     entries:
+    - title: Informationen zum Hinzufügen von Speicherplatz zum Datenbankverzeichnis
+      url: "/storage-mgmt/concept_add_disk_space_to_um_database_directory.html"
     - title: Fügen Sie Speicherplatz zur Datenfestplatte der virtuellen VMware-Maschine
         hinzu
       url: "/storage-mgmt/task_add_space_to_data_disk_of_vmware.html"

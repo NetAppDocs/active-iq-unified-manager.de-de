@@ -2,7 +2,7 @@
 permalink: health-checker/concept_common_unified_manager_administrative_workflows_and_tasks.html 
 sidebar: sidebar 
 keywords: Common, unified, manager, health, workflows, tasks 
-summary: 'Zu den geläufigsten administrativen Workflows und Aufgaben für Unified Manager gehört die Auswahl der zu überwachenden Storage-Cluster, die Diagnose von Bedingungen, die sich nachteilig auf die Datenverfügbarkeit, -Kapazität und -Sicherung auswirken, die Wiederherstellung verlorener Daten, die Konfiguration und das Management von Volumes sowie die Bündelung und das Senden von Diagnosedaten an den technischen Support (falls erforderlich).' 
+summary: Informationen zu gängigen administrativen Arbeitsabläufen, einschließlich der Überwachung von Clustern, der Diagnose von Verfügbarkeits- und Kapazitätsproblemen und des Sendens von Diagnosedaten an den Support. 
 ---
 = Verständnis gängiger Active IQ Unified Manager Arbeitsabläufe und Aufgaben im Zusammenhang mit dem Zustand
 :allow-uri-read: 
@@ -35,7 +35,7 @@ Wenn Probleme mit der Speicherkapazität von Volumes auf der Seite Dashboard ang
 
 * Konfiguration, Monitoring und Diagnose von Problemen bei der Sicherungsbeziehung
 +
-Nach dem Erstellen und Konfigurieren von Sicherungsbeziehungen können Storage-Administratoren mögliche Probleme im Zusammenhang mit Sicherungsbeziehungen, den aktuellen Zustand der Sicherungsbeziehungen, die aktuellen und historischen Sicherungsinformationen zu den betroffenen Beziehungen sowie Hinweise zur Fehlerbehebung anzeigen. Siehe link:../data-protection/concept_create_and_monitor_protection_relationships.html["Erstellen, Überwachen und Beheben von Sicherungsbeziehungen"] Finden Sie weitere Informationen.
+Nach dem Erstellen und Konfigurieren von Schutzbeziehungen können Speicheradministratoren potenzielle Probleme im Zusammenhang mit Schutzbeziehungen, den aktuellen Status der Schutzbeziehungen, Informationen über den aktuellen und bisherigen Erfolg von Schutzaufträgen für die betroffenen Beziehungen sowie Hinweise zur Fehlerbehebung einsehen. Weitere Informationen finden Sie in link:../data-protection/concept_manage_and_monitor_protection_relationships.html["Informationen zur Verwaltung und Überwachung von Schutzbeziehungen"].
 
 * Erstellen von Backup-Dateien und Wiederherstellen von Daten aus Backup-Dateien.
 * Verknüpfen von Speicherobjekten mit Anmerkungen

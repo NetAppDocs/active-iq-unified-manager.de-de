@@ -2,7 +2,7 @@
 permalink: performance-checker/reference_summary_page_opm.html 
 sidebar: sidebar 
 keywords: summary page, charts, counter, statistics 
-summary: Auf der Seite Zusammenfassung werden Zählerdiagramme angezeigt, die Details zu den Ereignissen und der Performance pro Objekt für den vorangegangenen 72-Stunden-Zeitraum enthalten. Diese Daten werden nicht automatisch aktualisiert, sondern sind zum letzten Laden der Seite aktuell. Die Diagramme auf der Zusammenfassungsseite beantworten die Frage muss ich weiter suchen? 
+summary: Auf der Übersichtsseite werden Zählerdiagramme mit Ereignis- und Leistungsdetails pro Objekt für den vorangegangenen 72-Stunden-Zeitraum angezeigt, Stand des letzten Ladevorgangs. 
 ---
 = Die Seite „Leistungsübersicht“ in Active IQ Unified Manager
 :allow-uri-read: 

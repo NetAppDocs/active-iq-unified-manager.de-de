@@ -2,7 +2,7 @@
 permalink: health-checker/task_view_volume_list_and_details.html 
 sidebar: sidebar 
 keywords: view, volume list, details 
-summary: 'In der Ansicht „Systemzustand: Alle Volumes“ können Sie Ihr Inventar von Volumes überwachen. Die Kapazität: Die Ansicht aller Volumes ermöglicht die Anzeige von Informationen zur Kapazität und Auslastung von Volumes in einem Cluster.' 
+summary: Mithilfe der Ansicht „Alle Volumes“ auf der Seite „Integrität“ lässt sich Ihr Volume-Bestand überwachen, und die Ansicht „Alle Volumes“ auf der Seite „Kapazität“ bietet Details zu Kapazität und Auslastung. 
 ---
 = Die Volumenliste und Details in Active IQ Unified Manager anzeigen
 :allow-uri-read: 

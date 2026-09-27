@@ -24,7 +24,7 @@ Durch Ausführen des `GET` Methode für das `/management-server/events` API, Sie
 
 Durch Ausführen des PATCH-Vorgangs für diese API können Sie den Auflösungsworkflow für das Ereignis aktivieren. Sie können sich selbst oder einem anderen Benutzer ein Ereignis zuweisen und den Empfang der Veranstaltung bestätigen. Wenn Sie die Schritte auf den Ressourcen ausführen, um das Problem, das das Ereignis ausgelöst hat, zu beheben, können Sie diese API verwenden, um das Ereignis als gelöst zu markieren.
 
-Weitere Informationen zu Veranstaltungen finden Sie unter link:../events/concept_manage_events.html["Ereignisse verwalten"].
+Weitere Informationen zu Ereignissen finden Sie unter link:../events/concept_what_active_iq_platform_events_are.html["Informationen zu Active IQ Plattformereignissen"].
 
 [cols="4*"]
 |===
@@ -60,7 +60,7 @@ Führen Sie diese API aus, um ein Ereignis zuzuweisen oder den Status auf „bes
 
 Ereignisse werden automatisch und kontinuierlich generiert. Unified Manager generiert eine Meldung nur, wenn ein Ereignis bestimmte Filterkriterien erfüllt. Sie können die Ereignisse auswählen, für die Warnmeldungen generiert werden sollen. Durch Verwendung des `/management-server/alerts` API: Sie können Benachrichtigungen so konfigurieren, dass Benachrichtigungen automatisch gesendet werden, wenn bestimmte Ereignisse oder Ereignisse bestimmter Schweregrade auftreten.
 
-Weitere Informationen zu Warnmeldungen finden Sie unter link:../events/concept_manage_alerts.html["Verwalten von Meldungen"].
+Weitere Informationen zu Warnmeldungen finden Sie unter link:../events/concept_what_alerts_are.html["Informationen zu Benachrichtigungen"].
 
 [cols="4*"]
 |===

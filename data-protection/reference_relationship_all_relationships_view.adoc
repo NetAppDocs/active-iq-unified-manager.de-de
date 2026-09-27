@@ -2,7 +2,7 @@
 permalink: data-protection/reference_relationship_all_relationships_view.html 
 sidebar: sidebar 
 keywords: volume, relationships, metrocluster 
-summary: 'Die Beziehung: Die Ansicht „Alle Beziehungen“ zeigt Informationen über Sicherungsbeziehungen auf dem Storage-System an.' 
+summary: Die Ansicht „Alle Beziehungen“ auf der Seite „Beziehungen“ zeigt Informationen zu Schutzbeziehungen auf dem Speichersystem an. 
 ---
 = Anzeige der Beziehungen: Alle Beziehungen in Active IQ Unified Manager
 :allow-uri-read: 

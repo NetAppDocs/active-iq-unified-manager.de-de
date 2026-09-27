@@ -2,7 +2,7 @@
 permalink: data-protection/task_create_snapmirror_relationship_from_health_volumes.html 
 sidebar: sidebar 
 keywords: create, snapmirror, protection, relationship, health, volumes view 
-summary: 'Nutzung der Ansicht „Systemzustand“: Alle Volumes ermöglichen das Erstellen mehrerer SnapMirror Sicherungsbeziehungen gleichzeitig, indem Sie mehrere Volumes auf derselben Storage-VM auswählen.' 
+summary: Mithilfe der Ansicht „Alle Volumes“ auf der Seite „Integrität“ lassen sich mehrere SnapMirror Schutzbeziehungen gleichzeitig für Volumes auf derselben Speicher-VM erstellen. 
 ---
 = Erstellung einer SnapMirror Beziehung in der Ansicht „Integrität: Alle Volumes“ in Active IQ Unified Manager
 :allow-uri-read: 

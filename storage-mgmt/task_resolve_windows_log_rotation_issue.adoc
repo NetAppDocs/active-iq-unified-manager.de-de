@@ -2,7 +2,7 @@
 permalink: storage-mgmt/task_resolve_windows_log_rotation_issue.html 
 sidebar: sidebar 
 keywords: windows, log rotation issue, Netapp Manageability SDK 
-summary: 'Fehlerbehebung: Befolgen Sie diese Schritte, um das Problem mit der Protokollrotation zu beheben' 
+summary: Mit den folgenden Schritten lässt sich das Problem mit der Windows-Protokollrotation beheben. 
 ---
 = Behebung eines Problems mit der Protokollrotation des NetApp Manageability SDK in Active IQ Unified Manager
 :allow-uri-read: 

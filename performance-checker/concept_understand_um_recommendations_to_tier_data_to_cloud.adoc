@@ -2,7 +2,7 @@
 permalink: performance-checker/concept_understand_um_recommendations_to_tier_data_to_cloud.html 
 sidebar: sidebar 
 keywords: understand, unified manager, recommendations, tier, data, cloud 
-summary: 'Die Ansicht Leistung: Alle Volumes zeigt Informationen zur Größe der auf dem inaktiven (kalten) Volume gespeicherten Benutzerdaten an. In einigen Fällen erkennt Unified Manager bestimmte Volumes, die durch das Tiering inaktiver Daten auf das Cloud-Tier (Cloud-Provider oder StorageGRID) eines FabricPool-fähigen Aggregats profitieren würden.' 
+summary: 'Die Ansicht „Alle Volumes“ auf der Performance-Seite zeigt die Größe inaktiver (kalter) Daten an und identifiziert Volumes, die von einem Tiering in einen FabricPool Cloud-Tier profitieren würden.' 
 ---
 = Die Empfehlungen von Active IQ Unified Manager für das Tiering von Daten in die Cloud können in Active IQ Unified Manager überprüft werden.
 :allow-uri-read: 

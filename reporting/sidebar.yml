@@ -3,11 +3,13 @@ section: reporting
 title: Erstellen benutzerdefinierter Berichte
 entries:
 - title: Unified Manager Berichterstellung
-  url: "/reporting/concept_unified_manager_reporting.html"
   entries:
+  - title: Informationen zur Berichtsfunktion von Unified Manager
+    url: "/reporting/concept_unified_manager_reporting.html"
   - title: Access Points zur Erstellung von Berichten
-    url: "/reporting/concept_report_access_points.html"
     entries:
+    - title: Möglichkeiten für den Zugriff auf Berichtsfunktionen
+      url: "/reporting/concept_report_access_points.html"
     - title: Auf Unified Manager-Datenbanken kann für individuelle Berichte zugegriffen
         werden
       url: "/reporting/concept_unified_manager_databases_accessible_for_reporting.html"
@@ -23,7 +25,6 @@ entries:
   - title: Berichtseinschränkungen
     url: "/reporting/reference_reporting_limitations.html"
 - title: Arbeiten mit Berichten
-  url: "/reporting/concept_work_with_reports.html"
   entries:
   - title: Berichtsworkflow zu erstellen
     url: "/reporting/concept_report_work_flow.html"
@@ -32,8 +33,9 @@ entries:
   - title: Suchen nach einem geplanten Bericht
     url: "/reporting/task_search_for_scheduled_report.html"
   - title: Berichte anpassen
-    url: "/reporting/concept_customize_reports.html"
     entries:
+    - title: Informationen zur Anpassung von Berichten
+      url: "/reporting/concept_customize_reports.html"
     - title: Spalten anpassen
       url: "/reporting/task_customize_columns.html"
     - title: Daten filtern
@@ -47,25 +49,28 @@ entries:
   - title: Berichte herunterladen
     url: "/reporting/task_download_reports.html"
 - title: Planen von Berichten
-  url: "/reporting/concept_schedule_reports.html"
   entries:
+  - title: Informationen zur Planung von Berichten
+    url: "/reporting/concept_schedule_reports.html"
   - title: Planen eines Berichts
-    url: "/reporting/task_schedule_report.html"
     entries:
+    - title: Erstellung eines Berichtsplans
+      url: "/reporting/task_schedule_report.html"
     - title: Planen Sie importierte .rptdesign-Berichte
       url: "/reporting/task_schedule_an_imported_report.html"
   - title: Berichtszeitpläne verwalten
-    url: "/reporting/task_manage_report_schedules.html"
     entries:
+    - title: Anzeigen, Bearbeiten und Löschen von Berichtszeitplänen
+      url: "/reporting/task_manage_report_schedules.html"
     - title: Geplante Berichte bearbeiten
       url: "/reporting/task_edit_scheduled_reports.html"
     - title: Geplante Berichte löschen
       url: "/reporting/task_delete_scheduled_reports.html"
 - title: Beispiel für benutzerdefinierte Berichte
-  url: "/reporting/concept_sample_custom_reports.html"
   entries:
+  - title: Beispielhafte benutzerdefinierte Berichte verstehen
+    url: "/reporting/concept_sample_custom_reports.html"
   - title: Anpassen von Cluster-Speicherberichten
-    url: "/reporting/concept_customize_cluster_storage_reports.html"
     entries:
     - title: Erstellen eines Berichts zum Anzeigen der Kapazität nach Clustermodell
       url: "/reporting/task_create_report_to_view_capacity_by_cluster_model.html"
@@ -79,7 +84,6 @@ entries:
         von ONTAP ausgeführt werden
       url: "/reporting/task_create_report_view_nodes_running_older_versions_of_ontap.html"
   - title: Anpassen aggregierter Kapazitätsberichte
-    url: "/reporting/concept_customize_aggregate_capacity_reports.html"
     entries:
     - title: Erstellen Sie einen Bericht, um anzuzeigen, dass Aggregate ihre volle
         Kapazität erreichen
@@ -89,7 +93,6 @@ entries:
     - title: Erstellen Sie einen Bericht, um überbelegte Aggregate anzuzeigen
       url: "/reporting/task_create_report_to_view_aggregates_that_are_overcommitted.html"
   - title: Anpassen von Volume-Kapazitätsberichten
-    url: "/reporting/concept_customize_volume_capacity_reports.html"
     entries:
     - title: Erstellen Sie einen Bericht, um Volumes zu identifizieren, die sich der
         vollen Kapazität nähern und bei denen die automatische Löschung von Snapshots
@@ -102,13 +105,13 @@ entries:
         identifizieren, die Daten in die Cloud-Ebene verschieben sollen
       url: "/reporting/task_create_report_volumes_that_should_move_data_to_cloud_tier.html"
   - title: Passen Sie Qtree-Kapazitätsberichte an
-    url: "/reporting/concept_customize_qtree_capacity_reports.html"
     entries:
     - title: Erstellen Sie einen Bericht, um fast volle Qtrees anzuzeigen
       url: "/reporting/task_create_report_to_view_qtrees_that_are_nearly_full.html"
   - title: Anpassen von NFS-Freigabeberichten
-    url: "/reporting/concept_customize_nfs_share_reports.html"
     entries:
+    - title: Informationen zum Anpassen von NFS-Freigabeberichten
+      url: "/reporting/concept_customize_nfs_share_reports.html"
     - title: Erstellen Sie einen Bericht, um Volumes anzuzeigen, deren Mount-Pfad
         nicht zugänglich ist
       url: "/reporting/task_create_report_to_view_volumes_with_an_inaccessible_junction_path.html"
@@ -116,16 +119,18 @@ entries:
         verwenden
       url: "/reporting/task_create_report_to_view_volumes_with_default_export_policy.html"
   - title: Anpassen von Speicher-VM-Berichten
-    url: "/reporting/concept_customize_svm_reports.html"
     entries:
+    - title: Informationen zur Anpassung von Berichten zu Speicher-VMs
+      url: "/reporting/concept_customize_svm_reports.html"
     - title: Erstellen Sie einen Bericht, um Speicher-VMs anzuzeigen, die das maximale
         Volumenlimit erreichen
       url: "/reporting/task_create_report_to_view_svms_reaching_maximum_volume_limit.html"
     - title: Erstellen Sie einen Bericht zum Anzeigen gestoppter Speicher-VMs
       url: "/reporting/task_create_report_to_view_stopped_svms.html"
   - title: Anpassen von Volumenbeziehungsberichten
-    url: "/reporting/concept_customize_volume_relationship_reports.html"
     entries:
+    - title: Informationen zur Anpassung von Berichten zu Volume Beziehungen
+      url: "/reporting/concept_customize_volume_relationship_reports.html"
     - title: Erstellen Sie einen Bericht, um Volumenbeziehungen nach Fehlerquelle
         zu gruppieren
       url: "/reporting/task_create_report_volume_relationships_source_of_failure.html"
@@ -144,14 +149,14 @@ entries:
         anzuzeigen
       url: "/reporting/task_create_report_to_view_volume_transfers_grouped_by_day.html"
   - title: Anpassen von Volumenleistungsberichten
-    url: "/reporting/concept_customize_volume_performance_reports.html"
     entries:
     - title: Erstellen Sie einen Bericht, um Volumes mit einer großen Menge kalter
         Daten auf einem Aggregat anzuzeigen, das nicht FabricPool-fähig ist.
       url: "/reporting/task_create_report_for_volumes_with_high_amount_of_cold_data.html"
 - title: Beispiel für Microsoft Excel-Berichte
-  url: "/reporting/concept_sample_microsoft_excel_reports.html"
   entries:
+  - title: Grundlegendes zu Beispielberichten in Microsoft Excel
+    url: "/reporting/concept_sample_microsoft_excel_reports.html"
   - title: Erstellen Sie einen Bericht, um eine Tabelle und ein Diagramm zur Gesamtkapazität
       anzuzeigen
     url: "/reporting/task_create_report_to_view_capacity.html"

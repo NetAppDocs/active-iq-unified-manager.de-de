@@ -2,7 +2,7 @@
 permalink: health-checker/task_view_details_about_nfs_shares.html 
 sidebar: sidebar 
 keywords: view, details, nfs shares 
-summary: 'Sie können Details zu allen NFS-Freigaben anzeigen, z. B. ihren Status, den dem Volume zugeordneten Pfad (FlexGroup Volumes oder FlexVol Volumes), die Zugriffsebenen von Clients auf die NFS-Shares und die für die exportierten Volumes definierte Exportrichtlinie. Nutzung der Ansicht „Systemzustand“: Alle NFS-Freigaben anzeigen, um alle NFS-Freigaben auf allen überwachten Clustern zu sehen, und über die Seite „Storage VM/Health Details“ können Sie alle NFS-Freigaben auf einer bestimmten Storage Virtual Machine (SVM) anzeigen.' 
+summary: Auf der Seite „Integrität“ werden in der Ansicht „Alle NFS-Freigaben“ Details zu NFS-Freigaben angezeigt, z. B. Status, Volume-Pfad, Client-Zugriffsebenen und Exportrichtlinie. 
 ---
 = Details zu NFS-Freigaben in Active IQ Unified Manager
 :allow-uri-read: 

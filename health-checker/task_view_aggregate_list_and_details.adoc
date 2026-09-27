@@ -2,7 +2,7 @@
 permalink: health-checker/task_view_aggregate_list_and_details.html 
 sidebar: sidebar 
 keywords: view, aggregate list, details 
-summary: 'Aus der Ansicht „Systemzustand“: Alle Aggregate können Sie Ihr Inventar an Aggregaten überwachen. Die Kapazität: Alle Aggregatansicht ermöglicht es Ihnen, Informationen über Kapazität und Auslastung von Aggregaten in allen Clustern anzuzeigen.' 
+summary: Die Ansicht „Alle Aggregate“ auf der Seite „Integrität“ dient zur Überwachung Ihres Aggregatbestands, und die Ansicht „Alle Aggregate“ auf der Seite „Kapazität“ bietet Details zu Kapazität und Auslastung. 
 ---
 = Die Aggregatliste und Details sind in Active IQ Unified Manager verfügbar
 :allow-uri-read: 
@@ -37,5 +37,5 @@ Sie können die vollständigen Details auch anzeigen, indem Sie im Dialogfeld mi
 
 * link:../health-checker/reference_health_aggregate_details_page.html["Registerkarte „Aggregate/Health Details“"]
 * link:../performance-checker/performance-view-all.html#performance-all-aggregates-view["Performance: Ansicht aller Aggregate"]
-* link:../reporting/concept_customize_aggregate_capacity_reports.html["Anpassung der Berichte zur Aggregatskapazität"]
+* link:../reporting/task_create_report_to_view_aggregates_reaching_full_capacity.html["Erstellung eines Berichts zum Anzeigen von Aggregaten, die in Active IQ Unified Manager ihre volle Kapazität erreichen"]
 
