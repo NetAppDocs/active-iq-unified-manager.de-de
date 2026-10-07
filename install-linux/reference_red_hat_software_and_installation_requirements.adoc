@@ -11,7 +11,7 @@ summary: Das Linux-System, auf dem Unified Manager installiert wird, erfordert b
 
 
 [role="lead"]
-Das Linux-System, auf dem Unified Manager installiert wird, erfordert bestimmte Versionen des Betriebssystems und unterstützende Software.
+Das Linux-System, auf dem Sie Unified Manager installieren, erfordert bestimmte Versionen des Betriebssystems und der unterstützenden Software. Bei Linux-Installationen kann Unified Manager nur auf einem Red Hat Enterprise Linux Betriebssystem installiert werden. Es kann auf keinem anderen Betriebssystem installiert werden.
 
 
 
@@ -20,14 +20,14 @@ Das Linux-System, auf dem Unified Manager installiert wird, erfordert bestimmte 
 
 Das Linux-System muss die folgenden Versionen des Betriebssystems und die unterstützende Software installiert haben:
 
-* Red Hat Enterprise Linux Versionen 8.x und 9.6, basierend auf der x86_64-Architektur.
+* Red Hat Enterprise Linux Versionen 8.x und 9.6, basierend auf der x86_64-Architektur
 
 
 In der Interoperabilitäts-Matrix finden Sie die vollständige und aktuelle Liste der unterstützten Red hat Enterprise Linux-Versionen.
 
-http://mysupport.netapp.com/matrix["mysupport.netapp.com/matrix"^]
+https://mysupport.netapp.com/matrix["NetApp Interoperabilitätsmatrix"^]
 
-Der Server sollte dediziert sein für die Ausführung von Unified Manager. Auf dem Server sollten keine anderen Anwendungen installiert sein. Es ist möglich, dass Vulnerability Scanner wie Qualys auf Ihrem Linux-System aufgrund von Unternehmensvorschriften installiert ist. Sie sollten den Schwachstellenscanner vor der Installation von Unified Manager deaktivieren, um einen Fehler bei der Installation zu verhindern.
+Der Server sollte ausschließlich für den Betrieb von Unified Manager reserviert sein. Es dürfen keine weiteren Anwendungen auf dem Server installiert werden. In manchen Umgebungen ist aufgrund von Unternehmensrichtlinien ein Schwachstellenscanner wie Qualys auf dem Linux-System installiert. Um Installationsfehler zu vermeiden, sollte dieser Schwachstellenscanner vor der Installation von Unified Manager deaktiviert werden.
 
 
 NOTE: Schwachstellenscanner (wie Qualys) können zu einer hohen CPU-Auslastung führen, wenn die virtuelle Maschine (VM) intern (wo Unified Manager und der Schwachstellenscanner auf derselben VM installiert sind) oder extern gescannt wird (wobei Unified Manager und der Schwachstellenscanner auf zwei verschiedenen Servern installiert sind und der Schwachstellenscanner die VM scannt, auf der Unified Manager installiert ist). Dieses Problem führt häufig dazu, dass die VM nicht reagiert und die Unified Manager-Services beeinträchtigt werden. Daher empfiehlt NetApp, die Schwachstellenprüfung in der VM zu deaktivieren, auf der Unified Manager installiert ist. Wenn keine Option zum Deaktivieren des Scanners besteht, scannen Sie die VM außerhalb der Geschäftszeiten und starten Sie die Services nach Abschluss des Scanvorgangs neu.
